@@ -1,0 +1,284 @@
+Make,Model,Trim,Year,Fuel type,Body type,Color,City,Transmission,Contact,Price(EUR),Mileage(km),kW,Emission standard,Country
+Audi,A8,3.0 55 TFSI Quattro,2018,Petrol,Sedan,Black,Bruck An Der Mur,Automatic,https://www.zweispurig.at/audi-a8-gebrauchtwagen-benzin-schwarz-steiermark/details-1224347,52490,114500,253.0,6,Austria
+Volkswagen,Taigo,1.0 tsi,2023,Petrol,Crossover,Black,Bruck An Der Mur,Automatic,https://www.dasweltauto.at/vehicle/40907574,27990,22000,82.0,6,Austria
+Mazda,Cx-60,3.3,2023,Hybrid,Suv,Blue,Wels,Automatic,https://www.zweispurig.at/mazda-cx-60-gebrauchtwagen-diesel-blau-oberoesterreich/details-1181558,49980,16500,149.0,6,Austria
+Mercedes Benz,E-Class,430,2016,Diesel,Wagon,Gray,Bruck An Der Mur,Automatic,https://www.dasweltauto.at/vehicle/40907565,19990,174620,101.0,6,Austria
+Ford,Mustang,5.0,2020,Petrol,Coupe,Red,Salzburg,Automatic,https://www.zweispurig.at/ford-mustang-gebrauchtwagen-benzin-rot-salzburg/details-1187847,56890,25800,335.0,6,Austria
+Alfa Romeo,Tonale,1.3,2024,Hybrid,Crossover,Red,Amstetten,Automatic,https://www.zweispurig.at/alfa-romeo-tonale-vorfuehrwagen-elektrobenzin-hybrid-rot-niederoesterreich/details-1230352,59940,10,208.0,6,Austria
+Audi,Q5,2.0 40 TDI quattro,2023,Diesel,Suv,Black,Eisenstadt,Automatic,https://www.dasweltauto.at/vehicle/20311634,74900,12600,152.0,6,Austria
+Lexus,Nx,300h,2021,Petrol,Suv,Black,Enns,Automatic,https://www.zweispurig.at/lexus-nx-gebrauchtwagen-benzin-schwarz-steiermark/details-1233645,40500,27726,146.0,6,Austria
+Mclaren,600lt,3.8 spider,2022,Petrol,Convertible,Silver,Wiener Neustadt,Automatic,https://www.zweispurig.at/mclaren-600lt-gebrauchtwagen-benzin-silber-niederoesterreich/details-1240319,399870,39,447.0,6,Austria
+Audi,A5,2.0 tfsi,2010,Petrol,Convertible,Black,Leoben,Automatic,https://www.zweispurig.at/audi-a5-gebrauchtwagen-benzin-schwarz-steiermark/details-1240337,17900,83000,134.0,5,Austria
+Alfa Romeo,Stelvio,2.0,2017,Diesel,Crossover,Gray,Amstetten,Automatic,https://www.zweispurig.at/alfa-romeo-stelvio-gebrauchtwagen-diesel-grau-niederoesterreich/details-1230343,28940,105323,155.0,6,Austria
+Opel,Mokka,1.7,2015,Diesel,Crossover,White,Braunau Am Inn,Manual,https://www.zweispurig.at/opel-mokka-gebrauchtwagen-diesel-weiss-oberoesterreich/details-1167057,12499,77000,97.0,6,Austria
+Mercedes Benz,C-Class,180,2021,Diesel,Wagon,Red,Eisenstadt,Automatic,https://www.dasweltauto.at/vehicle/20311602,29900,76910,90.0,6,Austria
+Land Rover,Evoque,2.0,2017,Diesel,Suv,Gray,Graz,Automatic,https://www.zweispurig.at/land-rover-range-rover-evoque-gebrauchtwagen-diesel-grau-steiermark/details-1245432,27590,102900,134.0,6,Austria
+Ford,S-Max,2.0 EcoBlue,2020,Diesel,Mpv,White,Telfs,Manual,https://www.zweispurig.at/ford-s-max-gebrauchtwagen-diesel-weiss-tirol/details-1189651,24987,108200,111.0,6,Austria
+Audi,A6,2.7,2009,Diesel,Sedan,Silver,Salzburg,Manual,https://www.zweispurig.at/audi-a6-gebrauchtwagen-diesel-silber-salzburg/details-1197597,8900,250000,141.0,5,Austria
+Volkswagen,Transporter,2.0,2023,Diesel,Van,Black,Graz,Automatic,https://www.dasweltauto.at/vehicle/40417542,83900,56067,152.0,6,Austria
+Bmw,X5,xDrive30d,2022,Diesel,Suv,Black,Leoben,Automatic,https://www.zweispurig.at/bmw-x5-gebrauchtwagen-diesel-schwarz-steiermark/details-1238156,65990,99800,213.0,6,Austria
+Volkswagen,Touran,1.5 tsi,2018,Petrol,Mpv,Gray,Steyr,Automatic,https://www.dasweltauto.at/vehicle/31306893,24490,88713,111.0,6,Austria
+Ford,Ecosport,1.0,2020,Petrol,Suv,White,Hollabrunn,Manual,https://www.zweispurig.at/ford-ecosport-gebrauchtwagen-benzin-weiss-niederoesterreich/details-1220094,16990,29975,93.0,6,Austria
+Porsche,Cayenne,3.0 diesel,2011,Diesel,Suv,Black,Braunau Am Inn,Automatic,https://www.zweispurig.at/porsche-cayenne-gebrauchtwagen-diesel-schwarz-oberoesterreich/details-1217220,25999,256000,182.0,5,Austria
+Audi,A6,3.0 TDI Quattro TipTronic,2019,Diesel,Sedan,Gray,Leoben,Automatic,https://www.zweispurig.at/audi-a6-gebrauchtwagen-diesel-grau-steiermark/details-1252668,39890,86200,213.0,6,Austria
+Volkswagen,Passat,2.0 TDI SCR,2019,Diesel,Wagon,Silver,Wolfsberg,Manual,https://www.dasweltauto.at/vehicle/62100583,18790,94187,111.0,6,Austria
+Volkswagen,Passat,2.0 TDI SCR,2019,Diesel,Wagon,Black,Wels,Automatic,https://www.dasweltauto.at/vehicle/4633600081,18990,77167,111.0,6,Austria
+Alfa Romeo,Giulietta,1.4,2012,Petrol,Sedan,Red,Linz,Automatic,https://www.zweispurig.at/alfa-romeo-giulietta-gebrauchtwagen-benzin-rot-oberoesterreich/details-1205801,7990,166300,126.0,5,Austria
+Bmw,X3,D,2005,Diesel,Suv,Silver,Linz,Automatic,https://www.zweispurig.at/bmw-x3-gebrauchtwagen-diesel-silber-oberoesterreich/details-1220739,9900,179000,162.0,4,Austria
+Audi,A5,2.0 35 TDI S tronic,2020,Diesel,Sedan,Black,Steyr,Automatic,https://www.zweispurig.at/audi-a5-gebrauchtwagen-diesel-schwarz-oberoesterreich/details-1195112,32999,120000,121.0,6,Austria
+Audi,Tt,2.0 45 TFSI quattro,2019,Petrol,Convertible,Black,Salzburg,Automatic,https://www.zweispurig.at/audi-tt-gebrauchtwagen-benzin-schwarz-salzburg/details-1211798,44890,15142,182.0,6,Austria
+Ford,Mondeo,2.0 TDCi,2018,Diesel,Wagon,Gray,Steyr,Automatic,https://www.gebrauchtwagen-markt.at/autoboerse/510258-ford-mondeo-business-plus-tdci-aut-led-navi.html,17850,107000,111.0,6,Austria
+Ford,Mondeo,2.0 TDCi,2018,Diesel,Wagon,White,Steyr,Automatic,https://www.gebrauchtwagen-markt.at/autoboerse/510214-ford-mondeo-traveller-tdci-aut-led-navi-pdc.html,17850,105000,111.0,6,Austria
+Ford,Mondeo,2.0 TDCi,2018,Diesel,Wagon,Gray,Salzburg,Manual,https://www.zweispurig.at/ford-mondeo-gebrauchtwagen-diesel-grau-salzburg/details-1194601,20900,102450,134.0,6,Austria
+Hyundai,Tucson,1.6 CRDi,2023,Diesel,Suv,Gray,Rankweil,Automatic,https://www.zweispurig.at/hyundai-tucson-tageszulassung-diesel-grau-vorarlberg/details-1217510,48450,62,101.0,6,Austria
+Škoda,Octavia,2.0,2024,Diesel,Wagon,Gray,Villach,Automatic,https://www.dasweltauto.at/vehicle/628005938,43990,100,111.0,6,Austria
+Volkswagen,Tiguan,2.0 TDI 4Motion,2023,Diesel,Crossover,Gray,Wien,Automatic,https://www.dasweltauto.at/vehicle/15053831,49990,16053,111.0,6,Austria
+Volkswagen,Sharan,2.0 TDI,2015,Diesel,Van,Brown,Schwechat,Automatic,https://www.zweispurig.at/vw-sharan-gebrauchtwagen-diesel-braun-niederoesterreich/details-1235741,18999,180000,104.0,6,Austria
+Volkswagen,Sharan,2.0 TDI,2015,Diesel,Van,Black,Salzburg,Automatic,https://www.zweispurig.at/vw-sharan-gebrauchtwagen-diesel-schwarz-salzburg/details-1191700,18450,159000,111.0,6,Austria
+Volkswagen,Transporter,2.0,2020,Diesel,Van,Silver,Hall In Tirol,Manual,https://www.zweispurig.at/vw-transporter-t6-gebrauchtwagen-diesel-silber-tirol/details-1238630,41990,120924,111.0,6,Austria
+Jeep,Compass,1.6,2023,Diesel,Crossover,Green,Brunn Am Gebirge,Automatic,https://www.zweispurig.at/jeep-compass-vorfuehrwagen-benzin-gruen-niederoesterreich/details-1195268,41990,23758,97.0,6,Austria
+Honda,Hr-V,1.5 VTEC Turbo,2020,Petrol,Crossover,Gray,Wels,Automatic,https://www.zweispurig.at/honda-hr-v-gebrauchtwagen-benzin-grau-oberoesterreich/details-1243911,23990,20000,135.0,6,Austria
+Dacia,Lodgy,1.2 TCe,2021,Petrol,Mpv,White,Wien,Manual,https://www.zweispurig.at/dacia-lodgy-gebrauchtwagen-benzin-weiss-wien/details-1239153,14880,15537,97.0,6,Austria
+Aston Martin,V12 Vantage,6.0 V12,2023,Petrol,Convertible,Green,Wiener Neustadt,Automatic,https://www.zweispurig.at/aston-martin-vantage-gebrauchtwagen-benzin-gruen-niederoesterreich/details-1242097,609870,1350,521.0,6,Austria
+Volkswagen,Sharan,2.0 TDI,2016,Diesel,Van,Silver,Linz,Manual,https://www.dasweltauto.at/vehicle/35002711,22690,123924,111.0,6,Austria
+Audi,A8,3.0 TDI,2015,Diesel,Sedan,Gray,Salzburg,Automatic,https://www.zweispurig.at/audi-a8-gebrauchtwagen-diesel-grau-salzburg/details-1238799,38800,172000,195.0,6,Austria
+Ford,Transit Custom,2.0,2021,Diesel,Van,Gray,Wien,Automatic,https://www.zweispurig.at/ford-transit-custom-gebrauchtwagen-diesel-grau-wien/details-1221308,69900,22000,137.0,6,Austria
+Hyundai,I10,1.2,2023,Petrol,Mini,Red,Linz,Automatic,https://www.gebrauchtwagen-markt.at/autoboerse/511475-hyundai-i10-i-line-plusautomatiknavilinkwinterpaket.html,17690,1,62.0,6,Austria
+Volvo,Xc40,2.0 D3 AWD,2020,Diesel,Crossover,Gray,Innsbruck,Automatic,https://www.zweispurig.at/volvo-xc40-gebrauchtwagen-diesel-grau-tirol/details-1246487,34900,73350,111.0,6,Austria
+Volvo,Xc40,2.0 D4 AWD,2020,Diesel,Crossover,Red,Wels,Automatic,https://www.zweispurig.at/volvo-xc40-gebrauchtwagen-diesel-rot-oberoesterreich/details-1171401,35990,69000,141.0,6,Austria
+Mclaren,570gt,3.8,2017,Petrol,Coupe,Orange,Salzburg,Automatic,https://www.zweispurig.at/mclaren-570-gt-gebrauchtwagen-benzin-orange-salzburg/details-1238771,199999,33000,425.0,6,Austria
+Škoda,Kodiaq,2.0 4x4 dsg tdi,2023,Diesel,Suv,Gray,Linz,Automatic,https://www.dasweltauto.at/vehicle/30102130,56840,6213,149.0,6,Austria
+Maserati,Grecale,2.0 GT,2022,Hybrid,Suv,Blue,Wien,Automatic,https://www.zweispurig.at/maserati-grecale-gebrauchtwagen-benzin-blau-wien/details-752548,99900,18400,224.0,6,Austria
+Volkswagen,Sharan,2.0 TDI,2017,Diesel,Van,White,Steyr,Manual,https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-sharan-business-2-0-tdi-netto15-700-xenon-pdc-temp-diesel/c2d0a62e-c926-4702-91db-f93d9214079a,18840,169000,86.0,6,Austria
+Bmw,X3,xDrive20d,2012,Diesel,Suv,Black,Lienz,Automatic,https://www.zweispurig.at/bmw-x3-gebrauchtwagen-diesel-schwarz-tirol/details-1238595,15900,228000,137.0,5,Austria
+Jeep,Renegade,2.0,2015,Diesel,Crossover,White,Salzburg,Manual,https://www.zweispurig.at/jeep-renegade-gebrauchtwagen-diesel-weiss-salzburg/details-1180809,15900,160000,89.0,6,Austria
+Bmw,X3,30d,2012,Diesel,Suv,Black,Innsbruck,Automatic,https://www.zweispurig.at/bmw-x3-gebrauchtwagen-diesel-schwarz-tirol/details-1230667,19900,151903,192.0,5,Austria
+Bmw,X3,xDrive20d,2012,Diesel,Suv,Black,Lustenau,Automatic,https://www.zweispurig.at/bmw-x3-gebrauchtwagen-diesel-schwarz-vorarlberg/details-1213758,19950,148000,137.0,5,Austria
+Mercedes Benz,C-Class,220 CDI,2011,Diesel,Sedan,Black,Braunau Am Inn,Automatic,https://www.zweispurig.at/mercedes-benz-c-klasse-gebrauchtwagen-diesel-schwarz-oberoesterreich/details-1229590,11999,221000,126.0,5,Austria
+Hyundai,I30,1.0,2019,Petrol,Wagon,Brown,Linz,Manual,https://www.gebrauchtwagen-markt.at/autoboerse/511218-hyundai-i30-cw-t-gdi-level-3-plusnavirueckfahrkamera.html,15490,53200,89.0,6,Austria
+Bmw,Z4,i,2008,Petrol,Convertible,Black,Steyr,Manual,https://www.zweispurig.at/bmw-z4-gebrauchtwagen-benzin-schwarz-oberoesterreich/details-1223191,15499,109000,131.0,4,Austria
+Audi,A4 Allroad,2.0 TDI,2012,Diesel,Crossover,Brown,Salzburg,Manual,https://www.zweispurig.at/audi-a4-allroad-gebrauchtwagen-diesel-braun-salzburg/details-1218466,13990,214000,131.0,5,Austria
+Audi,Tt,2.0 tfsi,2007,Petrol,Coupe,Black,Salzburg,Manual,https://www.zweispurig.at/audi-tt-gebrauchtwagen-benzin-schwarz-salzburg/details-1240947,11500,151000,149.0,4,Austria
+Bmw,X3,xDrive20d,2013,Diesel,Suv,Black,Braunau Am Inn,Automatic,https://www.zweispurig.at/bmw-x3-gebrauchtwagen-diesel-schwarz-oberoesterreich/details-1221951,18499,170000,137.0,5,Austria
+Ford,Focus,1.5 TDCi,2017,Diesel,Wagon,Gray,Steyr,Manual,https://www.gebrauchtwagen-markt.at/autoboerse/511622-ford-focus-traveller-tdci-navi-kamera-winterpaket.html,10980,116000,78.0,6,Austria
+Bmw,3 Series,316d,2018,Diesel,Wagon,Blue,Steyr,Manual,https://www.gebrauchtwagen-markt.at/autoboerse/510894-bmw-316d-touring-advantage-led-navi-pdc.html,17450,109000,86.0,6,Austria
+Volkswagen,Golf,2.0 R,2019,Petrol,Sedan,Gray,Graz,Automatic,https://www.zweispurig.at/vw-golf-gebrauchtwagen-benzin-grau-steiermark/details-1237725,36950,60804,224.0,6,Austria
+Volkswagen,Golf,1.0 tsi,2019,Petrol,Sedan,White,Wien,Automatic,https://www.zweispurig.at/vw-golf-gebrauchtwagen-benzin-weiss-niederoesterreich/details-1195100,19900,32000,86.0,6,Austria
+Volkswagen,Transporter,2.0 TSI,2022,Petrol,Van,Black,Salzburg,Automatic,https://www.dasweltauto.at/vehicle/50045863,72990,13580,152.0,6,Austria
+Volkswagen,Sharan,2.0 TDI,2019,Diesel,Van,Silver,Wien,Automatic,https://www.zweispurig.at/vw-sharan-gebrauchtwagen-diesel-silber-niederoesterreich/details-1250641,19980,169057,111.0,6,Austria
+Hyundai,Tucson,1.6 CRDi,2024,Diesel,Suv,White,Innsbruck,Automatic,https://www.zweispurig.at/hyundai-tucson-vorfuehrwagen-diesel-weiss-tirol/details-1224367,45990,3000,101.0,6,Austria
+Land Rover,Evoque,2.0,2020,Diesel,Suv,Gray,Linz,Automatic,https://www.gebrauchtwagen-markt.at/autoboerse/510116-land-rover-range-rover-evoque-d180-s-head-up-sd-sth.html,42900,49280,133.0,6,Austria
+Volkswagen,Passat,2.0 TDI,2018,Diesel,Wagon,Silver,Graz,Manual,https://www.zweispurig.at/vw-passat-gebrauchtwagen-diesel-silber-steiermark/details-1238572,16990,93200,111.0,6,Austria
+Fiat,Tipo,1.4,2019,Petrol,Hatchback,Black,Wien,Manual,https://www.zweispurig.at/fiat-tipo-gebrauchtwagen-benzin-mehrere-erhaeltlich-wien/details-1210968,12880,88715,89.0,6,Austria
+Seat,Leon,1.5 tsi,2019,Petrol,Hatchback,Black,Leoben,Manual,https://www.dasweltauto.at/vehicle/4643400042,17990,20840,111.0,6,Austria
+Mercedes Benz,Glc-Class,300 4MATIC,2022,Diesel,Suv,Black,Schwaz,Automatic,https://www.zweispurig.at/mercedes-benz-glc-gebrauchtwagen-diesel-schwarz-tirol/details-1226799,76990,16224,182.0,6,Austria
+Bentley,Continental Gt,6.0,2018,Petrol,Coupe,White,Wiener Neustadt,Automatic,https://www.zweispurig.at/bentley-continental-gt-gebrauchtwagen-benzin-weiss-niederoesterreich/details-1252638,248670,12657,473.0,6,Austria
+Porsche,911,3.0,2020,Petrol,Coupe,Black,Innsbruck,Automatic,https://www.zweispurig.at/porsche-911-gebrauchtwagen-benzin-schwarz-tirol/details-1231262,184900,14428,335.0,6,Austria
+Mazda,6,2.2 cd,2013,Diesel,Wagon,Gray,Linz,Manual,https://www.zweispurig.at/mazda-mazda6-gebrauchtwagen-diesel-grau-oberoesterreich/details-1168286,9900,194550,111.0,5,Austria
+Mercedes Benz,E-Class,200 CGI BE,2009,Petrol,Sedan,Black,Villach,Automatic,https://www.zweispurig.at/mercedes-benz-e-klasse-gebrauchtwagen-benzin-schwarz-kaernten/details-1230488,15890,162000,137.0,5,Austria
+Ford,Focus,1.5 TDCi,2019,Diesel,Wagon,Orange,Salzburg,Manual,https://www.zweispurig.at/ford-focus-gebrauchtwagen-diesel-orange-salzburg/details-1194635,16900,111500,89.0,6,Austria
+Hyundai,I30,1.0,2024,Petrol,Wagon,Gray,Innsbruck,Manual,https://www.zweispurig.at/hyundai-i30-vorfuehrwagen-benzin-grau-tirol/details-1162997,26365,7,89.0,6,Austria
+Jeep,Compass,1.6,2022,Diesel,Crossover,Gray,Salzburg,Manual,https://www.zweispurig.at/jeep-compass-gebrauchtwagen-diesel-grau-salzburg/details-1242007,27990,46800,97.0,6,Austria
+Jeep,Compass,1.3,2022,Petrol,Crossover,Blue,Villach,Automatic,https://www.zweispurig.at/jeep-compass-jahreswagen-benzin-blau-kaernten/details-1228974,29990,34330,111.0,6,Austria
+Jeep,Compass,1.3,2022,Petrol,Crossover,Green,Villach,Automatic,https://www.zweispurig.at/jeep-compass-jahreswagen-benzin-gruen-kaernten/details-1228973,29990,32921,111.0,6,Austria
+Jeep,Compass,1.3,2022,Petrol,Crossover,Silver,Amstetten,Manual,https://www.zweispurig.at/jeep-compass-gebrauchtwagen-benzin-silber-niederoesterreich/details-1117661,31440,26220,97.0,6,Austria
+Audi,Q7,3.0 TDI,2012,Diesel,Suv,Gray,Wien,Automatic,https://www.bazar.at/d/01-suv/wie-1220/p-674065,21900,165000,152.0,5,Austria
+Peugeot,508,2.0 HDi,2019,Diesel,Sedan,White,Kufstein,Automatic,https://www.zweispurig.at/peugeot-508-gebrauchtwagen-diesel-weiss-tirol/details-1227659,29890,34000,134.0,6,Austria
+Bmw,X3,20d,2016,Diesel,Suv,White,Salzburg,Automatic,https://www.zweispurig.at/bmw-x3-gebrauchtwagen-diesel-weiss-salzburg/details-1223833,27890,146621,137.0,6,Austria
+Audi,A3,2.0 30 TDI,2022,Diesel,Sedan,White,Salzburg,Manual,https://www.zweispurig.at/audi-a3-gebrauchtwagen-diesel-weiss-salzburg/details-1251480,27900,27220,86.0,6,Austria
+Land Rover,Discovery,3.0,2018,Petrol,Suv,Black,Wiener Neustadt,Automatic,https://www.zweispurig.at/land-rover-discovery-gebrauchtwagen-benzin-schwarz-niederoesterreich/details-1228820,63990,60672,253.0,6,Austria
+Mercedes Benz,C-Class,180,2015,Diesel,Sedan,White,Wien,Automatic,https://www.zweispurig.at/mercedes-benz-c-klasse-gebrauchtwagen-diesel-weiss-wien/details-1220636,19890,118000,86.0,6,Austria
+Volkswagen,California,2.0,2022,Diesel,Van,White,Graz,Automatic,https://www.zweispurig.at/vw-california-gebrauchtwagen-diesel-weiss-steiermark/details-1237968,95950,18477,152.0,6,Austria
+Aston Martin,Dbx,4.0,2023,Petrol,Suv,White,Wiener Neustadt,Automatic,https://www.zweispurig.at/aston-martin-dbx-gebrauchtwagen-benzin-weiss-niederoesterreich/details-1252641,325870,9718,527.0,6,Austria
+Bmw,X3,xDrive20d,2017,Diesel,Suv,Gray,Ried Im Innkreis,Manual,https://www.zweispurig.at/bmw-x3-gebrauchtwagen-diesel-grau-oberoesterreich/details-1207288,24500,190000,141.0,6,Austria
+Toyota,Corolla,1.8,2023,Petrol,Sedan,Black,Wien,Automatic,https://www.zweispurig.at/toyota-corolla-vorfuehrwagen-benzin-schwarz-wien/details-1145708,29790,5555,73.0,6,Austria
+Opel,Grandland X,1.2,2020,Petrol,Suv,White,Eisenstadt,Automatic,https://www.dasweltauto.at/vehicle/20311637,22800,55000,97.0,6,Austria
+Mercedes Benz,Gle-Class,350,2020,Diesel,Suv,White,Salzburg,Automatic,https://www.zweispurig.at/mercedes-benz-gle-gebrauchtwagen-diesel-weiss-salzburg/details-1185830,71890,79681,202.0,6,Austria
+Volkswagen,Tiguan,2.0,2023,Diesel,Crossover,Gray,Wien,Automatic,https://www.dasweltauto.at/vehicle/15053647,47290,9626,111.0,6,Austria
+Hyundai,I30,1.4,2018,Petrol,Wagon,Silver,Linz,Manual,https://www.gebrauchtwagen.at/fahrzeuge/hyundai-i30-cw-1-4-mpi-start-stopp-edition-25-navi-rueckfah-benzin/ba54d3a8-fca4-4552-b339-cba755cbedf2,14190,67900,75.0,6,Austria
+Audi,Q2,1.0 30 TFSI,2023,Petrol,Crossover,White,Kufstein,Manual,https://www.dasweltauto.at/vehicle/70700238,28390,6575,82.0,6,Austria
+Bmw,X1,xDrive18d,2017,Diesel,Suv,Silver,Linz,Automatic,https://www.gebrauchtwagen-markt.at/autoboerse/510866-bmw-x1-xdrive18d-m-sporthead-up-display.html,23490,95600,111.0,6,Austria
+Land Rover,Range Rover Velar,2.0,2022,Diesel,Suv,Blue,Linz,Automatic,https://www.gebrauchtwagen.at/fahrzeuge/land-rover-range-rover-velar-d200-mhev-allrad-se-diesel/ca29fffd-9ecc-4edb-822a-507378917440,64900,24900,152.0,6,Austria
+Nissan,Micra,1.0,2019,Petrol,Mini,Blue,Stockerau,Manual,https://www.zweispurig.at/nissan-micra-gebrauchtwagen-benzin-blau-niederoesterreich/details-1246754,11890,14800,75.0,6,Austria
+Audi,Q7,3.0,2015,Diesel,Suv,Gray,Hallein,Automatic,https://www.zweispurig.at/audi-q7-gebrauchtwagen-diesel-grau-salzburg/details-1218591,39990,154500,202.0,6,Austria
+Škoda,Rapid,1.6 TDI,2013,Diesel,Sedan,Blue,Steyr,Manual,https://www.zweispurig.at/skoda-rapid-gebrauchtwagen-diesel-blau-oberoesterreich/details-1235449,8999,113000,78.0,5,Austria
+Ford,Ecosport,1.0,2019,Petrol,Suv,Gray,Hollabrunn,Manual,https://www.zweispurig.at/ford-ecosport-gebrauchtwagen-benzin-grau-niederoesterreich/details-1226181,15990,65566,93.0,6,Austria
+Suzuki,Vitara,1.4,2023,Petrol,Suv,Yellow,Telfs,Manual,https://www.zweispurig.at/suzuki-vitara-gebrauchtwagen-benzin-gelb-tirol/details-1226738,23900,15590,96.0,6,Austria
+Suzuki,Vitara,1.4,2023,Petrol,Suv,Gray,Telfs,Manual,https://www.zweispurig.at/suzuki-vitara-gebrauchtwagen-benzin-grau-tirol/details-1226729,23900,12450,96.0,6,Austria
+Mazda,Cx-30,2.0,2020,Petrol,Crossover,Red,Salzburg,Manual,https://www.zweispurig.at/mazda-cx-30-gebrauchtwagen-benzin-rot-salzburg/details-1238807,21990,27000,90.0,6,Austria
+Peugeot,5008,1.2 puretech,2020,Petrol,Mpv,Black,Graz,Automatic,https://www.zweispurig.at/peugeot-5008-gebrauchtwagen-benzin-schwarz-steiermark/details-1192662,29900,35000,97.0,6,Austria
+Mercedes Benz,Amg Gt,3.0 53,2019,Petrol,Sedan,Blue,Wien,Semi Automatic,https://www.zweispurig.at/mercedes-benz-amg-gt-gebrauchtwagen-benzin-blau-wien/details-1199186,84220,150492,324.0,6,Austria
+Seat,Arona,1.0 tsi,2023,Petrol,Crossover,White,Klagenfurt,Automatic,https://www.dasweltauto.at/vehicle/60300026,28490,14783,82.0,6,Austria
+Mercedes Benz,C-Class,200 D,2018,Diesel,Wagon,Black,Salzburg,Automatic,https://www.zweispurig.at/mercedes-benz-c-klasse-gebrauchtwagen-diesel-schwarz-salzburg/details-1223918,22990,134315,111.0,6,Austria
+Seat,Leon,2.0 TSI,2024,Petrol,Hatchback,Gray,Wien,Automatic,https://www.dasweltauto.at/vehicle/11126097,38220,258,141.0,6,Austria
+Seat,Leon,1.5 tsi,2024,Petrol,Hatchback,Gray,Wien,Manual,https://www.dasweltauto.at/vehicle/13125589,30220,258,97.0,6,Austria
+Seat,Leon,1.5 tsi,2024,Petrol,Hatchback,Gray,Wien,Manual,https://www.dasweltauto.at/vehicle/11126089,29720,258,97.0,6,Austria
+Seat,Leon,1.5 tsi,2024,Petrol,Hatchback,Red,Wien,Manual,https://www.dasweltauto.at/vehicle/13125592,29420,258,97.0,6,Austria
+Seat,Leon,1.5 tsi,2024,Petrol,Hatchback,Gray,Wien,Manual,https://www.dasweltauto.at/vehicle/13125588,28220,258,97.0,6,Austria
+Seat,Leon,1.5 eTSI,2024,Petrol,Hatchback,White,Eisenstadt,Automatic,https://www.dasweltauto.at/vehicle/20311588,34500,201,111.0,6,Austria
+Seat,Leon,1.0 tsi,2024,Petrol,Hatchback,Black,Bruck An Der Mur,Manual,https://www.zweispurig.at/seat-leon-vorfuehrwagen-benzin-schwarz-steiermark/details-1191786,26690,200,82.0,6,Austria
+Seat,Leon,1.0 tsi,2024,Petrol,Hatchback,Black,Bruck An Der Mur,Manual,https://www.zweispurig.at/seat-leon-vorfuehrwagen-benzin-schwarz-steiermark/details-1207912,27990,100,82.0,6,Austria
+Seat,Leon,2.0,2023,Diesel,Hatchback,Black,Wien,Manual,https://www.dasweltauto.at/vehicle/15054343,32215,201,86.0,6,Austria
+Seat,Leon,1.5 tsi,2023,Petrol,Hatchback,Silver,Wien,Manual,https://www.dasweltauto.at/vehicle/15054358,28170,201,97.0,6,Austria
+Seat,Leon,1.0 eTSI,2023,Petrol,Hatchback,White,Bruck An Der Mur,Automatic,https://www.zweispurig.at/seat-leon-tageszulassung-benzin-weiss-steiermark/details-1191780,34300,200,82.0,6,Austria
+Seat,Leon,2.0,2023,Diesel,Hatchback,Gray,Klagenfurt,Automatic,https://www.dasweltauto.at/vehicle/569505650,43481,100,111.0,6,Austria
+Seat,Leon,1.5 tsi,2023,Petrol,Hatchback,Black,Klagenfurt,Manual,https://www.dasweltauto.at/vehicle/569505625,31490,100,97.0,6,Austria
+Seat,Leon,1.0 tsi,2023,Petrol,Hatchback,White,Klagenfurt,Manual,https://www.dasweltauto.at/vehicle/569505664,27590,100,82.0,6,Austria
+Seat,Leon,1.0 tsi,2023,Petrol,Hatchback,Black,Klagenfurt,Manual,https://www.dasweltauto.at/vehicle/569505662,25490,100,82.0,6,Austria
+Citroen,C4 Picasso,1.6,2020,Diesel,Mpv,Gray,Wiener Neustadt,Automatic,https://www.zweispurig.at/citroen-c4-picasso-gebrauchtwagen-diesel-grau-niederoesterreich/details-1204268,28490,20090,97.0,6,Austria
+Mitsubishi,Outlander,2.3 did,2015,Diesel,Suv,Black,Wien,Automatic,https://www.zweispurig.at/mitsubishi-outlander-gebrauchtwagen-diesel-mehrere-erhaeltlich-wien/details-1239156,19660,83855,111.0,6,Austria
+Audi,A6,2.0 TDI Ultra,2017,Diesel,Wagon,Black,Steyr,Automatic,https://www.dasweltauto.at/vehicle/31306825,28990,50076,141.0,6,Austria
+Mercedes Benz,Glc-Class,43 AMG 4MATIC,2021,Petrol,Suv,Blue,Lustenau,Automatic,https://www.zweispurig.at/mercedes-benz-glc-gebrauchtwagen-benzin-blau-vorarlberg/details-1230541,59990,49500,290.0,6,Austria
+Mercedes Benz,Glc-Class,300 4MATIC,2021,Petrol,Suv,White,Stockerau,Automatic,https://www.zweispurig.at/mercedes-benz-glc-gebrauchtwagen-benzin-weiss-niederoesterreich/details-1246751,54900,21000,192.0,6,Austria
+Mercedes Benz,E-Class,63 AMG 4MATIC+,2018,Petrol,Wagon,Gray,Salzburg,Automatic,https://www.zweispurig.at/mercedes-benz-e-klasse-gebrauchtwagen-benzin-grau-salzburg/details-1233664,84890,87751,425.0,6,Austria
+Mercedes Benz,E-Class,63 AMG,2018,Petrol,Coupe,Black,Schwaz,Automatic,https://www.zweispurig.at/mercedes-benz-e-klasse-gebrauchtwagen-benzin-schwarz-tirol/details-1196217,41900,48000,137.0,6,Austria
+Mercedes Benz,C-Class,180,2019,Diesel,Wagon,Black,Wien,Automatic,https://www.zweispurig.at/mercedes-benz-c-klasse-gebrauchtwagen-diesel-schwarz-wien/details-1247392,19490,123400,90.0,6,Austria
+Mercedes Benz,C-Class,180,2019,Diesel,Sedan,Blue,Lienz,Manual,https://www.zweispurig.at/mercedes-benz-c-klasse-gebrauchtwagen-diesel-blau-tirol/details-1223388,23900,109000,90.0,6,Austria
+Audi,A4,2.0 35 TDI S tronic,2021,Diesel,Wagon,Black,Wien,Automatic,https://www.zweispurig.at/audi-a4-gebrauchtwagen-diesel-schwarz-niederoesterreich/details-1243987,18500,192000,121.0,6,Austria
+Porsche,Macan,3.0 S Diesel,2017,Diesel,Suv,Gray,Kufstein,Automatic,https://www.zweispurig.at/porsche-macan-gebrauchtwagen-diesel-grau-tirol/details-1241584,44900,95000,192.0,6,Austria
+Volvo,S60,2.0 T5 AWD,2019,Petrol,Sedan,White,Innsbruck,Automatic,https://www.zweispurig.at/volvo-s60-gebrauchtwagen-benzin-weiss-tirol/details-1234110,39990,38587,186.0,6,Austria
+Volkswagen,Touran,2.0,2015,Diesel,Mpv,White,Salzburg,Manual,https://www.zweispurig.at/vw-touran-gebrauchtwagen-diesel-weiss-salzburg/details-1176309,18490,140000,111.0,6,Austria
+Fiat,Talento,1.6 Multijet L2H1,2017,Diesel,Van,Gray,Spittal An Der Drau,Manual,https://www.zweispurig.at/fiat-talento-gebrauchtwagen-diesel-grau-kaernten/details-1218059,16980,123000,89.0,6,Austria
+Jaguar,F-Type,2.0 P300,2018,Petrol,Convertible,Gray,Wiener Neustadt,Semi Automatic,https://www.zweispurig.at/jaguar-f-type-gebrauchtwagen-benzin-grau-niederoesterreich/details-1185859,47999,75000,224.0,6,Austria
+Seat,Leon,2.0,2024,Diesel,Hatchback,Black,Rankweil,Automatic,https://www.dasweltauto.at/vehicle/81725320,38490,5000,111.0,6,Austria
+Seat,Leon,1.0 eTSI,2024,Petrol,Hatchback,Gray,Graz,Automatic,https://www.zweispurig.at/seat-leon-gebrauchtwagen-benzin-grau-steiermark/details-1236885,34390,5000,82.0,6,Austria
+Seat,Leon,1.0 tsi,2023,Petrol,Hatchback,Red,Bruck An Der Mur,Manual,https://www.zweispurig.at/seat-leon-gebrauchtwagen-benzin-rot-steiermark/details-1219314,23790,6700,67.0,6,Austria
+Seat,Leon,1.5 tsi,2023,Petrol,Hatchback,Gray,Krems,Manual,https://www.dasweltauto.at/vehicle/538803679,29890,4074,97.0,6,Austria
+Porsche,Taycan,Turbo,2023,Electric,Sedan,Black,Wien,Automatic,https://www.dasweltauto.at/vehicle/15054475,159990,6561,466.0,6,Austria
+Mercedes Benz,C-Class,63 AMG,2019,Petrol,Sedan,White,Braunau Am Inn,Automatic,https://www.zweispurig.at/mercedes-benz-c-klasse-gebrauchtwagen-benzin-weiss-oberoesterreich/details-1217988,79999,37000,354.0,6,Austria
+Renault,Trafic,1.6 dci,2019,Diesel,Van,White,Spittal An Der Drau,Manual,https://www.zweispurig.at/renault-trafic-gebrauchtwagen-diesel-weiss-kaernten/details-1240203,20970,83500,89.0,6,Austria
+Bmw,X1,20d,2016,Diesel,Suv,Silver,Linz,Automatic,https://www.gebrauchtwagen-markt.at/autoboerse/510865-bmw-x1-xdrive-20d-advantagenaviled.html,24590,57900,141.0,6,Austria
+Audi,A5,3.0,2018,Diesel,Sedan,Black,Lienz,Automatic,https://www.zweispurig.at/audi-a5-gebrauchtwagen-diesel-schwarz-tirol/details-1202912,37900,88000,213.0,6,Austria
+Volkswagen,Touran,2.0 TDI,2018,Diesel,Mpv,White,Steyr,Manual,https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-touran-comfort-2-0-tdi-led-navi-winterpaket-diesel/25ec9853-5e3f-4fbc-ad47-0f5220da2686,18850,150000,111.0,6,Austria
+Citroen,C4 Cactus,1.6,2020,Diesel,Hatchback,White,Steyr,Manual,https://www.gebrauchtwagen.at/fahrzeuge/citroen-c4-cactus-bluehdi-s-s-navi-pdc-bluetooth-diesel/45e2034f-3784-49c3-ae85-c98c6a3a898d,14750,114000,76.0,6,Austria
+Volkswagen,Golf,1.5 tsi,2017,Petrol,Sedan,Silver,Dornbirn,Manual,https://www.dasweltauto.at/vehicle/81925056,15994,95600,111.0,6,Austria
+Ford,Ecosport,1.0,2018,Petrol,Suv,Silver,Steyr,Manual,https://www.gebrauchtwagen-markt.at/autoboerse/510694-ford-ecosport-titanium-navi-erstbesitz.html,13980,62000,93.0,6,Austria
+Land Rover,Evoque,2.0,2019,Diesel,Suv,White,Lienz,Automatic,https://www.zweispurig.at/land-rover-range-rover-evoque-gebrauchtwagen-diesel-weiss-tirol/details-1230498,33900,65000,111.0,6,Austria
+Toyota,C-Hr,2.0,2024,Petrol,Suv,Silver,Wien,Automatic,https://www.zweispurig.at/toyota-c-hr-vorfuehrwagen-benzin-silber-wien/details-1238286,44390,3333,113.0,6,Austria
+Renault,Trafic,1.6,2017,Diesel,Van,White,Spittal An Der Drau,Manual,https://www.zweispurig.at/renault-trafic-gebrauchtwagen-diesel-weiss-kaernten/details-1171118,18990,120300,90.0,6,Austria
+Volkswagen,Touran,2.0,2019,Diesel,Mpv,Gray,Perchtoldsdorf,Automatic,https://www.dasweltauto.at/vehicle/16657214,17590,180950,86.0,6,Austria
+Opel,Grandland X,1.5,2023,Diesel,Suv,Black,Zwettl,Automatic,https://www.zweispurig.at/opel-grandland-x-jahreswagen-diesel-schwarz-niederoesterreich/details-1230598,32490,10,97.0,6,Austria
+Škoda,Octavia,2.0,2016,Diesel,Sedan,White,Braunau Am Inn,Automatic,https://www.zweispurig.at/skoda-octavia-gebrauchtwagen-diesel-weiss-oberoesterreich/details-1249562,14999,186000,111.0,6,Austria
+Bmw,X5,xDrive35d,2008,Diesel,Suv,White,Wien,Automatic,https://www.zweispurig.at/bmw-x5-gebrauchtwagen-diesel-weiss-wien/details-1236279,17890,197000,213.0,4,Austria
+Citroen,C4 Spacetourer,1.6 BlueHDI,2019,Diesel,Mpv,White,Steyr,Manual,https://www.gebrauchtwagen-markt.at/autoboerse/511146-citroen-c4-spacetourer-bluehdi-led-navi-kamera-acc.html,15850,167000,97.0,6,Austria
+Seat,Leon,1.4 TSI,2017,Petrol,Hatchback,Red,Steyr,Manual,https://www.zweispurig.at/seat-leon-gebrauchtwagen-benzin-rot-oberoesterreich/details-1223194,16999,85000,111.0,6,Austria
+Opel,Cascada,1.4 ecotec,2014,Petrol,Convertible,Brown,Stockerau,Manual,https://www.zweispurig.at/opel-cascada-gebrauchtwagen-benzin-braun-niederoesterreich/details-1246757,11990,140000,104.0,6,Austria
+Seat,Ateca,2.0,2024,Diesel,Suv,Green,Graz,Automatic,https://www.zweispurig.at/seat-ateca-gebrauchtwagen-diesel-gruen-steiermark/details-1249785,43990,559,111.0,6,Austria
+Seat,Ateca,2.0 TSI,2024,Petrol,Suv,Gray,Wien,Automatic,https://www.dasweltauto.at/vehicle/15054981,45490,201,141.0,6,Austria
+Seat,Ateca,1.0 tsi,2023,Petrol,Suv,Black,Wien,Manual,https://www.dasweltauto.at/vehicle/11125867,28430,259,82.0,6,Austria
+Volkswagen,Tiguan,1.4 TSI,2016,Petrol,Crossover,Black,Wien,Manual,https://www.zweispurig.at/vw-tiguan-gebrauchtwagen-benzin-schwarz-wien/details-1250828,15990,129200,93.0,6,Austria
+Volkswagen,Tiguan,2.0 TDI 4Motion,2016,Diesel,Crossover,White,Graz,Automatic,https://www.dasweltauto.at/vehicle/40417803,22900,114000,111.0,6,Austria
+Volkswagen,Tiguan,2.0 TDI 4Motion,2016,Diesel,Crossover,Black,Lustenau,Automatic,https://www.zweispurig.at/vw-tiguan-gebrauchtwagen-diesel-schwarz-vorarlberg/details-1216625,25950,107000,111.0,6,Austria
+Volkswagen,Golf,1.6 TDI,2020,Diesel,Wagon,White,Steyr,Manual,https://www.gebrauchtwagen-markt.at/autoboerse/510624-vw-golf-variant-tdi-led-navi-acc-ahv-massage.html,16750,133000,86.0,6,Austria
+Renault,Trafic,1.6 dci,2018,Diesel,Van,Blue,Spittal An Der Drau,Manual,https://www.zweispurig.at/renault-trafic-gebrauchtwagen-diesel-blau-kaernten/details-1230453,17970,131300,89.0,6,Austria
+Renault,Trafic,1.6 dci,2018,Diesel,Van,White,Spittal An Der Drau,Manual,https://www.zweispurig.at/renault-trafic-gebrauchtwagen-diesel-weiss-kaernten/details-1213748,20970,114900,90.0,6,Austria
+Renault,Trafic,1.6 dci,2018,Diesel,Van,Blue,Spittal An Der Drau,Manual,https://www.zweispurig.at/renault-trafic-gebrauchtwagen-diesel-blau-kaernten/details-1230444,19980,106600,90.0,6,Austria
+Renault,Trafic,1.6 dci,2018,Diesel,Van,White,Spittal An Der Drau,Manual,https://www.zweispurig.at/renault-trafic-gebrauchtwagen-diesel-weiss-kaernten/details-1252512,18960,104300,90.0,6,Austria
+Renault,Trafic,1.6 dci,2018,Diesel,Van,White,Spittal An Der Drau,Manual,https://www.zweispurig.at/renault-trafic-gebrauchtwagen-diesel-weiss-kaernten/details-1240200,18960,103300,89.0,6,Austria
+Škoda,Karoq,2.0 4x4 scr tdi,2021,Diesel,Suv,Black,Telfs,Automatic,https://www.zweispurig.at/skoda-karoq-gebrauchtwagen-diesel-schwarz-tirol/details-1219681,34984,69990,141.0,6,Austria
+Volkswagen,Tiguan,1.5 tsi,2020,Petrol,Crossover,White,Amstetten,Automatic,https://www.dasweltauto.at/vehicle/20123021,31990,74652,111.0,6,Austria
+Mercedes Benz,Cls-Class,350,2011,Petrol,Sedan,Gray,Braunau Am Inn,Automatic,https://www.zweispurig.at/mercedes-benz-cls-gebrauchtwagen-benzin-grau-oberoesterreich/details-1201027,21499,238000,228.0,5,Austria
+Škoda,Octavia,2.0 rs tdi,2023,Diesel,Wagon,Gray,Innsbruck,Automatic,https://www.zweispurig.at/skoda-octavia-vorfuehrwagen-diesel-grau-tirol/details-1222541,50990,10000,149.0,6,Austria
+Škoda,Octavia,1.6,2017,Diesel,Wagon,Black,Ried Im Innkreis,Automatic,https://www.zweispurig.at/skoda-octavia-gebrauchtwagen-diesel-schwarz-oberoesterreich/details-1225001,14750,160000,86.0,6,Austria
+Volkswagen,Tiguan,2.0 TDI 4Motion,2017,Diesel,Crossover,Gray,Steyr,Automatic,https://www.dasweltauto.at/vehicle/634606992,23700,184730,178.0,6,Austria
+Ford,Transit Custom,2.0,2019,Diesel,Van,Silver,Spittal An Der Drau,Manual,https://www.zweispurig.at/ford-transit-custom-gebrauchtwagen-diesel-silber-kaernten/details-1200899,26970,88400,97.0,6,Austria
+Renault,Trafic,1.6 dci,2019,Diesel,Van,White,Spittal An Der Drau,Manual,https://www.zweispurig.at/renault-trafic-gebrauchtwagen-diesel-weiss-kaernten/details-1240290,17970,137600,89.0,6,Austria
+Renault,Trafic,1.6,2019,Diesel,Van,Black,Spittal An Der Drau,Manual,https://www.zweispurig.at/renault-trafic-gebrauchtwagen-diesel-schwarz-kaernten/details-1171139,20970,118400,90.0,6,Austria
+Renault,Trafic,1.6 dci,2019,Diesel,Van,Black,Spittal An Der Drau,Manual,https://www.zweispurig.at/renault-trafic-gebrauchtwagen-diesel-schwarz-kaernten/details-1212504,20970,112300,90.0,6,Austria
+Volkswagen,Touareg,3.0 TDI V6,2022,Diesel,Suv,Black,Vienna,Automatic,https://www.zweispurig.at/vw-touareg-gebrauchtwagen-diesel-schwarz-niederoesterreich/details-1206470,59790,56000,172.0,6,Austria
+Kia,Sportage,1.6 GDi,2016,Petrol,Crossover,Gray,Linz,Manual,https://www.gebrauchtwagen-markt.at/autoboerse/511481-kia-sportage-gdi-isg-silber.html,12990,163700,98.0,6,Austria
+Audi,A4,2.0 TDI quattro,2009,Diesel,Sedan,White,Steyr,Manual,https://www.zweispurig.at/audi-a4-gebrauchtwagen-diesel-weiss-oberoesterreich/details-1222150,7499,284000,106.0,5,Austria
+Mercedes Benz,Cls-Class,350 CDI,2012,Diesel,Sedan,Gray,Steyr,Automatic,https://www.zweispurig.at/mercedes-benz-cls-gebrauchtwagen-diesel-grau-oberoesterreich/details-1216638,22499,237000,197.0,5,Austria
+Audi,E-Tron,55 quattro,2023,Electric,Suv,Black,Villach,Manual,https://www.zweispurig.at/audi-e-tron-tageszulassung-elektro-schwarz-kaernten/details-1247378,65990,5,268.0,6,Austria
+Audi,A3,2.0,2020,Diesel,Sedan,Blue,Leoben,Automatic,https://www.dasweltauto.at/vehicle/4643400052,21990,53391,111.0,6,Austria
+Škoda,Octavia,2.0 rs tdi,2018,Diesel,Wagon,Black,Steyr,Automatic,https://www.zweispurig.at/skoda-octavia-gebrauchtwagen-diesel-schwarz-oberoesterreich/details-1195115,19499,147000,137.0,6,Austria
+Bmw,X3,xDrive20d,2022,Diesel,Suv,Gray,Salzburg,Automatic,https://www.zweispurig.at/bmw-x3-gebrauchtwagen-diesel-grau-salzburg/details-1234702,54890,40000,141.0,6,Austria
+Volkswagen,Tiguan,2.0 TDI 4Motion,2018,Diesel,Crossover,Red,Spittal An Der Drau,Automatic,https://www.zweispurig.at/vw-tiguan-gebrauchtwagen-diesel-rot-kaernten/details-1207967,26900,143500,141.0,6,Austria
+Volkswagen,Tiguan,1.4 TSI,2018,Petrol,Crossover,Blue,Leonding,Manual,https://www.dasweltauto.at/vehicle/30102514,21890,121217,93.0,6,Austria
+Alfa Romeo,Stelvio,2.2,2023,Diesel,Crossover,White,Wels,Automatic,https://www.zweispurig.at/alfa-romeo-stelvio-gebrauchtwagen-diesel-weiss-oberoesterreich/details-1245541,54900,50,155.0,6,Austria
+Volkswagen,California,2.0,2020,Diesel,Van,Gray,Dornbirn,Automatic,https://www.dasweltauto.at/vehicle/81925026,69990,79369,111.0,6,Austria
+Audi,A3,1.0 30 TFSI,2024,Petrol,Sedan,Gray,Eisenstadt,Automatic,https://www.dasweltauto.at/vehicle/20311627,32495,201,82.0,6,Austria
+Audi,A3,1.0 30 TFSI,2024,Petrol,Sedan,Black,Eisenstadt,Automatic,https://www.dasweltauto.at/vehicle/20311626,31499,201,82.0,6,Austria
+Mercedes Benz,Gle-Class,400,2023,Diesel,Suv,Black,Schwechat,Automatic,https://www.zweispurig.at/mercedes-benz-gle-gebrauchtwagen-diesel-schwarz-niederoesterreich/details-1247365,79999,2500,246.0,6,Austria
+Peugeot,2008,1.2 puretech,2022,Petrol,Crossover,Gray,Leoben,Manual,https://www.zweispurig.at/peugeot-2008-gebrauchtwagen-benzin-grau-steiermark/details-1245473,24590,14000,97.0,6,Austria
+Škoda,Octavia,2.0 rs tdi,2019,Diesel,Wagon,White,Telfs,Automatic,https://www.zweispurig.at/skoda-octavia-gebrauchtwagen-diesel-weiss-tirol/details-1211659,26984,119600,137.0,6,Austria
+Škoda,Octavia,1.6 TDI,2019,Diesel,Wagon,Gray,Steyr,Automatic,https://www.gebrauchtwagen-markt.at/autoboerse/510534-skoda-octavia-combi-tdi-limited-navi-acc-kamera-lane.html,17250,115000,86.0,6,Austria
+Škoda,Octavia,1.6 TDI,2019,Diesel,Wagon,Gray,Stockerau,Automatic,https://www.zweispurig.at/skoda-octavia-gebrauchtwagen-diesel-grau-niederoesterreich/details-1238203,16490,106300,86.0,6,Austria
+Renault,Clio,0.9 tce,2017,Petrol,Wagon,Gray,Steyr,Manual,https://www.gebrauchtwagen-markt.at/autoboerse/511988-renault-clio-grandtour-energy-limited-navi-ahv-pdc.html,9450,98000,67.0,6,Austria
+Bmw,5 Series,525i,2005,Diesel,Sedan,Black,Leoben,Automatic,https://www.zweispurig.at/bmw-5er-gebrauchtwagen-diesel-schwarz-steiermark/details-1219627,11900,158600,131.0,4,Austria
+Kia,Stinger,3.3 T-GDi,2019,Petrol,Sedan,White,Schwaz,Automatic,https://www.zweispurig.at/kia-stinger-gebrauchtwagen-benzin-weiss-tirol/details-1234362,38900,33800,275.0,6,Austria
+Renault,Trafic,1.6,2018,Diesel,Van,White,Spittal An Der Drau,Manual,https://www.zweispurig.at/renault-trafic-gebrauchtwagen-diesel-weiss-kaernten/details-1171100,20970,95400,90.0,6,Austria
+Renault,Trafic,1.6 dci,2018,Diesel,Van,White,Spittal An Der Drau,Manual,https://www.zweispurig.at/renault-trafic-gebrauchtwagen-diesel-weiss-kaernten/details-1212501,18960,94200,89.0,6,Austria
+Renault,Trafic,1.6 dci,2018,Diesel,Van,White,Spittal An Der Drau,Manual,https://www.zweispurig.at/renault-trafic-gebrauchtwagen-diesel-weiss-kaernten/details-1171085,20970,54950,89.0,6,Austria
+Seat,Arona,1.0 tsi,2023,Petrol,Crossover,White,Wien,Manual,https://www.dasweltauto.at/vehicle/13125616,23430,260,70.0,6,Austria
+Seat,Arona,1.0 tsi,2023,Petrol,Crossover,White,Wien,Automatic,https://www.dasweltauto.at/vehicle/11313362,31500,100,82.0,6,Austria
+Seat,Arona,1.0 tsi,2023,Petrol,Crossover,Red,Wien,Automatic,https://www.dasweltauto.at/vehicle/11313360,30500,100,82.0,6,Austria
+Seat,Arona,1.0 tsi,2023,Petrol,Crossover,Gray,Klagenfurt,Automatic,https://www.dasweltauto.at/vehicle/15536408,29490,100,82.0,6,Austria
+Jeep,Cj5,3.1,2007,Petrol,Suv,Gray,Enns,Automatic,https://www.zweispurig.at/jeep-commander-gebrauchtwagen-diesel-grau-steiermark/details-1173376,21490,106300,162.0,4,Austria
+Cupra,Leon,2.0 TSI,2023,Petrol,Wagon,White,Graz,Automatic,https://www.zweispurig.at/cupra-leon-gebrauchtwagen-benzin-weiss-steiermark/details-1249806,36990,2978,182.0,6,Austria
+Volvo,Xc90,2.0,2019,Diesel,Suv,Black,Salzburg,Automatic,https://www.zweispurig.at/volvo-xc90-gebrauchtwagen-diesel-schwarz-salzburg/details-1207023,46990,53300,175.0,6,Austria
+Land Rover,Range Rover,4.4 SDV8,2018,Diesel,Suv,Gray,Salzburg,Automatic,https://www.zweispurig.at/land-rover-range-rover-series-gebrauchtwagen-diesel-grau-salzburg/details-1193761,82500,99000,253.0,6,Austria
+Volkswagen,Golf,1.2,2016,Diesel,Sedan,Black,Salzburg,Automatic,https://www.zweispurig.at/vw-golf-gebrauchtwagen-diesel-schwarz-salzburg/details-1247514,14990,77000,82.0,6,Austria
+Volkswagen,Golf,2.0 R,2016,Petrol,Sedan,Black,Linz,Automatic,https://www.gebrauchtwagen-markt.at/autoboerse/511407-vw-golf-r-tsi-dsg-allrad.html,27870,61900,223.0,6,Austria
+Volkswagen,Golf,2.0,2016,Diesel,Convertible,White,Telfs,Manual,https://www.zweispurig.at/vw-golf-gebrauchtwagen-diesel-weiss-tirol/details-1209719,19900,59990,82.0,6,Austria
+Land Rover,Evoque,2.0,2018,Diesel,Suv,Gray,Rankweil,Automatic,https://www.zweispurig.at/land-rover-range-rover-evoque-gebrauchtwagen-diesel-grau-vorarlberg/details-1253146,25450,93500,111.0,6,Austria
+Land Rover,Evoque,2.0,2018,Diesel,Suv,Black,Kufstein,Automatic,https://www.zweispurig.at/land-rover-range-rover-evoque-gebrauchtwagen-diesel-schwarz-tirol/details-1214701,32900,88791,179.0,6,Austria
+Volkswagen,Passat,2.0,2015,Diesel,Wagon,Black,Salzburg,Manual,https://www.zweispurig.at/vw-passat-gebrauchtwagen-diesel-schwarz-salzburg/details-1192370,20800,88000,111.0,6,Austria
+Audi,Tt,2.0 tfsi,2015,Petrol,Convertible,White,Lienz,Automatic,https://www.zweispurig.at/audi-tt-gebrauchtwagen-benzin-weiss-tirol/details-1230492,29900,85000,171.0,6,Austria
+Audi,Tt,2.0 TDI Ultra,2015,Diesel,Coupe,Black,Braunau Am Inn,Manual,https://www.zweispurig.at/audi-tt-gebrauchtwagen-diesel-schwarz-oberoesterreich/details-1230407,27499,60000,137.0,6,Austria
+Ford,Galaxy,2.0,2012,Diesel,Mpv,White,Braunau Am Inn,Manual,https://www.zweispurig.at/ford-galaxy-gebrauchtwagen-diesel-weiss-oberoesterreich/details-1220734,9499,238000,104.0,5,Austria
+Mercedes Benz,E-Class,200,2016,Petrol,Convertible,Silver,Schwechat,Automatic,https://www.zweispurig.at/mercedes-benz-e-klasse-gebrauchtwagen-benzin-silber-niederoesterreich/details-1242447,28999,74000,137.0,6,Austria
+Škoda,Karoq,1.6 TDI,2020,Diesel,Suv,Silver,Salzburg,Manual,https://www.zweispurig.at/skoda-karoq-gebrauchtwagen-diesel-silber-salzburg/details-1225997,23900,72900,86.0,6,Austria
+Mercedes Benz,A-Class,180,2019,Petrol,Sedan,Gray,Telfs,Automatic,https://www.zweispurig.at/mercedes-benz-a-klasse-gebrauchtwagen-benzin-grau-tirol/details-1225933,28984,66000,101.0,6,Austria
+Mercedes Benz,A-Class,200,2019,Petrol,Sedan,Silver,Salzburg,Automatic,https://www.zweispurig.at/mercedes-benz-a-klasse-gebrauchtwagen-benzin-silber-salzburg/details-1253195,25999,34000,121.0,6,Austria
+Škoda,Octavia,1.5 tsi,2022,Petrol,Wagon,Blue,Wien,Automatic,https://www.dasweltauto.at/vehicle/13125023,37920,14705,111.0,6,Austria
+Mazda,3,2.0,2015,Petrol,Hatchback,White,Stockerau,Manual,https://www.zweispurig.at/mazda-mazda3-gebrauchtwagen-benzin-weiss-niederoesterreich/details-1209656,10990,143500,89.0,6,Austria
+Mazda,3,2.0,2023,Petrol,Hatchback,Gray,Perchtoldsdorf,Automatic,https://www.zweispurig.at/mazda-mazda3-neuwagen-benzin-grau-niederoesterreich/details-1244383,33490,10,111.0,6,Austria
+Mazda,2,1.5,2022,Petrol,Mini,White,Klagenfurt,Automatic,https://www.dasweltauto.at/vehicle/569505808,18690,9800,67.0,6,Austria
+Audi,A6,3.0 TDI Quattro,2015,Diesel,Wagon,Black,Traun,Automatic,https://www.zweispurig.at/audi-a6-gebrauchtwagen-diesel-schwarz-oberoesterreich/details-1247042,25999,137000,202.0,6,Austria
+Ford,Galaxy,2.0 EcoBlue,2022,Diesel,Mpv,Black,Linz,Automatic,https://www.dasweltauto.at/vehicle/35002806,53690,18172,140.0,6,Austria
+Ford,Transit Custom,2.0,2018,Diesel,Van,Black,Spittal An Der Drau,Manual,https://www.zweispurig.at/ford-transit-custom-gebrauchtwagen-diesel-schwarz-kaernten/details-1235388,23970,99900,97.0,6,Austria
+Volkswagen,Tiguan,1.5,2024,Diesel,Crossover,Black,Bruck An Der Mur,Automatic,https://www.zweispurig.at/vw-tiguan-vorfuehrwagen-diesel-schwarz-steiermark/details-1229684,49990,100,111.0,6,Austria
+Volkswagen,Tiguan,2.0 TSI 4Motion,2023,Petrol,Crossover,Silver,Feldkirch,Automatic,https://www.zweispurig.at/vw-tiguan-gebrauchtwagen-benzin-silber-vorarlberg/details-1242631,49990,150,141.0,6,Austria
+Audi,A4,2.0,2008,Diesel,Sedan,Gray,Braunau Am Inn,Manual,https://www.zweispurig.at/audi-a4-gebrauchtwagen-diesel-grau-oberoesterreich/details-1228516,7999,215000,106.0,4,Austria
+Audi,A6,3.0 TDI Quattro,2016,Diesel,Wagon,White,Wien,Automatic,https://www.zweispurig.at/audi-a6-gebrauchtwagen-diesel-weiss-wien/details-1208829,19440,246907,162.0,6,Austria
+Mazda,3,2.0,2015,Petrol,Hatchback,White,Stockerau,Manual,https://www.zweispurig.at/mazda-mazda3-gebrauchtwagen-benzin-weiss-niederoesterreich/details-1231862,9490,197000,89.0,6,Austria
+Mazda,3,2.0,2015,Petrol,Hatchback,Black,Salzburg,Manual,https://www.zweispurig.at/mazda-mazda3-gebrauchtwagen-benzin-schwarz-salzburg/details-1252842,9890,135069,89.0,6,Austria
+Volkswagen,Passat,2.0,2013,Diesel,Wagon,Black,Braunau Am Inn,Manual,https://www.zweispurig.at/vw-passat-gebrauchtwagen-diesel-schwarz-oberoesterreich/details-1196261,11999,157000,104.0,5,Austria
+Toyota,Rav4,2.2 d-4d,2011,Diesel,Suv,Black,Wien,Automatic,https://www.zweispurig.at/toyota-rav4-gebrauchtwagen-diesel-schwarz-wien/details-1238385,13890,142000,111.0,5,Austria
+Cupra,Ateca,2.0 TSI,2023,Petrol,Suv,Black,Wien,Automatic,https://www.dasweltauto.at/vehicle/16025173,54920,201,223.0,6,Austria
+Bmw,X1,20d,2012,Diesel,Suv,Black,Ried Im Innkreis,Manual,https://www.zweispurig.at/bmw-x1-gebrauchtwagen-diesel-schwarz-oberoesterreich/details-1226097,13500,165000,131.0,5,Austria
+Byd,Atto 3,0.0 kwh,2023,Electric,Crossover,White,Innsbruck,Automatic,https://www.zweispurig.at/byd-atto-3-vorfuehrwagen-elektro-weiss-tirol/details-933208,40380,7777,152.0,6,Austria
+Peugeot,2008,1.2 puretech,2023,Petrol,Crossover,Gray,Brunn Am Gebirge,Automatic,https://www.zweispurig.at/peugeot-2008-vorfuehrwagen-benzin-grau-niederoesterreich/details-1195260,28990,318,97.0,6,Austria
+Audi,A6,4.2 FSI,2017,Diesel,Wagon,Black,Steyr,Automatic,https://www.zweispurig.at/audi-a6-gebrauchtwagen-diesel-schwarz-oberoesterreich/details-1222144,21999,224000,141.0,6,Austria
+Audi,A6,3.0 TDI,2017,Diesel,Wagon,Gray,Steyr,Automatic,https://www.zweispurig.at/audi-a6-gebrauchtwagen-diesel-grau-oberoesterreich/details-1195109,27499,138000,162.0,6,Austria
+Renault,Megane,1.2,2017,Petrol,Sedan,White,Salzburg,Manual,https://www.zweispurig.at/renault-megane-gebrauchtwagen-benzin-weiss-salzburg/details-1233697,11900,68849,75.0,6,Austria
+Mercedes Benz,Gla-Class,250e,2020,Hybrid,Suv,Gray,Linz,Automatic,https://www.gebrauchtwagen-markt.at/autoboerse/512022-mercedes-benz-gla-250e-phevamg-linetot-winkel-multibeam-led.html,35490,16300,192.0,6,Austria
+Mercedes Benz,Vito,114 CDI,2019,Diesel,Van,White,Steyr,Manual,https://www.gebrauchtwagen.at/fahrzeuge/mercedes-benz-vito-114-cdi-lang-luxus-netto-17-400-diesel/f5dc948f-c860-4096-9341-13d7b21551b6,20880,150000,101.0,6,Austria
+Alfa Romeo,Stelvio,2.0,2020,Petrol,Crossover,White,Wiener Neustadt,Semi Automatic,https://www.zweispurig.at/alfa-romeo-stelvio-gebrauchtwagen-benzin-weiss-niederoesterreich/details-1244160,39990,53500,208.0,6,Austria
+Mercedes Benz,Vito,116 CDI,2023,Diesel,Van,Gray,Schwaz,Automatic,https://www.zweispurig.at/mercedes-benz-vito-jahreswagen-diesel-grau-tirol/details-1252210,69990,9960,121.0,6,Austria
+Volkswagen,Passat,2.0,2015,Diesel,Wagon,Gray,Salzburg,Automatic,https://www.zweispurig.at/vw-passat-gebrauchtwagen-diesel-grau-salzburg/details-1208450,16900,220000,141.0,6,Austria
+Porsche,Macan,2.0,2024,Petrol,Suv,Gray,Dornbirn,Automatic,https://www.dasweltauto.at/vehicle/81925228,99900,5000,197.0,6,Austria
+Opel,Insignia,2.0,2019,Diesel,Sedan,Black,Salzburg,Automatic,https://www.zweispurig.at/opel-insignia-gebrauchtwagen-diesel-schwarz-salzburg/details-1244070,19500,75000,126.0,6,Austria
+Volkswagen,Caddy,2.0,2018,Diesel,Pickup,White,Wien,Manual,https://www.zweispurig.at/vw-caddy-gebrauchtwagen-diesel-weiss-wien/details-1230698,13990,105500,55.0,6,Austria
+Volkswagen,Passat,2.0 TDI,2015,Diesel,Wagon,Gray,Lustenau,Automatic,https://www.zweispurig.at/vw-passat-gebrauchtwagen-diesel-grau-vorarlberg/details-1214944,14450,190400,111.0,6,Austria
+Škoda,Fabia,1.6,2017,Diesel,Sedan,White,Graz,Automatic,https://www.zweispurig.at/skoda-fabia-gebrauchtwagen-diesel-weiss-steiermark/details-1177275,21590,95300,64.0,6,Austria
+Bmw,X1,18d,2014,Diesel,Suv,Blue,Salzburg,Automatic,https://www.zweispurig.at/bmw-x1-gebrauchtwagen-diesel-blau-salzburg/details-1227669,14900,180000,106.0,6,Austria
+Volvo,V90,2.0,2018,Diesel,Wagon,Brown,Lustenau,Automatic,https://www.zweispurig.at/volvo-v90-gebrauchtwagen-diesel-braun-vorarlberg/details-1169370,34990,112000,175.0,6,Austria
+Škoda,Superb,2.0,2012,Diesel,Wagon,White,Braunau Am Inn,Manual,https://www.zweispurig.at/skoda-superb-gebrauchtwagen-diesel-weiss-oberoesterreich/details-1247204,12499,126000,104.0,5,Austria
+Volkswagen,Passat,1.6 TDI,2016,Diesel,Sedan,Brown,Wien,Automatic,https://www.zweispurig.at/vw-passat-gebrauchtwagen-diesel-braun-niederoesterreich/details-1243933,14490,169000,89.0,6,Austria
+Volkswagen,Passat,2.0,2016,Diesel,Wagon,Gray,Ried Im Innkreis,Manual,https://www.zweispurig.at/vw-passat-gebrauchtwagen-diesel-grau-oberoesterreich/details-1250821,14250,157000,111.0,6,Austria
+Volkswagen,Passat,1.6,2016,Diesel,Wagon,Silver,Salzburg,Manual,https://www.zweispurig.at/vw-passat-gebrauchtwagen-diesel-silber-salzburg/details-1222519,13990,155699,89.0,6,Austria
+Hyundai,Tucson,1.6 T-GDi,2020,Diesel,Suv,Gray,Telfs,Automatic,https://www.zweispurig.at/hyundai-tucson-gebrauchtwagen-diesel-grau-tirol/details-1252183,28490,70560,131.0,6,Austria
+Ds Automobiles,Ds 7 Crossback,1.5 bluehdi,2019,Diesel,Suv,Black,Wels,Automatic,https://www.zweispurig.at/ds-automobiles-ds-7-gebrauchtwagen-diesel-schwarz-oberoesterreich/details-1238601,26490,82000,97.0,6,Austria
+Volkswagen,Tiguan,2.0,2019,Diesel,Crossover,White,Wels,Automatic,https://www.dasweltauto.at/vehicle/4633600148,25590,85593,111.0,6,Austria
+Fiat,500c,0.9 TwinAir,2017,Petrol,Convertible,Blue,Stockerau,Manual,https://www.zweispurig.at/fiat-500c-gebrauchtwagen-benzin-blau-niederoesterreich/details-1246766,12690,65000,78.0,6,Austria
+Audi,Q5,2.0 TDI quattro,2012,Diesel,Suv,Gray,Braunau Am Inn,Automatic,https://www.zweispurig.at/audi-q5-gebrauchtwagen-diesel-grau-oberoesterreich/details-1248052,17999,164000,126.0,5,Austria
+Alfa Romeo,Giulietta,1.4,2018,Petrol,Sedan,Black,Villach,Manual,https://www.zweispurig.at/alfa-romeo-giulietta-gebrauchtwagen-benzin-schwarz-kaernten/details-1218438,17990,63183,111.0,6,Austria
+Volkswagen,Passat,1.6 TDI,2017,Diesel,Wagon,Black,Steyr,Manual,https://www.gebrauchtwagen-markt.at/autoboerse/511541-vw-passat-variant-comfort-tdi-led-navi-acc.html,15850,128000,89.0,6,Austria
+Škoda,Octavia,2.0 rs tdi,2021,Diesel,Wagon,Gray,Telfs,Automatic,https://www.zweispurig.at/skoda-octavia-gebrauchtwagen-diesel-grau-tirol/details-1233544,39400,89990,149.0,6,Austria
+Bmw,X1,xDrive18d,2016,Diesel,Suv,Silver,Salzburg,Automatic,https://www.zweispurig.at/bmw-x1-gebrauchtwagen-diesel-silber-salzburg/details-1230948,18890,188088,111.0,6,Austria
+Ford,Ranger,2.0 EcoBlue,2021,Diesel,Pickup,White,Wien,Automatic,https://www.zweispurig.at/ford-ranger-gebrauchtwagen-diesel-weiss-wien/details-1223634,44990,29000,159.0,6,Austria
+Volvo,S60,2.0,2016,Diesel,Sedan,Silver,Steyr,Manual,https://www.gebrauchtwagen.at/fahrzeuge/volvo-s60-d2-momentum-winterpaket-navi-xenon-diesel/e155b7e6-b8af-4cc0-a57d-9eaacbf5898d,16990,75000,89.0,6,Austria
+Jeep,Grand Cherokee,3.0 crd,2015,Diesel,Suv,Black,Salzburg,Automatic,https://www.zweispurig.at/jeep-grand-cherokee-gebrauchtwagen-diesel-schwarz-salzburg/details-1235773,24990,162700,141.0,6,Austria
+Volkswagen,Cc,2.0,2008,Diesel,Sedan,Gray,Salzburg,Manual,https://www.zweispurig.at/vw-passat-cc-gebrauchtwagen-diesel-grau-salzburg/details-1206006,7900,300000,104.0,4,Austria

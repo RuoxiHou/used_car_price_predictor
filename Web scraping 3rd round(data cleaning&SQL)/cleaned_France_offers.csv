@@ -1,0 +1,206 @@
+Make,Model,Trim,Year,Fuel type,Body type,Color,City,Transmission,Contact,Emission standard,Price(EUR),Mileage(km),kW,Country
+Ford,Kuga,1.5,2017,Diesel,Suv,Brown,Dieppe,Automatic,https://www.auto-selection.com/voiture-occasion/ford-kuga/23993825.html,6,20490,62318,89.0,France
+Jeep,Cherokee,4.0 Limited,2017,Diesel,Suv,Black,Gaillard,Automatic,https://www.leparking.fr/voiture-occasion-detail/jeep-cherokee/2-2-multijet-200ch-limited-active-drive-i-bva-s-s/8VD0LV64.html,6,23399,83500,149.0,France
+Volkswagen,T-Cross,1.0 tsi,2019,Petrol,Crossover,Gray,Albi,Automatic,https://fr.renew.auto/achat-vehicules-occasions/detail.html?productId=VEH_00000977_VO415054,6,19990,37916,115.0,France
+Renault,Kadjar,1.6 tce,2017,Petrol,Suv,Black,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-renault-kadjar-16-tce-165ch-energy-intens-756975/,6,17900,100,121.0,France
+Renault,Kadjar,1.7 dci,2019,Diesel,Suv,Gray,Rivery,Manual,https://occasion.autoplus.fr/voiture-occasion-renault-kadjar-17-blue-dci-150ch-intens-4x4-576503/,6,18990,69406,111.0,France
+Seat,Ateca,1.5 tsi,2022,Petrol,Suv,Gray,Seynod,Automatic,https://www.auto-selection.com/voiture-occasion/seat-ateca/23867492.html,6,29490,41446,111.0,France
+Porsche,Macan,2.9 Turbo,2019,Petrol,Suv,Black,Saint-Quentin,Automatic,https://www.leparking.fr/voiture-occasion-detail/porsche-macan-turbo/porsche-macan-2-9-v6-440ch-turbo-pdk-euro6d-t-evap-isc/1S56CFGW.html,6,103900,50674,328.0,France
+Nissan,Qashqai,1.3,2022,Petrol,Crossover,Gray,Saint-Quentin,Automatic,https://www.leparking.fr/voiture-occasion-detail/nissan-qashqai/1-3-mild-hybrid-158ch-tekna-xtronic/DFKTUB7Z.html,6,32900,19985,117.0,France
+Seat,Leon,1.8,2021,Petrol,Hatchback,Gray,Saran,Automatic,https://fr.renew.auto/achat-vehicules-occasions/detail.html?productId=VEH_00001151_VO019574,6,25980,18855,150.0,France
+Land Rover,Range Rover,4.4 SDV8,2017,Diesel,Suv,Black,Mérignac,Automatic,https://www.autosphere.fr/fiche/auto-occasion-land-rover-range-rover-4-4-sdv8-339ch-autobiography-swb-mark-vi-33700-merignac-240209,6,50990,117978,252.0,France
+Nissan,Qashqai,1.2,2018,Petrol,Crossover,Red,Mantes La Ville,Manual,https://fr.renew.auto/achat-vehicules-occasions/detail.html?productId=VEH_00001260_VO110732,6,16650,53867,115.0,France
+Porsche,Panamera,4.8 S,2014,Hybrid,Sedan,Black,Chambray Les Tours,Automatic,https://www.leparking.fr/voiture-occasion-detail/porsche-panamera-s/porsche-panamera-s-v6-3-0-416-hybrid-tiptronic/VPTNNCG8.html,6,39990,136898,248.0,France
+Seat,Arona,1.0 tsi,2019,Petrol,Crossover,Orange,Serignan-du-Comtat,Automatic,https://www.leparking.fr/voiture-occasion-detail/seat-arona/seat-arona-1-0-ecotsi-115ch-start-stop-xcellence-dsg-euro6d-t/WAA5JW41.html,6,17499,61595,85.0,France
+Chevrolet,Corvette,6.2,2016,Petrol,Convertible,White,Paris,Automatic,https://www.paruvendu.fr/a/voiture-occasion/chevrolet/corvette/1270800067A1KVVOCVCOR,6,109900,26153,491.0,France
+Porsche,Macan,2.9 Turbo,2019,Petrol,Suv,Gray,Nîmes,Automatic,https://www.leparking.fr/voiture-occasion-detail/porsche-macan-turbo/porsche-macan-2-9-v6-440ch-turbo-pdk-euro6d-t-evap-isc/Y33G1PKS.html,6,83999,40223,328.0,France
+Lexus,Rx,450h,2019,Hybrid,Suv,White,Saint-Avertin,Automatic,https://www.paruvendu.fr/a/voiture-occasion/lexus/rx/1272522206A1KVVOLXRX,6,43499,71335,263.0,France
+Mercedes Benz,A-Class,180d,2021,Diesel,Sedan,Black,Puilboreau,Automatic,https://www.leparking.fr/voiture-occasion-detail/mercedes-classe-a-a-180/iv-180-d-amg-line-8g-dct/OLM1MRLS.html,6,28890,52831,86.0,France
+Volkswagen,Touran,1.5,2020,Diesel,Mpv,Blue,Chambray Les Tours,Automatic,https://www.leparking.fr/voiture-occasion-detail/volkswagen-touran/volkswagen-touran-business-2-0-tdi-150-dsg7-5pl-lounge/ZWDH1I64.html,6,19990,126078,111.0,France
+Audi,Sq7,4.0 TDI,2018,Diesel,Suv,Black,Liévin,Automatic,https://www.leparking.fr/voiture-occasion-detail/audi-q7-sq7/generation2-4-0-tdi-435-quattro-tiptronic-7pl/JYOK6S1F.html,6,59990,107844,324.0,France
+Jeep,Cherokee,4.0 Limited,2017,Diesel,Suv,Black,Gaillard,Automatic,https://www.leparking.fr/voiture-occasion-detail/jeep-cherokee/2-2-multijet-200ch-limited-active-drive-i-bva-s-s/8VD0LV64.html,6,23399,83500,149.0,France
+Seat,Ateca,1.5 tsi,2022,Petrol,Suv,Gray,Seynod,Automatic,https://www.auto-selection.com/voiture-occasion/seat-ateca/23867492.html,6,29490,41446,111.0,France
+Ford,Fiesta,1.0 EcoBoost,2016,Petrol,Sedan,Black,Montélimar,Automatic,https://fr.renew.auto/achat-vehicules-occasions/detail.html?productId=VEH_00000043_VO231310,6,13400,45800,100.0,France
+Seat,Leon,1.8,2021,Petrol,Hatchback,Gray,Saran,Automatic,https://fr.renew.auto/achat-vehicules-occasions/detail.html?productId=VEH_00001151_VO019574,6,25980,18855,150.0,France
+Škoda,Octavia,2.0 TDI,2018,Diesel,Wagon,Gray,Gaillard,Automatic,https://www.gueudet.fr/voiture/occasion/skoda/octavia-break/20-tdi-150ch-cr-fap-clever-dsg6/52487,6,15890,115932,111.0,France
+Porsche,Macan,2.9 Turbo,2019,Petrol,Suv,Black,Saint-Quentin,Automatic,https://www.leparking.fr/voiture-occasion-detail/porsche-macan-turbo/porsche-macan-2-9-v6-440ch-turbo-pdk-euro6d-t-evap-isc/1S56CFGW.html,6,103900,50674,328.0,France
+Opel,Mokka,1.2,2021,Petrol,Crossover,Beige,Dieppe,Manual,https://www.gueudet.fr/voiture/occasion/opel/mokka/12-turbo-130ch-ultimate/52391,6,22490,25503,97.0,France
+Land Rover,Range Rover,4.4 SDV8,2017,Diesel,Suv,Black,Mérignac,Automatic,https://www.paruvendu.fr/a/voiture-occasion/land-rover/range-rover/1273844046A1KVVOLRRAN,6,50990,117978,252.0,France
+Hyundai,Tucson,1.7 CRDi,2018,Diesel,Suv,Black,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-hyundai-tucson-17-crdi-115ch-edition-mondial-2wd-688377/,6,16990,472,85.0,France
+Audi,Q7,3.0 tfsi,2021,Hybrid,Suv,Gray,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-audi-q7-q7-60-tfsi-e-462-tiptronic-8-quattro-417431/,6,81990,44900,253.0,France
+Lexus,Rx,450h,2022,Hybrid,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-f-sport-executive-my22-645253/,6,64990,809,195.0,France
+Lexus,Rx,450h,2022,Hybrid,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-f-sport-executive-my22-318292/,6,64990,805,195.0,France
+Lexus,Rx,450h,2017,Hybrid,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-luxe-502969/,6,42490,781,196.0,France
+Lexus,Rx,450h,2022,Hybrid,Suv,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-luxe-my22-443759/,6,62990,38,195.0,France
+Bmw,X4,xDrive30d,2023,Diesel,Suv,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-bmw-x4-xdrive30d-286ch-m-sport-662075/,6,79490,0,213.0,France
+Hyundai,Tucson,1.6 CRDi,2020,Diesel,Suv,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-hyundai-tucson-16-crdi-136ch-hybrid-48v-n-line-executive-dct-7-euro6d-evap-756951/,6,22990,119,101.0,France
+Lexus,Rx,450h,2023,Hybrid,Suv,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-luxe-444669/,6,82490,887,137.0,France
+Lexus,Rx,450h,2022,Hybrid,Suv,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-luxe-my22-638087/,6,62990,39,195.0,France
+Lexus,Rx,450h,2023,Hybrid,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-f-sport-design-my24-690458/,6,84890,879,137.0,France
+Lexus,Nx,300h,2018,Hybrid,Suv,White,Chambourcy,Automatic,https://www.autosphere.fr/fiche/auto-occasion-lexus-nx-300h-4wd-luxe-euro6d-t-78240-chambourcy-120925,6,28990,72625,115.0,France
+Land Rover,Range Rover Sport,3.0 SDV6,2015,Diesel,Suv,Black,Paris,Automatic,https://www.autosphere.fr/fiche/auto-occasion-land-rover-range-rover-sport-sdv6-3-0-306ch-hse-dynamic-75019-paris-6340,6,35499,129873,228.0,France
+Land Rover,Range Rover Sport,3.0 SDV6,2015,Diesel,Suv,Black,Paris,Automatic,https://www.autosphere.fr/fiche/auto-occasion-land-rover-range-rover-sport-3-0-sdv6-306-autobiography-dynamic-mark-iv-75019-paris-6303,6,41900,102775,228.0,France
+Lexus,Rx,450h,2021,Hybrid,Suv,White,Champagne-au-Mont-d'Or,Automatic,https://www.autosphere.fr/fiche-mixte/auto-occasion-lexus-rx-450h-4wd-executive-mc19-69410-champagne-au-mont-d-or-062502,6,52990,50200,195.0,France
+Bmw,X4,xDrive30d,2023,Diesel,Suv,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-bmw-x4-xdrive30d-286ch-m-sport-662075/,6,79490,0,213.0,France
+Lexus,Nx,F,2024,Hybrid,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-nx-450h-4wd-f-sport-executive-my24-747451/,6,76990,974,141.0,France
+Lexus,Rx,450h,2016,Hybrid,Suv,Blue,Champagne-au-Mont-d'Or,Automatic,https://www.autosphere.fr/fiche/auto-occasion-lexus-rx-450h-4wd-executive-69410-champagne-au-mont-d-or-062705,6,36990,58987,196.0,France
+Mercedes Benz,Glc-Class,250 4Matic,2017,Diesel,Suv,Black,Gagny,Automatic,https://www.paruvendu.fr/a/voiture-occasion/mercedes/classe-glc/1274458913A1KVVOMEGLC,6,29990,113104,152.0,France
+Bmw,X3,xDrive20d,2022,Diesel,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-bmw-x3-xdrive20d-190ch-m-sport-737926/,6,51990,490,141.0,France
+Lexus,Rx,450h,2019,Hybrid,Suv,Gray,Chambourcy,Automatic,https://www.autosphere.fr/fiche/auto-occasion-lexus-rx-450h-4wd-executive-euro6d-t-15cv-78240-chambourcy-120883,6,40499,61250,196.0,France
+Lexus,Nx,450h+,2023,Hybrid,Suv,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-nx-450h-4wd-executive-479001/,6,65990,61,141.0,France
+Bmw,X4,xDrive30d,2019,Diesel,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-bmw-x4-xdrive30d-265ch-m-sport-euro6d-t-753411/,6,47990,100,197.0,France
+Bmw,X4,xDrive20d,2018,Diesel,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-bmw-x4-f26-x4-xdrive20d-190-m-sport-bva8-718364/,6,33490,181,141.0,France
+Land Rover,Range Rover Sport,3.0 SDV6,2015,Diesel,Suv,Black,Paris,Automatic,https://www.autosphere.fr/fiche/auto-occasion-land-rover-range-rover-sport-3-0-sdv6-306-autobiography-dynamic-mark-iv-75019-paris-6303,6,41900,102775,228.0,France
+Bmw,X4,xDrive20d,2020,Diesel,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-bmw-x4-xdrive20d-190ch-m-sport-euro6d-t-131g-675191/,6,44990,631,141.0,France
+Citroen,Spacetourer,1.6,2019,Diesel,Van,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-citroen-spacetourer-bluehdi-130ch-ss-feel-eat8-e6d-temp-704386/,6,20990,427,97.0,France
+Mercedes Benz,Sl-Class,6.0 400 sl,2017,Petrol,Convertible,Black,Tours,Automatic,https://www.leparking.fr/voiture-occasion-detail/mercedes-sl/vi-generation2-400-9g-tronic-executive/0J54WOO8.html,6,68895,28742,367.0,France
+Lexus,Rx,450h,2019,Hybrid,Suv,Black,Vénissieux,Automatic,https://www.autosphere.fr/fiche/auto-occasion-lexus-rx-450h-4wd-f-sport-euro6d-t-15cv-69200-venissieux-103247,6,43499,69734,196.0,France
+Lexus,Rx,450h,2017,Hybrid,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-luxe-502969/,6,42490,781,196.0,France
+Ford,Ecosport,1.0 EcoBoost,2020,Petrol,Suv,Gray,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-ford-ecosport-10-ecoboost-125ch-st-line-euro62-581958/,6,15999,32992,93.0,France
+Audi,Q2,2.0 TDI,2017,Diesel,Crossover,Black,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-audi-q2-20-tdi-190ch-design-luxe-quattro-s-tronic-7-599942/,6,23490,920,141.0,France
+Citroen,Spacetourer,1.6,2019,Diesel,Van,White,Le Blanc,Manual,https://occasion.autoplus.fr/voiture-occasion-citroen-spacetourer-bluehdi-130-ss-bvm6-shine-692314/,6,17990,926,97.0,France
+Lexus,Rx,450h,2022,Hybrid,Suv,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-luxe-my22-443759/,6,62990,38,195.0,France
+Lexus,Rx,450h,2023,Hybrid,Suv,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-luxe-444669/,6,82490,887,137.0,France
+Lexus,Rx,450h,2022,Hybrid,Suv,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-luxe-my22-638087/,6,62990,39,195.0,France
+Lexus,Nx,F,2024,Hybrid,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-nx-450h-4wd-f-sport-executive-my24-747451/,6,76990,974,141.0,France
+Lexus,Nx,450h+,2023,Hybrid,Suv,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-nx-450h-4wd-executive-479001/,6,65990,61,141.0,France
+Lexus,Rx,450h,2019,Hybrid,Suv,Gray,Vénissieux,Automatic,https://www.autosphere.fr/fiche/auto-occasion-lexus-rx-450h-4wd-luxe-euro6d-t-69200-venissieux-103257,6,38999,67805,196.0,France
+Lexus,Rx,450h,2019,Hybrid,Suv,Blue,Champagne-au-Mont-d'Or,Automatic,https://www.autosphere.fr/fiche-mixte/auto-occasion-lexus-rx-450h-4wd-executive-euro6d-t-69410-champagne-au-mont-d-or-062460,6,45990,32714,196.0,France
+Lexus,Rx,450h,2023,Hybrid,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-f-sport-design-my24-690458/,6,84890,879,137.0,France
+Ford,Ecosport,1.0 EcoBoost,2019,Petrol,Suv,Gray,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-ford-ecosport-10-ecoboost-125ch-st-line-euro62-550073/,6,15999,280,93.0,France
+Ford,Ecosport,1.0 EcoBoost,2019,Petrol,Suv,Blue,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-ford-ecosport-10-ecoboost-125ch-st-line-euro62-671722/,6,14999,470,93.0,France
+Ford,Kuga,1.5,2019,Petrol,Suv,White,Rivery,Automatic,https://www.gueudet.fr/voiture/occasion/ford/kuga/15-flexifuel-e85-150ch-stopstart-vignale-4x2-bva-euro62/54493,6,23990,45828,111.0,France
+Ford,Kuga,2.0 TDCi,2017,Diesel,Suv,Beige,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-ford-kuga-20-tdci-150ch-stopstart-vignale-4x4-745589/,6,18880,618,111.0,France
+Lexus,Nx,350h,2023,Hybrid,Suv,Green,Nanterre,Automatic,https://www.autosphere.fr/fiche/auto-occasion-lexus-nx-350h-2wd-luxe-my24-92000-nanterre-e763862,6,56990,9900,137.0,France
+Mini,Countryman,1.6,2021,Petrol,Crossover,Black,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-mini-countryman-cooper-136ch-northwood-bva7-745601/,6,30990,579,101.0,France
+Lexus,Rx,450h,2023,Hybrid,Suv,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-luxe-444669/,6,82490,887,137.0,France
+Ford,Ecosport,1.0 EcoBoost,2019,Petrol,Suv,Gray,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-ford-ecosport-10-ecoboost-100ch-st-line-euro62-632284/,6,16299,706,74.0,France
+Mercedes Benz,A-Class,35 AMG,2021,Petrol,Sedan,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-mercedes-classe-a-35-amg-306ch-amg-edition-55-4matic-7g-dct-speedshift-amg-19cv-731897/,6,48990,865,228.0,France
+Bmw,X3,xDrive30d,2012,Diesel,Suv,Black,Mussidan,Manual,https://www.leparking.fr/voiture-occasion-detail/bmw-x3-xdrive-30d/bmw-x3-xdrive30d-258ch-luxe-steptronic-a/COY0LG6L.html,5,16900,188500,192.0,France
+Audi,Q3,2.0 TDI quattro,2015,Diesel,Crossover,Blue,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-audi-q3-20-tdi-150ch-quattro-s-tronic-7-763067/,6,22900,868,111.0,France
+Nissan,Qashqai,1.3,2022,Petrol,Crossover,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-nissan-qashqai-13-mild-hybrid-158ch-n-connecta-xtronic-737977/,6,27490,880,117.0,France
+Lexus,Nx,300h,2018,Hybrid,Suv,White,Chambourcy,Automatic,https://www.autosphere.fr/fiche/auto-occasion-lexus-nx-300h-4wd-luxe-euro6d-t-78240-chambourcy-120925,6,28990,72625,115.0,France
+Nissan,Qashqai,1.3,2023,Petrol,Crossover,White,Rouen,Manual,https://www.gueudet.fr/voiture/demonstration/nissan/qashqai/13-mild-hybrid-140-ch-tekna/40499,6,36200,8000,104.0,France
+Lexus,Rx,450h,2022,Hybrid,Suv,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-luxe-my22-443759/,6,62990,38,195.0,France
+Lexus,Rx,450h,2020,Hybrid,Suv,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-f-sport-executive-euro6d-t-15cv-532359/,6,51990,850,196.0,France
+Lexus,Rx,450h,2022,Hybrid,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-f-sport-executive-my22-318292/,6,64990,805,195.0,France
+Nissan,Qashqai,1.3,2023,Petrol,Crossover,Gray,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-nissan-qashqai-13-mild-hybrid-140ch-n-connecta-735256/,6,35540,0,104.0,France
+Lexus,Rx,450h,2019,Hybrid,Suv,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-sport-edition-euro6d-t-15cv-450293/,6,44990,816,196.0,France
+Bmw,7 Series,750i,2020,Petrol,Sedan,Black,Gaillard,Automatic,https://www.autocerfa.com/pro/autoprestige1/car/921145?,6,37500,125005,390.0,France
+Lexus,Rx,450h,2022,Hybrid,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-f-sport-executive-my22-645253/,6,64990,809,195.0,France
+Lexus,Rx,450h,2023,Hybrid,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-f-sport-design-my24-690458/,6,84890,879,137.0,France
+Nissan,X-Trail,1.7 dci,2020,Diesel,Suv,Brown,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-nissan-x-trail-dci-150ch-tekna-2020-753385/,6,25900,995,111.0,France
+Lexus,Ux,300e,2023,Electric,Crossover,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-ux-300e-executive-437486/,6,45990,78,152.0,France
+Nissan,Juke,1.0 DIG-T,2022,Petrol,Crossover,Blue,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-nissan-juke-10-dig-t-114ch-n-connecta-20215-768951/,6,22900,860,85.0,France
+Honda,Cr-V,1.5 i,2019,Hybrid,Suv,Red,Marly,Automatic,https://www.autosphere.fr/fiche/auto-occasion-honda-cr-v-2-0-i-mmd-184ch-origin-edition-4wd-at-57155-marly-223821,6,27999,32100,108.0,France
+Nissan,Qashqai,1.3,2023,Petrol,Crossover,White,Rouen,Manual,https://www.gueudet.fr/voiture/demonstration/nissan/qashqai/13-mild-hybrid-140-ch-tekna/40499,6,36200,8000,104.0,France
+Audi,Q3,2.0 TDI quattro,2015,Diesel,Crossover,Blue,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-audi-q3-20-tdi-150ch-quattro-s-tronic-7-763067/,6,22900,868,111.0,France
+Nissan,Juke,1.0 DIG-T,2022,Petrol,Crossover,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-nissan-juke-10-dig-t-114ch-tekna-dct-20215-715716/,6,21990,9,85.0,France
+Hyundai,Kona,1.6 Hybrid GDi,2022,Hybrid,Crossover,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-hyundai-kona-16-gdi-hybrid-141ch-executive-dct-6-euro6d-t-evap-706142/,6,26990,568,78.0,France
+Hyundai,Kona,1.6 hybrid,2021,Diesel,Crossover,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-hyundai-kona-16-crdi-136ch-hybrid-48v-executive-dct-7-769380/,6,19990,609,101.0,France
+Nissan,Qashqai,1.3,2023,Petrol,Crossover,Gray,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-nissan-qashqai-13-mild-hybrid-140ch-n-connecta-735256/,6,35540,0,104.0,France
+Lexus,Rx,450h,2022,Hybrid,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-f-sport-executive-my22-318292/,6,64990,805,195.0,France
+Citroen,C4 Spacetourer,1.2 puretech,2022,Petrol,Mpv,Gray,Vitry Sur Seine,Automatic,https://www.autosphere.fr/fiche/auto-occasion-citroen-grand-c4-spacetourer-puretech-130ch-s-s-shine-pack-eat8-7cv-94400-vitry-sur-seine-40945,6,27999,18721,97.0,France
+Nissan,Qashqai,1.3,2023,Petrol,Crossover,Gray,Boulogne Sur Mer,Manual,https://www.gueudet.fr/voiture/demonstration/nissan/qashqai/13-mild-hybrid-140ch-tekna/38845,6,35817,8000,104.0,France
+Hyundai,Tucson,1.7 CRDi,2018,Diesel,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-hyundai-tucson-17-crdi-141ch-executive-2wd-dct-7-720695/,6,20590,492,105.0,France
+Lexus,Nx,300h,2018,Hybrid,Suv,White,Chambourcy,Automatic,https://www.autosphere.fr/fiche/auto-occasion-lexus-nx-300h-4wd-luxe-euro6d-t-78240-chambourcy-120925,6,28990,72625,115.0,France
+Bmw,X1,25e xDrive,2021,Hybrid,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-bmw-x1-f48-xdrive-25e-hybrid-220-bva8-m-sport-toit-ouvrant-hayon-755757/,6,33950,0,164.0,France
+Opel,Mokka,1.2,2021,Petrol,Crossover,Gray,Saint-Germain-en-Laye,Automatic,https://fr.renew.auto/achat-vehicules-occasions/detail.html?productId=VEH_00001314_VO023462,6,22480,15785,95.0,France
+Nissan,Qashqai,1.3,2022,Petrol,Crossover,White,Le Havre,Automatic,https://www.gueudet.fr/voiture/occasion/nissan/qashqai/13-mild-hybrid-158ch-tekna-xtronic/54749,6,27900,39638,117.0,France
+Ford,Ranger,2.0 EcoBlue,2023,Diesel,Pickup,Red,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-ford-ranger-20-ecoblue-205ch-stopstart-double-cabine-limited-e-4wd-bva10-653069/,6,57990,0,152.0,France
+Ford,Ecosport,1.0 EcoBoost,2019,Petrol,Suv,Gray,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-ford-ecosport-10-ecoboost-100ch-st-line-euro62-632284/,6,16299,706,74.0,France
+Peugeot,508,1.6 puretech,2020,Petrol,Sedan,Gray,Saint-Cyr-sur-Loire,Automatic,https://www.autosphere.fr/fiche-mixte/auto-occasion-peugeot-508-puretech-180ch-s-s-gt-line-eat8-10cv-37540-saint-cyr-sur-loire-101416,6,26499,35053,134.0,France
+Lexus,Rx,450h,2022,Hybrid,Suv,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-luxe-my22-443759/,6,62990,38,195.0,France
+Bmw,X4,xDrive20d,2020,Diesel,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-bmw-x4-xdrive20d-190ch-m-sport-euro6d-t-131g-675191/,6,44990,631,141.0,France
+Hyundai,Kona,1.6 hybrid,2021,Diesel,Crossover,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-hyundai-kona-16-crdi-136ch-hybrid-48v-executive-dct-7-769380/,6,19990,609,101.0,France
+Peugeot,5008,1.6,2018,Petrol,Mpv,Green,Vitre,Automatic,https://occasion.autoplus.fr/voiture-occasion-peugeot-5008-16-thp-165ch-gt-line-ss-eat6-675637/,6,26990,981,123.0,France
+Audi,Q7,3.0 tfsi,2021,Hybrid,Suv,Gray,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-audi-q7-q7-60-tfsi-e-462-tiptronic-8-quattro-417431/,6,81990,44900,253.0,France
+Audi,Q5,3.0 TDI,2017,Diesel,Suv,Black,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-audi-q5-30-v6-tdi-258ch-clean-diesel-avus-quattro-s-tronic-7-753324/,6,31990,156,192.0,France
+Nissan,Juke,1.0 DIG-T,2022,Petrol,Crossover,Blue,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-nissan-juke-10-dig-t-114ch-n-connecta-20215-768951/,6,22900,860,85.0,France
+Ford,Kuga,2.0 TDCi,2017,Diesel,Suv,Beige,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-ford-kuga-20-tdci-150ch-stopstart-vignale-4x4-745589/,6,18880,618,111.0,France
+Nissan,Qashqai,1.3,2022,Petrol,Crossover,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-nissan-qashqai-13-mild-hybrid-158ch-tekna-xtronic-693715/,6,32900,985,117.0,France
+Nissan,Qashqai,1.3,2022,Petrol,Crossover,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-nissan-qashqai-13-mild-hybrid-158ch-n-connecta-xtronic-747399/,6,27990,409,117.0,France
+Opel,Crossland X,1.2,2019,Petrol,Suv,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-opel-crossland-12-turbo-130ch-design-120-ans-bva-euro-6d-t-679289/,6,14999,676,96.0,France
+Hyundai,Kona,1.6 Hybrid GDi,2022,Hybrid,Crossover,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-hyundai-kona-16-gdi-hybrid-141ch-executive-dct-6-euro6d-t-evap-706142/,6,26990,568,78.0,France
+Opel,Mokka,1.2,2021,Petrol,Crossover,Gray,Saint-Germain-en-Laye,Automatic,https://fr.renew.auto/achat-vehicules-occasions/detail.html?productId=VEH_00001314_VO023462,6,22480,15785,95.0,France
+Nissan,Qashqai,1.3,2023,Petrol,Crossover,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-nissan-qashqai-13-mild-hybrid-158ch-n-connecta-xtronic-2022-755468/,6,35482,0,117.0,France
+Citroen,Spacetourer,1.6,2019,Diesel,Van,White,Le Blanc,Manual,https://occasion.autoplus.fr/voiture-occasion-citroen-spacetourer-bluehdi-130-ss-bvm6-shine-692314/,6,17990,926,97.0,France
+Nissan,Qashqai,1.3,2022,Petrol,Crossover,White,Le Havre,Automatic,https://www.gueudet.fr/voiture/occasion/nissan/qashqai/13-mild-hybrid-158ch-tekna-xtronic/54749,6,27900,39638,117.0,France
+Lexus,Ux,300e,2023,Electric,Crossover,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-ux-300e-executive-437486/,6,45990,78,152.0,France
+Audi,Q7,3.0 tfsi,2020,Hybrid,Suv,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-audi-q7-q7-60-tfsi-e-456-tiptronic-8-quattro-323168/,6,75900,100,253.0,France
+Hyundai,Tucson,1.7 CRDi,2018,Diesel,Suv,Black,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-hyundai-tucson-17-crdi-115ch-edition-mondial-2wd-688377/,6,16990,472,85.0,France
+Ford,Ecosport,1.0 EcoBoost,2020,Petrol,Suv,Gray,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-ford-ecosport-10-ecoboost-125ch-st-line-euro62-581958/,6,15999,32992,93.0,France
+Peugeot,508,1.6,2020,Hybrid,Sedan,Black,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-peugeot-508-hybrid-225ch-gt-line-e-eat8-494968/,6,29450,19,134.0,France
+Nissan,Juke,1.0 DIG-T,2021,Petrol,Crossover,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-nissan-juke-10-dig-t-114ch-n-design-dct-20215-550268/,6,21980,783,85.0,France
+Mercedes Benz,Glc-Class,250 4Matic,2017,Diesel,Suv,Black,Gagny,Automatic,https://www.paruvendu.fr/a/voiture-occasion/mercedes/classe-glc/1274458913A1KVVOMEGLC,6,29990,113104,152.0,France
+Hyundai,Tucson,1.7 CRDi,2018,Diesel,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-hyundai-tucson-17-crdi-141ch-executive-2wd-dct-7-720695/,6,20590,492,105.0,France
+Lexus,Rx,450h,2016,Hybrid,Suv,Blue,Champagne-au-Mont-d'Or,Automatic,https://www.autosphere.fr/fiche/auto-occasion-lexus-rx-450h-4wd-executive-69410-champagne-au-mont-d-or-062705,6,36990,58987,196.0,France
+Citroen,Spacetourer,1.6,2019,Diesel,Van,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-citroen-spacetourer-bluehdi-130ch-ss-feel-eat8-e6d-temp-704386/,6,20990,427,97.0,France
+Nissan,Juke,1.0 DIG-T,2021,Petrol,Crossover,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-nissan-juke-10-dig-t-114ch-enigma-dct-2021-747390/,6,18990,100,85.0,France
+Peugeot,308,1.2 puretech,2015,Petrol,Wagon,Gray,Poitiers,Manual,https://www.autosphere.fr/fiche/auto-occasion-peugeot-308-sw-1-2-puretech-110ch-allure-s-s-86000-poitiers-2101134,6,9999,103845,82.0,France
+Ford,Ecosport,1.0 EcoBoost,2020,Petrol,Suv,Gray,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-ford-ecosport-10-ecoboost-125ch-st-line-euro62-581958/,6,15999,32992,93.0,France
+Ford,Kuga,2.0 TDCi,2017,Diesel,Suv,Beige,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-ford-kuga-20-tdci-150ch-stopstart-vignale-4x4-745589/,6,18880,618,111.0,France
+Bmw,X3,xDrive30d,2012,Diesel,Suv,Black,Mussidan,Manual,https://www.leparking.fr/voiture-occasion-detail/bmw-x3-xdrive-30d/bmw-x3-xdrive30d-258ch-luxe-steptronic-a/COY0LG6L.html,5,16900,188500,192.0,France
+Nissan,Juke,1.0,2022,Petrol,Crossover,Gray,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-nissan-juke-10-dig-t-114ch-tekna-2021-656239/,6,24490,200,85.0,France
+Nissan,Qashqai,1.3,2023,Petrol,Crossover,Gray,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-nissan-qashqai-13-mild-hybrid-140ch-n-connecta-735256/,6,35540,0,104.0,France
+Porsche,Panamera,3.6 4,2012,Petrol,Sedan,Black,Paris,Automatic,https://www.annonces-automobile.com/acheter/voiture/porsche-panamera-4-v6-36-300-pdk-5397231?utm_source=ooyyo&utm_medium=aggregator,5,32990,86276,222.0,France
+Renault,Scenic,1.5 dCi,2016,Diesel,Mpv,Gray,Le Blanc,Manual,https://occasion.autoplus.fr/voiture-occasion-renault-scenic-15-dci-110ch-energy-bose-eco2-euro6-2015-685359/,6,12990,797,82.0,France
+Lexus,Nx,350h,2023,Hybrid,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-nx-350h-2wd-luxe-my24-702684/,6,54990,0,137.0,France
+Opel,Crossland X,1.2,2019,Petrol,Suv,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-opel-crossland-12-turbo-130ch-design-120-ans-bva-euro-6d-t-679289/,6,14999,676,96.0,France
+Seat,Leon,1.8,2021,Petrol,Hatchback,White,Hérouville Saint Clair,Automatic,https://fr.renew.auto/achat-vehicules-occasions/detail.html?productId=VEH_25003556_VO001245,6,29800,40091,150.0,France
+Ford,Ecosport,1.0 EcoBoost,2019,Petrol,Suv,Gray,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-ford-ecosport-10-ecoboost-100ch-st-line-euro62-632284/,6,16299,706,74.0,France
+Nissan,Qashqai,1.3,2023,Petrol,Crossover,White,Le Blanc,Manual,https://occasion.autoplus.fr/voiture-occasion-nissan-qashqai-13-mild-hybrid-140ch-n-connecta-2022-680847/,6,32990,399,104.0,France
+Lexus,Nx,350h,2024,Hybrid,Suv,Gray,Vénissieux,Automatic,https://www.autosphere.fr/fiche-mixte/auto-occasion-lexus-nx-350h-2wd-luxe-my24-69200-venissieux-o844602,6,57500,5000,137.0,France
+Citroen,C4 Spacetourer,1.2 puretech,2020,Petrol,Mpv,Blue,Reims,Manual,https://www.autosphere.fr/fiche-mixte/auto-occasion-citroen-grand-c4-spacetourer-puretech-130ch-s-s-shine-pack-e6-d-51100-reims-113719,6,20999,35000,97.0,France
+Ford,Ecosport,1.0 EcoBoost,2020,Petrol,Suv,White,Le Blanc,Manual,https://occasion.autoplus.fr/voiture-occasion-ford-ecosport-10-ecoboost-125ch-titanium-euro62-624162/,6,14799,700,93.0,France
+Hyundai,Kona,1.6 hybrid,2021,Diesel,Crossover,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-hyundai-kona-16-crdi-136ch-hybrid-48v-executive-dct-7-769380/,6,19990,609,101.0,France
+Nissan,X-Trail,1.7 dci,2020,Diesel,Suv,Brown,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-nissan-x-trail-dci-150ch-tekna-euro6d-t-745846/,6,22990,558,111.0,France
+Lexus,Rx,450h,2019,Hybrid,Suv,Blue,Champagne-au-Mont-d'Or,Automatic,https://www.autosphere.fr/fiche-mixte/auto-occasion-lexus-rx-450h-4wd-executive-euro6d-t-69410-champagne-au-mont-d-or-062460,6,45990,32714,196.0,France
+Nissan,X-Trail,1.7 dci,2020,Diesel,Suv,Gray,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-nissan-x-trail-dci-150ch-n-connecta-euro6d-t-712412/,6,24990,7,111.0,France
+Nissan,Qashqai,1.6,2018,Diesel,Crossover,Gray,Vitre,Automatic,https://occasion.autoplus.fr/voiture-occasion-nissan-qashqai-16-dci-130ch-tekna-xtronic-750985/,6,16490,97,96.0,France
+Nissan,Juke,1.0 DIG-T,2022,Petrol,Crossover,White,Le Blanc,Manual,https://occasion.autoplus.fr/voiture-occasion-nissan-juke-10-dig-t-114ch-n-design-2021-727042/,6,20990,45,85.0,France
+Lexus,Rc,F,2017,Hybrid,Coupe,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rc-300h-f-sport-741012/,6,27990,78,134.0,France
+Ford,Ecosport,1.0 EcoBoost,2019,Petrol,Suv,Gray,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-ford-ecosport-10-ecoboost-125ch-titanium-business-euro62-658350/,6,14499,43,93.0,France
+Bmw,X3,D,2019,Diesel,Suv,Blue,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-bmw-x3-g01-x3-xdrive30da-265-m-sport-699058/,6,43990,188,197.0,France
+Toyota,C-Hr,2.0,2023,Hybrid,Suv,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-toyota-c-hr-20-hybride-184ch-gr-sport-e-cvt-688442/,6,35990,0,113.0,France
+Lexus,Rx,450h,2017,Hybrid,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-luxe-502969/,6,42490,781,196.0,France
+Seat,Arona,1.0,2018,Petrol,Crossover,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-seat-arona-10-ecotsi-115ch-startstop-xcellence-dsg-704377/,6,16990,824,86.0,France
+Nissan,Qashqai,1.3,2022,Petrol,Crossover,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-nissan-qashqai-13-mild-hybrid-158ch-tekna-xtronic-730162/,6,32990,815,117.0,France
+Audi,Q5,3.0 TDI,2017,Diesel,Suv,Black,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-audi-q5-30-v6-tdi-258ch-clean-diesel-avus-quattro-s-tronic-7-753324/,6,31990,156,192.0,France
+Renault,Megane,1.8 RS,2022,Petrol,Sedan,Black,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-renault-megane-18-t-300ch-rs-trophy-edc-306158/,6,43394,560,223.0,France
+Renault,Grand Scenic,1.2,2015,Petrol,Mpv,Black,Le Blanc,Manual,https://occasion.autoplus.fr/voiture-occasion-renault-grand-scenic-12-tce-130ch-energy-bose-euro6-7-places-2015-730138/,6,11990,100,96.0,France
+Lexus,Nx,350h,2023,Hybrid,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-nx-350h-2wd-luxe-my24-702684/,6,54990,0,137.0,France
+Hyundai,Kona,1.6 CRDi,2020,Diesel,Crossover,Blue,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-hyundai-kona-16-crdi-136ch-creative-dct-7-euro6d-t-evap-642542/,6,18990,84,101.0,France
+Nissan,Qashqai,1.6,2018,Diesel,Crossover,Gray,Vitre,Automatic,https://occasion.autoplus.fr/voiture-occasion-nissan-qashqai-16-dci-130ch-tekna-xtronic-750985/,6,16490,97,96.0,France
+Nissan,Qashqai,1.3,2023,Petrol,Crossover,White,Le Blanc,Automatic,https://www.gueudet.fr/voiture/occasion/nissan/qashqai/qashqai-e-power-190ch-acenta/49934,6,36900,10,117.0,France
+Lexus,Es,300h,2024,Hybrid,Sedan,Black,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-es-300h-executive-my23-738059/,6,63490,0,132.0,France
+Bmw,X4,M40d,2020,Diesel,Suv,Blue,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-bmw-x4-g02-x4-m40d-340-m-performance-715703/,6,61990,767,253.0,France
+Škoda,Octavia,1.0 tsi,2017,Petrol,Wagon,White,Avon,Manual,https://fr.renew.auto/achat-vehicules-occasions/detail.html?productId=VEH_00001280_VO466623,6,13900,78661,85.0,France
+Kia,Niro,ev,2019,Electric,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-kia-e-niro-e-premium-204ch-648459/,6,23790,750,152.0,France
+Land Rover,Range Rover Sport,3.0 SDV6,2015,Diesel,Suv,Black,Paris,Automatic,https://www.autosphere.fr/fiche/auto-occasion-land-rover-range-rover-sport-3-0-sdv6-306-autobiography-dynamic-mark-iv-75019-paris-6303,6,41900,102775,228.0,France
+Kia,Stonic,1.0 T-GDi,2019,Petrol,Crossover,Blue,Libourne,Manual,https://fr.renew.auto/achat-vehicules-occasions/detail.html?productId=VEH_25003529_VO240013,6,15750,39411,88.0,France
+Audi,Q5,3.0 TDI,2017,Diesel,Suv,Black,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-audi-q5-30-v6-tdi-258ch-clean-diesel-avus-quattro-s-tronic-7-753324/,6,31990,156,192.0,France
+Bmw,7 Series,750i,2020,Petrol,Sedan,Black,Gaillard,Automatic,https://www.autocerfa.com/pro/autoprestige1/car/921145?,6,37500,125005,390.0,France
+Land Rover,Range Rover Sport,3.0 SDV6,2015,Diesel,Suv,Black,Paris,Automatic,https://www.autosphere.fr/fiche/auto-occasion-land-rover-range-rover-sport-sdv6-3-0-306ch-hse-dynamic-75019-paris-6340,6,35499,129873,228.0,France
+Porsche,Panamera,3.6 4,2012,Petrol,Sedan,Black,Paris,Automatic,https://www.annonces-automobile.com/acheter/voiture/porsche-panamera-4-v6-36-300-pdk-5397231?utm_source=ooyyo&utm_medium=aggregator,5,32990,86276,222.0,France
+Lexus,Rx,450h,2023,Hybrid,Suv,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-rx-450h-4wd-f-sport-design-my24-690458/,6,84890,879,137.0,France
+Renault,Grand Scenic,1.2,2015,Petrol,Mpv,White,Metz,Manual,https://www.autosphere.fr/fiche/auto-occasion-renault-grand-scenic-1-2-tce-130ch-energy-bose-euro6-7-places-2015-57000-metz-223917,6,13299,64678,96.0,France
+Lexus,Ux,300e,2023,Electric,Crossover,White,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-lexus-ux-300e-executive-437486/,6,45990,78,152.0,France
+Toyota,Rav4,2.5,2023,Hybrid,Suv,Gray,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-toyota-rav4-ev-25-hybride-218ch-lounge-2wd-my24-679071/,6,51990,0,132.0,France
+Nissan,Qashqai,1.3,2023,Petrol,Crossover,White,Rouen,Manual,https://www.gueudet.fr/voiture/demonstration/nissan/qashqai/13-mild-hybrid-140-ch-tekna/40499,6,36200,8000,104.0,France
+Škoda,Kamiq,1.0 tsi,2021,Petrol,Suv,White,Le Blanc,Manual,https://occasion.autoplus.fr/voiture-occasion-skoda-kamiq-10-tsi-95ch-ambition-770846/,6,17490,102,70.0,France
+Peugeot,308,1.2 puretech,2015,Petrol,Wagon,Gray,Poitiers,Manual,https://www.autosphere.fr/fiche/auto-occasion-peugeot-308-sw-1-2-puretech-110ch-allure-s-s-86000-poitiers-2101134,6,9999,103845,82.0,France
+Renault,Scenic,1.2 TCe,2016,Petrol,Mpv,Beige,Le Blanc,Manual,https://occasion.autoplus.fr/voiture-occasion-renault-scenic-12-tce-130ch-energy-bose-euro6-2015-589248/,6,11799,177,96.0,France
+Peugeot,308,1.2 puretech,2015,Petrol,Wagon,Gray,Poitiers,Manual,https://www.autosphere.fr/fiche/auto-occasion-peugeot-308-sw-1-2-puretech-110ch-allure-s-s-86000-poitiers-2101134,6,9999,103845,82.0,France
+Toyota,Rav4,2.5,2023,Hybrid,Suv,Gray,Le Blanc,Automatic,https://occasion.autoplus.fr/voiture-occasion-toyota-rav4-ev-25-hybride-218ch-lounge-2wd-my23-584705/,6,49990,298,132.0,France
+Lexus,Rx,450h,2021,Hybrid,Suv,White,Champagne-au-Mont-d'Or,Automatic,https://www.autosphere.fr/fiche-mixte/auto-occasion-lexus-rx-450h-4wd-executive-mc19-69410-champagne-au-mont-d-or-062502,6,52990,50200,195.0,France
+Nissan,Juke,1.0 DIG-T,2022,Petrol,Crossover,Blue,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-nissan-juke-10-dig-t-114ch-n-connecta-20215-768951/,6,22900,860,85.0,France
+Nissan,Juke,1.0,2022,Petrol,Crossover,Gray,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-nissan-juke-10-dig-t-114ch-tekna-2021-656239/,6,24490,200,85.0,France
+Citroen,Spacetourer,1.6,2019,Diesel,Van,White,Le Blanc,Manual,https://occasion.autoplus.fr/voiture-occasion-citroen-spacetourer-bluehdi-130-ss-bvm6-shine-692314/,6,17990,926,97.0,France
+Bmw,X3,D,2019,Diesel,Suv,Black,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-bmw-x3-g01-x3-xdrive30da-265-xline-712341/,6,44990,976,197.0,France
+Ford,Kuga,2.0 TDCi,2017,Diesel,Suv,Beige,Tours,Manual,https://occasion.autoplus.fr/voiture-occasion-ford-kuga-20-tdci-150ch-stopstart-vignale-4x4-745589/,6,18880,618,111.0,France
+Opel,Mokka,1.2,2021,Petrol,Crossover,Gray,Saint-Germain-en-Laye,Automatic,https://fr.renew.auto/achat-vehicules-occasions/detail.html?productId=VEH_00001314_VO023462,6,22480,15785,95.0,France
+Nissan,Qashqai,1.2,2018,Petrol,Crossover,Black,Dinan,Manual,https://fr.renew.auto/achat-vehicules-occasions/detail.html?productId=VEH_00000733_VO231129,6,14990,98686,115.0,France
+Bmw,2 Series,220i,2016,Petrol,Coupe,Gray,NA,Manual,https://www.autosphere.fr/fiche/auto-occasion-bmw-serie-2-coupe-220i-184ch-m-sport-59650-villeneuve-d-ascq-2402092,6,24499,93486,137.0,France
+Bmw,X3,D,2019,Diesel,Suv,Blue,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-bmw-x3-g01-x3-xdrive30da-265-m-sport-699058/,6,43990,188,197.0,France
+Audi,Q7,3.0 tfsi,2020,Hybrid,Suv,Gray,Tours,Automatic,https://occasion.autoplus.fr/voiture-occasion-audi-q7-q7-60-tfsi-e-456-tiptronic-8-quattro-323168/,6,75900,100,253.0,France

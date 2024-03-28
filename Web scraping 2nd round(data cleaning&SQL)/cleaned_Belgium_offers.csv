@@ -1,0 +1,214 @@
+Make,Model,Trim,Year,Fuel type,Body type,Color,City,Transmission,Contact,Price(EUR),Mileage(km),kW,Emission standard,Country
+Audi,A1,1.0 25 TFSI,2022,Petrol,Mini,Gray,Genk,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-a1-essence-0559683/,23990,36854,70.0,6,Belgium
+Audi,A1,1.0 25 TFSI,2022,Petrol,Mini,Gray,Genk,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-a1-essence-0565179/,25990,29887,70.0,6,Belgium
+Ford,Kuga,1.5,2019,Petrol,Suv,Black,Rotselaar,Manual,https://www.autogids.be/detail-id--9464011--ford-vignale-benzine-slechts-60000km/tweedehands.html,19990,60820,111.0,6,Belgium
+Ford,Focus,1.0 st,2021,Petrol,Hatchback,Gray,Boortmeerbeek,Manual,https://www.vroom.be/fr/voitures-occasion/ford-focus-essence-0507130/,23725,26648,93.0,6,Belgium
+Audi,A4,2.0,2021,Diesel,Wagon,Black,Genk,Automatic,https://www.autogids.be/detail-id--9555591--audi-avant-s-line-35-tdi-163-pk-s-tronic-automaat/tweedehands.html,38500,21947,121.0,6,Belgium
+Mercedes Benz,Eqe,AMG43,2022,Electric,Sedan,White,Huy,Automatic,https://www.autogids.be/detail-id--9556842--mercedes-benz-eqe-43-amg-4matic/tweedehands.html,78990,19744,354.0,6,Belgium
+Audi,Q5,2.0,2020,Diesel,Suv,Blue,Leuze En Hainaut,Automatic,https://www.autogids.be/detail-id--9533167--audi-audi-q5-sport-30-tdi-100-136-kw-ps-s-tronic/tweedehands.html,37990,76764,101.0,6,Belgium
+Nissan,X-Trail,1.3,2018,Petrol,Suv,White,Keerbergen,Manual,https://www.autogids.be/detail-id--9529074--nissan-nissan-x-trail-1-3-benzine-manueel-in-topstaat/tweedehands.html,20390,83257,121.0,6,Belgium
+Volkswagen,Tiguan,1.5,2024,Petrol,Crossover,Black,Tournai,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/volkswagen/tiguan/volkswagen-tiguan-2024-vente-518572?,46990,9,111.0,6,Belgium
+Audi,A5,2.0,2017,Diesel,Convertible,Gray,Sint Niklaas,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-a5-diesel-0537067/,29990,77150,141.0,6,Belgium
+Land Rover,Defender,3.0,2021,Diesel,Suv,Bronse,Kalmthout,Automatic,https://www.autogids.be/detail-id--9500305--land-rover-110-3-0-d250-7-plaatsen/tweedehands.html,81250,36406,185.0,6,Belgium
+Peugeot,508,1.6,2021,Petrol,Sedan,Gray,Turnhout,Automatic,https://www.vroom.be/fr/voitures-occasion/peugeot-508-essence-0463901/,28990,54503,167.0,6,Belgium
+Audi,A1,1.0 25 TFSI,2022,Petrol,Mini,Gray,Overpelt,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-a1-essence-0558197/,22990,40949,70.0,6,Belgium
+Audi,A1,1.0 25 TFSI,2022,Petrol,Mini,Black,Tongeren,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/audi/a1/audi-a1-2022-vente-558388?,28500,24571,70.0,6,Belgium
+Porsche,Macan,3.0,2017,Diesel,Suv,Gray,Andenne,Automatic,https://www.autogids.be/detail-id--9530601--porsche-s-diesel-3-0-v6-bi-turbo-s-pdk/tweedehands.html,39999,69789,157.0,6,Belgium
+Bmw,X5,30d,2020,Diesel,Suv,Black,Kuurne,Automatic,https://www.vroom.be/fr/voitures-occasion/bmw-x5-diesel-0551043/,62500,68311,197.0,6,Belgium
+Audi,A1,1.0,2021,Petrol,Mini,Black,Oostkamp,Manual,https://www.vroom.be/fr/voitures-occasion/audi-a1-essence-0538291/,24990,38000,95.0,6,Belgium
+Land Rover,Evoque,2.0,2018,Diesel,Suv,Black,Knokke,Automatic,https://www.autogids.be/detail-id--9549523--land-rover-td4-aut-dynamic-navi-xenon-pano-alu/tweedehands.html,27300,50000,111.0,6,Belgium
+Audi,A6,2.0 40 TDI,2023,Diesel,Wagon,Black,Genk,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/audi/a6/audi-a6-2023-vente-524763?,52990,28264,152.0,6,Belgium
+Audi,A3,1.5,2018,Petrol,Sedan,Gray,Zaventem,Manual,https://www.vroom.be/fr/voitures-occasion/audi-a3-essence-0552718/,18490,69283,111.0,6,Belgium
+Audi,A1,1.0 30 TFSI,2020,Petrol,Mini,Black,Genk,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/audi/a1/audi-a1-2020-vente-516927?,24500,30471,86.0,6,Belgium
+Land Rover,Range Rover,3.0,2018,Diesel,Suv,Black,Brugge,Automatic,https://www.vroom.be/fr/voitures-occasion/land-rover-range-rover-diesel-0538421/,61995,89281,192.0,6,Belgium
+Hyundai,Tucson,1.6 T-GDi,2019,Petrol,Suv,Gray,Kuurne,Manual,https://www.vroom.be/fr/voitures-occasion/hyundai-tucson-essence-0544233/,21490,78252,131.0,6,Belgium
+Porsche,Cayenne,3.0 diesel,2012,Diesel,Suv,Blue,Antwerpen,Automatic,https://www.autogids.be/detail-id--9536269--porsche-3-0-d-v6-tiptronic-navi-airco-camera-pdc-open-dak/tweedehands.html,19500,265382,157.0,5,Belgium
+Cupra,Formentor,1.5,2024,Petrol,Crossover,Black,Genk,Automatic,https://www.vroom.be/fr/voitures-neuves/cupra-formentor-essence-0561209/,33990,10,111.0,6,Belgium
+Audi,A5,2.0,2022,Petrol,Sedan,Black,Herent,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-a5-essence-0541876/,49990,23125,152.0,6,Belgium
+Audi,A5,2.0,2022,Petrol,Convertible,Green,Genk,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-a5-essence-0543530/,47990,10830,152.0,6,Belgium
+Volvo,Xc60,2.0,2022,Petrol,Crossover,Black,Rotselaar,Manual,https://www.autogids.be/detail-id--9550922--volvo-r-design-b4-mhev-automaat/tweedehands.html,47782,21262,146.0,6,Belgium
+Audi,Rs4,2.9,2019,Petrol,Wagon,Gray,Brugge,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/audi/rs4/audi-rs4-2019-vente-507486?,75900,26800,450.0,6,Belgium
+Mazda,Cx-5,2.0,1998,Petrol,Crossover,Black,Halen,Automatic,https://www.vroom.be/fr/voitures-occasion/mazda-cx-5-essence-0527101/,39790,5000,123.0,2,Belgium
+Nissan,Qashqai,1.3,2022,Petrol,Crossover,Blue,Keerbergen,Manual,https://www.autogids.be/detail-id--9456276--nissan-tekna-2wd-mild-hybrid-140-cold-pack-design-pac/tweedehands.html,28999,18850,104.0,6,Belgium
+Bmw,X7,40d xDrive,2023,Diesel,Suv,Black,Kortrijk,Automatic,https://www.autogids.be/detail-id--9531239--bmw-xdrive-40d-m-sport-7-zit-sky-lounge-harmank/tweedehands.html,92950,35551,157.0,6,Belgium
+Porsche,911,3.0,2019,Petrol,Coupe,Black,Kuurne,Automatic,https://www.autogids.be/detail-id--9516266--porsche-992-carrera-s-pano-dak-sportuitlaat-pdls/tweedehands.html,129995,17701,335.0,6,Belgium
+Audi,A6,2.0 TDI,2019,Diesel,Sedan,Black,Oostkamp,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/audi/a6/audi-a6-2019-vente-560828?,31990,70000,204.0,6,Belgium
+Jaguar,E-Pace,2.0,2018,Petrol,Suv,Black,Rotselaar,Automatic,https://www.vroom.be/fr/voitures-occasion/jaguar-e-pace-diesel-0130869/,28850,82415,134.0,6,Belgium
+Tesla,Model X,electro,2016,Electric,Suv,Red,Harelbeke,Automatic,https://www.autogids.be/detail-id--9401600--tesla-x-p90d-gratis-laden-full-self-driving7pl-4x4/tweedehands.html,49995,180000,575.0,6,Belgium
+Ford,Focus,2.3 EcoBoost,2020,Petrol,Wagon,Orange,Machelen,Automatic,https://www.autogids.be/detail-id--9558114--ford-2-3-ecoboost-st-automaat-adaptieve-cc-came/tweedehands.html,30950,21200,208.0,6,Belgium
+Ford,S-Max,2.0,2018,Diesel,Mpv,Black,Brugge,Manual,https://www.vroom.be/fr/voitures-occasion/ford-s-max-diesel-0537873/,17495,111949,89.0,6,Belgium
+Ford,S-Max,2.0,2018,Diesel,Mpv,Blue,Brugge,Automatic,https://www.autogids.be/detail-id--9540872--ford-2-0tdci-business-class-powershift-navi-7-plaat/tweedehands.html,19995,106409,111.0,6,Belgium
+Mercedes Benz,C-Class,220 D,2021,Diesel,Coupe,Silver,Overpelt,Automatic,https://www.vroom.be/fr/voitures-occasion/mercedes-benz-c-220-diesel-0504741/,39900,37000,144.0,6,Belgium
+Audi,Rsq8,4.0,2023,Petrol,Suv,Silver,Wevelgem,Automatic,https://www.vroom.be/fr/voitures-neuves/audi-rs-q8-essence-0553149/,141000,11250,447.0,6,Belgium
+Audi,A3,2.0,2021,Diesel,Sedan,Gray,Tongeren,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-a3-diesel-0455069/,27990,81242,86.0,6,Belgium
+Abarth,595,1.4 competizione,2020,Petrol,Coupe,Gray,Ternat,Automatic,https://www.vroom.be/fr/voitures-occasion/abarth-595-competizione-essence-0564820/,18900,67879,123.0,6,Belgium
+Mercedes Benz,Eqe,350,2022,Electric,Sedan,Black,Izegem,Automatic,https://www.vroom.be/fr/voitures-occasion/mercedes-benz-eqe-350-electrique-0481823/,59495,21200,217.0,6,Belgium
+Audi,Q5,2.0,2020,Diesel,Suv,Blue,Hasselt,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-q5-diesel-0550395/,45990,52223,141.0,6,Belgium
+Ford,Galaxy,1.5,2019,Petrol,Mpv,Gray,Rotselaar,Manual,https://www.vroom.be/fr/voitures-occasion/ford-galaxy-essence-0482076/,28877,67734,123.0,6,Belgium
+Land Rover,Discovery,3.0,2024,Diesel,Suv,Gray,Merelbeke,Automatic,https://www.vroom.be/fr/voitures-occasion/land-rover-discovery-diesel-0440477/,89990,3500,223.0,6,Belgium
+Hyundai,Kona,1.6,2019,Diesel,Crossover,Black,Eupen,Manual,https://www.vroom.be/fr/voitures-occasion/hyundai-kona-diesel-0389185/,14990,98613,85.0,6,Belgium
+Nissan,Qashqai,1.2,2018,Petrol,Crossover,Silver,Sint Gillis Waas,Automatic,https://www.autogids.be/detail-id--9437144--nissan-2420-n-connecta/tweedehands.html,23500,87481,85.0,6,Belgium
+Audi,Q8,3.0,2018,Diesel,Suv,Black,Genk,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-q8-diesel-0524598/,52500,105419,213.0,6,Belgium
+Bmw,5 Series,520d,2022,Diesel,Wagon,Blue,Mechelen,Automatic,https://www.vroom.be/fr/voitures-occasion/bmw-520-diesel-0389671/,48900,34381,121.0,6,Belgium
+Honda,Hr-V,1.5,2020,Petrol,Crossover,White,Vilvoorde,Automatic,https://www.vroom.be/fr/voitures-occasion/honda-hr-v-essence-0543559/,23990,11636,96.0,6,Belgium
+Porsche,Panamera,4.0,2020,Hybrid,Sedan,Gray,Brugge,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/porsche/panamera/porsche-panamera-vente-559532?,89995,99263,500.0,6,Belgium
+Porsche,Macan,2.0,2018,Petrol,Suv,Gray,Hoeselt,Automatic,https://www.vroom.be/fr/voitures-occasion/porsche-macan-essence-015295/,49990,29800,187.0,6,Belgium
+Opel,Zafira,2.0,2021,Diesel,Mpv,Black,Roeselare,Automatic,https://www.vroom.be/fr/voitures-occasion/opel-zafira-diesel-0566255/,31900,93828,131.0,6,Belgium
+Audi,Q5,2.0,2019,Diesel,Suv,White,Overpelt,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-q5-diesel-0524003/,36500,51343,141.0,6,Belgium
+Audi,Rs6,4.0,2021,Petrol,Wagon,Gray,Maldegem,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-rs6-essence-0444384/,119900,58000,447.0,6,Belgium
+Audi,Q2,1.5,2023,Petrol,Crossover,Gray,Herent,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-q2-essence-0389354/,37990,15990,111.0,6,Belgium
+Audi,A1,1.0,2022,Petrol,Mini,Black,Tongeren,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-a1-essence-0544112/,23500,28101,70.0,6,Belgium
+Porsche,Macan,2.0,2017,Petrol,Suv,Gray,Brugge,Automatic,https://www.vroom.be/fr/voitures-occasion/porsche-macan-essence-0563085/,43995,59521,187.0,6,Belgium
+Audi,A3,1.0,2019,Petrol,Sedan,White,Gembloux,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-a3-essence-0422091/,23790,56000,86.0,6,Belgium
+Saic,Marvel R,electro,2023,Electric,Crossover,White,Tielt Winge,Automatic,https://www.vroom.be/fr/voitures-neuves/mg-marvel-r-electrique-0565650/,40200,50,81.0,6,Belgium
+Land Rover,Discovery,2.0,2020,Diesel,Suv,Black,Kalmthout,Automatic,https://www.vroom.be/fr/voitures-occasion/land-rover-discovery-diesel-0201378/,59150,33451,179.0,6,Belgium
+Mazda,Cx-5,2.0,2023,Petrol,Crossover,Black,Halen,Automatic,https://www.vroom.be/fr/voitures-neuves/mazda-cx-5-essence-0527110/,41299,1,121.0,6,Belgium
+Mazda,Cx-5,2.0,1998,Petrol,Crossover,Black,Turnhout,Automatic,https://www.vroom.be/fr/voitures-neuves/mazda-cx-5-essence-0550447/,41830,4,121.0,2,Belgium
+Porsche,Taycan,4S,2021,Electric,Sedan,Silver,Wommelgem,Automatic,https://www.vroom.be/fr/voitures-occasion/porsche-taycan-electrique-0558248/,82999,51191,324.0,6,Belgium
+Audi,A1,1.0,2021,Petrol,Mini,Gray,Brugge,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-a1-essence-0480137/,26990,33000,86.0,6,Belgium
+Saic,Marvel R,electro,2022,Electric,Crossover,White,Bastogne,Automatic,https://www.vroom.be/fr/voitures-occasion/mg-marvel-r-electrique-0551055/,31900,39135,140.0,6,Belgium
+Porsche,Macan,3.0,2016,Petrol,Suv,Gray,Geel,Automatic,https://www.vroom.be/fr/voitures-occasion/porsche-macan-essence-0325253/,58990,58237,268.0,6,Belgium
+Audi,Q8,3.0,2022,Diesel,Suv,White,Hasselt,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-q8-none-0379819/,79990,33996,344.0,6,Belgium
+Audi,Q2,1.5,2021,Petrol,Crossover,Black,Brugge,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-q2-essence-0523075/,32990,40000,111.0,6,Belgium
+Audi,Q2,1.5,2021,Petrol,Crossover,Black,Genk,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-q2-essence-0562311/,28500,24571,111.0,6,Belgium
+Mercedes Benz,Eqc,400,2021,Electric,Suv,Black,Tielt,Automatic,https://www.vroom.be/fr/voitures-occasion/mercedes-benz-eqc-400-electrique-0430139/,53975,11018,304.0,6,Belgium
+Audi,Tt,2.5,2021,Petrol,Coupe,Green,Bredene,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-tt-essence-0328243/,69990,9371,298.0,6,Belgium
+Peugeot,5008,2.0 HDi,2018,Diesel,Mpv,Gray,Vilvoorde,Automatic,https://www.vroom.be/fr/voitures-occasion/peugeot-5008-diesel-0546929/,27490,62604,131.0,6,Belgium
+Porsche,Macan,2.0,2022,Petrol,Suv,Gray,Maldegem,Automatic,https://www.vroom.be/fr/voitures-occasion/porsche-macan-essence-0412647/,81990,7000,197.0,6,Belgium
+Mclaren,Gt,4.0,2023,Petrol,Coupe,Beige,Waterloo,Automatic,https://www.vroom.be/fr/voitures-neuves/mclaren-gt-essence-0527219/,220000,10,462.0,6,Belgium
+Mclaren,Gt,4.0,2023,Petrol,Coupe,Gray,Waterloo,Automatic,https://www.vroom.be/fr/voitures-neuves/mclaren-gt-essence-0527218/,215000,10,462.0,6,Belgium
+Audi,A5,2.0,2023,Diesel,Sedan,Black,Tongeren,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-a5-diesel-0544107/,44990,28427,152.0,6,Belgium
+Jaguar,F-Pace,2.0,2017,Diesel,Crossover,Gray,Geel,Automatic,https://www.vroom.be/fr/voitures-occasion/jaguar-f-pace-diesel-0338062/,25990,105038,133.0,6,Belgium
+Bmw,X4,M40i,2019,Petrol,Suv,Black,Kuurne,Automatic,https://www.autogids.be/detail-id--9480590--bmw-m40i-leder-pano-360/tweedehands.html,43890,83695,263.0,6,Belgium
+Audi,S3,2.0 tfsi,2014,Petrol,Sedan,Gray,Oostkamp,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-s3-essence-0538295/,30990,44000,223.0,6,Belgium
+Ford,Ranger,2.0,2024,Diesel,Pickup,Gray,Rotselaar,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/ford/ranger/ford-ranger-vente-561717?,49973,15,152.0,6,Belgium
+Volkswagen,T-Roc,1.5 tsi,2020,Petrol,Convertible,Red,Brugge,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/volkswagen/t-roc/volkswagen-t-roc-vente-523750?,28495,23889,110.0,6,Belgium
+Audi,A4,2.0,2023,Diesel,Wagon,Gray,Overpelt,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-a4-diesel-0463279/,50990,13584,121.0,6,Belgium
+Mazda,Cx-5,2.0,2023,Petrol,Crossover,Gray,Halen,Automatic,https://www.vroom.be/fr/voitures-occasion/mazda-cx-5-essence-0559402/,34650,8298,123.0,6,Belgium
+Opel,Astra,1.4 D,2019,Petrol,Wagon,Silver,Sint Gillis Waas,Automatic,https://www.autogids.be/detail-id--9510864--opel-1774-innovation-sw-aut6/tweedehands.html,20990,80557,111.0,6,Belgium
+Audi,A5,2.0,2021,Diesel,Sedan,Black,Tienen,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-a5-diesel-0524081/,41990,15171,121.0,6,Belgium
+Volvo,Xc60,2.0,2021,Petrol,Crossover,Gray,Dendermonde,Automatic,https://www.vroom.be/fr/voitures-occasion/volvo-xc60-essence-0518888/,52900,35800,254.0,6,Belgium
+Porsche,Macan,3.0 s,2016,Petrol,Suv,Silver,Brugge,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/porsche/macan/porsche-macan-vente-518758?,33995,127795,250.0,6,Belgium
+Ford,S-Max,1.5,2020,Petrol,Mpv,Silver,Boortmeerbeek,Automatic,https://www.vroom.be/fr/voitures-occasion/ford-s-max-essence-0556706/,29800,48534,123.0,6,Belgium
+Nissan,X-Trail,1.6,2000,Diesel,Suv,Green,Sint Gillis Waas,Manual,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/nissan/x-trail/nissan-x-trail-vente-558729?,18990,30000,96.0,3,Belgium
+Ford,Focus,1.0 EcoBoost,2021,Petrol,Hatchback,Purple,Sint Gillis Waas,Automatic,https://www.autogids.be/detail-id--9556631--ford-2714-active-1-0i-ecoboost/tweedehands.html,22990,23840,93.0,6,Belgium
+Porsche,Macan,2.0,2019,Petrol,Suv,Gray,Tournai,Automatic,https://www.vroom.be/fr/voitures-occasion/porsche-macan-essence-0535708/,44990,117152,182.0,6,Belgium
+Volkswagen,Golf,2.0 GTI,2020,Petrol,Wagon,Black,Halen,Automatic,https://www.vroom.be/fr/voitures-occasion/volkswagen-golf-gti-essence-0510796/,27990,34596,182.0,6,Belgium
+Mercedes Benz,C-Class,220,2022,Diesel,Wagon,Gray,Hannut,Automatic,https://www.vroom.be/fr/voitures-occasion/mercedes-benz-c-220-diesel-0549705/,47900,24401,149.0,6,Belgium
+Jaguar,F-Pace,2.0,2021,Diesel,Crossover,White,Rotselaar,Automatic,https://www.vroom.be/fr/voitures-occasion/jaguar-f-pace-diesel-0297776/,49866,16982,152.0,6,Belgium
+Land Rover,Range Rover Sport,3.0,2016,Diesel,Suv,Blue,Brugge,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/land-rover/range-rover-sport/land-rover-range-rover-sport-vente-523797?,21995,199504,215.0,6,Belgium
+Mazda,Cx-5,2.0,2019,Petrol,Crossover,Red,Sint Truiden,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/mazda/cx-5/mazda-cx-5-2019-vente-511734?,25990,57195,121.0,6,Belgium
+Mercedes Benz,Glc-Class,43 AMG,2019,Petrol,Suv,Gray,Genk,Automatic,https://www.vroom.be/fr/voitures-occasion/mercedes-benz-glc-43-amg-essence-0502107/,41000,60500,273.0,6,Belgium
+Hyundai,Tucson,1.7 CRDi,2015,Diesel,Suv,Silver,Sint Gillis Waas,Manual,https://www.autogids.be/detail-id--9442773--hyundai-2428-1-7crdi-full-option-trekh/tweedehands.html,18490,95907,85.0,6,Belgium
+Ford,Kuga,2.5 turbo,2023,Petrol,Suv,White,Vilvoorde,Automatic,https://www.vroom.be/fr/voitures-occasion/ford-kuga-essence-0550046/,39990,11980,167.0,6,Belgium
+Land Rover,Discovery Sport,2.0,2020,Diesel,Suv,Black,Rotselaar,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/land-rover/discovery-sport/land-rover-discovery-sport-vente-519515?,36800,66055,134.0,6,Belgium
+Volkswagen,Golf,2.0,2023,Petrol,Sedan,Black,Genk,Automatic,https://www.vroom.be/fr/voitures-occasion/volkswagen-golf-essence-0524290/,47990,9218,238.0,6,Belgium
+Audi,A3,1.0,2023,Petrol,Sedan,Blue,Genk,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-a3-essence-0554795/,35990,7772,82.0,6,Belgium
+Land Rover,Range Rover Sport,3.0,2022,Diesel,Suv,Gray,Brugge,Automatic,https://www.vroom.be/fr/voitures-occasion/land-rover-range-rover-sport-diesel-0521262/,68995,34914,185.0,6,Belgium
+Citroen,C4 Picasso,1.2,2018,Petrol,Mpv,Silver,Sint Gillis Waas,Automatic,https://www.autogids.be/detail-id--9479831--citroen-2653-shine-130pk-pandak-trekha/tweedehands.html,18190,51684,96.0,6,Belgium
+Audi,A3,2.0 .35 TDI,2021,Diesel,Sedan,Blue,Tienen,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/audi/a3/audi-a3-2021-vente-555246?,33990,54925,111.0,6,Belgium
+Renault,Kadjar,1.7,2020,Diesel,Suv,Black,Aarschot,Manual,https://www.autogids.be/detail-id--9509105--renault-black-edition-blue-dci-150-4x4/tweedehands.html,28500,43642,111.0,6,Belgium
+Peugeot,508,1.5,2023,Diesel,Sedan,Black,Sint Niklaas,Automatic,https://www.autogids.be/detail-id--9524090--peugeot-gt-pack/tweedehands.html,36999,30445,96.0,6,Belgium
+Ssangyong,Korando,1.5,2020,Petrol,Suv,Blue,Roeselare,Automatic,https://www.autogids.be/detail-id--9466693--ssangyong-sapphire-2wd-aut-17000km/tweedehands.html,24990,17206,121.0,6,Belgium
+Land Rover,Range Rover Sport,3.0,2021,Diesel,Suv,Gray,Thuin,Automatic,https://www.autogids.be/detail-id--9538255--land-rover-hse-dynamic/tweedehands.html,63900,59900,185.0,6,Belgium
+Ford,Galaxy,1.5,2019,Petrol,Mpv,Gray,Boortmeerbeek,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/ford/galaxy/ford-galaxy-vente-533685?,26800,71065,122.0,6,Belgium
+Audi,Q5,2.0,2023,Diesel,Suv,Gray,Overpelt,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/audi/q5/audi-q5-2023-vente-560081?,52990,32,121.0,6,Belgium
+Hyundai,Kona,2.0,2019,Electric,Crossover,Red,Sint Niklaas,Automatic,https://www.vroom.be/fr/voitures-occasion/hyundai-kona-electrique-0565730/,29900,45000,152.0,6,Belgium
+Hyundai,Kona,1.0 T-GDi,2019,Petrol,Crossover,Gray,Kuurne,Manual,https://www.vroom.be/fr/voitures-occasion/hyundai-kona-essence-0559041/,18990,11743,89.0,6,Belgium
+Volkswagen,Tiguan,1.5,2022,Petrol,Crossover,Black,Ternat,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/volkswagen/tiguan/volkswagen-tiguan-2022-vente-561620?,37999,27103,111.0,6,Belgium
+Peugeot,5008,1.5,2021,Diesel,Mpv,Silver,Brugge,Manual,https://www.autogids.be/detail-id--9550410--peugeot-1-5bluehdi-allure-navi-7-plaatsen-led-12m/tweedehands.html,25995,55111,97.0,6,Belgium
+Peugeot,5008,1.2,2021,Petrol,Mpv,Blue,Ath,Manual,https://www.autogids.be/detail-id--9478180--peugeot-gt-line-focal-sound-pano/tweedehands.html,28980,29729,96.0,6,Belgium
+Volkswagen,Golf,1.6,2017,Diesel,Sedan,Gray,Herk De Stad,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/volkswagen/golf/volkswagen-golf-2017-vente-559059?,17500,76394,85.0,6,Belgium
+Ford,Mustang,5.0,2023,Petrol,Coupe,Blue,Machelen,Manual,https://www.vroom.be/fr/voitures-occasion/ford-mustang-essence-0554996/,88450,1200,378.0,6,Belgium
+Jaguar,F-Pace,2.0,2018,Diesel,Crossover,White,Izegem,Automatic,https://www.autogids.be/detail-id--9508294--jaguar-r-sport-pano-dak-leder/tweedehands.html,33975,74015,179.0,6,Belgium
+Audi,Q2,1.5 35 TFSI,2023,Petrol,Crossover,White,Geraardsbergen,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-q2-essence-0535363/,36990,27990,111.0,6,Belgium
+Ford,Ecosport,1.0 EcoBoost,2019,Petrol,Suv,White,Machelen,Manual,https://www.vroom.be/fr/voitures-occasion/ford-ecosport-essence-0561829/,16450,28184,93.0,6,Belgium
+Opel,Insignia,1.5,2021,Petrol,Wagon,Gray,Zedelgem,Manual,https://www.vroom.be/fr/voitures-occasion/opel-insignia-diesel-0521991/,24995,30500,90.0,6,Belgium
+Audi,Rs6,4.0 TFSI Quattro TipTronic,2022,Petrol,Wagon,Black,Ternat,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/audi/rs6/audi-rs6-2022-vente-557753?,139999,20420,447.0,6,Belgium
+Peugeot,2008,1.2 vti,2023,Electric,Crossover,Black,Bastogne,Automatic,https://www.autogids.be/detail-id--9541283--peugeot-ii-active-pack/tweedehands.html,24950,14863,101.0,6,Belgium
+Audi,A3,1.0,2019,Petrol,Sedan,Blue,Leuze En Hainaut,Manual,https://www.vroom.be/fr/voitures-occasion/audi-a3-essence-0447363/,21990,55000,86.0,6,Belgium
+Volkswagen,Tiguan,1.5,2020,Petrol,Crossover,White,Oostkamp,Automatic,https://www.vroom.be/fr/voitures-occasion/volkswagen-tiguan-essence-0557402/,30990,68050,111.0,6,Belgium
+Volkswagen,Tiguan,1.5,2020,Petrol,Crossover,Black,Overijse,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/volkswagen/tiguan/volkswagen-tiguan-2020-vente-560858?,27999,53492,111.0,6,Belgium
+Volkswagen,Tiguan,2.0,2020,Diesel,Crossover,Black,Antwerpen,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/volkswagen/tiguan/volkswagen-tiguan-2020-vente-557755?,35999,38946,111.0,6,Belgium
+Ford,Mustang Mach-E,GT,2022,Electric,Crossover,Orange,Houthalen Helchteren,Automatic,https://www.autogids.be/detail-id--9452626--ford-99-kwh-awd-extended-range-gt-lijna-360c-garantie/tweedehands.html,53999,29493,363.0,6,Belgium
+Audi,Q2,2.0 30 TDI,2022,Diesel,Crossover,Silver,Herent,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-q2-diesel-0550403/,26990,65221,86.0,6,Belgium
+Audi,Q2,1.0 30 TFSI,2022,Petrol,Crossover,Black,Hasselt,Manual,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/audi/q2/audi-q2-2022-vente-558393?,24990,33655,82.0,6,Belgium
+Audi,Q2,2.0 30 TDI,2022,Diesel,Crossover,Gray,Tienen,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-q2-diesel-0556173/,28500,32001,86.0,6,Belgium
+Porsche,Taycan,4S,2021,Electric,Sedan,Black,Knokke,Automatic,https://www.autogids.be/detail-id--9550057--porsche-4s-cross-turismo-acc-pano-full/tweedehands.html,111500,7500,425.0,6,Belgium
+Peugeot,208,1.2,2020,Petrol,Wagon,Black,Kuurne,Automatic,https://www.autogids.be/detail-id--9460744--peugeot-1-2i-gt-line-automaat-camera-cruise-full-led/tweedehands.html,20990,23695,75.0,6,Belgium
+Mazda,6,2.0,2019,Petrol,Wagon,Black,Turnhout,Manual,https://www.vroom.be/fr/voitures-occasion/mazda-6-essence-0520374/,22800,85260,121.0,6,Belgium
+Volvo,V60,2.0,2022,Diesel,Wagon,Black,Kortrijk,Automatic,https://www.vroom.be/fr/voitures-occasion/volvo-v60-diesel-0520856/,44950,14117,146.0,6,Belgium
+Audi,Tt,2.0 45 TFSI,2023,Petrol,Convertible,Black,Lokeren,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-tt-essence-0548202/,43490,27727,182.0,6,Belgium
+Audi,A5,2.0,2023,Petrol,Sedan,Blue,Tienen,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/audi/a5/audi-a5-2023-vente-528549?,41990,8977,111.0,6,Belgium
+Bmw,8 Series,830ci,2021,Petrol,Coupe,Black,Genk,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/bmw/840/bmw-840-2021-vente-526112?,65750,63998,248.0,6,Belgium
+Volkswagen,Golf,2.0,2023,Petrol,Sedan,Gray,Antwerpen,Automatic,https://www.vroom.be/fr/voitures-neuves/volkswagen-golf-essence-0523685/,47999,51,223.0,6,Belgium
+Ford,Kuga,1.5,2022,Petrol,Suv,Gray,Vilvoorde,Manual,https://www.autogids.be/detail-id--9464157--ford-st-line-x-full-option-led-demo-wagen/tweedehands.html,36990,3975,111.0,6,Belgium
+Bmw,X5,40i,2019,Petrol,Suv,Black,Kuurne,Automatic,https://www.vroom.be/fr/voitures-occasion/bmw-x5-essence-0515154/,49995,75000,253.0,6,Belgium
+Volkswagen,Tiguan,2.0,2019,Diesel,Crossover,Gray,Herk De Stad,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/volkswagen/tiguan/volkswagen-tiguan-2019-vente-557728?,27990,65684,111.0,6,Belgium
+Audi,A6,2.0 TDI,2022,Diesel,Wagon,Black,Tournai,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-a6-diesel-0229366/,59490,39990,121.0,6,Belgium
+Volvo,V60,2.0 t4,2021,Petrol,Wagon,Gray,Rotselaar,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/volvo/v60/volvo-v60-vente-516215?,37777,56044,141.0,6,Belgium
+Audi,Q3,1.4,2021,Petrol,Crossover,Blue,Blegny,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-q3-hybride-essence-0547326/,43990,5717,182.0,6,Belgium
+Opel,Mokka,1.2,2021,Petrol,Crossover,Gray,Diksmuide,Manual,https://www.vroom.be/fr/voitures-occasion/opel-mokka-essence-0402354/,19950,28243,75.0,6,Belgium
+Seat,Arona,1.0 tsi,2021,Petrol,Crossover,Gray,Bastogne,Automatic,https://www.vroom.be/fr/voitures-occasion/seat-arona-essence-0438588/,19850,40887,82.0,6,Belgium
+Peugeot,5008,1.2,2018,Petrol,Mpv,Blue,Wevelgem,Manual,https://www.autogids.be/detail-id--9540251--peugeot-allure-130pk-7pl-toit-pan/tweedehands.html,21490,46001,96.0,6,Belgium
+Volvo,S90,2.0,1969,Petrol,Sedan,Black,Antwerpen,Automatic,https://www.vroom.be/fr/voitures-occasion/volvo-s90-essence-0558735/,64950,11600,340.0,1,Belgium
+Ford,S-Max,2.0,2023,Diesel,Mpv,Black,Rotselaar,Automatic,https://www.autogids.be/detail-id--9468561--ford-st-line-190pk-automaat-full-option/tweedehands.html,39770,25681,141.0,6,Belgium
+Opel,Insignia,1.6,2019,Diesel,Wagon,Blue,Diksmuide,Automatic,https://www.vroom.be/fr/voitures-occasion/opel-insignia-diesel-0514900/,17950,94004,101.0,6,Belgium
+Opel,Corsa,1.4,2021,Electric,Wagon,Red,Erpe Mere,Automatic,https://www.vroom.be/fr/voitures-occasion/opel-corsa-electrique-0542475/,19999,13363,101.0,6,Belgium
+Audi,Q3,1.5 35 TFSI,2019,Petrol,Crossover,White,Overpelt,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/audi/q3/audi-q3-2019-vente-554658?,29990,49443,111.0,6,Belgium
+Audi,A6,2.0 TDI,2019,Diesel,Wagon,Blue,Overpelt,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/audi/a6/audi-a6-2019-vente-520956?,34990,110116,121.0,6,Belgium
+Volkswagen,Tiguan,1.4 TSI,2018,Petrol,Crossover,Gray,Brugge,Manual,https://www.autogids.be/detail-id--9479966--volkswagen-1-4-tsi-trendline-airco-panodak-alu-17-m/tweedehands.html,18995,97971,93.0,6,Belgium
+Ford,Kuga,2.0 TDCi,2017,Diesel,Suv,Gray,Herstal,Automatic,https://www.vroom.be/fr/voitures-occasion/ford-kuga-diesel-0546171/,17490,97742,111.0,6,Belgium
+Peugeot,308,1.2 vti,2021,Petrol,Wagon,Blue,Tielt,Manual,https://www.vroom.be/fr/voitures-occasion/peugeot-308-essence-0507788/,19495,20705,97.0,6,Belgium
+Peugeot,Rcz,1.6 THP,2015,Petrol,Coupe,Black,Halen,Manual,https://www.autogids.be/detail-id--9460894--peugeot-speciale-r-versie-met-270-pk-limited-edition/tweedehands.html,25900,85564,201.0,6,Belgium
+Volkswagen,Polo,1.0 tsi,2019,Petrol,Hatchback,Gray,Genk,Manual,https://www.autogids.be/detail-id--9516254--volkswagen-1-0-tsi-highline-pano-dak-navi-cam-19000km/tweedehands.html,17900,19000,70.0,6,Belgium
+Audi,Sq7,4.0,2022,Diesel,Suv,Black,Turnhout,Automatic,https://www.vroom.be/fr/voitures-neuves/audi-sq7-essence-0549784/,114890,611,378.0,6,Belgium
+Audi,A5,2.0,2022,Diesel,Sedan,Gray,Antwerpen,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/audi/a5/audi-a5-2022-vente-551797?,39999,44380,121.0,6,Belgium
+Hyundai,Tucson,1.6 GDi,2018,Petrol,Suv,Gray,Halen,Automatic,https://www.autogids.be/detail-id--9532599--hyundai-1-6-t-dgi-executive-12-maanden-garantie-1ste-e/tweedehands.html,20250,93860,131.0,6,Belgium
+Volkswagen,Passat,2.0,2022,Diesel,Wagon,Blue,Tienen,Automatic,https://www.vroom.be/fr/voitures-occasion/volkswagen-passat-diesel-0558906/,37990,50127,149.0,6,Belgium
+Cupra,Formentor,1.5 tsi,2022,Petrol,Crossover,White,Tienen,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/cupra/formentor/cupra-formentor-2022-vente-559055?,32500,18052,111.0,6,Belgium
+Mazda,3,2.0,2020,Petrol,Hatchback,Red,Zaventem,Manual,https://www.vroom.be/fr/voitures-occasion/mazda-3-essence-0536294/,20990,46705,134.0,6,Belgium
+Volkswagen,Tiguan,1.5 tsi,2022,Petrol,Crossover,Black,Overijse,Automatic,https://www.vroom.be/fr/voitures-occasion/volkswagen-tiguan-essence-0347722/,38999,1122,111.0,6,Belgium
+Audi,A4,2.0,2023,Diesel,Wagon,Black,Hasselt,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-a4-diesel-0543531/,42500,29296,121.0,6,Belgium
+Peugeot,2008,1.2 vti,2019,Petrol,Crossover,White,Marche En Famenne,Manual,https://www.autogids.be/detail-id--9442691--peugeot-gt-line-toit-pano-130ch/tweedehands.html,14688,57101,96.0,6,Belgium
+Peugeot,2008,1.2 vti,2019,Petrol,Crossover,Gray,Izegem,Manual,https://www.autogids.be/detail-id--9434566--peugeot-1-2b-navi-via-app-panodak-trekhaak/tweedehands.html,13475,34275,61.0,6,Belgium
+Volvo,V60,2.0,2019,Diesel,Wagon,Gray,Brugge,Automatic,https://www.vroom.be/fr/voitures-occasion/volvo-v60-diesel-0536390/,23995,90417,111.0,6,Belgium
+Volvo,V60,2.0,2019,Diesel,Wagon,Blue,Brugge,Automatic,https://www.autogids.be/detail-id--9533876--volvo-2-0-d3-geartronic-momentum-leder-navi-led/tweedehands.html,23995,69165,111.0,6,Belgium
+Ford,Ranger,2.0,1996,Diesel,Pickup,White,Izegem,Automatic,https://www.vroom.be/fr/voitures-neuves/ford-ranger-diesel-0553281/,49212,5,152.0,2,Belgium
+Ford,Ranger,2.0,1996,Diesel,Pickup,Orange,Izegem,Automatic,https://www.vroom.be/fr/voitures-neuves/ford-ranger-diesel-0553283/,47907,5,152.0,2,Belgium
+Škoda,Kodiaq,1.5 tsi,2023,Petrol,Suv,Black,Ternat,Automatic,https://www.vroom.be/fr/voitures-occasion/skoda-kodiaq-essence-0564524/,44999,13032,111.0,6,Belgium
+Volkswagen,Golf,2.0,2021,Petrol,Sedan,Green,Zaventem,Automatic,https://www.vroom.be/fr/voitures-occasion/volkswagen-golf-essence-0536304/,36990,40494,223.0,6,Belgium
+Volkswagen,Passat,2.0,2021,Diesel,Wagon,White,Zaventem,Automatic,https://www.vroom.be/fr/voitures-occasion/volkswagen-passat-diesel-0558954/,24490,52614,111.0,6,Belgium
+Hyundai,Kona,1.6,2022,Electric,Crossover,Blue,Hamme,Automatic,https://www.vroom.be/fr/voitures-occasion/hyundai-kona-electrique-0565282/,28500,34759,152.0,6,Belgium
+Porsche,Taycan,Turbo,2023,Electric,Sedan,Black,Turnhout,Automatic,https://www.autogids.be/detail-id--9309982--porsche-rwd-batt-plus-sportchrono-camera/tweedehands.html,99650,8099,284.0,6,Belgium
+Audi,Q2,1.4 TFSI,2018,Petrol,Crossover,White,Hasselt,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/audi/q2/audi-q2-2018-vente-528032?,23500,86589,111.0,6,Belgium
+Audi,Q2,1.0 TFSI,2018,Petrol,Crossover,Gray,Overpelt,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-q2-essence-0546904/,21990,72762,86.0,6,Belgium
+Ford,Focus,1.0,2021,Petrol,Hatchback,Gray,Rotselaar,Manual,https://www.autogids.be/detail-id--9521305--ford-clipper-st-line-mhev-155pk-full-option/tweedehands.html,24788,42185,115.0,6,Belgium
+Renault,Megane,1.3,2022,Petrol,Wagon,Gray,Halen,Automatic,https://www.vroom.be/fr/voitures-occasion/renault-megane-essence-0474392/,22690,65949,104.0,6,Belgium
+Audi,A6,2.0 TDI,2019,Diesel,Wagon,Gray,Genk,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-a6-diesel-0553166/,33990,89938,121.0,6,Belgium
+Volvo,V60,2.0,2018,Diesel,Wagon,Black,Brugge,Manual,https://www.vroom.be/fr/voitures-occasion/volvo-v60-diesel-0538508/,18495,60973,111.0,6,Belgium
+Land Rover,Range Rover Sport,3.0,2013,Diesel,Suv,Blue,Brugge,Automatic,https://www.vroom.be/fr/voitures-occasion/land-rover-range-rover-sport-diesel-0538422/,21995,199504,217.0,5,Belgium
+Ford,Ranger,2.0,2021,Diesel,Pickup,Orange,Harelbeke,Automatic,https://www.autogids.be/detail-id--9546238--ford-double-cab-wildtrak-2-0-biturbo-213pk-automaat/tweedehands.html,37950,49995,158.0,6,Belgium
+Volkswagen,Golf,1.5,2020,Petrol,Sedan,White,Zaventem,Manual,https://www.vroom.be/fr/voitures-occasion/volkswagen-golf-essence-0544150/,23490,41480,111.0,6,Belgium
+Opel,Astra,1.6,2023,Electric,Wagon,Yellow,Geel,Automatic,https://www.vroom.be/fr/voitures-occasion/opel-astra-electrique-0539227/,39999,4500,116.0,6,Belgium
+Audi,A3,1.0 30 TFSI,2023,Petrol,Sedan,Blue,Tienen,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/audi/a3/audi-a3-2023-vente-532574?,29990,30132,82.0,6,Belgium
+Audi,A3,1.0 30 TFSI,2023,Petrol,Sedan,Gray,Tongeren,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-a3-essence-0555485/,28990,19536,82.0,6,Belgium
+Renault,Kadjar,1.3,2022,Petrol,Suv,Silver,Dendermonde,Manual,https://www.vroom.be/fr/voitures-occasion/renault-kadjar-essence-0485180/,24495,27782,104.0,6,Belgium
+Audi,Q5,2.0 40 TDI,2022,Diesel,Suv,Red,Tienen,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-q5-diesel-0554796/,49990,15715,152.0,6,Belgium
+Mazda,Cx-5,2.2 D,2019,Diesel,Crossover,Red,Turnhout,Automatic,https://www.autogids.be/detail-id--9528474--mazda-2-2-skyactiv-d-takumi-full-option/tweedehands.html,23950,61440,137.0,6,Belgium
+Mercedes Benz,E-Class,220 D,2022,Diesel,Coupe,Silver,Izegem,Automatic,https://www.autogids.be/detail-id--9497806--mercedes-benz-e220-amg-pack-nightpack-belgian-car/tweedehands.html,69950,3969,144.0,6,Belgium
+Ssangyong,Korando,1.6,2022,Diesel,Suv,Gray,Roeselare,Manual,https://www.autogids.be/detail-id--9467443--ssangyong-diesel-nieuwstaat/tweedehands.html,25990,37479,101.0,6,Belgium
+Opel,Grandland X,1.2,2022,Petrol,Suv,Gray,Diksmuide,Automatic,https://www.autogids.be/detail-id--9534819--opel-1-2t-130pk-aut-ultimate-ledmatrix-360cam-navipro/tweedehands.html,28950,34437,96.0,6,Belgium
+Porsche,Boxster,2.7,2013,Petrol,Convertible,White,Brugge,Automatic,https://www.vroom.be/fr/voitures-occasion/porsche-boxster-essence-0538374/,43995,90914,197.0,5,Belgium
+Mercedes Benz,Sl-Class,4.0 AMG 55,2023,Petrol,Convertible,Gray,Huy,Automatic,https://www.vroom.be/fr/voitures-occasion/mercedes-benz-sl-55-amg-essence-0538088/,144990,7408,354.0,6,Belgium
+Mercedes Benz,Sl-Class,4.0 AMG 55,2023,Petrol,Convertible,Gray,Huy,Automatic,https://www.autogids.be/detail-id--9411715--mercedes-benz-sl-55-amg-4matic/tweedehands.html,138990,7408,354.0,6,Belgium
+Bmw,I8,1.5,2015,Hybrid,Coupe,Gray,Brugge,Automatic,https://www.autogids.be/detail-id--9490894--bmw-navi-display-key-comfort-acces-49gr-co2/tweedehands.html,59995,94054,172.0,6,Belgium
+Audi,A3,1.0 30 TFSI,2022,Petrol,Sedan,Gray,Overpelt,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-a3-essence-0524011/,29990,39638,82.0,6,Belgium
+Audi,A3,1.0 30 TFSI,2022,Petrol,Sedan,Gray,Overpelt,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/audi/a3/audi-a3-2022-vente-520955?,29990,39474,82.0,6,Belgium
+Audi,A3,1.0 30 TFSI,2022,Petrol,Sedan,Gray,Tienen,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/audi/a3/audi-a3-2022-vente-525176?,29990,24708,82.0,6,Belgium
+Audi,A3,2.0 40 TFSI,2022,Petrol,Sedan,Red,Overpelt,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-a3-essence-0545945/,37990,11530,141.0,6,Belgium
+Audi,A3,1.0 30 TFSI,2022,Petrol,Sedan,Silver,Tienen,Automatic,https://www.vroom.be/fr/voitures-occasion/audi-a3-essence-0548186/,31500,11358,82.0,6,Belgium
+Mercedes Benz,C-Class,200 D,2021,Diesel,Hatchback,Silver,Roeselare,Automatic,https://www.autogids.be/detail-id--9500428--mercedes-benz-d-9g-tronic-amg-gps-night-led-hifi/tweedehands.html,35990,37000,119.0,6,Belgium
+Peugeot,3008,1.2 puretech,2019,Petrol,Crossover,Black,Bornem,Manual,https://www.autogids.be/detail-id--9544094--peugeot-1-2-puretech-allure-eu6-2-electric-massage/tweedehands.html,15590,86604,97.0,6,Belgium
+Peugeot,3008,1.2,2019,Petrol,Crossover,Black,Herve,Automatic,https://www.autotrends.be/fr/occasions/voiture-occasion-belgique/auto/peugeot/3008/peugeot-3008-2019-vente-531643?,21990,53437,97.0,6,Belgium
+Jaguar,F-Pace,2.0,2020,Diesel,Crossover,Silver,Asse,Automatic,https://www.vroom.be/fr/voitures-occasion/jaguar-f-pace-diesel-0333202/,41500,64803,133.0,6,Belgium

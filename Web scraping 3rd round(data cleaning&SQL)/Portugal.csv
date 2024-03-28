@@ -1,0 +1,301 @@
+Price,Make,Model,Trim,Mi,Year,Fuel type,Body type,Color,City,Power,Transmission,Contact
+"26,750 EUR",Bmw,X3,D,"210,000 km",2015,Diesel,Suv,Black,Lisboa,141 kW (192 HP),Automatic,https://www.abmotor.pt/carros/Bmw/X3/477632/
+"16,650 EUR",Volkswagen,Polo,1.0 tsi,"70,000 km",2022,Petrol,Hatchback,Black,Porto,70 kW (95 HP),Manual,https://www.abmotor.pt/carros/Vw/Polo/486303/
+"17,990 EUR",Seat,Leon,1.0,"49,000 km",2018,Petrol,Hatchback,Black,Braga,85 kW (116 HP),Manual,https://auto.sapo.pt/carro-usado/654214af6116f0345bb7e4cc/seat-leon
+"25,450 EUR",Bmw,Z4,i,"109,000 km",2012,Petrol,Convertible,Black,Porto,182 kW (248 HP),Automatic,https://carmine.pt/carros-usados/bmw-z4-28-i-pack-m-245-porto/90f5fe66-01fb-43d9-ac07-8a3f97bc0a32
+"38,400 EUR",Mazda,Mx-5 Miata,1.5,583 km,2022,Petrol,Coupe,Gray,Vila Nova De Gaia,98 kW (133 HP),Manual,https://www.custojusto.pt//porto/veiculos/carros-usados/coupe-cabrio/mazda-mx-5-1-5-rf-sky-g-excell-42014409
+"21,800 EUR",Mercedes Benz,C-Class,,"130,000 km",2017,Diesel,Sedan,Gray,Lisboa,101 kW (137 HP),Automatic,https://www.abmotor.pt/carros/Mercedes-benz/C%20200/484269/
+"32,990 EUR",Mercedes Benz,C-Class,300,"127,000 km",2018,Diesel,Sedan,Blue,Braga,182 kW (248 HP),Automatic,https://auto.sapo.pt/carro-usado/652a4ce0c811cf9831bf2d0b/mercedes-benz-classe-c
+"9,950 EUR",Volkswagen,Polo,1.2,"91,104 km",2010,Petrol,Hatchback,Gray,Leiria,52 kW (71 HP),Manual,https://auto.sapo.pt/carro-usado/65cddf82fa7067d9e1cbcf97/volkswagen-polo
+"13,999 EUR",Citroen,C4 Cactus,1.6,"122,544 km",2014,Diesel,Hatchback,Black,Feira,68 kW (92 HP),Automatic,https://carmine.pt/carros-usados/citroen-c4-cactus-16-e-hdi-shine-etg6-92-aveiro/da6bf023-4643-4759-99c4-24cd56141079
+"17,900 EUR",Nissan,Juke,1.6,"50,800 km",2015,Petrol,Crossover,Gray,Loures,87 kW (118 HP),Automatic,https://www.standnet.pt/anuncio/Nissan-Juke-1.6-Tekna-Premium-Xtronic-Gasolina-Usado-iid=46080
+"13,500 EUR",Audi,A1,1.6 TDI,"169,000 km",2011,Diesel,Mini,White,Aveiro,67 kW (91 HP),Manual,https://carmine.pt/carros-usados/audi-a1-16-tdi-s-line-90-aveiro/15cea3dc-fdd5-4387-b5ea-34d85fedaa80
+"21,950 EUR",Mercedes Benz,Slk-Class,200 K,"121,000 km",2007,Petrol,Convertible,Gray,Porto,121 kW (165 HP),Manual,https://auto.sapo.pt/carro-usado/653a2979911c31234c85e564/mercedes-benz-classe-slk
+"11,980 EUR",Bmw,Z3,,"182,000 km",2000,Petrol,Convertible,Black,Viseu,87 kW (118 HP),Manual,https://auto.sapo.pt/carro-usado/65dc68f4b81bebd5809972c5/bmw-z3-19
+"15,950 EUR",Volvo,V40,1.6,"50,000 km",2014,Diesel,Wagon,Black,Porto,85 kW (116 HP),Manual,https://carmine.pt/carros-usados/volvo-v40-16-d2-vor-115-porto/f7ef0c89-a0b6-4cb8-8ed9-676ee07422ea
+"79,980 EUR",Bentley,Continental Gtc,6.0,"100,900 km",2007,Petrol,Convertible,Black,Lisboa,417 kW (567 HP),Automatic,https://www.abmotor.pt/carros/Bentley/Continental%20GTC/482729/
+"28,950 EUR",Nissan,Qashqai,1.5 dCi,"98,000 km",2020,Diesel,Crossover,Gray,Setúbal,85 kW (116 HP),Automatic,https://auto.sapo.pt/carro-usado/65286641ab1f052ad9bc430b/nissan-qashqai
+"22,450 EUR",Nissan,Qashqai,1.5 dCi,"97,000 km",2020,Diesel,Crossover,Gray,Porto,85 kW (116 HP),Manual,https://carmine.pt/carros-usados/nissan-qashqai-15-dci-n-connecta-j18-115-porto/1820e868-5998-435d-a1d8-dcbffa452301
+"28,990 EUR",Audi,A3,2.0 30 TDI,"57,573 km",2022,Diesel,Coupe,Black,Vila Real,86 kW (117 HP),Manual,https://carmine.pt/carros-usados/audi-a3-30-tdi-116-vila-real/c198f667-f9d5-405e-aeb8-a3523bc9bdd4
+"15,980 EUR",Kia,Sportage,1.7 CRDi,"182,743 km",2014,Diesel,Crossover,White,Santarém,85 kW (116 HP),Manual,https://carmine.pt/carros-usados/kia-sportage-17-crdi-isg-tx-navi-115-santarem/48fda5ff-3390-4f25-9d03-c870bb59dbca
+"38,000 EUR",Audi,A7,3.0 BiTDI V6 Quattro TipTronic,"162,048 km",2015,Diesel,Sedan,Black,Porto,238 kW (324 HP),Automatic,https://auto.sapo.pt/carro-usado/65ba6a948d5089c4ee2a7a61/audi-a7-30-bitdi-v6-quattro-s-line-tiptronic
+"16,900 EUR",Mercedes Benz,Slk-Class,200 K,"203,535 km",2009,Petrol,Convertible,Black,Porto,136 kW (185 HP),Manual,https://carmine.pt/carros-usados/mercedes-classe-slk-slk-200-k-163-porto/75c0384d-6790-47bf-b139-e54184a35de0
+"8,950 EUR",Ford,S-Max,1.8 TDCi,"259,400 km",2006,Diesel,Mpv,Black,Braga,93 kW (126 HP),Manual,https://auto.sapo.pt/carro-usado/652fe88ee5167b5ce6d1da91/ford-s-max-20-tdci-titanium-7l
+"9,900 EUR",Audi,A4,2.0,"341,000 km",2010,Diesel,Sedan,Gray,Porto,101 kW (137 HP),Manual,https://auto.sapo.pt/carro-usado/65f174beb209b824ba960282/audi-a4
+"49,500 EUR",Audi,Q7,3.0 TDI,"129,000 km",2018,Diesel,Suv,Gray,Porto,202 kW (275 HP),Automatic,https://carmine.pt/carros-usados/audi-q7-30-tdi-quattro-s-line-tiptronic-272-porto/a552942f-c54e-4226-b186-f6f894783ed8
+"43,970 EUR",Volkswagen,Sharan,2.0 TDI,"65,000 km",2020,Diesel,Van,Black,Setúbal,111 kW (151 HP),Automatic,https://carmine.pt/carros-usados/volkswagen-sharan-20-tdi-confortline-dsg-150-setubal/87a6f04a-b96a-4dc9-bdda-9c1c535ef717
+"38,500 EUR",Audi,A7,3.0,"139,300 km",2016,Diesel,Sedan,Gray,Aveiro,202 kW (275 HP),Automatic,https://auto.sapo.pt/carro-usado/652e5eba5b4f2637be7c5090/audi-a7
+"9,990 EUR",Bmw,X5,,"185,250 km",2001,Petrol,Suv,Black,Porto,213 kW (290 HP),Automatic,https://carmine.pt/carros-usados/bmw-x5-44-286-porto/cace55ee-63e1-475f-924c-78e520b63ae0
+"7,900 EUR",Hyundai,I20,1.1,"213,550 km",2014,Diesel,Hatchback,White,Lisboa,55 kW (75 HP),Manual,https://auto.sapo.pt/carro-usado/65d772238204cc01f6476a01/hyundai-i20
+"12,500 EUR",Audi,A4,2.0,"244,376 km",2008,Diesel,Sedan,Silver,Porto,106 kW (144 HP),Manual,https://carmine.pt/carros-usados/audi-a4-20-tdi-143-porto/c49f0c97-cbca-4bbd-9052-81afc7d35e35
+"11,990 EUR",Audi,A4,2.0,"172,000 km",2008,Diesel,Sedan,Black,Braga,126 kW (171 HP),Manual,https://auto.sapo.pt/carro-usado/652f95629a39f4a303b39a4a/audi-a4
+"32,990 EUR",Bmw,I3,,"38,846 km",2020,Electric,Hatchback,White,Porto,126 kW (171 HP),Automatic,https://carmine.pt/carros-usados/bmw-i3-120ah-170-porto/b2f3b013-7097-4ce3-8973-81dcc0083e31
+"26,900 EUR",Bmw,I3,,"30,000 km",2020,Electric,Hatchback,Gray,Porto,126 kW (171 HP),Automatic,https://auto.sapo.pt/carro-usado/656702150f3a4462903db576/bmw-i3
+"23,850 EUR",Kia,Sportage,1.7 CRDi,"149,985 km",2017,Diesel,Crossover,White,Coimbra,105 kW (143 HP),Automatic,https://carmine.pt/carros-usados/kia-sportage-17-crdi-isg-gt-line-7dct-141-coimbra/63de132a-c99f-48ac-bad4-de8a1fd4da7e
+"20,990 EUR",Kia,Sportage,1.7 CRDi,"110,503 km",2017,Diesel,Crossover,Black,Setúbal,85 kW (116 HP),Manual,https://carmine.pt/carros-usados/kia-sportage-17-crdi-isg-tx-115-setubal/14113bf9-9ba2-4f64-8c69-36a6129ada56
+"43,500 EUR",Audi,A7,3.0 50 TDI quattro,"143,000 km",2018,Diesel,Sedan,Gray,Porto,213 kW (290 HP),Automatic,https://auto.sapo.pt/carro-usado/6528244b8908934eb656befe/audi-a7
+"11,500 EUR",Citroen,C3,1.2 puretech,"112,778 km",2017,Petrol,Hatchback,Red,Lisboa,50 kW (68 HP),Manual,https://carmine.pt/carros-usados/citroen-c3-12-puretech-feel-68-lisboa/99dee5b3-b429-4bd6-96b1-10f3e030a99b
+"26,990 EUR",Audi,A6,2.0 TDI,"92,605 km",2017,Diesel,Sedan,Gray,Porto,111 kW (151 HP),Automatic,https://carmine.pt/carros-usados/audi-a6-20-tdi-sport-s-tronic-150-porto/28da4f55-0113-4b4b-919f-9c7c6a02ab72
+"25,900 EUR",Audi,A6 Allroad,3.0 BiTDI Quattro TipTronic,"156,000 km",2013,Diesel,Crossover,Black,Lisboa,233 kW (317 HP),Automatic,https://auto.sapo.pt/carro-usado/65d8b72bba7ef092fe2b974b/audi-a6-allroad-30-bitdi-v6-quattro-tiptronic
+"19,490 EUR",Volkswagen,Polo,1.0 tsi,"60,493 km",2022,Petrol,Hatchback,White,Porto,70 kW (95 HP),Manual,https://auto.sapo.pt/carro-usado/65c3472c94098b2e884d6db9/volkswagen-polo
+"17,599 EUR",Volkswagen,Polo,1.0 tsi,"52,024 km",2022,Petrol,Hatchback,Gray,Aveiro,70 kW (95 HP),Manual,https://auto.sapo.pt/carro-usado/65b8bb48c34f911a8bbc1d92/volkswagen-polo
+"17,599 EUR",Volkswagen,Polo,1.0 tsi,"48,033 km",2022,Petrol,Hatchback,Blue,Aveiro,70 kW (95 HP),Manual,https://auto.sapo.pt/carro-usado/65bbb47e9d1cce2311bb6f52/volkswagen-polo
+"18,750 EUR",Volkswagen,Polo,1.0 tsi,"44,000 km",2022,Petrol,Hatchback,Gray,Braga,70 kW (95 HP),Manual,https://carmine.pt/carros-usados/volkswagen-polo-10-tsi-life-95-braga/2374c48b-e69c-41de-92ed-dd6f3c6bd27c
+"18,950 EUR",Volkswagen,Polo,1.0 tsi,"31,000 km",2022,Petrol,Hatchback,Gray,Porto,70 kW (95 HP),Manual,https://carmine.pt/carros-usados/volkswagen-polo-10-tsi-life-95-porto/3a30fb22-1611-49e5-9ebc-306ad24da850
+"19,950 EUR",Volkswagen,Polo,1.0 tsi,"15,000 km",2022,Petrol,Hatchback,Gray,Porto,70 kW (95 HP),Manual,https://carmine.pt/carros-usados/volkswagen-polo-10-tsi-life-95-porto/aa691c7a-bd07-48cd-803f-d3ff34d5d285
+"15,950 EUR",Audi,A1,1.4 TDI,"185,000 km",2018,Diesel,Mini,Red,Condeixa A Nova,67 kW (91 HP),Manual,https://carmine.pt/carros-usados/audi-a1-14-tdi-design-90-coimbra/0f5c899a-4271-4002-b8e5-ca181b84481b
+"14,990 EUR",Audi,A6,2.7 TDI V6,"260,000 km",2010,Diesel,Sedan,Gray,Setúbal,141 kW (192 HP),Manual,https://auto.sapo.pt/carro-usado/65286ffbab1f052ad9bc5aee/audi-a6
+"14,980 EUR",Audi,A6,2.0 TDIe,"202,228 km",2010,Diesel,Sedan,Blue,Santarém,101 kW (137 HP),Manual,https://auto.sapo.pt/carro-usado/65fb0c80dc5ad5f89634142e/audi-a6
+"15,300 EUR",Audi,A6,2.0 TDI MultiTronic,"190,000 km",2010,Diesel,Sedan,Silver,Rana,101 kW (137 HP),Automatic,https://auto.sapo.pt/carro-usado/65b0dfb8e56629a45b902055/audi-a6
+"14,250 EUR",Kia,Picanto,1.0,"42,750 km",2022,Petrol,Mini,Gray,Porto,49 kW (67 HP),Manual,https://carmine.pt/carros-usados/kia-picanto-10-cvvt-urban-67-porto/8d446070-a149-4de0-ab46-aed28a094bc4
+"33,990 EUR",Audi,A6,3.0 TDI Quattro,"130,000 km",2011,Diesel,Sedan,Black,Porto,182 kW (248 HP),Automatic,https://carmine.pt/carros-usados/audi-a6-30-tdi-v6-quattro-s-line-s-tronic-245-porto/bd442b8d-3102-4b23-9ffb-496e952bac89
+"8,900 EUR",Kia,Venga,1.4 CRDi,"247,862 km",2012,Diesel,Mini,White,Viana Do Castelo,57 kW (78 HP),Manual,https://carmine.pt/carros-usados/kia-venga-14-crdi-ex-isg-77-viana-do-castelo/fc0f18c0-2edc-46b6-871d-82d0e8ed5bc0
+"24,900 EUR",Honda,Hr-V,1.6 i-dtec,"54,000 km",2019,Diesel,Crossover,Gray,Lisboa,89 kW (121 HP),Manual,https://carmine.pt/carros-usados/honda-hr-v-16-i-dtec-elegance+connect-navi-120-lisboa/0632179f-ac44-497d-95dc-9878519beb88
+"26,990 EUR",Bmw,X5,i,"109,313 km",2007,Petrol,Suv,Gray,Lisboa,264 kW (359 HP),Automatic,https://carmine.pt/carros-usados/bmw-x5-48-i-355-lisboa/7411e1ec-6dfe-40a0-b26e-1687fd3b90af
+"23,450 EUR",Kia,Stonic,1.0 T-GDi,"77,950 km",2021,Petrol,Crossover,Silver,Leiria,89 kW (121 HP),Automatic,https://carmine.pt/carros-usados/kia-stonic-10-t-gdi-gt-line-7dct-120-leiria/154ac64c-4f11-4324-9a52-d2b365c44b02
+"8,800 EUR",Audi,A6,2.0 TDI,"207,000 km",2006,Diesel,Sedan,Gray,Setúbal,104 kW (141 HP),Manual,https://auto.sapo.pt/carro-usado/651468bd4b4611539791121d/audi-a6-20-tdi-exclusive-i
+"17,950 EUR",Audi,A6,2.0 TDI MultiTronic,"248,000 km",2013,Diesel,Sedan,Gray,Setúbal,131 kW (178 HP),Automatic,https://carmine.pt/carros-usados/audi-a6-20-tdi-exclusive-multitronic-177-setubal/3944303a-f39e-4fbd-9bd4-5df121babc52
+"19,990 EUR",Audi,A6,2.0 TDI MultiTronic,"207,933 km",2013,Diesel,Sedan,Gray,Lisboa,131 kW (178 HP),Automatic,https://auto.sapo.pt/carro-usado/65e203f37c1b958679a5c2eb/audi-a6
+"8,900 EUR",Volkswagen,Polo,1.2,"156,599 km",2011,Diesel,Hatchback,White,Lisboa,55 kW (75 HP),Manual,https://carmine.pt/carros-usados/volkswagen-polo-12-tdi-bluemotion-75-lisboa/9bc35ba2-fb9c-4597-bf3b-97516fdb11ad
+"19,950 EUR",Audi,A6,2.0 TDI,"224,818 km",2014,Diesel,Sedan,Gray,Aveiro,141 kW (192 HP),Automatic,https://carmine.pt/carros-usados/audi-a6-20-tdi-s-line-s-tronic-190-aveiro/50d50854-8ba7-45c6-98d5-d58cef68c7f1
+"66,000 EUR",Porsche,911,3.8 S,"140,000 km",2006,Petrol,Coupe,Gray,Vila Do Conde,264 kW (359 HP),Automatic,https://www.custojusto.pt//porto/veiculos/carros-usados/coupe-cabrio/porsche-997-carrera-s-tiptroni-37626151
+"17,900 EUR",Seat,Leon,1.6 TDI,"90,000 km",2019,Diesel,Hatchback,Black,Lisboa,85 kW (116 HP),Automatic,https://carmine.pt/carros-usados/seat-leon-st-16-tdi-style-dsg-ss-115-lisboa/6f38b35b-2283-457d-b8c9-1d63815c5fe0
+"16,750 EUR",Seat,Leon,1.0,"45,000 km",2019,Petrol,Hatchback,Black,Lisboa,85 kW (116 HP),Manual,https://carmine.pt/carros-usados/seat-leon-10-ecotsi-style-ss-115-lisboa/fb7876eb-024c-4758-a2d7-6a716f7c0db0
+"3,700 EUR",Ford,Mondeo,1.8,"244,589 km",1999,Diesel,Sedan,Blue,Setúbal,67 kW (91 HP),Manual,https://carmine.pt/carros-usados/ford-mondeo-18-td-ghia-90-setubal/e4ef4f55-0704-499f-bfe2-f358d41a31a7
+"18,990 EUR",Bmw,X5,D,"241,200 km",2009,Diesel,Suv,Black,Porto,212 kW (288 HP),Automatic,https://carmine.pt/carros-usados/bmw-x5-35-d-xdrive-285-porto/9148513b-98ce-40ae-ab0b-37de6023facf
+"37,450 EUR",Nissan,Navara,2.3,"147,000 km",2017,Diesel,Pickup,Black,Coimbra,141 kW (192 HP),Automatic,https://carmine.pt/carros-usados/nissan-navara-n23-dci-cd-4wd-n-conna+baat-190-coimbra/d7773b07-5888-4fc4-a638-aab74d0877bc
+"23,600 EUR",Nissan,Qashqai,1.5 dCi,"67,000 km",2019,Diesel,Crossover,Black,Porto,85 kW (116 HP),Manual,https://www.abmotor.pt/carros/Nissan/Qashqai/481269/
+"22,990 EUR",Nissan,Qashqai,1.3 DIG-T,"48,764 km",2019,Petrol,Crossover,White,Valongo,119 kW (162 HP),Manual,https://carmine.pt/carros-usados/nissan-qashqai-13-dig-t-n-connecta-j18-160-porto/2c519816-ef02-4121-a88d-bdf8d8777b52
+"16,900 EUR",Suzuki,Ignis,1.2,"5,600 km",2023,Petrol,Mpv,Gray,Braga,61 kW (83 HP),Manual,https://www.custojusto.pt//braga/veiculos/carros-usados/citadino/suzuki-ignis-1-2-glx-mild-hybr-42333544
+"25,998 EUR",Mazda,Mx-30,,"20,218 km",2021,Electric,Crossover,Black,Feira,108 kW (147 HP),Automatic,https://carmine.pt/carros-usados/mazda-mx-30-e-skyactiv-ex+plus-pack+vintage-leatherette-145-aveiro/1af2e63c-41b2-402d-a253-9c2eb7d0d94a
+"40,999 EUR",Audi,E-Tron,50 quattro,"29,731 km",2021,Electric,Suv,Blue,Porto,233 kW (317 HP),Automatic,https://carmine.pt/carros-usados/audi-e-tron-sb-50-quattro-s-line-313-porto/0c33f1f6-27f2-49d1-a62c-f94509d2e35c
+"49,499 EUR",Audi,E-Tron,50 quattro,"19,703 km",2021,Electric,Suv,Black,Porto,304 kW (413 HP),Automatic,https://carmine.pt/carros-usados/audi-e-tron-sb-55-quattro-s-line-408-porto/7e733d63-6b49-43d4-8b7e-ccf0f71c2784
+"25,450 EUR",Audi,A6,2.0 TDI,"191,830 km",2015,Diesel,Sedan,Blue,Aveiro,111 kW (151 HP),Automatic,https://auto.sapo.pt/carro-usado/65faff52dc5ad5f89633fddb/audi-a6
+"21,990 EUR",Audi,A6,2.0 TDI,"190,000 km",2015,Diesel,Sedan,Gray,Aveiro,141 kW (192 HP),Automatic,https://auto.sapo.pt/carro-usado/65288582ab1f052ad9bc8cbb/audi-a6
+"21,480 EUR",Audi,A6,2.0 TDI,"161,602 km",2015,Diesel,Sedan,Gray,Aveiro,141 kW (192 HP),Automatic,https://carmine.pt/carros-usados/audi-a6-20-tdi-business-line-s-tronic-190-aveiro/c4b89ead-e644-43a0-b706-64a8dce12483
+"32,990 EUR",Volkswagen,Golf,2.0 GTI,"142,913 km",2018,Petrol,Hatchback,Blue,Aveiro,182 kW (248 HP),Manual,https://auto.sapo.pt/carro-usado/652885c2ab1f052ad9bc8d61/volkswagen-golf
+"10,990 EUR",Audi,A3,2.0 TDI,"232,812 km",2007,Diesel,Coupe,Gray,Pombal,126 kW (171 HP),Automatic,https://carmine.pt/carros-usados/audi-a3-20-tdi-s-line-s-tronic-170-leiria/29e8952a-ea69-4514-bba4-122e2b6386ad
+"31,996 EUR",Audi,A6,2.0 TDI,"165,498 km",2016,Diesel,Sedan,White,Aveiro,141 kW (192 HP),Automatic,https://carmine.pt/carros-usados/audi-a6-20-tdi-s-line-s-tronic-190-aveiro/95bf4a8c-a23d-4406-b536-db82448ffbf4
+"24,900 EUR",Nissan,Qashqai,1.5 dCi,"139,109 km",2021,Diesel,Crossover,White,Queluz,85 kW (116 HP),Automatic,https://auto.sapo.pt/carro-usado/657d6e88b640cc4077e11750/nissan-qashqai
+"27,900 EUR",Nissan,Qashqai,1.5 dCi,"122,840 km",2021,Diesel,Crossover,Gray,Queluz,85 kW (116 HP),Manual,https://auto.sapo.pt/carro-usado/6548bd808820876fba9af979/nissan-qashqai
+"12,500 EUR",Bmw,3 Series,318Ci,"170,000 km",2004,Petrol,Convertible,Blue,Braga,106 kW (144 HP),Manual,https://carmine.pt/carros-usados/bmw-serie-3-318-ci-cabrio-sport-143-braga/8a31ac7c-9a30-446d-aa20-a2f2257c015a
+"38,999 EUR",Audi,A6,2.0 TDI,"143,000 km",2017,Diesel,Sedan,Gray,Porto,141 kW (192 HP),Automatic,https://carmine.pt/carros-usados/audi-a6-20-tdi-s-line-s-tronic-190-porto/af3883fc-5190-493f-9e06-6814c1ff4d0c
+"29,900 EUR",Audi,A6,2.0 TDI,"137,000 km",2017,Diesel,Sedan,Gray,Setúbal,141 kW (192 HP),Manual,https://auto.sapo.pt/carro-usado/65ba6bb0455b66dd0fbcb47b/audi-a6
+"24,900 EUR",Audi,A6,2.0 TDI,"121,000 km",2017,Diesel,Sedan,Black,Lisboa,111 kW (151 HP),Automatic,https://carmine.pt/carros-usados/audi-a6-20-tdi-sport-s-tronic-150-lisboa/9c453611-311d-4a39-be44-ccf63e688e81
+"64,990 EUR",Bmw,X4,,"50,000 km",2021,Diesel,Suv,Black,Braga,141 kW (192 HP),Automatic,https://carmine.pt/carros-usados/bmw-x4-20-d-xdrive-x-pack-m-auto-190-braga/9be65f0a-33f9-438c-b05f-0e001cf7b23e
+"25,950 EUR",Volkswagen,Sharan,2.0 TDI,"170,000 km",2016,Diesel,Van,Blue,Vila Nova De Gaia,137 kW (186 HP),Automatic,https://www.custojusto.pt//porto/veiculos/carros-usados/monovolume/vw-sharan-2-0-tdi-highline-dsg-42375527
+"26,900 EUR",Audi,A5,2.0,"97,000 km",2017,Diesel,Coupe,Gray,Porto,141 kW (192 HP),Automatic,https://carmine.pt/carros-usados/audi-a5-20-tdi-s-tronic-190-porto/7baae60c-82a9-4f4e-8027-0177414e856c
+"13,900 EUR",Volkswagen,Up!,1.0 Cross,"87,000 km",2018,Petrol,Mini,White,Lisboa,55 kW (75 HP),Manual,https://carmine.pt/carros-usados/volkswagen-up-10-cross-!-75-lisboa/a19f4ab5-e244-4cfe-a6e5-e114590a9c85
+"48,199 EUR",Porsche,Panamera,3.0,"128,624 km",2011,Diesel,Sedan,Black,Feira,186 kW (253 HP),Automatic,https://carmine.pt/carros-usados/porsche-panamera-panamera-250-aveiro/7aaff200-4fb7-4801-a5bc-3bd57f617e8f
+"20,990 EUR",Mini,Cooper,1.5,"95,000 km",2017,Diesel,Convertible,White,Lisboa,111 kW (151 HP),Manual,https://auto.sapo.pt/carro-usado/65e1ac137c1b958679a5a369/mini-cabrio-cooper-d
+"32,750 EUR",Audi,A6,2.0 40 TDI,"137,000 km",2019,Diesel,Sedan,Gray,Porto,152 kW (207 HP),Automatic,https://auto.sapo.pt/carro-usado/65e43d14bc3ed9517c40ebce/audi-a6
+"51,990 EUR",Audi,A6,2.0 40 TDI,"130,000 km",2019,Diesel,Sedan,Gray,Porto,152 kW (207 HP),Automatic,https://www.custojusto.pt//porto/veiculos/carros-usados/carrinha/audi-a6-40-tdi-sport-s-tronic-40646143
+"23,500 EUR",Mini,Countryman,1.6 One D,"81,000 km",2019,Diesel,Crossover,Black,Porto,86 kW (117 HP),Manual,https://carmine.pt/carros-usados/mini-mini-countryman-mini-one-d-116-porto/3515cbc7-fa9f-4c69-aa36-3b5ea0b3e60a
+"34,500 EUR",Mercedes Benz,C-Class,,"151,000 km",2020,Diesel,Coupe,Blue,Setúbal,144 kW (196 HP),Automatic,https://carmine.pt/carros-usados/mercedes-classe-c-c-220-d-amg-line-194-setubal/911f9c06-45ee-4237-9663-a1971401e119
+"34,990 EUR",Mercedes Benz,C-Class,,"137,000 km",2020,Diesel,Wagon,Gray,Lisboa,144 kW (196 HP),Automatic,https://carmine.pt/carros-usados/mercedes-classe-c-c-220-d-amg-line-194-lisboa/efa6e477-3ae2-4bac-86ba-a4929293bee6
+"20,900 EUR",Nissan,Qashqai,1.5 dCi,"96,000 km",2018,Diesel,Crossover,Black,Trofa,85 kW (116 HP),Manual,https://carmine.pt/carros-usados/nissan-qashqai-15-dci-n-connecta-j18-115-porto/ea41c28b-b743-4883-a430-cb35a3ee9099
+"20,900 EUR",Nissan,Qashqai,1.5 dCi,"76,000 km",2018,Diesel,Crossover,Black,Trofa,85 kW (116 HP),Manual,https://carmine.pt/carros-usados/nissan-qashqai-15-dci-n-connecta-j18-115-porto/6620f794-f62c-4dd2-80c5-151a7d671bc2
+"11,990 EUR",Bmw,X1,,"239,900 km",2011,Diesel,Suv,White,Lisboa,106 kW (144 HP),Automatic,https://carmine.pt/carros-usados/bmw-x1-18-d-sdrive-auto-143-leiria/c44df1b2-41c8-4be0-b0fb-1314505a1c12
+"32,990 EUR",Mercedes Benz,E-Class,,"101,000 km",2016,Diesel,Coupe,Gray,Loures,144 kW (196 HP),Automatic,https://carmine.pt/carros-usados/mercedes-classe-e-e-220-d-amg-designo-194-lisboa/f7e69e3d-c86d-45bc-aaf0-acb7376fbd67
+"13,990 EUR",Audi,A5,2.0 TDI,"250,000 km",2010,Diesel,Sedan,Gray,Loures,126 kW (171 HP),Manual,https://carmine.pt/carros-usados/audi-a5-20-tdi-170-lisboa/42f4d662-a164-49be-8fd5-61786d53d393
+"17,750 EUR",Audi,A5,2.0,"225,000 km",2010,Diesel,Convertible,Black,Viseu,126 kW (171 HP),Manual,https://carmine.pt/carros-usados/audi-a5-cabrio20-tdi-s-line-170-viseu/38423200-18a4-4aa3-a2c0-974f3bf3be81
+"18,999 EUR",Audi,A5,2.0 TDI quattro,"213,323 km",2010,Diesel,Coupe,Black,Porto,126 kW (171 HP),Manual,https://auto.sapo.pt/carro-usado/659031a47b7e96d921b7132f/audi-a5
+"22,999 EUR",Audi,A5,3.0,"162,000 km",2010,Diesel,Sedan,White,Aveiro,178 kW (242 HP),Automatic,https://carmine.pt/carros-usados/audi-a5-sportb30-tdi-s-trquas-line-240-aveiro/3589013f-bb17-46b0-b425-37faaf029bd5
+"9,990 EUR",Audi,A4,2.0,"340,000 km",2008,Diesel,Sedan,Silver,Setúbal,126 kW (171 HP),Manual,https://carmine.pt/carros-usados/audi-a4-20-tdi-sport-170-setubal/740aea49-1d1f-4a5b-93c0-e7b2d59585d0
+"58,400 EUR",Volvo,Xc90,2.0,"43,700 km",2019,Diesel,Suv,Black,Viana Do Castelo,175 kW (238 HP),Automatic,https://carmine.pt/carros-usados/volvo-xc90-20-b5-momentum-plus-awd-235-porto/597b802d-6464-41f9-8edd-f484e7404a85
+"37,980 EUR",Mercedes Benz,E-Class,,"106,940 km",2017,Diesel,Coupe,Black,Lisboa,144 kW (196 HP),Automatic,https://auto.sapo.pt/carro-usado/6565b73f117dc52f2071ea11/mercedes-benz-classe-e-220-d-avantgarde
+"75,000 EUR",Mercedes Benz,Gls-Class,350,"139,497 km",2018,Diesel,Suv,White,Lisboa,192 kW (261 HP),Automatic,https://auto.sapo.pt/carro-usado/65f95f979006b3e573f60097/mercedes-benz-classe-gls
+"13,500 EUR",Nissan,Micra,0.9,"75,779 km",2018,Petrol,Mini,Black,Lisboa,67 kW (91 HP),Manual,https://auto.sapo.pt/carro-usado/65da0d1e783671a68ef0b67b/nissan-micra-09-ig-t-tekna-ss
+"29,500 EUR",Porsche,Cayenne,3.0 D,"256,000 km",2010,Diesel,Suv,Black,Porto,178 kW (242 HP),Automatic,https://auto.sapo.pt/carro-usado/652824ba8908934eb656bfeb/porsche-cayenne
+"29,750 EUR",Porsche,Cayenne,3.0 S Hybrid,"207,000 km",2010,Petrol,Suv,Blue,Porto,248 kW (337 HP),Automatic,https://carmine.pt/carros-usados/porsche-cayenne-s-hybrid-333-porto/1a231c98-20ef-4305-827e-b81cd0790cf8
+"23,950 EUR",Audi,Q5,2.0 TDI quattro,"180,000 km",2014,Diesel,Suv,Gray,Porto,141 kW (192 HP),Automatic,https://auto.sapo.pt/carro-usado/65ddb4458c53ce9583c29679/audi-q5
+"21,990 EUR",Audi,Q5,2.0 TDI,"157,495 km",2014,Diesel,Suv,Gray,Lisboa,111 kW (151 HP),Manual,https://auto.sapo.pt/carro-usado/65e1ac977c1b958679a5a46f/audi-q5-20-tdi
+"14,500 EUR",Kia,Picanto,1.0,"36,000 km",2020,Petrol,Mini,White,Aveiro,49 kW (67 HP),Manual,https://carmine.pt/carros-usados/kia-picanto-10-cvvt-x-line-67-aveiro/d3909fea-032a-48d7-9e29-9a59a3fe1cb9
+"14,750 EUR",Audi,Tt,1.8 TFSI,"160,000 km",2010,Petrol,Coupe,Gray,Braga,119 kW (162 HP),Manual,https://carmine.pt/carros-usados/audi-tt-18-tfsi-s-line-160-braga/b02830ef-b780-4d75-8846-517e8d27d785
+"8,750 EUR",Kia,Venga,1.4 CRDi,"223,000 km",2010,Diesel,Mini,Gray,Aveiro,67 kW (91 HP),Manual,https://carmine.pt/carros-usados/kia-venga-14-crdi-tx-isg-90-aveiro/8cd0ca7d-649c-4df2-be0a-a8148d87096d
+"38,900 EUR",Mercedes Benz,E-Class,,"139,000 km",2018,Diesel,Coupe,White,Lisboa,144 kW (196 HP),Automatic,https://carmine.pt/carros-usados/mercedes-classe-e-e-220-d--amg-line-194-lisboa/8b1b9c12-813f-499c-b068-c4b7160c1ade
+"15,950 EUR",Bmw,X1,,"189,000 km",2013,Diesel,Suv,Black,Leiria,86 kW (117 HP),Manual,https://carmine.pt/carros-usados/bmw-x1-16-d-sdrive-xline-116-leiria/fb18e362-902d-4e27-9004-6004aaae936b
+"10,000 EUR",Mini,One,1.6 D,"225,000 km",2012,Diesel,Mini,Blue,Aveiro,67 kW (91 HP),Manual,https://auto.sapo.pt/carro-usado/65f9aba878262796e3e3d349/mini-one
+"10,400 EUR",Mini,One,1.6 D,"208,000 km",2012,Diesel,Mini,Beige,Porto,67 kW (91 HP),Manual,https://carmine.pt/carros-usados/mini-mini-one-d-90-porto/726631db-dfc0-4e16-8fe2-5781f5aaf90a
+"31,990 EUR",Nissan,Navara,2.3,"72,766 km",2018,Diesel,Pickup,Blue,Lisboa,141 kW (192 HP),Manual,https://auto.sapo.pt/carro-usado/65e1ab8a7c1b958679a5a251/nissan-navara
+"22,750 EUR",Audi,Tt,2.0 TDI,"117,961 km",2011,Diesel,Coupe,Black,Aveiro,126 kW (171 HP),Manual,https://auto.sapo.pt/carro-usado/6529710ad95b0831ab52dbeb/audi-tt-20-tdi-quattro-limited-edition
+"25,800 EUR",Audi,A5,2.0 TDI MultiTronic,"250,000 km",2013,Diesel,Convertible,Gray,Rana,131 kW (178 HP),Automatic,https://carmine.pt/carros-usados/audi-a5-cabrio20-tdi-multitronic-177-lisboa/4b8801a9-f939-4210-a9e0-4530b3e55a6b
+"18,990 EUR",Audi,A5,2.0 TDI,"248,483 km",2013,Diesel,Coupe,Gray,Aveiro,131 kW (178 HP),Manual,https://carmine.pt/carros-usados/audi-a5-20-tdi-business-line-s-line-177-aveiro/7f62d088-67f6-4105-b6a9-d5378c89a138
+"21,950 EUR",Mazda,Cx-5,2.2 D,"129,943 km",2017,Diesel,Crossover,Gray,Coimbra,111 kW (151 HP),Manual,https://carmine.pt/carros-usados/mazda-cx-5-22-d-excellence-navi-150-coimbra/7f263a12-dc5e-43a7-89d2-95a8bb448cd1
+"19,990 EUR",Audi,A5,2.0,"170,000 km",2013,Diesel,Coupe,Gray,Porto,131 kW (178 HP),Automatic,https://carmine.pt/carros-usados/audi-a5-20-tdi-sport-177-lisboa/4edf9266-671d-496d-b9d3-c63f40b0e380
+"19,990 EUR",Audi,A5,2.0 TDI MultiTronic,"130,000 km",2013,Diesel,Sedan,Black,Loures,131 kW (178 HP),Automatic,https://www.custojusto.pt//lisboa/veiculos/carros-usados/sedan/audi-a5-2-0-tdi-multitronic-sp-41196161
+"7,599 EUR",Dacia,Logan Mcv,1.0,"165,579 km",2015,Petrol,Wagon,Black,Feira,67 kW (91 HP),Manual,https://carmine.pt/carros-usados/dacia-logan-mcv-09-tce-confort-90-aveiro/84a995b7-0748-4b88-9a98-5f94d2bdde68
+"12,950 EUR",Mini,One,1.6 D,"153,056 km",2013,Diesel,Mini,Orange,Leiria,67 kW (91 HP),Manual,https://www.abmotor.pt/carros/Mini/One/481898/
+"13,990 EUR",Mini,One,1.6 D,"170,412 km",2014,Diesel,Mini,Beige,Porto,67 kW (91 HP),Manual,https://auto.sapo.pt/carro-usado/6545208ea7572a54fbdb3213/mini-one
+"16,799 EUR",Opel,Astra,1.2,"50,000 km",2020,Petrol,Coupe,Black,Aveiro,96 kW (131 HP),Manual,https://carmine.pt/carros-usados/opel-astra-12-t-ultimate-ss-130-aveiro/39d04e7f-83b0-4311-8008-02869bd8cf62
+"27,500 EUR",Toyota,Land Cruiser,3.0 D-4d,"390,123 km",2005,Diesel,Suv,Silver,Porto,123 kW (167 HP),Manual,https://auto.sapo.pt/carro-usado/65abe8f50230debf86407a7c/toyota-land-cruiser-30-d-4d-pack
+"25,990 EUR",Mini,Countryman,1.6 One D,"52,500 km",2018,Diesel,Crossover,Blue,Leiria,86 kW (117 HP),Manual,https://auto.sapo.pt/carro-usado/6529859aab63cd60f3dadacb/mini-countryman
+"28,500 EUR",Mini,Countryman,1.6 One D,"43,936 km",2018,Diesel,Crossover,Black,Lisboa,86 kW (117 HP),Manual,https://auto.sapo.pt/carro-usado/654f43734b6c32f3a9d575f2/mini-countryman
+"22,700 EUR",Volkswagen,T-Cross,1.0 tsi,"43,279 km",2023,Petrol,Crossover,Gray,Setúbal,70 kW (95 HP),Manual,https://carmine.pt/carros-usados/volkswagen-t-cross-10-tsi-blackstyle-95-setubal/322a6104-d1e2-4b6c-910a-374b6686fe58
+"19,997 EUR",Audi,A5,2.0 TDI,"157,000 km",2015,Diesel,Coupe,Gray,Loures,121 kW (165 HP),Manual,https://auto.sapo.pt/carro-usado/6528451cab1f052ad9bbfe56/audi-a5-20-tdi-business-line-sport
+"26,900 EUR",Audi,A5,2.0 TDI MultiTronic,"155,000 km",2015,Diesel,Coupe,Black,Porto,141 kW (192 HP),Automatic,https://auto.sapo.pt/carro-usado/65a95054cd13ceb2f1e51023/audi-a5
+"23,450 EUR",Audi,A5,2.0,"138,000 km",2015,Diesel,Coupe,Blue,Lisboa,121 kW (165 HP),Manual,https://auto.sapo.pt/carro-usado/65287e50ab1f052ad9bc7cb0/audi-a5
+"15,500 EUR",Mini,Countryman,2.0 SD,"224,000 km",2012,Diesel,Crossover,Gray,Aveiro,106 kW (144 HP),Manual,https://auto.sapo.pt/carro-usado/65f3113b537a4683c697dc95/mini-countryman
+"47,500 EUR",Porsche,Cayenne,4.8,"144,000 km",2014,Diesel,Suv,White,Aveiro,182 kW (248 HP),Automatic,https://carmine.pt/carros-usados/porsche-cayenne-ii-platinum-edition-245-aveiro/738b7811-5222-4380-be3d-a1c6953b10c2
+"16,990 EUR",Mini,Countryman,2.0 SD,"104,761 km",2013,Diesel,Crossover,Blue,Lisboa,106 kW (144 HP),Manual,https://auto.sapo.pt/carro-usado/65e1ac587c1b958679a5a3f6/mini-countryman
+"19,750 EUR",Fiat,500 X,1.3,"79,500 km",2020,Diesel,Crossover,White,Aveiro,70 kW (95 HP),Manual,https://auto.sapo.pt/carro-usado/659429240877a4c0bf562497/fiat-500x
+"41,990 EUR",Bmw,X3,D,"35,945 km",2021,Diesel,Suv,White,Lisboa,111 kW (151 HP),Automatic,https://auto.sapo.pt/carro-usado/653a9e2c28375b2c0e788d46/bmw-x3-18-d-sdrive-auto
+"20,900 EUR",Mini,Paceman,1.6 D,"116,083 km",2015,Diesel,Crossover,Blue,Setúbal,83 kW (113 HP),Manual,https://carmine.pt/carros-usados/mini-mini-paceman-mini-cooper-d-112-setubal/91cdf719-4f56-4698-8ac8-40115cfd3299
+"13,900 EUR",Mini,Countryman,1.6 D,"216,000 km",2014,Diesel,Crossover,Black,Aveiro,83 kW (113 HP),Manual,https://auto.sapo.pt/carro-usado/65e43ca3bc3ed9517c40eb4c/mini-countryman-cooper-d
+"10,899 EUR",Dacia,Sandero,0.9 tce,"89,281 km",2013,Petrol,Hatchback,Black,Feira,67 kW (91 HP),Manual,https://carmine.pt/carros-usados/dacia-sandero-09-tce-stepway-90-aveiro/989e5b2f-37f4-4126-bf40-cd71aa2f0a4c
+"24,950 EUR",Mini,Countryman,1.6,"141,789 km",2014,Petrol,Crossover,Black,Aveiro,162 kW (220 HP),Manual,https://auto.sapo.pt/carro-usado/652873c8ab1f052ad9bc6304/mini-countryman
+"34,990 EUR",Bmw,X6,,"180,000 km",2011,Diesel,Suv,Black,Porto,228 kW (310 HP),Automatic,https://www.custojusto.pt//porto/veiculos/carros-usados/suv-tt/bmw-x6-40-d-xdrive-41898404
+"20,950 EUR",Mini,Countryman,2.0 SD,"145,000 km",2015,Diesel,Crossover,Gray,Porto,106 kW (144 HP),Manual,https://carmine.pt/carros-usados/mini-mini-countryman-mini-cooper-sd-143-porto/195e5ff0-c8c2-42e7-ae66-fa77e28fa249
+"15,900 EUR",Mini,Countryman,1.6 One D,"119,127 km",2015,Diesel,Crossover,White,Loures,67 kW (91 HP),Manual,https://auto.sapo.pt/carro-usado/657ac4d9256d375e8120a8f9/mini-countryman
+"44,900 EUR",Bmw,X5,,"82,000 km",2018,Diesel,Suv,Black,Lisboa,172 kW (234 HP),Automatic,https://auto.sapo.pt/carro-usado/65ec28fc076fd9d0af2ee86f/bmw-x5-25-d-sdrive-comfort-7l
+"19,990 EUR",Seat,Leon,2.0,"100,900 km",2016,Diesel,Hatchback,Black,Setúbal,137 kW (186 HP),Manual,https://carmine.pt/carros-usados/seat-leon-20-tdi-fr-ss-184-setubal/fa673f1a-1671-4ae7-872d-850a7e5a798e
+"18,950 EUR",Mini,One,1.6 D,"119,000 km",2019,Diesel,Mini,Gray,Condeixa A Nova,86 kW (117 HP),Manual,https://auto.sapo.pt/carro-usado/65942b6c0877a4c0bf562b49/mini-one
+"19,250 EUR",Mini,One,1.6 D,"103,135 km",2019,Diesel,Mini,Black,Santarém,86 kW (117 HP),Manual,https://carmine.pt/carros-usados/mini-mini-one-d-116-santarem/ae5ade22-7d63-4a19-8c5a-0987f292dd54
+"20,900 EUR",Volkswagen,Touran,1.6 TDI,"145,000 km",2017,Diesel,Mpv,Blue,Aveiro,85 kW (116 HP),Automatic,https://auto.sapo.pt/carro-usado/65283018ab1f052ad9bbcdb2/volkswagen-touran
+"6,999 EUR",Opel,Zafira,1.9 cdti,"256,350 km",2009,Diesel,Mpv,Gray,Feira,85 kW (116 HP),Manual,https://auto.sapo.pt/carro-usado/65fd9eb7793d9c40fd217578/opel-zafira
+"13,400 EUR",Bmw,X3,D,"320,000 km",2004,Diesel,Suv,Black,Rana,152 kW (207 HP),Manual,https://auto.sapo.pt/carro-usado/65438ce79124df0c985cbfdf/bmw-x3
+"17,750 EUR",Seat,Leon,1.6 TDI,"139,856 km",2017,Diesel,Hatchback,Gray,Leiria,85 kW (116 HP),Manual,https://carmine.pt/carros-usados/seat-leon-st-16-tdi-style-ss-115-leiria/f22d8256-b59c-442b-90bf-29eb260d204a
+"62,490 EUR",Mercedes Benz,C-Class,300,"36,732 km",2022,Diesel,Coupe,Black,Vila Real,197 kW (268 HP),Automatic,https://carmine.pt/carros-usados/mercedes-classe-c-c-300-d-amg-line-265-vila-real/7c9341ec-2406-4ca6-afb6-4132825d1945
+"25,499 EUR",Mini,Countryman,2.0,"91,653 km",2017,Diesel,Crossover,Gray,Porto,111 kW (151 HP),Automatic,https://auto.sapo.pt/carro-usado/65b7e9eeda7752fa3e5b5fd5/mini-countryman-cooper
+"24,500 EUR",Mini,Countryman,1.6,"73,700 km",2017,Petrol,Crossover,Blue,Porto,101 kW (137 HP),Automatic,https://auto.sapo.pt/carro-usado/65298cc1ab63cd60f3dae7f1/mini-countryman
+"19,500 EUR",Citroen,C3,1.6,"61,400 km",2022,Diesel,Hatchback,White,Braga,76 kW (103 HP),Manual,https://auto.sapo.pt/carro-usado/65297617f841785f5ccff706/citroen-c3
+"19,500 EUR",Citroen,C3,1.6,"59,900 km",2022,Diesel,Hatchback,White,Braga,76 kW (103 HP),Manual,https://carmine.pt/carros-usados/citroen-c3-15-bluehdi-c-series-102-braga/d1a5fbe1-4ce0-4351-a0bb-17b777debb70
+"18,900 EUR",Citroen,C3,1.2 puretech,"26,600 km",2022,Petrol,Hatchback,White,Leiria,82 kW (112 HP),Manual,https://auto.sapo.pt/carro-usado/653b73e928375b2c0e78b09b/citroen-c3
+"12,750 EUR",Audi,A4,2.0 TDI,"268,000 km",2010,Diesel,Sedan,Gray,Lisboa,106 kW (144 HP),Automatic,https://www.abmotor.pt/carros/Audi/A4%20avant/482600/
+"12,700 EUR",Audi,A4,2.0,"235,100 km",2010,Diesel,Sedan,Gray,Santarém,126 kW (171 HP),Manual,https://auto.sapo.pt/carro-usado/65fc53545d2e94722dc63665/audi-a4
+"16,400 EUR",Seat,Leon,1.6 TDI,"119,000 km",2018,Diesel,Hatchback,Silver,Braga,85 kW (116 HP),Manual,https://auto.sapo.pt/carro-usado/65b3def478646859ab1886da/seat-leon
+"29,970 EUR",Mini,Countryman,2.0 SD,"134,000 km",2018,Diesel,Crossover,White,Setúbal,141 kW (192 HP),Automatic,https://carmine.pt/carros-usados/mini-mini-countryman-mini-cooper-sd-auto-desportiva-190-setubal/7fc80a47-7471-4c0d-88da-889ab8cdbf81
+"16,900 EUR",Seat,Leon,1.6 TDI,"141,822 km",2019,Diesel,Hatchback,Gray,Porto,85 kW (116 HP),Manual,https://www.abmotor.pt/carros/Seat/Leon%20x-perience/486131/
+"16,900 EUR",Seat,Leon,1.6 TDI,"131,640 km",2019,Diesel,Hatchback,Gray,Porto,85 kW (116 HP),Automatic,https://carmine.pt/carros-usados/seat-leon-st-16-tdi-xcellence-dsg-ss-115-porto/139cbf1e-b0a5-4b52-b4c1-e14f80fd4dfa
+"18,500 EUR",Seat,Leon,1.6 TDI,"129,500 km",2019,Diesel,Hatchback,Black,Aveiro,85 kW (116 HP),Manual,https://auto.sapo.pt/carro-usado/659428570877a4c0bf5621e3/seat-leon
+"31,950 EUR",Bmw,X6,,"342,000 km",2015,Diesel,Suv,Gray,Setúbal,192 kW (261 HP),Automatic,https://auto.sapo.pt/carro-usado/65c3a4fc30104c3129fad7ed/bmw-x6-30-d-xdrive
+"13,990 EUR",Dodge,Journey,2.0 CRD,"156,025 km",2009,Diesel,Crossover,Gray,Porto,104 kW (141 HP),Automatic,https://auto.sapo.pt/carro-usado/654f4e724b6c32f3a9d5884d/dodge-journey-20-crd-rt-atx
+"35,750 EUR",Bmw,X6,,"190,000 km",2015,Diesel,Suv,Black,Setúbal,192 kW (261 HP),Automatic,https://carmine.pt/carros-usados/bmw-x6-30-d-xdrive-pack-m-258-setubal/aba3576f-1701-4d93-b50d-3cc598bf1fd9
+"23,700 EUR",Mini,Countryman,1.6 One D,"119,818 km",2019,Diesel,Crossover,White,Viseu,86 kW (117 HP),Manual,https://auto.sapo.pt/carro-usado/655096bdc95cc40ffaa3bab1/mini-countryman
+"15,750 EUR",Bmw,X3,D,"270,850 km",2007,Diesel,Suv,Blue,Leiria,162 kW (220 HP),Manual,https://auto.sapo.pt/carro-usado/65c9e6c2bf4739786ae72844/bmw-x3
+"31,750 EUR",Mercedes Benz,Glb-Class,180,"99,000 km",2018,Diesel,Suv,Gray,Leiria,81 kW (110 HP),Automatic,https://carmine.pt/carros-usados/mercedes-classe-gla-gla-180-d-amg-line-aut-109-leiria/cef36791-8ef8-4ae4-a144-8ff4e4d8689f
+"26,900 EUR",Mercedes Benz,Glb-Class,180,"90,125 km",2018,Diesel,Suv,Black,Lisboa,81 kW (110 HP),Automatic,https://auto.sapo.pt/carro-usado/65ead91e244f30653cfa5992/mercedes-benz-classe-gla
+"49,950 EUR",Bmw,X6,40d,"160,000 km",2016,Diesel,Suv,Black,Porto,233 kW (317 HP),Automatic,https://carmine.pt/carros-usados/bmw-x6-30-d-xdrive-pack-m-258-porto/5171a298-0aa9-455e-be2d-7356b62e27fe
+"52,750 EUR",Bmw,X6,,"136,000 km",2016,Diesel,Suv,Blue,Setúbal,233 kW (317 HP),Automatic,https://auto.sapo.pt/carro-usado/65943b350877a4c0bf566444/bmw-x6-40-d-xdrive-pack-m
+"14,490 EUR",Audi,A4,2.0,"271,500 km",2013,Diesel,Sedan,White,Lisboa,111 kW (151 HP),Manual,https://carmine.pt/carros-usados/audi-a4-20-tdi-sport-150-leiria/80504de3-88db-46ec-9e94-d7a22a66ee5a
+"23,990 EUR",Volkswagen,Scirocco,2.0 TSI,"150,000 km",2011,Petrol,Coupe,White,Pombal,197 kW (268 HP),Automatic,https://auto.sapo.pt/carro-usado/65787f3b110e30c1522bba05/volkswagen-scirocco-20-tsi-r-dsg
+"45,900 EUR",Mercedes Benz,C-Class,,"70,200 km",2021,Diesel,Sedan,Gray,Braga,144 kW (196 HP),Automatic,https://carmine.pt/carros-usados/mercedes-classe-c-c-220-d-avantgarde-194-braga/d317e73e-1b42-402d-94d1-c72c70f78abe
+"18,980 EUR",Audi,A4,2.0,"216,010 km",2015,Diesel,Sedan,Gray,Aveiro,111 kW (151 HP),Manual,https://carmine.pt/carros-usados/audi-a4-20-tdi-sport-150-aveiro/1c975576-c361-4372-a73b-b80f2e2383c8
+"24,900 EUR",Mini,Countryman,1.6,"71,322 km",2016,Petrol,Crossover,Blue,Setúbal,90 kW (122 HP),Manual,https://carmine.pt/carros-usados/mini-mini-countryman-mini-cooper-122-setubal/96af413d-15ab-4def-b7b0-d7af024d82aa
+"21,950 EUR",Audi,A3,1.0,"50,000 km",2017,Petrol,Coupe,Gray,Porto,86 kW (117 HP),Automatic,https://carmine.pt/carros-usados/audi-a3-10-tfsi-sport-s-tronic-116-porto/a031f6ab-b94c-4544-8e63-e5ebdeda5b1b
+"11,900 EUR",Audi,A4,2.0,"83,863 km",2005,Diesel,Sedan,Silver,Setúbal,104 kW (141 HP),Manual,https://carmine.pt/carros-usados/audi-a4-20-tdi-exclusive-140-setubal/4b868e58-1634-40ea-9e4b-f72e64abac1a
+"47,900 EUR",Audi,A7,2.0 40 TDI S tronic,"86,080 km",2020,Diesel,Sedan,Black,Porto,152 kW (207 HP),Automatic,https://auto.sapo.pt/carro-usado/65c9e4cbbf4739786ae727b7/audi-a7
+"22,500 EUR",Mercedes Benz,Glb-Class,180,"98,000 km",2017,Diesel,Suv,Black,Lisboa,81 kW (110 HP),Automatic,https://carmine.pt/carros-usados/mercedes-classe-gla-gla-180-cdi-style-aut-109-lisboa/f39f14d7-dc18-410d-8c2b-f56d7c31ae7f
+"49,500 EUR",Hummer,H2,6.0,"94,000 km",2005,Petrol,Suv,Black,Porto,242 kW (329 HP),Automatic,https://auto.sapo.pt/carro-usado/6528236f8908934eb656bd2d/hummer-h2
+"75,000 EUR",Hummer,H2,6.0,"78,000 km",2005,Petrol,Suv,Black,Lisboa,242 kW (329 HP),Automatic,https://www.abmotor.pt/carros/Hummer/H2/483537/
+"27,750 EUR",Audi,Q2,1.0 30 TFSI,"66,450 km",2020,Petrol,Crossover,Gray,Setúbal,86 kW (117 HP),Manual,https://auto.sapo.pt/carro-usado/65742ee2a552039e3933527d/audi-q2
+"79,900 EUR",Porsche,Macan,2.0,"49,500 km",2020,Petrol,Suv,Black,Lisboa,182 kW (248 HP),Automatic,https://auto.sapo.pt/carro-usado/65ec2627076fd9d0af2ee1cf/porsche-macan-soul-edition
+"22,800 EUR",Kia,Carens,1.7,"82,600 km",2018,Diesel,Mpv,Gray,Valongo,105 kW (143 HP),Automatic,https://carmine.pt/carros-usados/kia-carens-17-crdi-isg-tx-7dct-141-porto/e8da34d6-2fcf-4e06-b686-78225af58720
+"15,500 EUR",Kia,Picanto,1.0,"9,500 km",2023,Petrol,Mini,Black,Braga,49 kW (67 HP),Manual,https://auto.sapo.pt/carro-usado/65f86067ef7910eec783b4ef/kia-picanto-10-cvvt-urban-amt
+"28,990 EUR",Volkswagen,Passat,2.0,"99,000 km",2020,Diesel,Sedan,Gray,Setúbal,111 kW (151 HP),Automatic,https://auto.sapo.pt/carro-usado/65eb300b54673607922d6f4b/volkswagen-passat
+"87,990 EUR",Bmw,I8,1.5,"70,000 km",2017,Hybrid,Coupe,Red,Pombal,272 kW (370 HP),Automatic,https://carmine.pt/carros-usados/bmw-i8-i8-362-leiria/ae2ca078-6ae4-4e27-b270-8f876ff7ebb4
+"20,200 EUR",Volvo,V40,2.0,"75,800 km",2018,Diesel,Wagon,Black,Viana Do Castelo,89 kW (121 HP),Manual,https://auto.sapo.pt/carro-usado/65287c79ab1f052ad9bc76f6/volvo-v40
+"17,990 EUR",Volvo,V40,2.0,"70,000 km",2018,Petrol,Wagon,Black,Vila Do Conde,182 kW (248 HP),Automatic,https://carmine.pt/carros-usados/volvo-v40-20-t5-r-design-245-porto/ae153b5b-eb4f-40be-bf45-02cb3d3b0e33
+"19,950 EUR",Volvo,V40,2.0,"41,110 km",2018,Diesel,Wagon,Black,Lisboa,89 kW (121 HP),Manual,https://carmine.pt/carros-usados/volvo-v40-20-d2-kinetic-120-lisboa/e0432839-9a7c-46a2-a19d-8a15be094770
+"19,900 EUR",Audi,Q3,2.0 TDI,"211,800 km",2014,Diesel,Crossover,White,Setúbal,104 kW (141 HP),Manual,https://auto.sapo.pt/carro-usado/654517f9a7572a54fbdb1c94/audi-q3-20-tdi-look-137g
+"17,999 EUR",Fiat,500 X,1.3 multijet,"66,388 km",2018,Diesel,Crossover,Gray,Loures,70 kW (95 HP),Manual,https://auto.sapo.pt/carro-usado/654ca3a85229c0b0f4e93cea/fiat-500x-13-multijet-s-design
+"47,950 EUR",Bmw,Z3m,,"169,890 km",1998,Petrol,Convertible,Green,Porto,239 kW (325 HP),Manual,https://carmine.pt/carros-usados/bmw-z3-m-321-porto/669a8089-b898-4bc8-b7b0-e6f1366f20a4
+"14,450 EUR",Smart,Fortwo Ed,,"50,000 km",2019,Electric,Mini,Black,Coimbra,61 kW (83 HP),Automatic,https://www.custojusto.pt//coimbra/veiculos/carros-usados/citadino/smart-fortwo-electric-drive-39434563
+"22,500 EUR",Mazda,3,2.0,"91,353 km",2021,Petrol,Hatchback,Red,Leiria,111 kW (151 HP),Manual,https://carmine.pt/carros-usados/mazda-3-mazda-20-sky-g-evopi-act+ps+ps+ps-150-leiria/27036233-b072-419d-8542-d734294061ab
+"2,900 EUR",Honda,Accord,2.0,"105,000 km",1995,Petrol,Sedan,Gray,Aveiro,85 kW (116 HP),Manual,https://carmine.pt/carros-usados/honda-accord-18i-es-115-aveiro/1ef056c9-2ce4-4dec-8980-3aa61ce79d08
+"26,900 EUR",Bmw,2 Series,,"78,000 km",2015,Diesel,Coupe,White,Lisboa,141 kW (192 HP),Manual,https://www.abmotor.pt/carros/Bmw/220/484302/
+"21,999 EUR",Mercedes Benz,Glb-Class,180,"89,047 km",2016,Diesel,Suv,White,Aveiro,81 kW (110 HP),Manual,https://carmine.pt/carros-usados/mercedes-classe-gla-gla-180-cdi-urban-109-aveiro/a0c1fa76-7aba-42aa-9ba1-ef91c300e637
+"22,990 EUR",Bmw,1 Series,,"62,000 km",2018,Diesel,Coupe,Black,Braga,86 kW (117 HP),Automatic,https://carmine.pt/carros-usados/bmw-serie-1-116-d-line-sport-auto-116-braga/e981d713-9d27-4cc8-950f-f9212f3c17c5
+"25,900 EUR",Bmw,1 Series,,"60,000 km",2018,Diesel,Coupe,Black,Porto,86 kW (117 HP),Automatic,https://www.abmotor.pt/carros/Bmw/116/485584/
+"20,900 EUR",Audi,Q3,2.0 TDI quattro,"339,000 km",2016,Diesel,Crossover,White,Rana,111 kW (151 HP),Automatic,https://auto.sapo.pt/carro-usado/65438c7e9124df0c985cbf17/audi-q3
+"29,950 EUR",Kia,Soul,e,"23,000 km",2022,Electric,Mpv,White,Porto,152 kW (207 HP),Automatic,https://auto.sapo.pt/carro-usado/65e9df946f0ebfad197db3b0/kia-soul-64kwh
+"24,500 EUR",Audi,Q3,2.0 TDI,"163,000 km",2016,Diesel,Crossover,Gray,Aveiro,111 kW (151 HP),Manual,https://carmine.pt/carros-usados/audi-q3-20-tdi-design-150-aveiro/8be11725-eafe-4002-881a-467a83bfe522
+"12,800 EUR",Audi,A6,2.0 TDI MultiTronic,"240,000 km",2008,Diesel,Sedan,Blue,Rana,104 kW (141 HP),Automatic,https://auto.sapo.pt/carro-usado/65438c329124df0c985cbe8c/audi-a6
+"36,500 EUR",Bmw,X5,,"182,000 km",2018,Diesel,Suv,Black,Porto,172 kW (234 HP),Automatic,https://carmine.pt/carros-usados/bmw-x5-25-d-sdrive-pack-m-231-porto/0e05c6d3-4cb4-4791-bf8c-725e40cc0487
+"35,900 EUR",Bmw,X5,,"112,000 km",2018,Diesel,Suv,Blue,Aveiro,172 kW (234 HP),Automatic,https://carmine.pt/carros-usados/bmw-x5-25-d-sdrive-comfort-7l-231-aveiro/cceef67d-021c-4b71-809b-f4921ac2b9c5
+"19,990 EUR",Kia,Sportage,1.6 GDi,"89,000 km",2018,Petrol,Crossover,Blue,Lisboa,98 kW (133 HP),Manual,https://auto.sapo.pt/carro-usado/65e1aa967c1b958679a5a016/kia-sportage-16-gdi-isg-nav-line
+"7,900 EUR",Mercedes Benz,Clk-Class,270 CDI,"203,832 km",2002,Diesel,Coupe,Silver,Lisboa,126 kW (171 HP),Manual,https://auto.sapo.pt/carro-usado/65d71e6ff95cb427d8bc3426/mercedes-benz-classe-clk
+"26,990 EUR",Bmw,4 Series,,"180,000 km",2017,Diesel,Sedan,Black,Braga,111 kW (151 HP),Manual,https://carmine.pt/carros-usados/bmw-serie-4-418-d-gran-coupe-pack-m-150-braga/2e9ce5d7-b8a4-4da0-8acb-ce6c20c5ca74
+"20,750 EUR",Volvo,S60,2.0 D4,"148,000 km",2015,Diesel,Sedan,Blue,Luso,141 kW (192 HP),Manual,https://carmine.pt/carros-usados/volvo-s60-20-d4-summum-190-aveiro/98eca02e-1510-449b-b180-36fe3b7fe674
+"19,700 EUR",Volvo,V40,2.0,"90,000 km",2017,Diesel,Wagon,Black,Viana Do Castelo,89 kW (121 HP),Manual,https://carmine.pt/carros-usados/volvo-v40-20-d2-kinetic-120-porto/ceaee6cb-8704-461e-956b-d0d4beee71a6
+"19,900 EUR",Volvo,V40,2.0,"80,000 km",2017,Diesel,Wagon,Blue,Sintra,89 kW (121 HP),Manual,https://carmine.pt/carros-usados/volvo-v40-cc-20-d2-summum-120-lisboa/ea9da0aa-3cfe-442a-8d5a-44ce1ebca7fa
+"20,990 EUR",Volvo,V40,2.0,"68,131 km",2017,Diesel,Wagon,Black,Pombal,111 kW (151 HP),Manual,https://carmine.pt/carros-usados/volvo-v40-20-d3-r-design-150-leiria/05aa0e41-cff7-4fac-9b98-28b9ecec75a5
+"64,900 EUR",Porsche,Boxster,3.4 S,"59,900 km",2013,Petrol,Convertible,Black,Lisboa,234 kW (318 HP),Automatic,https://auto.sapo.pt/carro-usado/65d07de49f586f9361a7ca7b/porsche-boxster
+"34,990 EUR",Bmw,I3,,"7,375 km",2022,Electric,Hatchback,Blue,Porto,126 kW (171 HP),Automatic,https://auto.sapo.pt/carro-usado/656f3f2e5a00393263581b62/bmw-i3
+"17,950 EUR",Bmw,3 Series,318d,"158,000 km",2013,Diesel,Sedan,Gray,Loulé,106 kW (144 HP),Manual,https://www.standnet.pt/anuncio/Bmw-318-Sport-Line-Diesel-Usado-iid=45545
+"16,900 EUR",Nissan,Qashqai,1.5 dCi,"151,000 km",2015,Diesel,Crossover,Gray,Odivelas,82 kW (112 HP),Manual,https://auto.sapo.pt/carro-usado/65f2c0ccec0bf54df3ab4edb/nissan-qashqai
+"12,500 EUR",Kia,Picanto,1.0,"88,000 km",2016,Petrol,Mini,Gray,Lisboa,51 kW (69 HP),Manual,https://auto.sapo.pt/carro-usado/659ec75c141f6077342a7328/kia-picanto
+"13,900 EUR",Volvo,V40,1.6,"121,702 km",2013,Diesel,Wagon,Black,Lisboa,85 kW (116 HP),Manual,https://auto.sapo.pt/carro-usado/65fb0d37dc5ad5f896341536/volvo-v40
+"10,990 EUR",Mercedes Benz,E-Class,280 CDI,"237,500 km",2007,Diesel,Sedan,Gray,Porto,141 kW (192 HP),Manual,https://carmine.pt/carros-usados/mercedes-classe-e-e-280-cdi-avantgarde-190-porto/5a5d470b-b361-4445-8310-8553d19814ae
+"22,500 EUR",Bmw,5 Series,520d,"80,000 km",2016,Diesel,Sedan,Blue,Vila Do Conde,141 kW (192 HP),Automatic,https://www.custojusto.pt//porto/veiculos/carros-usados/sedan/bmw-520-d-line-luxury-auto-42302848
+"17,900 EUR",Nissan,Qashqai,1.6,"160,000 km",2016,Diesel,Crossover,White,Odivelas,96 kW (131 HP),Manual,https://auto.sapo.pt/carro-usado/6564b348117dc52f2071b50b/nissan-qashqai
+"20,999 EUR",Audi,Q2,1.0 30 TFSI,"68,974 km",2019,Petrol,Crossover,Gray,Porto,86 kW (117 HP),Manual,https://auto.sapo.pt/carro-usado/65f80b013f5c2b46a5b16219/audi-q2-10-tfsi-sport
+"23,500 EUR",Audi,Q2,1.0 30 TFSI,"41,500 km",2019,Petrol,Crossover,Black,Trofa,86 kW (117 HP),Manual,https://carmine.pt/carros-usados/audi-q2-30-tfsi-design-116-porto/c62cd5e3-7371-4f91-ad41-b7635c8209cb
+"24,750 EUR",Mercedes Benz,Glb-Class,180,"70,200 km",2015,Diesel,Suv,Black,Aveiro,81 kW (110 HP),Manual,https://auto.sapo.pt/carro-usado/659427db0877a4c0bf5620a6/mercedes-benz-classe-gla
+"39,500 EUR",Jeep,Grand Cherokee,3.0 crd,"110,000 km",2016,Diesel,Suv,Black,Lisboa,186 kW (253 HP),Automatic,https://auto.sapo.pt/carro-usado/65ec7b0c076fd9d0af2ef98a/jeep-grand-cherokee-30-crd-v6-overland
+"12,480 EUR",Renault,Megane,1.5 dCi,"127,000 km",2018,Diesel,Coupe,Black,Viseu,82 kW (112 HP),Manual,https://auto.sapo.pt/carro-usado/65e603bc8b3d487a73f60798/renault-megane-15-dci-limited-ss
+"13,550 EUR",Volvo,V40,2.0,"200,000 km",2015,Diesel,Wagon,White,Lisboa,89 kW (121 HP),Manual,https://www.custojusto.pt//lisboa/veiculos/carros-usados/utilitario/volvo-v40-2-0-d2-kinetic-eco-42350094
+"15,990 EUR",Volvo,V40,2.0,"170,000 km",2015,Diesel,Wagon,Black,Santa Cruz,89 kW (121 HP),Manual,https://www.custojusto.pt//madeira/veiculos/carros-usados/citadino/volvo-v40-r-design-2-0d-42323123
+"16,950 EUR",Nissan,Qashqai,1.5 dCi,"235,000 km",2018,Diesel,Crossover,Gray,Aveiro,85 kW (116 HP),Manual,https://auto.sapo.pt/carro-usado/65bbc70a9d677254669e7759/nissan-qashqai
+"33,900 EUR",Mercedes Benz,C-Class,,"98,400 km",2019,Diesel,Sedan,White,Setúbal,144 kW (196 HP),Automatic,https://auto.sapo.pt/carro-usado/65709160f5192cadcb14a2f6/mercedes-benz-classe-c
+"21,990 EUR",Nissan,Qashqai,1.5 dCi,"149,200 km",2018,Diesel,Crossover,Blue,Montemor O Velho,85 kW (116 HP),Manual,https://carmine.pt/carros-usados/nissan-qashqai-15-dci-n-connecta-j18-115-coimbra/c941db81-9a49-4a25-b51e-eece403025a8
+"31,750 EUR",Mercedes Benz,C-Class,,"76,000 km",2019,Diesel,Sedan,White,Porto,144 kW (196 HP),Automatic,https://auto.sapo.pt/carro-usado/65e1f03a7c1b958679a5ae49/mercedes-benz-classe-c
+"32,900 EUR",Mercedes Benz,C-Class,,"66,600 km",2019,Diesel,Sedan,Silver,Castelo Branco,144 kW (196 HP),Automatic,https://auto.sapo.pt/carro-usado/65fe9d1e793d9c40fd21be46/mercedes-benz-classe-c
+"94,000 EUR",Mercedes Benz,C-Class,63 AMG,"29,000 km",2019,Petrol,Coupe,Gray,Porto,354 kW (481 HP),Automatic,https://auto.sapo.pt/carro-usado/657d6749b640cc4077e11036/mercedes-benz-classe-c
+"125,000 EUR",Honda,Nsx,3.0,"109,000 km",1991,Petrol,Coupe,Red,Aveiro,204 kW (277 HP),Manual,https://carmine.pt/carros-usados/honda-nsx-30-274-aveiro/65c8c5b6-24c4-4d32-ab3a-dfb96c37f231
+"17,890 EUR",Dacia,Logan Mcv,1.0,"12,992 km",2020,Petrol,Wagon,Silver,Porto,67 kW (91 HP),Manual,https://auto.sapo.pt/carro-usado/65323b7b7e36263029a00bbf/dacia-logan-mcv-09-tce-stepway
+"28,990 EUR",Bmw,X2,,"65,598 km",2019,Diesel,Suv,Gray,Lisboa,86 kW (117 HP),Automatic,https://auto.sapo.pt/carro-usado/6536699a060222a5838f9484/bmw-x2-16-d-sdrive-auto
+"26,990 EUR",Seat,Alhambra,2.0,"101,650 km",2017,Diesel,Mpv,Black,Porto,111 kW (151 HP),Automatic,https://carmine.pt/carros-usados/seat-alhambra-20-tdi-style-dsg-150-porto/dc137af5-145f-4f83-8ca2-13dfcafd4399
+"19,999 EUR",Mercedes Benz,C-Class,,"221,000 km",2015,Diesel,Sedan,Black,Aveiro,172 kW (234 HP),Automatic,https://auto.sapo.pt/carro-usado/653a77173e2a12bc48664d7b/mercedes-benz-classe-c
+"26,500 EUR",Mercedes Benz,C-Class,250 CDI BE,"218,000 km",2015,Diesel,Coupe,Black,Porto,152 kW (207 HP),Automatic,https://auto.sapo.pt/carro-usado/65e049d015151c763e081db9/mercedes-benz-classe-c
+"109,000 EUR",Porsche,Macan,2.0,99 km,2024,Petrol,Suv,Black,Porto,197 kW (268 HP),Automatic,https://carmine.pt/carros-usados/porsche-macan-t-265-porto/53e1c6d3-445f-453c-8d0a-2598242249b5
+"109,000 EUR",Porsche,Macan,2.0,50 km,2024,Petrol,Suv,Black,Porto,197 kW (268 HP),Automatic,https://auto.sapo.pt/carro-usado/65ae30a7cb533a3688b79115/porsche-macan
+"17,700 EUR",Volvo,V40,2.0,"134,200 km",2017,Diesel,Wagon,Blue,Viana Do Castelo,89 kW (121 HP),Manual,https://auto.sapo.pt/carro-usado/65287d1bab1f052ad9bc78e3/volvo-v40
+"17,950 EUR",Volvo,V40,2.0,"133,870 km",2017,Diesel,Wagon,Black,Lisboa,89 kW (121 HP),Manual,https://auto.sapo.pt/carro-usado/653a2056911c31234c85d95d/volvo-v40
+"18,990 EUR",Volvo,V40,2.0,"124,000 km",2017,Diesel,Wagon,Black,Lisboa,111 kW (151 HP),Manual,https://auto.sapo.pt/carro-usado/65830acd853aed44943b1577/volvo-v40
+"18,700 EUR",Volvo,V40,2.0,"104,999 km",2017,Diesel,Wagon,Black,Viana Do Castelo,89 kW (121 HP),Manual,https://auto.sapo.pt/carro-usado/65287d45ab1f052ad9bc796b/volvo-v40
+"18,700 EUR",Volvo,V40,2.0,"103,000 km",2017,Diesel,Wagon,Blue,Viana Do Castelo,89 kW (121 HP),Automatic,https://auto.sapo.pt/carro-usado/65287cc9ab1f052ad9bc77ec/volvo-v40
+"15,700 EUR",Volvo,V40,2.0,"200,000 km",2018,Diesel,Wagon,Gray,Viana Do Castelo,89 kW (121 HP),Manual,https://carmine.pt/carros-usados/volvo-v40-20-d2-kinetic-120-porto/c66bf716-e9af-4a75-8f38-130fe6d3bc8f
+"32,900 EUR",Bmw,X4,,"134,024 km",2015,Diesel,Suv,Black,Setúbal,141 kW (192 HP),Manual,https://carmine.pt/carros-usados/bmw-x4-20-d-xdrive-190-setubal/dbd64a8a-728b-4c15-b4e0-4fa03bd08f31
+"28,400 EUR",Mercedes Benz,C-Class,250 CDI BE,"154,000 km",2016,Diesel,Sedan,White,Pombal,152 kW (207 HP),Automatic,https://carmine.pt/carros-usados/mercedes-classe-c-c-250-d-avantgarde+-aut-204-leiria/a4462fc4-a3a3-46cc-a2e3-0ab6b890946f
+"20,900 EUR",Mercedes Benz,C-Class,,"143,423 km",2016,Diesel,Sedan,Silver,Loures,101 kW (137 HP),Automatic,https://auto.sapo.pt/carro-usado/65815c67d6112ab331373e12/mercedes-benz-classe-c
+"32,500 EUR",Mercedes Benz,C-Class,,"121,510 km",2016,Diesel,Sedan,Blue,Braga,126 kW (171 HP),Automatic,https://carmine.pt/carros-usados/mercedes-classe-c-c-220-d-amg-line-aut-170-braga/6c172928-7ac9-42d7-af47-b23742458cfe
+"22,990 EUR",Volvo,V40,2.0,"177,645 km",2018,Diesel,Wagon,Black,Porto,111 kW (151 HP),Manual,https://carmine.pt/carros-usados/volvo-v40-20-d3-r-design-150-porto/dfdf7c6f-f69d-4f49-a470-d65026051979
+"16,700 EUR",Volvo,V40,2.0,"156,000 km",2018,Diesel,Wagon,Gray,Viana Do Castelo,89 kW (121 HP),Manual,https://carmine.pt/carros-usados/volvo-v40-20-d2-kinetic-120-porto/61541738-79f3-4584-8234-8cef9100d1ba
+"17,200 EUR",Volvo,V40,2.0,"147,000 km",2018,Diesel,Wagon,Black,Viana Do Castelo,89 kW (121 HP),Manual,https://carmine.pt/carros-usados/volvo-v40-20-d2-kinetic-120-porto/22797c3b-ce39-4a56-bd36-dbd783519073
+"17,200 EUR",Volvo,V40,2.0,"141,498 km",2018,Diesel,Wagon,Black,Viana Do Castelo,89 kW (121 HP),Manual,https://carmine.pt/carros-usados/volvo-v40-20-d2-kinetic-120-porto/ab9fcff1-18f7-4363-85f3-82b1d6375d01
+"22,750 EUR",Volvo,V40,2.0,"119,562 km",2018,Diesel,Wagon,White,Leiria,89 kW (121 HP),Manual,https://auto.sapo.pt/carro-usado/65d07c149f586f9361a7c8ff/volvo-v40
+"16,900 EUR",Volvo,V40,2.0,"113,200 km",2018,Diesel,Wagon,Black,Aveiro,89 kW (121 HP),Manual,https://carmine.pt/carros-usados/volvo-v40-20-d2-inscription-120-aveiro/60f09429-28a3-4361-a061-d99e386a1d87
+"9,990 EUR",Volvo,V60,1.6 DRIVe,"270,000 km",2012,Diesel,Wagon,Silver,Setúbal,85 kW (116 HP),Manual,https://auto.sapo.pt/carro-usado/65d8c3e39c0c3df4c2561f84/volvo-v60-16-d2-drive-vocean-race-startstop
+"18,270 EUR",Mini,One,1.6 D,"81,320 km",2019,Diesel,Mini,Black,Aveiro,86 kW (117 HP),Manual,https://carmine.pt/carros-usados/mini-mini-one-d-116-aveiro/ce3e274c-bffb-4fd0-9114-506c1d025d37
+"17,800 EUR",Mini,One,1.6 D,"71,190 km",2019,Diesel,Mini,Black,Santarém,86 kW (117 HP),Manual,https://carmine.pt/carros-usados/mini-mini-one-d-116-santarem/bd156024-914a-4bb9-a64c-28403de614c8
+"31,990 EUR",Mercedes Benz,C-Class,,"105,370 km",2017,Diesel,Sedan,White,Montemor O Velho,126 kW (171 HP),Automatic,https://auto.sapo.pt/carro-usado/65fc523b5d2e94722dc63517/mercedes-benz-classe-c
+"18,950 EUR",Volvo,V40,2.0,"145,000 km",2019,Diesel,Wagon,Black,Porto,89 kW (121 HP),Automatic,https://carmine.pt/carros-usados/volvo-v40-20-d2-momentum-geartronic-120-porto/7c975086-c94e-44f1-a449-3b93a6926904
+"79,900 EUR",Porsche,Macan,3.0 GTS,"50,000 km",2018,Petrol,Suv,Black,Sintra,268 kW (364 HP),Automatic,https://www.custojusto.pt//lisboa/veiculos/carros-usados/suv-tt/porsche-macan-gts-39509363
+"36,990 EUR",Bmw,X4,,"105,000 km",2017,Diesel,Suv,Gray,Lisboa,192 kW (261 HP),Automatic,https://carmine.pt/carros-usados/bmw-x4-30-d-xdrive-258-lisboa/4c6c1b82-8697-4626-ba80-4179a5745eee
+"50,000 EUR",Porsche,911,3.4 4,"70,000 km",2000,Petrol,Convertible,Gray,Braga,223 kW (303 HP),Manual,https://carmine.pt/carros-usados/porsche-911-carrera-4-cabrio-300-braga/eec4edc3-0974-4c82-984d-f65e4f774b98
+"16,950 EUR",Audi,A1,1.6 TDI,"99,897 km",2017,Diesel,Mini,Black,Coimbra,86 kW (117 HP),Manual,https://auto.sapo.pt/carro-usado/65816297d6112ab33137440f/audi-a1
+"34,950 EUR",Mercedes Benz,C-Class,,"128,436 km",2018,Diesel,Sedan,White,Porto,126 kW (171 HP),Automatic,https://auto.sapo.pt/carro-usado/65392f64b8399abc9559ce7d/mercedes-benz-classe-c
+"34,990 EUR",Mercedes Benz,C-Class,,"112,340 km",2018,Diesel,Sedan,Black,Leiria,126 kW (171 HP),Automatic,https://auto.sapo.pt/carro-usado/659eb6aa141f6077342a638a/mercedes-benz-classe-c
+"33,500 EUR",Audi,A8,3.0 TDI V6,"195,000 km",2016,Diesel,Sedan,Gray,Santarém,195 kW (265 HP),Automatic,https://auto.sapo.pt/carro-usado/65285753ab1f052ad9bc20c7/audi-a8
+"47,980 EUR",Porsche,Macan,3.0 s,"194,537 km",2014,Diesel,Suv,Black,Aveiro,192 kW (261 HP),Automatic,https://carmine.pt/carros-usados/porsche-macan-s-all-weather-258-aveiro/f39cf5b2-a3ac-4643-bc6f-6652f5801a75
+"54,000 EUR",Porsche,Macan,3.0 s,"138,337 km",2014,Diesel,Suv,Black,Porto,192 kW (261 HP),Automatic,https://carmine.pt/carros-usados/porsche-macan-s-258-porto/7adcaef1-2bc7-43ca-83b2-d2bfe9b79693
+"43,500 EUR",Bmw,X4,,"141,500 km",2018,Diesel,Suv,White,Viseu,141 kW (192 HP),Automatic,https://auto.sapo.pt/carro-usado/6543c0ce3042defa7a0101fd/bmw-x4-20-d-xdrive-pack-m-auto
+"32,900 EUR",Mercedes Benz,C-Class,,"120,000 km",2019,Diesel,Sedan,Blue,Vila Do Conde,144 kW (196 HP),Automatic,https://carmine.pt/carros-usados/mercedes-classe-c-c-220-d-avantgarde-194-porto/2d43b47a-1839-495e-9dcc-9abac3b3b839
+"30,000 EUR",Mercedes Benz,C-Class,,"77,600 km",2018,Diesel,Sedan,Black,Évora,101 kW (137 HP),Automatic,https://carmine.pt/carros-usados/mercedes-classe-c-c-200-d-avantgarde+-aut-136-evora/c65772e9-9a83-4886-9b46-1beeee1f38f7
+"59,750 EUR",Mercedes Benz,C-Class,43 AMG,"65,000 km",2018,Petrol,Sedan,Gray,Santarém,273 kW (371 HP),Automatic,https://auto.sapo.pt/carro-usado/6528268b8908934eb656c3f6/mercedes-benz-classe-c
+"11,900 EUR",Dodge,Journey,2.0 CRD,"210,000 km",2011,Diesel,Crossover,Gray,Aveiro,104 kW (141 HP),Manual,https://auto.sapo.pt/carro-usado/65fafd72dc5ad5f89633f992/dodge-journey-20-crd-sxt-mtx-limited
+"49,750 EUR",Bmw,Z4,i,"36,932 km",2021,Petrol,Coupe,Black,Mealhada,192 kW (261 HP),Automatic,https://auto.sapo.pt/carro-usado/65c49f69444c3b3889617dfb/bmw-z4
+"65,000 EUR",Porsche,Macan,3.6 Turbo,"149,829 km",2015,Petrol,Suv,Black,Porto,298 kW (405 HP),Automatic,https://carmine.pt/carros-usados/porsche-macan-turbo-400-porto/29ca3187-8602-4297-b522-4266054d2c69
+"14,900 EUR",Audi,A5,2.0 tfsi,"249,529 km",2009,Petrol,Coupe,Black,Porto,134 kW (182 HP),Manual,https://carmine.pt/carros-usados/audi-a5-20-tfsi-s-line-180-porto/05eabee1-2685-4ba5-b20c-e1e4bb152bd1
+"19,950 EUR",Audi,A5,2.0 TFSI Quattro,"184,700 km",2009,Petrol,Convertible,Black,Trofa,157 kW (214 HP),Automatic,https://carmine.pt/carros-usados/audi-a5-cabrio20-tfsi-quattro-s-line-s-tronic-211-porto/96de76b4-240f-4791-880c-4dc44764c834
+"58,750 EUR",Audi,A8,3.0 TDI V6 Quattro TipTronic,"210,000 km",2018,Diesel,Sedan,Black,Setúbal,213 kW (290 HP),Automatic,https://carmine.pt/carros-usados/audi-a8-30-tdi-v6-quattro-tiptronic-286-setubal/a2158611-fe25-4dc5-be7a-8c01e7e1606e
+"39,900 EUR",Audi,A6,2.0 40 TDI,"97,041 km",2019,Diesel,Sedan,Gray,Lisboa,152 kW (207 HP),Automatic,https://auto.sapo.pt/carro-usado/656af9e828144e40cfb9d3c5/audi-a6
+"24,350 EUR",Audi,Q2,1.6 30 TDI S tronic,"169,000 km",2019,Diesel,Crossover,Silver,Aveiro,86 kW (117 HP),Automatic,https://carmine.pt/carros-usados/audi-q2-30-tdi-sport-s-tronic-116-aveiro/26cc9f7e-3fbe-463f-adc8-fce39f909e4c
+"28,900 EUR",Audi,Q2,1.6 30 TDI S tronic,"130,000 km",2019,Diesel,Crossover,Black,Vila Do Conde,86 kW (117 HP),Automatic,https://carmine.pt/carros-usados/audi-q2-30-tdi-s-tronic-116-porto/6dfe02a6-4829-4c38-bbb0-69e0bbdac118
+"22,500 EUR",Renault,Master,2.3,"207,000 km",2017,Diesel,Van,White,Condeixa A Nova,96 kW (131 HP),Manual,https://auto.sapo.pt/carro-usado/65942bbf0877a4c0bf562c9c/renault-master
+"12,490 EUR",Volkswagen,Polo,1.2,"114,378 km",2011,Diesel,Hatchback,Black,Porto,55 kW (75 HP),Manual,https://auto.sapo.pt/carro-usado/65f569f41e32be1e542db1db/volkswagen-polo
+"27,990 EUR",Porsche,Cayenne,3.0 D,"240,156 km",2009,Diesel,Suv,Gray,Aveiro,178 kW (242 HP),Automatic,https://auto.sapo.pt/carro-usado/659fb9e12d75b8c81d5ee2eb/porsche-cayenne
+"16,990 EUR",Bmw,X3,D,"270,000 km",2010,Diesel,Suv,Gray,Setúbal,131 kW (178 HP),Automatic,https://auto.sapo.pt/carro-usado/65e9dba2cd6ac416f863cfdb/bmw-x3
+"15,990 EUR",Seat,Leon,2.0 tfsi,"175,751 km",2008,Petrol,Hatchback,Black,Pombal,178 kW (242 HP),Manual,https://www.abmotor.pt/carros/Seat/Leon/445534/
+"24,990 EUR",Mercedes Benz,Glb-Class,180,"114,000 km",2015,Diesel,Suv,Gray,Aveiro,81 kW (110 HP),Automatic,https://carmine.pt/carros-usados/mercedes-classe-gla-gla-180-cdi-amg-line-aut-109-aveiro/d5125a2e-7fc1-4867-a180-d6f4564eb09c

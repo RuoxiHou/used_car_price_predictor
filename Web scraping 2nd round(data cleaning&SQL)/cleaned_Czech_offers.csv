@@ -1,0 +1,133 @@
+Make,Model,Trim,Year,Fuel type,Body type,Color,City,Transmission,Contact,Emission standard,Price(EUR),Mileage(km),kW,Country
+Mercedes Benz,Gls-Class,580 4Matic,2023,Petrol,Suv,Black,Praha,Automatic,https://www.autanet.cz/detail/mercedes-benz/gls/43716,6,138590,10,360.0,Czech Republic
+Mercedes Benz,Gle-Class,450 AMG 4MATIC,2023,Petrol,Suv,Black,Praha,Automatic,http://auto.rychle.cz/osobni-auto-O/Mercedes-Benz/GLE/GLE-450-4MATIC-SUV-170741373875145.html,6,106912,6460,280.0,Czech Republic
+Mercedes Benz,Sl-Class,4.0 AMG 55,2023,Petrol,Convertible,Gray,Praha,Automatic,https://autocaris.cz/detail.php?inzerat=716194,6,172249,2966,350.0,Czech Republic
+Subaru,Forester,2.0,2013,Diesel,Suv,White,Brno,Manual,https://www.annonce.cz/inzerat/subaru-forester-2-0-72931111-ws2kbg.html,5,7325,240856,108.0,Czech Republic
+Hyundai,Ix35,2.0 CRDi,2010,Diesel,Crossover,Gray,Říčany,Manual,https://www.automodul.cz/hyundai-ix35-2-0-crdi-navi-panorama-kuze-c2727434,5,6890,239100,100.0,Czech Republic
+Volkswagen,Touareg,4.0 TDI V8,2010,Diesel,Suv,Brown,Brno,Automatic,https://www.cars.cz/inzerce/osobni-auto-O/Volkswagen/Touareg/Touareg-4-1-V8-4-2-Kombi-170453536604858.html,5,16235,319000,250.0,Czech Republic
+Tesla,Model S,electro,2018,Electric,Sedan,Blue,Praha,Automatic,https://www.sauto.cz/osobni/detail/tesla/model-s/201938698,6,37614,84670,193.0,Czech Republic
+Mercedes Benz,Gla-Class,220d 4Matic,2016,Diesel,Suv,Black,Praha,Automatic,https://www.cars.cz/inzerce/osobni-auto-O/Mercedes-Benz/GLA/GLA-220d-7G-TRO-SUV-17103873346820.html,6,19795,145120,130.0,Czech Republic
+Subaru,Outback,2.0 D,2015,Diesel,Crossover,Blue,Olomouc,Automatic,https://www.autanet.cz/detail/subaru/outback/29960,6,12631,236188,110.0,Czech Republic
+Bmw,X5,M50d,2017,Diesel,Suv,White,Olbramovice,Automatic,http://auto.rychle.cz/osobni-auto-O/BMW/X5/X5-3.0-M50d-28-SUV-170894207106731.html,6,27718,156979,280.0,Czech Republic
+Bmw,1 Series,125i,2011,Petrol,Coupe,Gray,Olbramovice,Manual,https://autocaris.cz/detail.php?inzerat=743368,5,8711,128105,125.0,Czech Republic
+Audi,A6 Allroad,3.0 50 TDI quattro,2023,Diesel,Crossover,Gray,Praha,Automatic,http://auto.rychle.cz/osobni-auto-O/Audi/A6_Allroad/A6-Allroad-50-TDI-QUAT-Kombi-17078457647270.html,6,65333,23085,210.0,Czech Republic
+Lancia,Delta,1.6,2010,Diesel,Hatchback,Gray,Brno,Manual,https://www.annonce.cz/inzerat/lancia-delta-1-6-jtd-71390711-wuw4fs.html,5,3167,173256,88.0,Czech Republic
+Volkswagen,Touran,2.0 TDI,2017,Diesel,Mpv,Black,Slaný,Automatic,https://www.cars.cz/inzerce/osobni-auto-O/Volkswagen/Touran/Touran-2-0-TDi-140-MPV-1710236275931151.html,6,19795,102000,140.0,Czech Republic
+Mercedes Benz,Cl-Class,55 AMG,2008,Petrol,Coupe,Black,Karlovy Vary,Automatic,https://www.sauto.cz/osobni/detail/mercedes-benz/cl/205347600,4,21977,262600,285.0,Czech Republic
+Volkswagen,Golf,2.0 TDI,2011,Diesel,Hatchback,Brown,Kroměříž,Manual,https://www.sauto.cz/osobni/detail/volkswagen/golf/204636030,5,6969,197319,103.0,Czech Republic
+Volkswagen,Tiguan,2.0 TDI 4Motion,2013,Diesel,Crossover,Silver,Olbramovice,Automatic,https://yauto.cz/volkswagen/tiguan/20-tdi-4motion-dsg-sportstyle-suv-nafta-860319/,5,14651,92116,103.0,Czech Republic
+Volkswagen,Sharan,2.0 TDI,2010,Diesel,Van,Gray,Kroměříž,Manual,http://auto.rychle.cz/osobni-auto-O/Volkswagen/Sharan/Sharan-2.0-TDI.HIG-MPV-170998245012260.html,5,11443,191167,100.0,Czech Republic
+Volkswagen,Touareg,3.0 TDI V6,2010,Diesel,Suv,Gray,Olbramovice,Automatic,http://auto.rychle.cz/osobni-auto-O/Volkswagen/Touareg/Touareg-3.0-TDI-V6-SUV-1705608357969197.html,5,11087,269962,176.0,Czech Republic
+Ford,Ranger,3.2,2016,Diesel,Pickup,Black,Olbramovice,Automatic,http://auto.rychle.cz/osobni-auto-O/Ford/Ranger/Ranger-3.2-TDCi-14-Pick-up-170894207196635.html,6,25739,164455,147.0,Czech Republic
+Kia,Optima,1.7,2016,Diesel,Sedan,Gray,Praha,Automatic,http://auto.rychle.cz/osobni-auto-O/Kia/Optima/Optima-1.7-PREMIUM-Sedan-Limuzina-170843343446377.html,6,16231,141000,104.0,Czech Republic
+Seat,Altea,1.9 TDI,2007,Diesel,Mpv,Silver,Olbramovice,Manual,http://auto.rychle.cz/osobni-auto-O/Seat/Altea/Altea-1.9-TDI-XL-MPV-170517635500379.html,4,3524,314307,77.0,Czech Republic
+Toyota,Verso,1.6,2016,Petrol,Mpv,Red,Slaný,Manual,https://yauto.cz/toyota/verso/16-d-4d82kwnovecrskniha-mpv-nafta-868033/,6,8668,110000,82.0,Czech Republic
+Hyundai,Tucson,1.7 CRDi,2017,Diesel,Suv,Gold,Praha,Automatic,http://auto.rychle.cz/osobni-auto-O/Hyundai/Tucson/Tucson-1.7.-PREMIU-SUV-1708960338288220.html,6,13855,178025,104.0,Czech Republic
+Volkswagen,Tiguan,1.4 TSI,2010,Petrol,Crossover,Gray,Třebíč,Manual,https://www.automodul.cz/volkswagen-tiguan-1-4-tsi-sport-navi-4x4-servis-c2648523,5,9899,124141,110.0,Czech Republic
+Volkswagen,Touareg,3.0 TDI V6,2012,Diesel,Suv,Black,Olbramovice,Automatic,https://www.sauto.cz/osobni/detail/volkswagen/touareg/205092969,5,16631,194886,180.0,Czech Republic
+Mercedes Benz,Gls-Class,500 4MATIC,2018,Petrol,Suv,White,Znojmo,Manual,https://www.sportovnivozy.cz/188116-mercedes-benz-gls-500-4matic7misttaznecr-2018,6,52982,72479,335.0,Czech Republic
+Lexus,Rc-F,5.0,2014,Petrol,Coupe,Blue,Praha,Automatic,https://autocaris.cz/detail.php?inzerat=738347,6,43158,24245,351.0,Czech Republic
+Volkswagen,Tiguan,1.4 TSI,2012,Petrol,Crossover,White,Brno,Manual,https://www.autanet.cz/detail/volkswagen/tiguan/15306,5,7919,198952,90.0,Czech Republic
+Volkswagen,Polo,2.0,2013,Petrol,Hatchback,White,České Budějovice,Manual,https://yauto.cz/volkswagen/polo/20-tsi-162kw-wrc-hatchback-benzin-824389/,5,19795,80700,162.0,Czech Republic
+Ford,Kuga,1.5 EcoBoost,2017,Petrol,Suv,White,Slaný,Manual,https://www.cars.cz/inzerce/osobni-auto-O/Ford/Kuga/Kuga-1-5-EcoBoos-SUV-1710251010217172.html,6,17023,37000,110.0,Czech Republic
+Bmw,X7,30d xDrive,2019,Diesel,Suv,Black,Praha,Automatic,http://auto.rychle.cz/osobni-auto-O/BMW/X7/X7-30d-xDrive-SUV-17019705375030.html,6,63353,176205,195.0,Czech Republic
+Honda,Civic,1.4,2009,Petrol,Hatchback,Gray,Brno,Manual,https://autocaris.cz/detail.php?inzerat=736063,5,3959,179569,73.0,Czech Republic
+Honda,Civic,1.4,2009,Petrol,Hatchback,Gray,Brno,Manual,https://www.sauto.cz/osobni/detail/honda/civic/203618754,5,3959,179526,73.0,Czech Republic
+Bmw,8 Series,M850i xDrive,2021,Petrol,Coupe,Black,Praha,Automatic,https://www.sauto.cz/osobni/detail/bmw/rada-8/202651255,6,65333,47784,390.0,Czech Republic
+Opel,Mokka,1.7,2013,Diesel,Crossover,White,Kroměříž,Manual,https://www.autanet.cz/detail/opel/mokka/42989,5,9820,168684,96.0,Czech Republic
+Opel,Meriva,1.4 Turbo,2016,Petrol,Mpv,Brown,Slaný,Manual,https://www.cars.cz/inzerce/osobni-auto-O/Opel/Meriva/Meriva-1-4-TURBO-1-Hatchback-17097304155812966.html,6,7911,92000,103.0,Czech Republic
+Bmw,5 Series,M550d,2016,Diesel,Sedan,White,Chrudim,Automatic,https://www.autanet.cz/detail/bmw/rada-5/5421,6,21739,273342,280.0,Czech Republic
+Bmw,X5,30d,2019,Diesel,Suv,Blue,Praha,Automatic,https://autocaris.cz/detail.php?inzerat=724202,6,59393,105500,195.0,Czech Republic
+Škoda,Kodiaq,2.0 dsg tdi,2018,Diesel,Suv,Blue,Kroměříž,Automatic,https://www.sauto.cz/osobni/detail/skoda/kodiaq/204280746,6,23283,206088,110.0,Czech Republic
+Volvo,V60,2.4 D5,2012,Diesel,Wagon,Orange,Kroměříž,Manual,https://www.annonce.cz/inzerat/volvo-v60-2-4-d5-r-design-navi-1-maj--72314593-wcfed3.html,5,8672,333258,158.0,Czech Republic
+Volvo,Xc60,2.4 D4 AWD,2015,Diesel,Crossover,White,Liberec,Automatic,https://www.sauto.cz/osobni/detail/volvo/xc60/205361355,6,22531,92957,140.0,Czech Republic
+Škoda,Roomster,1.4 TDI,2007,Diesel,Mpv,Blue,Most,Manual,http://auto.rychle.cz/osobni-auto-O/Skoda/Roomster/Roomster-1.4TDI-59kW-Kombi-17101675377060.html,4,3326,216000,59.0,Czech Republic
+Volvo,Xc60,2.4 D4 AWD,2017,Diesel,Crossover,Silver,Liberec,Automatic,https://www.cars.cz/inzerce/osobni-auto-O/Volvo/XC60/XC60-D4-AWD-2-4-SUV-17097345989345757.html,6,23323,94402,140.0,Czech Republic
+Volvo,Xc90,2.4 D5,2003,Diesel,Suv,Silver,Mikulov,Automatic,https://www.sauto.cz/osobni/detail/volvo/xc90/204508749,3,5543,378189,120.0,Czech Republic
+Land Rover,Evoque,2.0,2019,Diesel,Suv,Red,Praha,Automatic,https://autocaris.cz/detail.php?inzerat=744879,6,26923,31518,110.0,Czech Republic
+Mini,Cooper,1.6 S,2010,Petrol,Hatchback,Gray,Rudná,Manual,https://yauto.cz/mini/cooper-s/16-i-turbo-hatchback-benzin-865586/,5,9103,159788,128.0,Czech Republic
+Bmw,X5,D,2014,Diesel,Suv,Black,Praha,Automatic,http://auto.rychle.cz/osobni-auto-O/BMW/X5/X5-3.0-d-Terenni-17102404340202786.html,6,27679,147181,280.0,Czech Republic
+Jeep,Compass,2.2 crd,2011,Diesel,Crossover,Black,Praha,Manual,https://www.sauto.cz/osobni/detail/jeep/compass/202672474,5,6692,203170,120.0,Czech Republic
+Kia,Sorento,2.5 CRDi,2006,Diesel,Suv,Black,Praha,Automatic,https://yauto.cz/kia/sorento/14-i-hatchback-benzin-526631/,4,5341,211500,103.0,Czech Republic
+Bmw,X5,30d,2016,Diesel,Suv,Silver,Praha,Automatic,https://www.cars.cz/inzerce/osobni-auto-O/BMW/X5/X5-30d-xDrive-SUV-1708709753586166.html,6,27715,163705,190.0,Czech Republic
+Mercedes Benz,S-Class,350 CDI,2010,Diesel,Sedan,Gray,Olbramovice,Automatic,http://auto.rychle.cz/osobni-auto-O/Mercedes-Benz/S/S-3.0-S-350-1-Sedan-Limuzina-170386945346332.html,5,17819,144088,190.0,Czech Republic
+Fiat,Freemont,2.0 mjet,2015,Diesel,Crossover,Green,Praha,Automatic,https://www.annonce.cz/inzerat/fiat-freemont-2-0-mjt-72635137-wuep9m.html,6,8315,253590,125.0,Czech Republic
+Mercedes Benz,Cls-Class,63 AMG,2010,Petrol,Sedan,Red,Praha,Automatic,https://www.sauto.cz/osobni/detail/mercedes-benz/cls/167998181,5,27283,158335,386.0,Czech Republic
+Volkswagen,Golf,2.0 GTI,2021,Petrol,Hatchback,White,Praha,Automatic,https://www.sportovnivozy.cz/188182-volkswagen-golf-20-gti-dsg-led-navigac-2021,6,27715,38160,180.0,Czech Republic
+Škoda,Superb,2.0 TSI,2019,Petrol,Sedan,Gray,Praha,Automatic,https://yauto.cz/skoda/superb/20-tsi-200kw-dsg-4x4-lk-acc-canton-keyless-navi-sedan-benzin-866587/,6,23755,164105,200.0,Czech Republic
+Citroen,C4,1.6 HDi,2013,Diesel,Hatchback,Gray,Kroměříž,Manual,https://www.automodul.cz/citroen-c4-1-6-hdi-digiklima-temp-bt-c2638902,5,6494,123767,68.0,Czech Republic
+Cupra,Formentor,2.0 tsi vz,2021,Petrol,Crossover,Gray,Praha,Automatic,https://www.sauto.cz/osobni/detail/cupra/formentor/205610406,6,36822,23763,228.0,Czech Republic
+Chevrolet,Colorado,2.8,2018,Diesel,Pickup,Black,Praha,Automatic,https://www.automodul.cz/chevrolet-colorado-2-8-td-4x4-duramax-zr2-bose-c2600343,6,34842,61175,135.0,Czech Republic
+Audi,A4,2.0,2001,Petrol,Sedan,White,Brno,Manual,https://yauto.cz/audi/a4/20-bez-koroze123tkm-sedan-benzin-857641/,3,2653,123456,96.0,Czech Republic
+Seat,Alhambra,2.0 TDI,2014,Diesel,Mpv,Silver,Chomutov,Automatic,http://auto.rychle.cz/osobni-auto-O/Seat/Alhambra/Alhambra-2.0TDI-130k-Van-Minibus-171052063811295.html,6,13859,219217,130.0,Czech Republic
+Volvo,S80,3.0 T6,2010,Petrol,Sedan,Blue,Olbramovice,Automatic,https://www.sauto.cz/osobni/detail/volvo/s80/203809926,5,9899,183192,224.0,Czech Republic
+Volkswagen,Sharan,2.0 TDI,2012,Diesel,Van,Black,Lubenec,Automatic,https://www.sauto.cz/osobni/detail/volkswagen/sharan/202894396,5,13859,116000,103.0,Czech Republic
+Volkswagen,Tiguan,2.0 TDI,2012,Diesel,Crossover,Red,Průhonice,Manual,https://www.annonce.cz/inzerat/volkswagen-tiguan-2-0-72592429-w5b9mf.html,5,10256,209817,103.0,Czech Republic
+Subaru,Outback,2.0 D,2013,Diesel,Crossover,Gray,Žďár Nad Sázavou,Automatic,https://www.cars.cz/inzerce/osobni-auto-O/Subaru/OUTBACK/OUTBACK-2-0D-AWD-A-Kombi-170862180231874.html,5,7484,202000,110.0,Czech Republic
+Dodge,Challenger,6.4,2020,Petrol,Coupe,Black,Praha,Automatic,https://yauto.cz/dodge/challenger/64-l-v8-srt-scat-pack-navigace-kamera-alpine-kupe-benzin-836191/,6,45534,59305,362.0,Czech Republic
+Volkswagen,Caddy,2.0 TDI,2016,Diesel,Pickup,Blue,Olbramovice,Manual,https://www.automodul.cz/volkswagen-caddy-2-0-tdi-maxi-klima-7-mist-taz-c2647570,6,15403,144400,75.0,Czech Republic
+Bmw,X6,M50i xDrive,2021,Petrol,Suv,Green,Olbramovice,Automatic,https://www.automodul.cz/bmw-x6-4-4-m50i-xdrive-individual-cz-c2710411,6,84701,18600,390.0,Czech Republic
+Mini,Cooper,1.6 S,2007,LPG,Hatchback,White,Brno,Manual,https://www.cars.cz/inzerce/osobni-auto-O/Mini/Cooper-S/Cooper-S-1-6-LPG-Hatchback-170972866744194.html,4,3167,208523,128.0,Czech Republic
+Volkswagen,Sharan,2.0 TDI,2020,Diesel,Van,Blue,Znojmo,Automatic,https://yauto.cz/volkswagen/sharan/sedan-nafta-523025/,6,28827,98239,110.0,Czech Republic
+Porsche,911,3.8 4S,2007,Petrol,Convertible,Black,Olbramovice,Automatic,https://autocaris.cz/detail.php?inzerat=718990,4,59001,97717,261.0,Czech Republic
+Mazda,3,2.0 SKYACTIV,2014,Petrol,Hatchback,Brown,Kroměříž,Manual,https://www.automodul.cz/mazda-3-2-0-i-skyactiv-1-maj-cr-c2645127,6,10216,98869,88.0,Czech Republic
+Audi,Q5,2.0,2010,Diesel,Suv,White,Brno,Automatic,https://www.sauto.cz/osobni/detail/audi/q5/205366530,5,9820,230123,125.0,Czech Republic
+Audi,Q8,3.0 50 TDI quattro,2024,Diesel,Suv,Black,Praha,Automatic,https://www.annonce.cz/inzerat/audi-q8-50-tdi-quattro-72605525-w3zj3x.html,6,100972,30,210.0,Czech Republic
+Volkswagen,Touareg,3.0 TDI V6,2016,Diesel,Suv,Gray,České Budějovice,Automatic,https://www.automodul.cz/volkswagen-touareg-3-0-v6-tdi-r-line-c2628710,6,23755,133000,193.0,Czech Republic
+Volkswagen,Touareg,3.0 TDI,2011,Diesel,Suv,Gray,Rajhrad,Automatic,https://www.autanet.cz/detail/volkswagen/touareg/41201,5,9899,434000,180.0,Czech Republic
+Peugeot,3008,1.2,2016,Petrol,Crossover,Red,Praha,Manual,https://www.autoesa.cz/en/peugeot/3008/mpv/benzin/781295996,6,14255,119553,96.0,Czech Republic
+Volkswagen,Tiguan Allspace,2.0,2018,Diesel,Crossover,White,Praha,Automatic,https://www.annonce.cz/inzerat/vw-tiguan-allspace-2-0-72696737-w7hg41.html,6,22571,209646,176.0,Czech Republic
+Volvo,V60,2.4 D4 AWD,2017,Diesel,Wagon,Beige,Liberec,Automatic,https://www.cars.cz/inzerce/osobni-auto-O/Volvo/V60/V60-D4-AWD-2-4-Kombi-1706609495212331.html,6,20947,99734,140.0,Czech Republic
+Škoda,Kodiaq,2.0 dsg tdi,2020,Diesel,Suv,Blue,Ostrava,Automatic,https://autocaris.cz/detail.php?inzerat=728889,6,34842,47792,140.0,Czech Republic
+Hyundai,Santa Fe,2.2 CRDi,2019,Diesel,Suv,Red,Uherské Hradiště,Automatic,https://www.dasweltauto.cz/vehicle/242322757,6,23755,142050,149.0,Czech Republic
+Škoda,Kodiaq,2.0 4x4 dsg tsi,2021,Petrol,Suv,White,Praha,Automatic,http://auto.rychle.cz/osobni-auto-O/Skoda/Kodiaq/Kodiaq-2.0-TSI-140-SUV-170909134397935.html,6,35634,88705,140.0,Czech Republic
+Volkswagen,Golf,1.6 TDI,2012,Diesel,Hatchback,Gray,Tábor,Manual,http://auto.rychle.cz/osobni-auto-O/Volkswagen/Golf/Golf-1.6-TDI-77-Hatchback-1706032995205169.html,5,7682,138314,77.0,Czech Republic
+Bmw,5 Series,535i,2009,Petrol,Sedan,Gray,Praha,Automatic,https://www.automodul.cz/bmw-rada-5-535i-gt-adaptive-drive-panor-c2672505,5,15835,149500,225.0,Czech Republic
+Volkswagen,Tiguan,2.0 TDI,2022,Diesel,Crossover,Red,Ostrava,Automatic,https://yauto.cz/volkswagen/tiguan/20-tdi-4x4-dsg-elegance-tovzaruka-cr-1maj-cr-bmt-4motion-7dsg-elegance-suv-nafta-853658/,6,36426,42223,110.0,Czech Republic
+Seat,Altea,1.4 TSI,2012,Petrol,Mpv,White,Brno,Automatic,https://www.autanet.cz/detail/seat/altea/20786,5,7523,66039,63.0,Czech Republic
+Volvo,Xc60,2.4 D4 AWD,2014,Diesel,Crossover,Blue,Liberec,Automatic,https://www.sauto.cz/osobni/detail/volvo/xc60/205315191,6,18967,119655,140.0,Czech Republic
+Peugeot,2008,1.2 vti,2017,Petrol,Crossover,Gray,Praha,Automatic,https://www.automodul.cz/peugeot-2008-1-2pt-gt-line-at-navi-c2645238,6,10691,113007,81.0,Czech Republic
+Mazda,Cx-5,2.0,2012,Petrol,Crossover,Blue,Olomouc,Automatic,https://autocaris.cz/detail.php?inzerat=735525,5,13819,137959,118.0,Czech Republic
+Audi,A7,3.0 50 TDI quattro,2022,Diesel,Sedan,Black,Praha,Automatic,https://www.sportovnivozy.cz/186246-audi-a7-50-tdi-quattro-s-line-ma-2022,6,75233,8955,210.0,Czech Republic
+Škoda,Kodiaq,2.0 2.0 4x4 tdi,2021,Diesel,Suv,Black,Znojmo,Automatic,https://yauto.cz/skoda/kodiaq/kombi-nafta-676240/,6,27639,162879,147.0,Czech Republic
+Bmw,X5,xDrive30d,2010,Diesel,Suv,Brown,Praha,Automatic,https://www.cars.cz/inzerce/osobni-auto-O/BMW/X5/X5-xDrive30d-S-SUV-17074137374640.html,5,13855,191911,180.0,Czech Republic
+Suzuki,Grand Vitara,1.9 ddis,2006,Diesel,Suv,Gray,Teplice,Manual,https://www.sauto.cz/osobni/detail/suzuki/grand-vitara/204231009,4,5345,184406,95.0,Czech Republic
+Mazda,Cx-3,2.0,2021,Petrol,Crossover,Red,Praha,Manual,https://yauto.cz/mazda/cx-3/20-g122-takumi-1maj-cr-suv-benzin-853532/,6,17419,44300,89.0,Czech Republic
+Land Rover,Range Rover,3.0 TDV6,2011,Diesel,Suv,Gray,Olbramovice,Automatic,https://yauto.cz/land-rover/range-rover/30-tdv6-se-180kw-4x4-tazne-suv-nafta-828268/,5,11879,192726,180.0,Czech Republic
+Škoda,Fabia,1.0 tdi,2001,Diesel,Hatchback,Gray,Olbramovice,Manual,https://yauto.cz/skoda/fabia/19-tdi-74kw-elegance-hatchback-nafta-862048/,3,1187,306259,74.0,Czech Republic
+Volkswagen,Sharan,2.0 TDI,2020,Diesel,Van,Blue,Tábor,Manual,https://www.autanet.cz/detail/volkswagen/sharan/47452,6,24867,155464,110.0,Czech Republic
+Ford,Galaxy,2.0 TDCi,2006,Diesel,Mpv,Gray,Břeclav,Manual,https://www.sauto.cz/osobni/detail/ford/galaxy/203147740,4,5543,186340,103.0,Czech Republic
+Volkswagen,Tiguan,2.0,2008,Diesel,Crossover,Silver,Brno,Manual,https://www.automodul.cz/volkswagen-tiguan-2-0-4motion-sport-137tkm-c2691598,4,8513,137895,103.0,Czech Republic
+Ford,Fiesta,1.4,2010,Diesel,Hatchback,White,Brno,Manual,http://auto.rychle.cz/osobni-auto-O/Ford/Fiesta/Fiesta-1.4-Bez-kor-Hatchback-1704374746952284.html,5,3167,239523,50.0,Czech Republic
+Bmw,3 Series,320i,2007,Petrol,Coupe,Silver,Praha,Manual,https://www.sportovnivozy.cz/188361-bmw-3-320i-125kwxenonypdc-2007,4,6727,187000,125.0,Czech Republic
+Škoda,Octavia,2.0 rs tdi,2013,Diesel,Sedan,Blue,Praha,Automatic,https://www.cars.cz/inzerce/osobni-auto-O/Skoda/Octavia/Octavia-RS-2-0-TDI-Sedan-Limuzina-1708356681390821.html,5,11483,229207,135.0,Czech Republic
+Volvo,Xc40,2.0 D3,2019,Diesel,Crossover,Blue,Liberec,Automatic,https://www.sauto.cz/osobni/detail/volvo/xc40/203521434,6,25699,103071,110.0,Czech Republic
+Mercedes Benz,E-Class,400,2017,Petrol,Coupe,White,Praha,Automatic,https://www.sportovnivozy.cz/188203-mercedes-benz-e-e-4004-maticdesignoled-2017,6,28867,121167,245.0,Czech Republic
+Volkswagen,Polo,1.4 TDI,2007,Diesel,Hatchback,Silver,Mikulov,Manual,https://yauto.cz/volkswagen/polo/14-tdi-serviska-hatchback-nafta-836560/,4,1385,231823,51.0,Czech Republic
+Bmw,7 Series,740d xDrive,2017,Diesel,Sedan,Gray,Praha,Automatic,http://auto.rychle.cz/osobni-auto-O/BMW/740/740-740d-xDrive-Sedan-Limuzina-17104227345806880.html,6,31282,123585,235.0,Czech Republic
+Mini,Clubman,1.6,2012,Diesel,Mpv,Silver,Rudná,Manual,https://www.sportovnivozy.cz/186141-mini-clubman-16-d-82kw-navibi-xenony-2012,5,8311,158364,82.0,Czech Republic
+Subaru,Outback,2.0 D,2016,Diesel,Crossover,Gold,Opava,Automatic,https://www.automodul.cz/subaru-outback-2-0d-s-sport-lineartronic-cz-c2632565,6,16987,177705,110.0,Czech Republic
+Hyundai,Tucson,1.6 T-GDi,2019,Petrol,Suv,White,Slaný,Manual,https://www.cars.cz/inzerce/osobni-auto-O/Hyundai/Tucson/Tucson-1-6-T-GDI-1-SUV-1710244964365628.html,6,17379,57000,130.0,Czech Republic
+Alfa Romeo,Giulietta,1.4,2013,LPG,Hatchback,Black,Brno,Manual,https://www.annonce.cz/inzerat/alfa-romeo-giulietta-71389527-wmpnxn.html,5,5424,220456,88.0,Czech Republic
+Volvo,V50,2.5 T5,2004,Petrol,Wagon,Black,Rudná,Automatic,https://www.cars.cz/inzerce/osobni-auto-O/Volvo/V50/V50-2-5-T5-162k-Kombi-1708011848272148.html,3,4747,256097,162.0,Czech Republic
+Bmw,3 Series,320d xDrive,2019,Diesel,Sedan,White,Praha,Automatic,https://www.annonce.cz/inzerat/bmw-rada-3-320d-xdrive-72686389-wx3c9y.html,6,25735,62871,140.0,Czech Republic
+Audi,Q5,2.0 40 TDI,2020,Diesel,Suv,Gray,Praha,Automatic,http://auto.rychle.cz/osobni-auto-O/Audi/Q5/Q5-40TDI-S-Lin-SUV-16716369014022914.html,6,45498,33229,140.0,Czech Republic
+Toyota,Auris,1.6 VVT-i,2019,Petrol,Hatchback,White,Olomouc,Manual,https://autocaris.cz/detail.php?inzerat=745837,6,14057,53985,97.0,Czech Republic
+Renault,Fluence,1.5 dCi,2013,Diesel,Sedan,Blue,Slaný,Manual,https://yauto.cz/renault/fluence/15-dci-sedan-nafta-852470/,5,6331,72000,81.0,Czech Republic
+Volkswagen,Tiguan Allspace,2.0 TDI,2020,Diesel,Crossover,Orange,Olbramovice,Automatic,https://www.automodul.cz/volkswagen-tiguan-allspace-2-0-tdi-140kw-dsg-pano-virtual-c2713539,6,28867,121633,140.0,Czech Republic
+Nissan,Qashqai,2.0 dCi,2007,Diesel,Crossover,Gray,Úlice,Automatic,https://www.automodul.cz/nissan-qashqai-2-0-dci-110kw-automat-4x4-c2641455,4,6296,153942,110.0,Czech Republic
+Alfa Romeo,Giulietta,1.4,2013,Petrol,Hatchback,Black,Brno,Manual,https://www.automodul.cz/alfa-romeo-giulietta-1-4-c2729145,5,5147,199999,77.0,Czech Republic
+Škoda,Scala,1.5 dsg tsi,2020,Petrol,Hatchback,Blue,Provodov Šonov,Automatic,https://www.sauto.cz/osobni/detail/skoda/scala/204225078,6,14251,154000,110.0,Czech Republic
+Jeep,Grand Cherokee,3.0 crd,2011,Diesel,Suv,Gray,Karlovy Vary,Automatic,https://www.automodul.cz/jeep-grand-cherokee-3-0-crd-177kw-summit-4wd-aut-c2651783,5,9820,236600,177.0,Czech Republic
+Porsche,Cayenne,3.0 D,2013,Diesel,Suv,Black,Praha,Automatic,https://yauto.cz/porsche/cayenne/21-cdi-avantgarde-kombi-nafta-526642/,5,23755,218350,180.0,Czech Republic
+Audi,Q5,2.0 TDI,2015,Diesel,Suv,White,Olomouc,Automatic,https://www.automodul.cz/audi-q5-2-0-tdi-140kw-q-s-line-pano-cz-c2641183,6,16987,235905,140.0,Czech Republic
+Škoda,Yeti,1.6 TDI,2011,Diesel,Crossover,Blue,Kroměříž,Manual,https://yauto.cz/skoda/yeti/16-tdi-navidualni-klima-suv-nafta-866347/,5,7880,131286,77.0,Czech Republic
+Volkswagen,Tiguan,1.4 TSI,2014,Petrol,Crossover,Black,Klatovy,Manual,http://auto.rychle.cz/osobni-auto-O/Volkswagen/Tiguan/Tiguan-1.4-TSI-Tre-SUV-1705840395024252.html,6,12275,94500,90.0,Czech Republic
+Citroen,C4 Picasso,1.8,2007,Petrol,Mpv,Gray,Olbramovice,Manual,http://auto.rychle.cz/osobni-auto-O/Citroen/C4_Picasso/C4-Picasso-1.8-16V-CZ-MPV-170923519337165.html,4,3563,210728,92.0,Czech Republic
+Mercedes Benz,Gle-Class,350 4MATIC,2021,Diesel,Coupe,Black,Ostrava,Automatic,https://www.autanet.cz/detail/mercedes-benz/gle/43629,6,70089,96400,200.0,Czech Republic
+Citroen,C3,1.6 VTi,2010,Petrol,Hatchback,Black,Olbramovice,Manual,https://www.sauto.cz/osobni/detail/citroen/c3/202773883,5,4751,122804,88.0,Czech Republic
+Volkswagen,Sharan,2.0 TDI,2014,Diesel,Van,Blue,Vysoké Mýto,Manual,https://autocaris.cz/detail.php?inzerat=745270,6,12649,216189,103.0,Czech Republic
+Renault,Megane,1.6,2012,Petrol,Hatchback,Brown,Třebíč,Manual,https://yauto.cz/renault/megane/16-16vnaviklimaservkn-hatchback-benzin-837363/,5,5147,159000,74.0,Czech Republic
+Bentley,Continental Gt,4.0 V8 S,2016,Petrol,Coupe,Black,Ostrava,Automatic,https://www.automodul.cz/bentley-continental-gt-4-0-v8-s-carbon-ceramic-naim-c2686009,6,96382,65500,388.0,Czech Republic
+Audi,A6,3.0 TDI,2012,Diesel,Sedan,Black,Olomouc,Automatic,https://www.annonce.cz/inzerat/audi-a6-3-0-tdi-180kw-71465835-wjzyu1.html,5,13423,261803,180.0,Czech Republic
+Mercedes Benz,Eqc,400,2023,Electric,Suv,Red,Olomouc,Automatic,https://www.automodul.cz/mercedes-eqc-400-4m-amg-zaruka-04-28-cz-c2658740,6,53424,16775,300.0,Czech Republic

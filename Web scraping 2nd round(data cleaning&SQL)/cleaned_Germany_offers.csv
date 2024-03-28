@@ -1,0 +1,245 @@
+Make,Model,Trim,Year,Fuel type,Body type,Color,City,Transmission,Contact,Price(EUR),Mileage(km),kW,Emission standard,Country
+Mazda,Cx-5,2.5,2023,Petrol,Crossover,Black,Hamburg,Automatic,https://www.moll-automobile.de/fahrzeug/385546043/Pkw/mazda-cx-5-homura-2-5l-skyactiv-g-194ps-fwd-6ag-navi-b,35890,11732,144.0,6,Germany
+Hyundai,I20,1.0,2022,Petrol,Hatchback,White,Iserlohn,Automatic,https://gebrauchtwagen.hyundai.de/de/fahrzeugsuche/hyundai/i20-mj22-10-t-gdi-100ps-48v-dct-trend-lichtpaket-assistenzpaket/variant-kjc7tsd8,22950,5772,75.0,6,Germany
+Audi,A1,1.0 30 TFSI,2019,Petrol,Mini,Yellow,Rain,Manual,https://www.12gebrauchtwagen.de/c/16/1413600396?num_on_page=3&page=50&title=Audi+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,24890,42490,85.0,6,Germany
+Audi,Q2,1.5 35 TFSI,2024,Petrol,Crossover,Black,Rain,Automatic,https://www.12gebrauchtwagen.de/c/34/1398708611?num_on_page=2&page=9&title=Audi+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,39130,2500,110.0,6,Germany
+Volvo,Xc40,1.5,2023,Hybrid,Crossover,Gray,Aachen,Automatic,https://www.moll-automobile.de/fahrzeug/385196040/Pkw/volvo-xc40-plus-dark-recharge-plug-in-hybrid-2wd-t5-tw,46980,14839,194.0,6,Germany
+Volvo,Xc40,2.0 B4,2023,Petrol,Crossover,Blue,Aachen,Automatic,https://www.moll-automobile.de/fahrzeug/385199080/Pkw/volvo-xc40-plus-dark-2wd-b4-eu6d-navi-digitales-cockpi,41890,11582,146.0,6,Germany
+Jaguar,F-Type,5.0 P450,2023,Petrol,Convertible,Green,Rain,Automatic,https://www.instamotion.com/auto/K5HA-AKQS-BWMY,116650,9,335.0,6,Germany
+Bmw,X3,xDrive30d,2022,Diesel,Suv,Black,Rain,Automatic,https://www.12gebrauchtwagen.de/c/16/1426180988?num_on_page=3&page=11&premium=false&title=BMW+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,54189,55500,210.0,6,Germany
+Mercedes Benz,A-Class,35 AMG,2022,Petrol,Sedan,Black,Kassel,Automatic,https://www.12gebrauchtwagen.de/c/4/1428125660?num_on_page=3&page=27&title=Mercedes-Benz+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,40850,45805,228.0,6,Germany
+Audi,Q3,2.0 35 TDI,2023,Diesel,Crossover,White,Rain,Automatic,https://www.12gebrauchtwagen.de/c/16/1426035538?num_on_page=3&page=33&premium=false&title=Audi+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,48070,3900,110.0,6,Germany
+Ford,Ecosport,1.0 EcoBoost,2019,Petrol,Suv,Gray,Ulm,Manual,https://www.12gebrauchtwagen.de/c/4/1419520629?num_on_page=3&page=29&premium=false&title=Ford+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,18280,22910,104.0,6,Germany
+Land Rover,Defender,3.0,2023,Diesel,Suv,Black,Oldenburg,Automatic,https://www.moll-automobile.de/fahrzeug/386041501/Pkw/land-rover-defender-90-x-dynamic-se-d250-mild-hybrid-allrad,71490,11990,185.0,6,Germany
+Bmw,X3,M40d,2021,Diesel,Suv,Silver,Rain,Automatic,https://www.instamotion.com/auto/6FNF-GR4D-PHRV,53750,53313,250.0,6,Germany
+Honda,Civic,1.0,2020,Petrol,Sedan,Red,Iserlohn,Manual,https://gebrauchtwagen.hyundai.de/de/fahrzeugsuche/honda/civic-10-elegance-pdc-shz-kamera-navi-acc-led/variant-s1c9h78q,17850,47950,93.0,6,Germany
+Volkswagen,Transporter,2.0,2021,Diesel,Van,Black,Mönchengladbach,Automatic,https://hey.car/vehicle/f89ddfc4-4c1b-4ea8-b184-6d75ca897569?dealerId=518694,60500,38403,152.0,6,Germany
+Bmw,X3,M40d,2020,Diesel,Suv,Blue,Rain,Automatic,https://www.12gebrauchtwagen.de/c/34/1425961273?num_on_page=3&page=1&premium=true&title=BMW+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,45550,92593,240.0,6,Germany
+Bmw,X1,xDrive23d,2023,Diesel,Suv,Black,Rain,Automatic,https://www.instamotion.com/auto/FN2S-P9JW-GR1R,50450,41353,155.0,6,Germany
+Bmw,X1,xDrive20d,2023,Diesel,Suv,Black,Rain,Automatic,https://www.12gebrauchtwagen.de/c/34/1425979449?num_on_page=2&page=17&title=BMW+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,47450,31724,120.0,6,Germany
+Bmw,X1,xDrive20d,2023,Diesel,Suv,Green,Rain,Automatic,https://www.instamotion.com/auto/TZH4-1IRR-F2WB,50450,28199,110.0,6,Germany
+Volkswagen,Touareg,4.0 TDI,2021,Diesel,Suv,Black,Rain,Automatic,https://hey.car/vehicle/ecece691-1095-4226-b9b3-b6bc88f57be7?dealerId=a4f577d9-be88-40f6-851d-7617d232805e,91590,62629,313.0,6,Germany
+Mercedes Benz,Gla-Class,200,2015,Petrol,Suv,Green,Mannheim,Automatic,https://www.12gebrauchtwagen.de/c/4/1398813190?num_on_page=3&page=43&title=Mercedes-Benz+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,16999,116460,115.0,6,Germany
+Volvo,Xc90,2.0,2020,Diesel,Suv,Gray,Aachen,Automatic,https://www.moll-automobile.de/fahrzeug/387116207/Pkw/volvo-xc90-inscription-awd-b5-diesel-eu6d-t-allrad-ad,49980,51490,175.0,6,Germany
+Honda,Civic,1.0,2019,Petrol,Sedan,Red,Iserlohn,Manual,https://hey.car/vehicle/8128ce05-41df-4193-b179-6f17bb002e82?dealerId=f11181ba-8984-4dc3-b94f-9f9f6c4c1c51,16990,60152,93.0,6,Germany
+Audi,Q3,2.0 45 TFSI,2022,Hybrid,Crossover,Black,Rain,Automatic,https://www.12gebrauchtwagen.de/c/34/1425971699?num_on_page=2&page=29&title=Audi+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,55980,15118,180.0,6,Germany
+Audi,Q3,2.0 45 TFSI,2022,Hybrid,Crossover,Gray,Rain,Automatic,https://www.instamotion.com/auto/RNE8-V5VY-7355,55980,13032,180.0,6,Germany
+Audi,A4 Allroad,2.0 40 TDI,2023,Diesel,Crossover,Gray,Rain,Automatic,https://www.instamotion.com/auto/Y3E4-Q61W-POMY,53330,18000,150.0,6,Germany
+Mazda,Cx-5,2.0,2023,Petrol,Crossover,Beige,Düren,Manual,https://www.moll-automobile.de/fahrzeug/384934929/Pkw/mazda-cx-5-e-skyactiv-g-165ps-6gs-fwd-newground-navi-l,29890,16761,123.0,6,Germany
+Mercedes Benz,Sl-Class,500 AMG,2007,Petrol,Convertible,Black,Villingen Schwenningen,Automatic,https://www.12gebrauchtwagen.de/c/4/1373120218?num_on_page=4&page=79&title=Mercedes-Benz+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,35900,38657,285.0,4,Germany
+Audi,Q3,2.0 35 TDI,2021,Diesel,Crossover,Gray,Rain,Automatic,https://www.12gebrauchtwagen.de/c/34/1398707735?num_on_page=2&page=114&title=Audi+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,35920,48000,110.0,6,Germany
+Bmw,X3,xDrive20d,2018,Diesel,Suv,Gold,Rain,Automatic,https://www.12gebrauchtwagen.de/c/34/1413765396?num_on_page=2&page=52&premium=false&title=BMW+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,32640,72800,140.0,6,Germany
+Audi,A4 Allroad,2.0 45 TFSI,2022,Petrol,Crossover,Gray,Borna,Automatic,https://www.12gebrauchtwagen.de/c/16/1424255234?num_on_page=4&page=45&title=Audi+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,42480,18790,195.0,6,Germany
+Audi,A4 Allroad,2.0 45 TFSI quattro,2022,Petrol,Crossover,Gray,Wiesbaden,Automatic,https://www.12gebrauchtwagen.de/c/16/1424313711?num_on_page=3&page=54&title=Audi+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,40680,13870,195.0,6,Germany
+Audi,Q5,2.0 40 TDI,2024,Diesel,Suv,Green,Rain,Automatic,https://www.instamotion.com/auto/JUM3-KD92-3LX7,63690,3230,150.0,6,Germany
+Honda,Cr-V,2.0,2019,Hybrid,Suv,Red,Iserlohn,Automatic,https://gebrauchtwagen.hyundai.de/de/fahrzeugsuche/honda/cr-v-20-i-mmd-hybrid-4wd-executive-hud-acc-led/variant-v3c8kydw,23800,108665,137.0,6,Germany
+Audi,A4,3.0 TDI,2017,Diesel,Wagon,White,Villingen Schwenningen,Automatic,https://www.12gebrauchtwagen.de/c/4/1424757726?num_on_page=2&page=106&title=Audi+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,29900,52291,160.0,6,Germany
+Ferrari,F355,3.5,1999,Petrol,Convertible,Red,Villingen Schwenningen,Automatic,https://www.12gebrauchtwagen.de/c/4/1424764103?num_on_page=2&page=5&title=Ferrari+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,108900,55000,280.0,2,Germany
+Jaguar,F-Pace,2.0,2019,Diesel,Crossover,Black,Hamburg,Automatic,https://www.moll-automobile.de/fahrzeug/383199339/Pkw/jaguar-f-pace-r-sport-awd-20d-ahk-abnehmbar-navi-sounds,29980,121600,133.0,6,Germany
+Audi,Q2,1.5 35 TFSI,2022,Petrol,Crossover,Black,Rain,Automatic,https://www.instamotion.com/auto/HWGS-AKB7-FL5W,29351,24650,110.0,6,Germany
+Volkswagen,Tiguan,2.0,2020,Diesel,Crossover,Black,Blaubeuren,Manual,https://www.12gebrauchtwagen.de/c/16/1418977220?num_on_page=3&page=26&title=VW+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,24999,67000,111.0,6,Germany
+Audi,A3,1.0,2018,Petrol,Sedan,Blue,Villingen Schwenningen,Manual,https://www.12gebrauchtwagen.de/c/4/1424503027?num_on_page=3&page=83&title=Audi+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,18900,89058,85.0,6,Germany
+Honda,Jazz,1.5 i-VTEC,2019,Petrol,Hatchback,Black,Iserlohn,Automatic,https://gebrauchtwagen.hyundai.de/de/fahrzeugsuche/honda/jazz-15-i-vtec-dynamic-klima-pdc-shz-led/variant-qbc7tsek,17490,31000,97.0,6,Germany
+Audi,Q2,1.5 35 TFSI,2021,Petrol,Crossover,Blue,Rain,Automatic,https://www.instamotion.com/auto/QPDV-IHDN-S4Q4,27370,39900,110.0,6,Germany
+Audi,A1,1.0 30 TFSI,2020,Petrol,Mini,Gray,Rain,Automatic,https://www.instamotion.com/auto/Q5BC-BW46-S7F3,25890,33000,85.0,6,Germany
+Bmw,X4,20d,2014,Diesel,Suv,Gray,Villingen Schwenningen,Automatic,https://www.12gebrauchtwagen.de/c/4/1424710944?num_on_page=4&page=93&title=BMW+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,29900,41810,140.0,6,Germany
+Ford,Focus,1.0 EcoBoost,2022,Hybrid,Wagon,Green,Rochlitz,Automatic,https://www.12gebrauchtwagen.de/c/4/1406659702?num_on_page=1&page=55&title=Ford+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,23930,25500,92.0,6,Germany
+Audi,Q2,1.5 35 TFSI,2020,Petrol,Crossover,Blue,Rain,Automatic,https://www.12gebrauchtwagen.de/c/16/1415348364?num_on_page=1&page=70&title=Audi+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,27490,24656,110.0,6,Germany
+Volkswagen,T-Cross,1.0 tsi,2024,Petrol,Crossover,Green,Rain,Automatic,https://www.instamotion.com/auto/EV8B-BLYA-2OOQ,35140,1090,86.0,6,Germany
+Hyundai,Tucson,1.6 GDi,2016,Petrol,Suv,Silver,Perleberg,Automatic,https://www.12gebrauchtwagen.de/c/4/1428484097?num_on_page=4&page=11&title=Hyundai+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,16990,97171,130.0,6,Germany
+Bmw,5 Series,525i,2014,Diesel,Wagon,Black,Dieburg,Automatic,https://www.12gebrauchtwagen.de/c/4/1424590053?num_on_page=1&page=58&title=BMW+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,14980,181000,160.0,6,Germany
+Dacia,Sandero,1.0 tce,2021,Petrol,Hatchback,Black,Ostfildern,Manual,https://www.12gebrauchtwagen.de/c/4/1426580174?num_on_page=1&page=9&title=Dacia+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,14892,29259,74.0,6,Germany
+Porsche,Cayenne,3.0 D,2014,Diesel,Suv,Gray,Villingen Schwenningen,Automatic,https://www.autoanzeigen.de/porsche+cayenne+platinum+editionstandheizungmemoryled+villingen+schwenningen-i229605305_720832d5f83647d397f3.htm,29900,144327,180.0,6,Germany
+Audi,A4,1.8,2014,Petrol,Wagon,Gray,Mönchengladbach,Automatic,https://www.12gebrauchtwagen.de/c/4/1337329058?num_on_page=3&page=61&title=Audi+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,16890,98000,88.0,6,Germany
+Hyundai,I20,1.0,2019,Petrol,Hatchback,Blue,Ibbenbüren,Automatic,https://www.12gebrauchtwagen.de/c/4/1406489802?num_on_page=4&page=26&title=Hyundai+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,13990,66430,75.0,6,Germany
+Hyundai,I10,1.0,2020,Petrol,Mini,Black,Perleberg,Automatic,https://www.12gebrauchtwagen.de/c/4/1428050810?num_on_page=3&page=13&premium=false&title=Hyundai+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,11480,60538,49.0,6,Germany
+Hyundai,I10,1.0,2020,Petrol,Mini,White,Beckum,Manual,https://hey.car/vehicle/c06e6fbe-21d2-4137-bfe1-b9a9ce6e91ab?dealerId=b7d8f546-4f90-43cb-8462-570315e8d5a4,11490,35501,49.0,6,Germany
+Ford,Transit Custom,2.0,2019,Diesel,Van,White,Leipzig,Manual,https://www.12gebrauchtwagen.de/c/4/1414011893?num_on_page=3&page=45&title=Ford+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,17950,147369,78.0,6,Germany
+Ford,Transit Custom,1.0 EcoBoost,2019,Diesel,Van,White,Strausberg,Manual,https://www.12gebrauchtwagen.de/c/4/1419104697?num_on_page=3&page=27&title=Ford+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,18500,145418,97.0,6,Germany
+Hyundai,I30,1.0,2017,Petrol,Wagon,Black,Perleberg,Automatic,https://www.12gebrauchtwagen.de/c/4/1415682788?num_on_page=1&page=24&title=Hyundai+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,12990,94842,88.0,6,Germany
+Opel,Crossland X,1.2,2022,Petrol,Suv,Gray,Coesfeld,Manual,https://gebrauchtwagen.hyundai.de/de/fahrzeugsuche/opel/crossland/elegancelednavirUckfahrkamerasitz-lenkradheiz-t4c836lv,16924,24750,97.0,6,Germany
+Ford,S-Max,2.5,2023,Petrol,Mpv,Blue,Heilbronn,Automatic,https://hey.car/vehicle/550adf15-51ac-4f4c-afc7-4a0f2cc14409?dealerId=5eca524f-d157-4a56-b932-945572c808e1,51370,20,141.0,6,Germany
+Dacia,Sandero,1.5 dCi,2018,Diesel,Hatchback,Black,Ostfildern,Manual,https://www.12gebrauchtwagen.de/c/4/1426265248?num_on_page=5&page=16&title=Dacia+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,11691,120059,66.0,6,Germany
+Audi,A1,1.0 25 TFSI,2019,Petrol,Mini,Yellow,Marktredwitz,Manual,https://www.12gebrauchtwagen.de/c/4/1424547747?num_on_page=1&page=31&title=Audi+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,18835,21956,70.0,6,Germany
+Seat,Arona,1.0 tsi,2023,Petrol,Crossover,Black,Rain,Manual,https://www.instamotion.com/auto/KEP7-5NMC-45PM,23895,10,81.0,6,Germany
+Seat,Arona,1.0 tsi,2023,Petrol,Crossover,Gray,Rain,Manual,https://www.instamotion.com/auto/BFSL-PMOQ-LJHS,22895,10,81.0,6,Germany
+Ford,Focus,1.0 EcoBoost,2021,Petrol,Wagon,Black,Villingen Schwenningen,Manual,https://www.autoanzeigen.de/ford+focus+st+line+xvirtual+tachowinter+paketnavi+villingen+schwenningen-i232034221_3b403b9085d50810e266.htm,19900,58781,114.0,6,Germany
+Ford,Focus,1.0,2021,Petrol,Wagon,Black,Gronau,Manual,https://www.12gebrauchtwagen.de/c/4/1415752888?num_on_page=3&page=58&title=Ford+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,22390,21500,93.0,6,Germany
+Volkswagen,Tiguan,1.4 TSI,2018,Petrol,Crossover,White,Dresden,Manual,https://www.12gebrauchtwagen.de/c/4/1408071085?num_on_page=5&page=93&title=VW+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,25990,79276,111.0,6,Germany
+Porsche,Cayenne,4.0 Turbo,2023,Petrol,Suv,Black,Monheim Am Rhein,Automatic,https://auto24.de/anzeige/porsche-cayenne-4-0-turbo-gt-v8-3347071.html,234970,5597,471.0,6,Germany
+Fiat,500,1.2,2019,Petrol,Mini,White,Rain,Manual,https://www.instamotion.com/auto/PKS8-2VNI-Y4XT,15580,36718,51.0,6,Germany
+Fiat,500,1.2,2019,Petrol,Mini,Black,Rain,Manual,https://www.instamotion.com/auto/IELT-D2F2-UKHK,16180,16705,51.0,6,Germany
+Toyota,Corolla,1.8 VVT-i,2023,Hybrid,Sedan,Green,Greifswald,Automatic,https://www.toyota.de/gebrauchtwagen/gebrauchtwagensuche/pdp.718d8765-353e-4ba7-8a24-15a265b8135c,28990,10000,144.0,6,Germany
+Suzuki,Sx4 S-Cross,1.4,2020,Hybrid,Crossover,Gray,Offenburg,Automatic,https://www.carzilla.de/Autohaus-Linck-GmbH/Suzuki/SX4-S-Cross/Gebrauchtfahrzeug/Benzin/Schaltgetriebe/c468180d6c454c5993f911753818629a/20753,24988,10465,95.0,6,Germany
+Ford,Kuga,1.5 EcoBoost,2019,Petrol,Suv,Black,Perleberg,Automatic,https://www.12gebrauchtwagen.de/c/4/1403587449?num_on_page=5&page=76&title=Ford+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,19400,85172,110.0,6,Germany
+Ford,Kuga,2.0 TDCi,2019,Diesel,Suv,Black,Rain,Automatic,https://www.instamotion.com/auto/SUBY-IT48-CGUT,26250,73500,132.0,6,Germany
+Ford,Kuga,2.0 EcoBoost,2019,Petrol,Suv,Gray,Schüttorf,Automatic,https://www.12gebrauchtwagen.de/c/4/1415802679?num_on_page=2&page=43&title=Ford+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,23500,61800,169.0,6,Germany
+Volkswagen,Touran,1.5 tsi,2022,Petrol,Mpv,Blue,Neumarkt in der Oberpfalz,Automatic,https://auto24.de/anzeige/volkswagen-touran-1-5-tsi-active-opf-3242685.html,34850,12100,111.0,6,Germany
+Seat,Ateca,1.5 tsi,2020,Petrol,Suv,Green,Rutesheim,Automatic,https://www.ebay-kleinanzeigen.de/s-anzeige/seat-ateca-eu6d-t-style-1-5-tsi-apple-carplay-android/2533839551-216-8425,22790,20731,110.0,6,Germany
+Seat,Ateca,1.5 tsi,2020,Petrol,Suv,White,Rutesheim,Manual,https://auto24.de/anzeige/seat-ateca-1-5-tsi-xperience-eu6d-sitze-scheinwerferreg-3314165.html,25890,12080,110.0,6,Germany
+Volvo,Xc60,2.0 T8 AWD,2020,Hybrid,Crossover,Gray,Bad Salzuflen,Automatic,https://www.ebay-kleinanzeigen.de/s-anzeige/volvo-xc60-t8-awd-r-design-hybrid-acc-ahk-dab-panorama/2656178196-216-1900,49999,23314,288.0,6,Germany
+Fiat,600e,La Prima,2023,Electric,Crossover,Orange,Euskirchen,Automatic,https://www.moll-automobile.de/fahrzeug/383937514/Pkw/fiat-600e-la-prima-led-navi-360-pdc-shzg-massagesitz,38950,499,116.0,6,Germany
+Bmw,5 Series,530d,2017,Diesel,Wagon,Blue,Uslar,Automatic,https://www.12gebrauchtwagen.de/c/4/1426300510?num_on_page=4&page=14&title=BMW+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,25490,114600,197.0,6,Germany
+Volkswagen,Polo,1.0 TSI DSG,2022,Petrol,Hatchback,Gray,Rain,Automatic,https://www.instamotion.com/auto/J4Y6-UB5P-4GRP,26650,18382,70.0,6,Germany
+Volkswagen,Arteon,2.0 TSI Shooting-Brake,2022,Petrol,Wagon,Black,Mönchengladbach,Automatic,https://auto24.de/anzeige/volkswagen-arteon-2-0-tsi-shooting-brake-r-3674820.html,48500,16385,235.0,6,Germany
+Ford,Ecosport,1.0 EcoBoost,2021,Petrol,Suv,White,Rain,Manual,https://www.instamotion.com/auto/K5A7-GT42-BH5Y,20880,27000,103.0,6,Germany
+Bmw,5 Series,520d,2018,Diesel,Wagon,Black,Dresden,Automatic,https://marktplatz.auto-motor-und-sport.de/bmw-520-15-598006/?brand=8&series=520&isKlassiker=false,24980,124880,141.0,6,Germany
+Tesla,Model 3,0.0 long range,2022,Electric,Sedan,Black,Rain,Automatic,https://www.instamotion.com/auto/PCAG-SBIU-4OXH,46480,100,324.0,6,Germany
+Škoda,Superb,2.0 TDI,2019,Diesel,Wagon,Gray,Stralsund,Automatic,https://www.12gebrauchtwagen.de/c/4/1327169082?num_on_page=2&page=97&title=Skoda+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,25900,96695,141.0,6,Germany
+Škoda,Superb,2.0 TDI,2019,Diesel,Wagon,Black,Hanau,Automatic,https://www.12gebrauchtwagen.de/c/4/1363223514?num_on_page=5&page=88&title=Skoda+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,27500,67838,141.0,6,Germany
+Opel,Grandland X,1.2,2022,Petrol,Suv,Gray,Rain,Automatic,https://www.instamotion.com/auto/3CIF-R7VA-BN87,25190,22829,96.0,6,Germany
+Audi,A6,2.0 40 TDI,2020,Diesel,Wagon,Silver,Dresden,Automatic,https://marktplatz.auto-motor-und-sport.de/audi-a6-15-598033/?brand=6&series=A6&isKlassiker=false,33980,93860,152.0,6,Germany
+Volkswagen,Sharan,1.4 TSI,2012,Petrol,Van,Black,Ludwigsfelde,Automatic,https://www.12gebrauchtwagen.de/c/4/1415940121?num_on_page=5&page=31&title=VW+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,13980,159850,110.0,5,Germany
+Mercedes Benz,C-Class,300,2023,Hybrid,Sedan,Black,Krefeld,Automatic,https://www.12gebrauchtwagen.de/c/4/1428276016?num_on_page=3&page=11&title=Mercedes-Benz+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,55950,11740,152.0,6,Germany
+Mercedes Benz,C-Class,300,2023,Hybrid,Wagon,Silver,Neuwied,Automatic,https://www.12gebrauchtwagen.de/c/4/1400523291?num_on_page=5&page=85&title=Mercedes-Benz+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,46950,10000,152.0,6,Germany
+Ferrari,F8 Spider,3.9,2021,Petrol,Convertible,Red,Kassel,Automatic,https://www.12gebrauchtwagen.de/c/4/1400681570?num_on_page=1&page=1&title=Ferrari+F8+Gebrauchtwagen+in+Wiesbaden+kaufen+auf+12Gebrauchtwagen.de,365000,10310,580.0,6,Germany
+Volkswagen,Caddy,1.5 tsi,2023,Petrol,Pickup,Blue,Mönchengladbach,Automatic,https://auto24.de/anzeige/volkswagen-caddy-1-5-tsi-life-3275303.html,32950,3198,84.0,6,Germany
+Jaguar,Xe,2.0 P300,2020,Petrol,Sedan,Black,Landshut,Automatic,https://www.12gebrauchtwagen.de/c/4/1414181770?num_on_page=4&page=7&title=Jaguar+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,32980,49971,221.0,6,Germany
+Volkswagen,Tiguan,2.0 TSI 4Motion,2023,Petrol,Crossover,Gray,Walldorf,Automatic,https://marktplatz.auto-motor-und-sport.de/vw-tiguan-r-2-0-tsi-4motion-235-kw-320-ps-7-gang-9-122752280/?brand=78&series=Tiguan%20%20R%202.0%20TSI%204MOTION%20235%20kW%20(320%20PS)%207-Gang&isKlassiker=false,82033,5501,238.0,6,Germany
+Ford,Kuga,2.0 TDCi,2020,Diesel,Suv,Red,Krefeld,Manual,https://www.12gebrauchtwagen.de/c/4/1403788088?num_on_page=1&page=83&title=Ford+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,19950,105820,111.0,6,Germany
+Audi,A4 Allroad,2.0 TDI,2017,Diesel,Crossover,Blue,Neumarkt in der Oberpfalz,Automatic,https://www.12gebrauchtwagen.de/c/4/1424726321?num_on_page=4&page=61&title=Audi+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,23950,125300,140.0,6,Germany
+Jaguar,F-Type,3.0 V6,2020,Petrol,Convertible,Gray,Rüsselsheim,Automatic,https://www.12gebrauchtwagen.de/c/4/1382661451?num_on_page=2&page=14&title=Jaguar+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,53950,27000,284.0,6,Germany
+Jaguar,F-Type,3.0 V6,2020,Petrol,Convertible,Gray,Rüsselsheim,Automatic,https://www.12gebrauchtwagen.de/c/4/1382928596?num_on_page=1&page=14&title=Jaguar+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,53950,19000,284.0,6,Germany
+Jaguar,F-Type,3.0 V6,2020,Petrol,Convertible,Gray,Rüsselsheim,Automatic,https://www.12gebrauchtwagen.de/c/4/1382670399?num_on_page=3&page=14&premium=false&title=Jaguar+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,56950,16000,284.0,6,Germany
+Jaguar,F-Type,3.0 V6,2020,Petrol,Convertible,Gray,Rüsselsheim,Automatic,https://www.12gebrauchtwagen.de/c/4/1382852564?num_on_page=4&page=14&title=Jaguar+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,57950,11000,284.0,6,Germany
+Audi,A1,1.0,2018,Petrol,Mini,Blue,Viernheim,Manual,https://www.12gebrauchtwagen.de/c/4/1424842928?num_on_page=2&page=56&title=Audi+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,22870,39700,85.0,6,Germany
+Ford,Focus,2.0 EcoBlue,2020,Diesel,Wagon,Black,Grimmen,Automatic,https://www.ebay-kleinanzeigen.de/s-anzeige/ford-focus-2-0-ecoblue-cool-connect-acc-led/2284066383-216-130,20890,76560,110.0,6,Germany
+Ford,Focus,1.0 EcoBoost,2020,Petrol,Wagon,Silver,Krefeld,Automatic,https://www.12gebrauchtwagen.de/c/4/1395886696?num_on_page=2&page=98&premium=false&title=Ford+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,18500,43593,93.0,6,Germany
+Ford,Focus,1.5 EcoBoost,2020,Petrol,Sedan,Black,Ulm,Automatic,https://hey.car/vehicle/468d3319-bd1e-4dd5-84af-56df822e8f5d?dealerId=cf1b69d0-b20e-4ccd-a94e-7ef427295b2f,22780,31625,111.0,6,Germany
+Mercedes Benz,E-Class,53 AMG,2021,Petrol,Convertible,White,Rain,Automatic,https://www.instamotion.com/auto/IPYU-FHO7-GY43,79480,39757,320.0,6,Germany
+Bmw,X5,M50d,2020,Diesel,Suv,Black,Rain,Automatic,https://www.instamotion.com/auto/6DNX-SCR6-VKFT,69150,86169,294.0,6,Germany
+Volvo,Xc40,1.5,2023,Hybrid,Crossover,Black,Aachen,Automatic,https://auto24.de/anzeige/volvo-xc40-t5-3623159.html,48290,13328,194.0,6,Germany
+Mercedes Benz,Clc-Class,160 BE,2010,Petrol,Coupe,Green,Wuppertal,Automatic,https://www.12gebrauchtwagen.de/c/4/1405398313?num_on_page=5&page=59&title=Mercedes-Benz+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,14990,11261,95.0,5,Germany
+Ford,Kuga,2.0 TDCi,2018,Diesel,Suv,Green,Rain,Automatic,https://hey.car/vehicle/675e34c0-d9fa-4afe-bb79-0c8a3627915a?dealerId=a4f577d9-be88-40f6-851d-7617d232805e,24475,92356,133.0,6,Germany
+Seat,Leon,1.5 tsi,2022,Petrol,Hatchback,Gray,Rain,Manual,https://www.instamotion.com/auto/8QZF3XFJNHZZCLZUXXC11C0PCXNC99CPQFN1HZQH97H47CY1A00C6WFX6U9MH33C04,28200,1472,110.0,6,Germany
+Volkswagen,Passat,3.6,2022,Diesel,Wagon,Black,Viernheim,Automatic,https://auto24.de/anzeige/vw-passat-variant-conceptline-dsg-klima-nav-led-tuev-3092612.html,25920,38700,90.0,6,Germany
+Citroen,C4,1.2,2018,Petrol,Sedan,Black,Dresden,Manual,https://www.12gebrauchtwagen.de/c/4/1387823728?num_on_page=1&page=16&title=Citro%C3%ABn+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,14990,36598,97.0,6,Germany
+Volkswagen,Golf,1.0 tsi,2023,Petrol,Wagon,Green,Borna,Manual,https://www.ebay-kleinanzeigen.de/s-anzeige/volkswagen-golf-variant-move-1-0-tsi-ahk-led-navi-panodach/2707000280-216-15395,27210,5380,81.0,6,Germany
+Škoda,Karoq,2.0 4x4 tdi,2020,Diesel,Suv,White,Coesfeld,Automatic,https://gebrauchtwagen.hyundai.de/de/fahrzeugsuche/skoda/karoq/drive-tdi-4x4-dsganhAngerkupplunglednavikessy-jkc85uye,25924,71450,141.0,6,Germany
+Ford,Ecosport,1.0 EcoBoost,2020,Petrol,Suv,Black,Perleberg,Automatic,https://www.12gebrauchtwagen.de/c/4/1415888353?num_on_page=1&page=119&title=Ford+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,14490,33232,92.0,6,Germany
+Volkswagen,Golf,1.5 tsi,2022,Petrol,Sedan,Black,Schwäbisch Hall,Automatic,https://www.autoanzeigen.de/vw+golf+viii+15tsi+life+navi+acc+led+schwaebisch+hall-i234875099_65a3db0972e522af843b.htm,24490,5850,110.0,6,Germany
+Mercedes Benz,Cls-Class,350 BE,2011,Petrol,Sedan,Black,Düsseldorf,Automatic,https://www.12gebrauchtwagen.de/c/4/1417391958?num_on_page=2&page=6&premium=false&title=Mercedes-Benz+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,20449,161431,225.0,5,Germany
+Volkswagen,Golf,2.0 GTI,2015,Petrol,Sedan,Black,Neumarkt in der Oberpfalz,Automatic,https://marktplatz.auto-motor-und-sport.de/vw-golf-15-611362/?brand=78&series=Golf&isKlassiker=false,20850,74600,171.0,6,Germany
+Bmw,X3,M40d,2023,Diesel,Suv,White,Rain,Automatic,https://www.instamotion.com/auto/NFID-AMXD-KRID,71190,25509,250.0,6,Germany
+Volkswagen,Sharan,2.0 TDI,2016,Diesel,Van,Blue,Bautzen,Automatic,https://auto24.de/anzeige/volkswagen-sharan-2-0-tdi-allstar-plus-2417289.html,28859,81225,111.0,6,Germany
+Bmw,3 Series,318d,2015,Diesel,Wagon,Black,Neumarkt in der Oberpfalz,Manual,https://www.12gebrauchtwagen.de/c/4/1424929220?num_on_page=3&page=120&title=BMW+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,12950,194700,105.0,6,Germany
+Škoda,Scala,1.0 dsg tsi,2022,Petrol,Sedan,Black,Mönchengladbach,Automatic,https://www.12gebrauchtwagen.de/c/4/1394091671?num_on_page=3&page=45&premium=false&title=Skoda+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,22950,22500,110.0,6,Germany
+Ford,S-Max,2.0 EcoBlue,2019,Diesel,Mpv,Silver,Grimmen,Automatic,https://www.ebay-kleinanzeigen.de/s-anzeige/ford-s-max-2-0-ecoblue-titanium-acc-standheizung/2695367904-216-130,26490,85814,140.0,6,Germany
+Mercedes Benz,E-Class,280,1993,Petrol,Sedan,Green,Falkensee,Automatic,https://www.12gebrauchtwagen.de/c/4/1400406408?num_on_page=1&page=78&title=Mercedes-Benz+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,14980,207704,142.0,1,Germany
+Audi,S4,3.0 tfsi,2013,Petrol,Sedan,Black,Villingen Schwenningen,Automatic,https://www.12gebrauchtwagen.de/c/4/1384649765?num_on_page=4&page=45&title=Audi+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,19900,108752,245.0,5,Germany
+Jaguar,Xk,4.2,2006,Petrol,Convertible,Black,Dieburg,Automatic,https://www.12gebrauchtwagen.de/c/4/1428107764?num_on_page=2&page=1&premium=false&title=Jaguar+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,21970,169000,219.0,4,Germany
+Jaguar,F-Pace,3.0,2019,Diesel,Crossover,Black,Krefeld,Automatic,https://www.12gebrauchtwagen.de/c/4/1413916394?num_on_page=2&page=5&title=Jaguar+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,34800,85453,223.0,6,Germany
+Mazda,Cx-5,2.0,2018,Petrol,Crossover,Blue,Berlin,Automatic,https://www.12gebrauchtwagen.de/c/4/1426509427?num_on_page=2&page=10&title=Mazda+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,23979,40504,123.0,6,Germany
+Volkswagen,Touareg,3.0 TDI V6,2016,Diesel,Suv,Gray,Krefeld,Automatic,https://www.12gebrauchtwagen.de/c/4/1368520563?num_on_page=2&page=114&title=VW+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,24500,136804,195.0,6,Germany
+Audi,Q2,1.6 TDI,2018,Diesel,Crossover,Red,Munich,Automatic,https://www.12gebrauchtwagen.de/c/4/1281649454?num_on_page=4&page=108&title=Audi+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,21950,73526,86.0,6,Germany
+Bmw,4 Series,430i,2023,Petrol,Convertible,Black,Rain,Automatic,https://www.instamotion.com/auto/688I-KVHS-62TV,52650,9905,180.0,6,Germany
+Mercedes Benz,E-Class,220 D,2020,Diesel,Wagon,Silver,Dresden,Automatic,https://www.12gebrauchtwagen.de/c/4/1417446879?num_on_page=1&page=49&title=Mercedes-Benz+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,32990,67691,144.0,6,Germany
+Volvo,V60,2.0 T8,2020,Hybrid,Wagon,Black,Rain,Automatic,https://www.instamotion.com/auto/3F4L-JZMV-V6ZA,34550,80900,288.0,6,Germany
+Volvo,V60,2.0 T8 Twin Engine AWD,2020,Hybrid,Wagon,Red,Mönchengladbach,Automatic,https://www.waldhausen-buerkel.de/fahrzeuge/volvo/v60-t8-twin-engine-awd-r-design-plug-in-hybrid/details-nqc76jqr,34950,65280,288.0,6,Germany
+Volvo,V60,2.0 T8,2020,Hybrid,Wagon,White,Rain,Automatic,https://www.instamotion.com/auto/AJY5-P5P4-DLOO,37550,41700,223.0,6,Germany
+Audi,R8,5.2 FSI,2015,Petrol,Coupe,Blue,Ahlen,Automatic,https://auto24.de/anzeige/audi-r8-lmx-02-99-quattro-sportpaket-1460674.html,145880,39900,419.0,6,Germany
+Volkswagen,Tiguan,1.4 TSI,2016,Petrol,Crossover,Green,Herford,Automatic,https://www.12gebrauchtwagen.de/c/4/1384693937?num_on_page=5&page=98&title=VW+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,21650,58798,110.0,6,Germany
+Volvo,Xc40,1.5,2022,Hybrid,Crossover,Black,Aachen,Automatic,https://auto24.de/anzeige/volvo-xc40-t5-3074760.html,44480,25207,194.0,6,Germany
+Porsche,Cayenne,3.0 E-Hybrid,2021,Hybrid,Suv,White,Fulda,Automatic,https://marktplatz.auto-motor-und-sport.de/porsche-cayenne-15-617210/?brand=60&series=Cayenne&isKlassiker=false,75890,87900,344.0,6,Germany
+Porsche,Panamera,2.9 4 E-Hybrid,2024,Hybrid,Sedan,Black,Darmstadt,Automatic,https://auto24.de/anzeige/porsche-panamera-4-e-hybrid-sport-turismo-platinum-edition-3406938.html,134911,4800,344.0,6,Germany
+Land Rover,Range Rover Sport,3.0,2016,Diesel,Suv,White,Villingen Schwenningen,Automatic,https://www.12gebrauchtwagen.de/c/4/1424732742?num_on_page=1&page=71&title=Land+Rover+Gebrauchtwagen+in+Offenburg+kaufen+auf+12Gebrauchtwagen.de,33900,118575,190.0,6,Germany
+Nissan,Qashqai,1.3,2019,Petrol,Crossover,Gray,Memmingen,Manual,https://www.deineautoboerse.de/fahrzeug/nissan-qashqai-n-motion-13-led-navi-pano-360-shz-ahk-4040075,21490,59700,117.0,6,Germany
+Bmw,3 Series,320,2018,Diesel,Wagon,Black,Marl,Automatic,https://www.12gebrauchtwagen.de/c/4/1419266965?num_on_page=3&page=41&premium=false&title=BMW+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,19700,146000,141.0,6,Germany
+Mercedes Benz,Eqs,AMG53,2023,Electric,Sedan,Black,Rain,Automatic,https://www.12gebrauchtwagen.de/c/34/1413781936?num_on_page=1&page=1&title=Mercedes-Benz+EQS+Gebrauchtwagen+in+Bielefeld+kaufen+auf+12Gebrauchtwagen.de,141500,9641,484.0,6,Germany
+Mini,Cooper,1.6 S,2021,Petrol,Convertible,Black,Rain,Automatic,https://www.instamotion.com/auto/37LI-RA3G-1RT9,28190,30000,131.0,6,Germany
+Ford,Tourneo Custom,2.0 EcoBlue,2023,Diesel,Van,Gray,Rain,Automatic,https://www.instamotion.com/auto/BKQ3-ZP75-M431,43180,24147,110.0,6,Germany
+Ford,Tourneo Custom,2.0 TDCi,2023,Diesel,Van,Black,Rain,Automatic,https://www.instamotion.com/auto/7VRY-P7FK-IL1I,42680,23050,110.0,6,Germany
+Ford,Fiesta,1.0 EcoBoost,2022,Petrol,Sedan,Black,Ulm,Manual,https://marktplatz.auto-motor-und-sport.de/ford-fiesta-18-279061/?brand=26&series=Fiesta&isKlassiker=false,17980,26200,75.0,6,Germany
+Ford,Fiesta,1.0 EcoBoost,2022,Petrol,Sedan,Blue,Ulm,Manual,https://hey.car/vehicle/1ad99469-c02d-4781-85fa-70c7c4fe4a46?dealerId=cf1b69d0-b20e-4ccd-a94e-7ef427295b2f,17980,23060,75.0,6,Germany
+Ford,Fiesta,1.1,2022,Petrol,Sedan,Silver,Ulm,Manual,https://hey.car/vehicle/6adeb346-0156-4b67-b94e-7c6c3352720e?dealerId=cf1b69d0-b20e-4ccd-a94e-7ef427295b2f,15980,22260,55.0,6,Germany
+Hyundai,Kona,1.6 T-GDi,2023,Petrol,Crossover,Black,Coesfeld,Automatic,https://gebrauchtwagen.hyundai.de/de/fahrzeugsuche/hyundai/kona/t-gdi-prime-dctvoll-ledhead-up-displayfernlicht-jkc9t7pv,25824,6999,148.0,6,Germany
+Tesla,Model Y,0.0 long range,2022,Electric,Suv,Black,Viernheim,Automatic,https://www.ebay-kleinanzeigen.de/s-anzeige/tesla-model-y-long-range-leder-pano-r20-autopil/2704124492-216-7973,46899,25800,378.0,6,Germany
+Audi,A6,2.0 40 TDI,2019,Diesel,Wagon,Black,Leverkusen,Automatic,https://www.12gebrauchtwagen.de/c/4/1424828372?num_on_page=4&page=80&title=Audi+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,32980,61513,150.0,6,Germany
+Peugeot,3008,1.6,2022,Hybrid,Crossover,White,Göttingen,Automatic,https://auto24.de/anzeige/peugeot-3008-hybrid4-300-e-allure-pack-2826553.html,29410,17000,147.0,6,Germany
+Fiat,500 X,1.4 MultiAir,2016,Petrol,Crossover,Gray,Wörth Am Rhein,Automatic,https://www.12gebrauchtwagen.de/c/4/1403936593?num_on_page=3&page=6&title=Fiat+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,14280,91725,104.0,6,Germany
+Porsche,Taycan,4S,2024,Electric,Sedan,Black,Darmstadt,Automatic,https://www.carzilla.de/Porsche-Zentrum-Darmstadt-Wiest-Sportwagen-GmbH/Porsche/Taycan/Vorf%c3%bchrfahrzeug/Elektro/Automatik/55cf2d795afb4da0a55f30f6eba53510/20753,139911,9900,425.0,6,Germany
+Ford,Kuga,2.0 TDCi,2023,Diesel,Suv,Silver,Leonberg,Automatic,https://marktplatz.auto-motor-und-sport.de/ford-kuga-2-0-4x4-aut-st-line-x-styling-black-pano-18-275148/?brand=26&series=Kuga%202.0%204x4%20Aut.%20ST-LINE%20X%20*STYLING%20BLACK%20*PANO&isKlassiker=false,46950,1449,89.0,6,Germany
+Ford,Galaxy,2.0 EcoBlue,2021,Diesel,Mpv,Black,Rain,Automatic,https://www.instamotion.com/auto/S8NH-PWYX-21TS,30380,75690,110.0,6,Germany
+Volkswagen,Taigo,1.0 tsi,2022,Petrol,Crossover,Blue,Mönchengladbach,Automatic,https://auto24.de/anzeige/volkswagen-taigo-1-0-tsi-style-3213911.html,25501,15481,81.0,6,Germany
+Volkswagen,Taigo,1.0 tsi,2022,Petrol,Crossover,Red,Rain,Automatic,https://www.instamotion.com/auto/2OHK-ICJG-467A,23501,14099,81.0,6,Germany
+Bmw,X3,20d,2022,Diesel,Suv,Blue,Rain,Automatic,https://www.instamotion.com/auto/EF7J-G2AY-3W7Z,54700,25000,140.0,6,Germany
+Alfa Romeo,Stelvio,2.9,2023,Petrol,Crossover,Green,Rain,Automatic,https://www.instamotion.com/auto/CDHP-XSD4-5DCE,80380,20229,375.0,6,Germany
+Alfa Romeo,Stelvio,2.9,2023,Petrol,Crossover,Black,Rain,Automatic,https://www.instamotion.com/auto/Q77P-CZBP-EPUK,84380,14854,375.0,6,Germany
+Volvo,Xc90,2.0,2023,Diesel,Suv,Gray,Aachen,Automatic,https://marktplatz.auto-motor-und-sport.de/volvo-xc90-5-122810112/?brand=80&series=XC90&isKlassiker=false,65790,16218,175.0,6,Germany
+Volvo,Xc90,2.0,2023,Diesel,Suv,White,Aachen,Automatic,https://marktplatz.auto-motor-und-sport.de/volvo-xc90-5-122810137/?brand=80&series=XC90&isKlassiker=false,65790,15602,175.0,6,Germany
+Fiat,500c,1.0,2021,Petrol,Convertible,Black,Rain,Manual,https://www.instamotion.com/auto/GHGZ-HUNI-XJ1N,18980,27264,51.0,6,Germany
+Fiat,500c,1.0,2021,Petrol,Convertible,Blue,Rain,Manual,https://www.instamotion.com/auto/I7WJ-27UZ-ECRB,19180,14900,51.0,6,Germany
+Fiat,500c,1.0,2021,Petrol,Convertible,White,Rain,Manual,https://www.instamotion.com/auto/KJMV-9RN6-X9P3,19280,14406,51.0,6,Germany
+Fiat,500c,1.0,2021,Petrol,Convertible,Blue,Rain,Manual,https://www.instamotion.com/auto/I8EA-R9B4-PHMY,18780,14358,51.0,6,Germany
+Fiat,500c,1.0,2021,Petrol,Convertible,Red,Rain,Manual,https://www.instamotion.com/auto/THZJ-KI3Q-5DU7,19280,13891,51.0,6,Germany
+Fiat,500c,1.0,2021,Petrol,Convertible,Black,Rain,Manual,https://www.instamotion.com/auto/XAEU-EI12-M1LB,19580,10950,51.0,6,Germany
+Volkswagen,T-Cross,1.0 tsi,2023,Petrol,Crossover,Black,Rain,Automatic,https://www.instamotion.com/auto/ZKU6-BQRD-ER2C,24380,36000,81.0,6,Germany
+Audi,Sq2,2.0 tfsi,2020,Petrol,Crossover,Black,Berlin,Automatic,https://hey.car/vehicle/a158430d-d607-433a-9950-3f1a11647482?dealerId=22676,32540,29250,223.0,6,Germany
+Volkswagen,T-Cross,1.0 tsi,2023,Petrol,Crossover,Black,Rain,Manual,https://www.instamotion.com/auto/APYU-WQ17-AA8T,24395,11300,81.0,6,Germany
+Volkswagen,T-Cross,1.0 tsi,2023,Petrol,Crossover,Gray,Rain,Automatic,https://www.instamotion.com/auto/7HXD-P69R-Z9IF,28080,10000,81.0,6,Germany
+Volkswagen,Touran,1.6 TDI,2013,Diesel,Mpv,Silver,Hamburg,Automatic,https://www.12gebrauchtwagen.de/c/4/1397264541?num_on_page=3&page=63&premium=false&title=VW+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,11950,188017,78.0,5,Germany
+Fiat,Panda,1.0,2023,Hybrid,Mini,Black,Rain,Manual,https://www.instamotion.com/auto/UPXL-VPA3-J41O,18780,10,51.0,6,Germany
+Kia,Sportage,1.6 GDi,2019,Petrol,Crossover,Silver,Volkmarsen,Manual,https://www.12gebrauchtwagen.de/c/4/1381121076?num_on_page=3&page=28&premium=false&title=Kia+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,20690,83095,101.0,6,Germany
+Mercedes Benz,E-Class,500,2006,Petrol,Sedan,Gray,Krefeld,Automatic,https://www.12gebrauchtwagen.de/c/4/1424774856?num_on_page=1&page=1&title=Mercedes-Benz+E+500+Gebrauchtwagen+in+Wuppertal+kaufen+auf+12Gebrauchtwagen.de,15950,116702,288.0,4,Germany
+Škoda,Citigo,1.0 mpi,2019,Petrol,Mini,White,Rain,Manual,https://www.instamotion.com/auto/Q61T-OLRG-7K7N,10289,49705,44.0,6,Germany
+Mitsubishi,Colt,1.0 Turbo,2024,Petrol,Hatchback,Red,Ulm,Manual,https://hey.car/vehicle/e4e14d0f-b52c-4a1a-a444-8ac05b6611c9?dealerId=cf1b69d0-b20e-4ccd-a94e-7ef427295b2f,21980,50,67.0,6,Germany
+Audi,Q5,2.0 40 TDI quattro,2022,Diesel,Suv,Black,Rain,Automatic,https://www.instamotion.com/auto/INJH-5J2H-BMX2,50800,25373,150.0,6,Germany
+Mercedes Benz,C-Class,250,2011,Petrol,Wagon,Gray,Viernheim,Automatic,https://www.12gebrauchtwagen.de/c/4/1424705974?num_on_page=2&page=46&title=Mercedes-Benz+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,15849,148900,150.0,5,Germany
+Mercedes Benz,C-Class,250 CDI BE,2011,Diesel,Wagon,Black,Neumarkt in der Oberpfalz,Manual,https://www.12gebrauchtwagen.de/c/4/1424796915?num_on_page=5&page=60&title=Mercedes-Benz+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,12950,147000,150.0,5,Germany
+Ford,Focus,2.5,2011,Petrol,Wagon,Silver,Hennef,Manual,https://www.12gebrauchtwagen.de/c/4/1424770647?num_on_page=3&page=19&premium=false&title=Ford+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,9990,88000,110.0,5,Germany
+Audi,A4,2.0 40 TDI S tronic,2021,Diesel,Wagon,Blue,Krefeld,Automatic,https://www.12gebrauchtwagen.de/c/4/1412252619?num_on_page=2&page=84&premium=false&title=Audi+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,31950,98785,152.0,6,Germany
+Škoda,Enyaq,electro,2021,Electric,Suv,Green,Siegen,Automatic,https://www.ebay-kleinanzeigen.de/s-anzeige/skoda-enyaq-iv-50-loft-led-navi-pdc/2705615263-216-1029,28350,24600,109.0,6,Germany
+Fiat,500c,1.0,2022,Petrol,Convertible,Black,Rain,Manual,https://www.instamotion.com/auto/CJWN-16V4-WO53,24290,9084,51.0,6,Germany
+Fiat,500c,1.0,2021,Petrol,Convertible,White,Rain,Manual,https://www.instamotion.com/auto/F9HW-VEA1-M9A7,19580,9913,51.0,6,Germany
+Land Rover,Range Rover,4.4,2016,Diesel,Suv,Gray,Villingen Schwenningen,Automatic,https://www.12gebrauchtwagen.de/c/4/1372945294?num_on_page=5&page=15&title=Land+Rover+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,39900,149111,250.0,6,Germany
+Bmw,M6,4.4,2016,Petrol,Coupe,Gray,Rüsselsheim,Automatic,https://www.12gebrauchtwagen.de/c/4/1224159611?num_on_page=4&page=108&title=BMW+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,79950,55000,447.0,6,Germany
+Audi,Q3,2.0 45 TFSI,2022,Hybrid,Crossover,Gray,Rain,Automatic,https://www.instamotion.com/auto/OBFP-PCN1-4TEV,58380,9950,180.0,6,Germany
+Audi,Q3,2.0 35 TDI,2022,Diesel,Crossover,Black,Rain,Automatic,https://www.instamotion.com/auto/SBO5-MC8G-7QSC,53380,8856,110.0,6,Germany
+Audi,Q3,2.0 35 TDI,2022,Diesel,Crossover,Black,Rain,Automatic,https://www.instamotion.com/auto/J96P-IIRC-QIRD,53280,7444,110.0,6,Germany
+Audi,Q3,2.0 35 TDI,2022,Diesel,Crossover,Gray,Rain,Automatic,https://www.instamotion.com/auto/1AZU-YXH8-DRGS,46380,7425,110.0,6,Germany
+Audi,Q3,2.0 35 TDI,2022,Diesel,Crossover,Black,Rain,Automatic,https://www.instamotion.com/auto/8R3I-H645-ASM4,53380,6662,110.0,6,Germany
+Audi,Q3,2.0 35 TDI,2022,Diesel,Crossover,Black,Rain,Automatic,https://www.instamotion.com/auto/G5VF-J1BL-WCW3,54380,6099,110.0,6,Germany
+Audi,Q3,2.0 35 TDI,2022,Diesel,Crossover,Black,Rain,Automatic,https://www.instamotion.com/auto/IBUY-4PEX-9ALC,54380,4255,110.0,6,Germany
+Ford,Kuga,1.5,2016,Petrol,Suv,Silver,Stockach,Automatic,https://www.12gebrauchtwagen.de/c/4/1392576578?num_on_page=2&page=36&premium=false&title=Ford+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,18745,53500,135.0,6,Germany
+Dacia,Duster,1.5 dCi,2023,Diesel,Suv,White,Rodalben,Manual,https://auto24.de/anzeige/dacia-duster-blue-dci-115-pick-up-an-lager-2409593.html,28880,1500,85.0,6,Germany
+Audi,A6,3.0 TDI Quattro,2016,Diesel,Wagon,Gray,Munich,Automatic,https://www.12gebrauchtwagen.de/c/4/1379823589?num_on_page=3&page=66&title=Audi+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,33900,105000,240.0,6,Germany
+Cupra,Ateca,2.0 TSI,2022,Petrol,Suv,Black,Prüm,Automatic,https://www.12gebrauchtwagen.de/c/4/1391463105?num_on_page=1&page=55&title=Cupra+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,40999,11491,221.0,6,Germany
+Land Rover,Range Rover,5.0,2020,Petrol,Suv,Black,Holzgerlingen,Automatic,https://www.12gebrauchtwagen.de/c/4/1412421832?num_on_page=3&page=22&title=Land+Rover+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,81900,74000,391.0,6,Germany
+Fiat,500,1.0,2022,Petrol,Mini,Orange,Rain,Manual,https://www.instamotion.com/auto/4SP6-6NAE-FMXW,15032,90,51.0,6,Germany
+Fiat,500,1.0,2022,Hybrid,Mini,Gray,Rain,Manual,https://www.instamotion.com/auto/L4RUY9UMJF9PB6JU11CLLC20F66C2JS6XFVLSZ5H81BWWC44CPZS19CVWUN6U5X,19790,10,51.0,6,Germany
+Fiat,500,1.0,2022,Petrol,Mini,Gray,Rain,Manual,https://www.instamotion.com/auto/OO2K-BDLE-NDDU,15529,10,51.0,6,Germany
+Fiat,500,1.0,2022,Petrol,Mini,Gray,Rain,Manual,https://www.instamotion.com/auto/8YG2-I1F1-TAZ6,15236,10,51.0,6,Germany
+Hyundai,Kona,1.6 T-GDi,2023,Petrol,Crossover,Black,Coesfeld,Automatic,https://gebrauchtwagen.hyundai.de/de/fahrzeugsuche/hyundai/kona/t-gdi-prime-dctvoll-ledhead-up-displayfernlicht-wdc86u2f,24924,15950,148.0,6,Germany
+Volkswagen,Passat,1.5,2020,Petrol,Wagon,White,Neumarkt in der Oberpfalz,Manual,https://marktplatz.auto-motor-und-sport.de/vw-passat-variant-15-611371/?brand=78&series=Passat%20Variant&isKlassiker=false,25950,64700,111.0,6,Germany
+Volkswagen,Passat,1.5,2020,Petrol,Wagon,Green,Siegen,Automatic,https://auto24.de/anzeige/volkswagen-passat-variant-1-5-tsi-business-3463187.html,24450,46300,110.0,6,Germany
+Škoda,Karoq,1.0 4x4 tsi,2019,Petrol,Suv,Black,Landshut,Automatic,https://www.12gebrauchtwagen.de/c/4/1406669623?num_on_page=2&page=39&title=Skoda+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,26690,49000,110.0,6,Germany
+Opel,Insignia,2.0 CDTi,2021,Diesel,Wagon,Silver,Coesfeld,Automatic,https://gebrauchtwagen.hyundai.de/de/fahrzeugsuche/opel/insignia/b-st-elegance-cdti-atanhAngerkupplungled-matrixl-kjc9kwh2,23824,25450,129.0,6,Germany
+Audi,Q7,3.0 45 TDI quattro,2019,Diesel,Suv,Silver,Pinneberg,Automatic,https://www.12gebrauchtwagen.de/c/4/1412418267?num_on_page=3&page=104&title=Audi+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,52500,95000,172.0,6,Germany
+Mini,Cooper,1.6 JCW,2020,Petrol,Convertible,Red,Rain,Automatic,https://www.instamotion.com/auto/XEZB-5CNS-D49I,30489,45500,170.0,6,Germany
+Audi,A6,2.0 TDI Ultra,2017,Diesel,Wagon,Green,Lüneburg,Manual,https://www.12gebrauchtwagen.de/c/4/1363562112?num_on_page=3&page=71&title=Audi+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,18998,144700,141.0,6,Germany
+Citroen,Berlingo,1.6 HDi,2016,Diesel,Van,Black,Passau,Automatic,https://www.12gebrauchtwagen.de/c/4/1413968100?num_on_page=3&page=18&title=Citro%C3%ABn+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,13799,113000,73.0,6,Germany
+Mercedes Benz,Amg Gt,4.0 R,2019,Petrol,Coupe,Black,Mühldorf,Automatic,https://www.12gebrauchtwagen.de/c/4/1410389776?num_on_page=2&page=108&title=Mercedes-Benz+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,159980,6500,436.0,6,Germany
+Volkswagen,Touran,1.2 TSI,2017,Diesel,Mpv,Black,Villingen Schwenningen,Automatic,https://www.12gebrauchtwagen.de/c/4/1424649382?num_on_page=3&page=106&title=VW+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,18900,142482,110.0,6,Germany
+Volkswagen,Touran,1.0 tsi,2017,Petrol,Mpv,Blue,Dresden,Automatic,https://www.12gebrauchtwagen.de/c/4/1407892647?num_on_page=4&page=74&title=VW+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,19980,122436,111.0,6,Germany
+Audi,S3,2.0 TFSI Quattro,2012,Petrol,Sedan,Black,Villingen Schwenningen,Manual,https://www.12gebrauchtwagen.de/c/4/1414056296?num_on_page=3&page=27&premium=false&title=Audi+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,12900,223778,195.0,5,Germany
+Porsche,Taycan,4S,2023,Electric,Sedan,Black,Rain,Automatic,https://www.instamotion.com/auto/YOYE-WD2H-M2P7,127990,8900,425.0,6,Germany
+Bmw,3 Series,330d,2022,Hybrid,Wagon,Black,Löhne,Automatic,https://www.12gebrauchtwagen.de/c/4/1413859548?num_on_page=2&page=89&title=BMW+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,39990,21800,210.0,6,Germany
+Mercedes Benz,C-Class,300,2020,Diesel,Wagon,White,Krefeld,Automatic,https://www.12gebrauchtwagen.de/c/4/1419186025?num_on_page=2&page=7&title=Mercedes-Benz+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,29950,80205,182.0,6,Germany
+Mercedes Benz,C-Class,220 D,2020,Diesel,Wagon,Black,Landshut,Automatic,https://www.12gebrauchtwagen.de/c/4/1419186879?num_on_page=1&page=13&title=Mercedes-Benz+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,29989,69900,143.0,6,Germany
+Mercedes Benz,C-Class,300,2020,Hybrid,Wagon,Black,Zwickau,Automatic,https://www.12gebrauchtwagen.de/c/4/1426483182?num_on_page=1&page=54&title=Mercedes-Benz+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,26950,64537,144.0,6,Germany
+Porsche,Macan,3.0 GTS,2017,Petrol,Suv,White,Paderborn,Automatic,https://marktplatz.auto-motor-und-sport.de/porsche-macan-15-612347/?brand=60&series=Macan&isKlassiker=false,55890,98050,268.0,6,Germany
+Škoda,Octavia,2.0 tdi vrs,2014,Diesel,Wagon,White,Mönchengladbach,Automatic,https://www.12gebrauchtwagen.de/c/4/1355268065?num_on_page=2&page=18&title=Skoda+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,14890,147000,135.0,6,Germany
+Volkswagen,Tiguan,2.0,2014,Diesel,Crossover,Gray,Mönchengladbach,Automatic,https://www.12gebrauchtwagen.de/c/4/1419369649?num_on_page=5&page=31&title=VW+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,15990,110000,103.0,6,Germany
+Volvo,Xc90,2.0 T8,2022,Hybrid,Suv,Black,Frankfurt Am Main,Automatic,https://hey.car/vehicle/197b393a-88c4-4248-b527-23159e8dfca6?dealerId=13889d73-bd87-4fd5-b138-d3b865dd1bb0,74950,53741,339.0,6,Germany
+Volvo,Xc90,2.0,2022,Diesel,Suv,Blue,Aachen,Automatic,https://marktplatz.auto-motor-und-sport.de/volvo-xc90-5-122810231/?brand=80&series=XC90&isKlassiker=false,51980,12132,175.0,6,Germany
+Hyundai,I40,1.7 CRDi,2015,Diesel,Wagon,Green,Perleberg,Manual,https://www.12gebrauchtwagen.de/c/4/1415715930?num_on_page=4&page=17&title=Hyundai+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,10990,116268,100.0,6,Germany
+Mercedes Benz,C-Class,250 BlueTEC 4MATIC,2015,Diesel,Sedan,Silver,Neumarkt in der Oberpfalz,Automatic,https://www.12gebrauchtwagen.de/c/4/1424729598?num_on_page=2&page=114&premium=false&title=Mercedes-Benz+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,22950,175800,150.0,6,Germany
+Volkswagen,T-Cross,1.0 tsi,2022,Petrol,Crossover,Gray,Rain,Manual,https://www.instamotion.com/auto/NT9S-EFFI-T8YP,18780,61500,70.0,6,Germany
+Volkswagen,T-Cross,1.0 tsi,2022,Petrol,Crossover,Black,Siegen,Automatic,https://www.ebay-kleinanzeigen.de/s-anzeige/volkswagen-t-cross-1-0-tsi-life-pdc-sitzheizung/2640171512-216-1027,20550,31900,81.0,6,Germany
+Volkswagen,T-Cross,1.0 tsi,2022,Petrol,Crossover,Black,Köln,Manual,https://www.ebay-kleinanzeigen.de/s-anzeige/volkswagen-t-cross-active-1-0-tsi-acc-kamera-navi-app-conne/2705620864-216-981,19790,19889,70.0,6,Germany
+Volkswagen,T-Cross,1.0 tsi,2022,Petrol,Crossover,Black,Köln,Manual,https://auto24.de/anzeige/volkswagen-t-cross-1-0-tsi-active-vc-3582614.html,20980,15994,70.0,6,Germany
+Volkswagen,T-Cross,1.0 tsi,2022,Petrol,Crossover,Silver,Rain,Automatic,https://www.instamotion.com/auto/XUKW-71TN-Z27C,23990,14081,81.0,6,Germany
+Volkswagen,T-Cross,1.0 tsi,2022,Petrol,Crossover,Blue,Rain,Automatic,https://www.instamotion.com/auto/N8BU-E8PP-OW9C,27650,12827,81.0,6,Germany
+Ford,Edge,2.7 ST,2020,Diesel,Suv,Silver,Rain,Automatic,https://www.instamotion.com/auto/JZXD-2P62-8C5Y,29990,104650,175.0,6,Germany
+Škoda,Scala,1.0 tsi,2020,Petrol,Sedan,White,Löhne,Manual,https://www.12gebrauchtwagen.de/c/4/1417308672?num_on_page=1&page=11&title=Skoda+Gebrauchtwagen+kaufen+auf+12Gebrauchtwagen.de,18890,45500,85.0,6,Germany
+Audi,A6,3.0 TDI Quattro TipTronic,2019,Diesel,Wagon,Black,Dresden,Automatic,https://auto24.de/anzeige/audi-a6-avant-sport-50-tdi-quattro-2249597.html,34980,120000,213.0,6,Germany

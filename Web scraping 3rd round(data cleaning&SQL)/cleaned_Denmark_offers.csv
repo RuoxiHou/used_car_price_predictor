@@ -1,0 +1,277 @@
+Make,Model,Trim,Year,Fuel type,Body type,Color,City,Transmission,Contact,Emission standard,Price(EUR),Mileage(km),kW,Country
+Citroen,C3,1.6 VTi,2018,Diesel,Hatchback,White,Hadsund,Manual,https://www.bilbasen.dk/brugt/bil/citron/c3/16-bluehdi-100-skyline-5d/5993284,6,10695,134000,74.0,Denmark
+Citroen,C3,1.6,2019,Diesel,Hatchback,White,Hadsund,Manual,https://www.bilbasen.dk/brugt/bil/citron/c3/15-bluehdi-100-skyline-5d/5937899,6,10695,154000,74.0,Denmark
+Fiat,500c,1.2,2013,Petrol,Convertible,Gray,Frederiksberg,Manual,https://www.bilbasen.dk/brugt/bil/fiat/500c/09-twinair-85-s-2d/6095447,5,9851,133000,63.0,Denmark
+Audi,A6,2.0 TDI,2012,Diesel,Sedan,Gray,Bramming,Automatic,https://bilhandel.dk/audi-a6-20-tdi-177-avant-multitr/id-1579842,5,17397,225000,177.0,Denmark
+Kia,Picanto,1.0,2012,Petrol,Mini,Black,Bagsværd,Manual,https://bilhandel.dk/kia-picanto-10-exclusive/id-1580513,5,7236,125000,69.0,Denmark
+Toyota,Auris,1.8 Hybrid,2016,Petrol,Hatchback,White,Hadsund,Automatic,https://www.guloggratis.dk/annonce/c6c8109e-cce7-4a82-8c52-b4be4498d84c,6,17397,74000,86.0,Denmark
+Toyota,Aygo,1.0,2020,Petrol,Mini,White,Køge,Manual,https://www.bilbasen.dk/brugt/bil/toyota/aygo/10-vvt-i-x-press-5d/6102969,6,14059,20000,53.0,Denmark
+Citroen,C4 Picasso,2.0 bluehdi,2014,Diesel,Mpv,Gray,Roskilde,Automatic,https://www.bilbasen.dk/brugt/bil/citron/grand-c4-picasso/20-bluehdi-150-intensive-eat6-7prs-5d/6101065,6,15400,174000,111.0,Denmark
+Volvo,V40,1.6,2013,Diesel,Wagon,Red,Silkeborg,Manual,https://www.bilbasen.dk/brugt/bil/volvo/v40/16-d2-115-kinetic-5d/6068431,5,11111,214000,85.0,Denmark
+Volkswagen,Touran,1.6 TDI,2019,Diesel,Mpv,Blue,Roskilde,Automatic,https://www.bilbasen.dk/brugt/bil/vw/touran/16-tdi-115-comfortline-connect-dsg-7prs-5d/6092814,6,24112,196500,85.0,Denmark
+Mazda,2,1.5,2017,Petrol,Mini,Brown,Køge,Automatic,https://www.bilbasen.dk/brugt/bil/mazda/2/15-skyactiv-g-90-vision-aut-5d/6105801,6,15668,103000,67.0,Denmark
+Hyundai,I10,1.0,2024,Petrol,Mini,White,Søborg,Manual,https://www.bilbasen.dk/brugt/bil/hyundai/i10/10-mpi-advanced-5d/6083539,6,21297,3000,49.0,Denmark
+Hyundai,I10,1.0,2024,Petrol,Mini,Green,Søborg,Manual,https://www.bilbasen.dk/brugt/bil/hyundai/i10/10-mpi-advanced-5d/6083524,6,21163,3000,49.0,Denmark
+Ford,Kuga,1.5,2015,Petrol,Suv,Black,Vejle,Manual,https://www.bilbasen.dk/brugt/bil/ford/kuga/15-scti-150-titanium-5d/5994692,6,19689,141000,111.0,Denmark
+Bmw,2 Series,218d,2014,Diesel,Hatchback,Black,Bredebro,Automatic,https://www.bilbasen.dk/brugt/bil/bmw/218d/20-active-tourer-aut-5d/6038481,6,21377,198000,111.0,Denmark
+Toyota,Aygo,1.0,2017,Petrol,Mini,White,Køge,Manual,https://www.bilbasen.dk/brugt/bil/toyota/aygo/10-vvt-i-x-sky-ii-5d/6096982,6,10709,72169,51.0,Denmark
+Volkswagen,Polo,1.0 TSI DSG,2016,Petrol,Hatchback,Black,Gadstrup,Automatic,https://www.bilbasen.dk/brugt/bil/vw/polo/10-tsi-95-bluemotion-dsg-5d/6014973,6,20104,76000,70.0,Denmark
+Toyota,Verso,1.8 VVT-i,2014,Petrol,Mpv,Red,Bramming,Automatic,https://www.bilbasen.dk/brugt/bil/toyota/verso/18-vvt-i-t2-vision-mds-7prs-5d/6014769,6,18067,150000,109.0,Denmark
+Citroen,C4 Cactus,1.2,2015,Petrol,Hatchback,Black,Bredebro,Manual,https://www.bilbasen.dk/brugt/bil/citron/c4-cactus/12-puretech-110-feel-5d/6019084,6,14676,71000,82.0,Denmark
+Citroen,C4 Cactus,1.6,2018,Diesel,Hatchback,Red,Gadstrup,Manual,https://www.guloggratis.dk/annonce/a40f85cb-b45e-492d-ae4e-a6a9bbdb3317,6,20104,50000,74.0,Denmark
+Opel,Grandland X,1.6,2018,Diesel,Suv,Black,Stenløse,Automatic,https://www.bilbasen.dk/brugt/bil/opel/grandland-x/16-cdti-120-innovation-aut-5d/6034087,6,20493,154000,89.0,Denmark
+Mazda,3,2.0 SKYACTIV,2015,Petrol,Hatchback,White,Bredebro,Manual,https://www.bilbasen.dk/brugt/bil/mazda/3/20-skyactiv-g-120-vision-5d/6044120,6,16016,126000,89.0,Denmark
+Volkswagen,Polo,1.0 TSI DSG,2019,Petrol,Hatchback,White,Aalborg,Automatic,https://www.bilbasen.dk/brugt/bil/vw/polo/10-tsi-115-highline-dsg-5d/6103778,6,23442,105000,85.0,Denmark
+Volvo,Xc90,2.0 T6 AWD,2017,Diesel,Suv,White,Vodskov,Automatic,https://www.autouncle.dk/en/d/4781757-used-volvo-xc90-2-0-d5-inscription-awd-235hk-5d-8g-aut,6,60300,211000,175.0,Denmark
+Volkswagen,Polo,1.0 tsi,2017,Petrol,Hatchback,White,Bagsværd,Manual,https://www.bilbasen.dk/brugt/bil/vw/polo/10-tsi-95-bluemotion-5d/6087276,6,12597,174000,70.0,Denmark
+Volkswagen,Polo,1.0 tsi,2018,Petrol,Hatchback,White,Skanderborg,Manual,https://www.bilbasen.dk/brugt/bil/vw/polo/10-tsi-115-highline-5d/6108034,6,23428,58000,85.0,Denmark
+Peugeot,3008,1.2,2017,Petrol,Crossover,Black,Stenløse,Manual,https://www.bilbasen.dk/brugt/bil/peugeot/3008/12-e-thp-130-active-5d/6092756,6,22088,112000,96.0,Denmark
+Volvo,V40,1.6,2013,Diesel,Wagon,Gray,Brædstrup,Manual,https://www.bilbasen.dk/brugt/bil/volvo/v40/16-d2-115-kinetic-5d/6107667,5,13135,154000,85.0,Denmark
+Renault,Grand Scenic,1.5 dCi,2019,Diesel,Mpv,Black,Ribe,Manual,https://www.bilbasen.dk/brugt/bil/renault/grand-scenic-iv/17-dci-120-zen-7prs-5d/6049675,6,24768,87000,89.0,Denmark
+Toyota,Verso,1.6,2014,Petrol,Mpv,Brown,Vinderup,Manual,https://seek4cars.net/biler-til-salg/toyota/verso/10705d46-37aa-49ea-a078-e1ea6ea707d4,6,12880,190500,82.0,Denmark
+Toyota,Aygo,1.0,2015,Petrol,Mini,Red,Aalborg,Manual,https://www.bilbasen.dk/brugt/bil/toyota/aygo/10-vvt-i-x-cite-5d/6090188,6,11647,68000,51.0,Denmark
+Volkswagen,Up!,1.0,2017,Petrol,Mini,White,Odense,Automatic,https://www.bilbasen.dk/brugt/bil/vw/up/10-mpi-60-move-up-asg-bmt-5d/6094573,6,16070,139000,44.0,Denmark
+Peugeot,3008,1.2 puretech,2020,Petrol,Crossover,Black,Holbæk,Manual,https://www.bilbasen.dk/brugt/bil/peugeot/3008/12-puretech-130-allure-5d/6004027,6,24112,89990,96.0,Denmark
+Bmw,X1,sDrive18d,2013,Diesel,Suv,Brown,Bramming,Automatic,https://www.bilbasen.dk/brugt/bil/bmw/x1/20-sdrive18d-aut-5d/6078799,5,18067,189000,106.0,Denmark
+Volkswagen,Beetle,1.2 TSI,2016,Petrol,Convertible,White,Silkeborg,Manual,https://www.bilbasen.dk/brugt/bil/vw/the-beetle/12-tsi-105-design-cabriolet-2d/6089576,6,24125,129000,78.0,Denmark
+Citroen,C3 Aircross,1.2,2021,Petrol,Suv,Black,Brovst,Automatic,https://seek4cars.net/biler-til-salg/citroen/c3/aircross-1-2-puretech-shine-sport-eat6-130hk-5d-6g-aut/f3cea6f7-c486-4125-9f64-12a9aff5b6b4,6,32154,9500,96.0,Denmark
+Nissan,Leaf,Visia,2012,Electric,Hatchback,White,Odense,Automatic,https://www.bilbasen.dk/brugt/bil/nissan/leaf/24-visia-5d/6086986,5,9248,43000,81.0,Denmark
+Dacia,Lodgy Stepway,1.5 dCi,2018,Diesel,Mpv,White,Brøndby,Manual,https://www.bilbasen.dk/brugt/bil/dacia/lodgy-stepway/15-dci-90-7prs-5d/6097516,6,18080,45000,67.0,Denmark
+Peugeot,2008,1.2 vti,2015,Petrol,Crossover,Black,Bagsværd,Automatic,https://www.bilbasen.dk/brugt/bil/peugeot/2008/12-e-vti-82-city-style-esg-5d/6092455,6,12061,146000,61.0,Denmark
+Dacia,Lodgy,1.5 dCi,2018,Diesel,Mpv,White,Bramming,Manual,https://www.bilbasen.dk/brugt/bil/dacia/lodgy/15-dci-90-family-edition-7prs-5d/6111574,6,16056,138000,67.0,Denmark
+Jeep,Renegade,1.6 Limited,2020,Diesel,Crossover,White,Hillerød,Automatic,https://www.bilbasen.dk/brugt/bil/jeep/renegade/16-mjt-120-limited-dct-5d/6047097,6,24098,120000,89.0,Denmark
+Peugeot,2008,1.6 BlueHDI,2017,Diesel,Crossover,Black,Holsted,Manual,https://www.bilbasen.dk/brugt/bil/peugeot/2008/16-bluehdi-100-desire-sky-5d/6107118,6,12451,174000,74.0,Denmark
+Hyundai,Ioniq,1.6,2021,Hybrid,Sedan,White,Viby,Automatic,https://www.bilbasen.dk/brugt/bil/hyundai/ioniq/ev-trend-5d/6107836,6,21418,22000,101.0,Denmark
+Volkswagen,Tiguan,2.0 TDI 4Motion,2016,Diesel,Crossover,White,Aarup,Automatic,https://seek4cars.net/biler-til-salg/vw/tiguan/2-0-tdi-scr-r-line-4motion-dsg-190hk-5d-7g-aut/a535d6a8-1d4b-4681-b234-86bd8b84f77a,6,29473,124000,141.0,Denmark
+Fiat,500c,1.0,2017,Petrol,Convertible,White,Kolding,Manual,https://www.bilbasen.dk/brugt/bil/fiat/500c/09-twinair-80-lusso-2d/6109707,6,14287,65000,59.0,Denmark
+Nissan,Qashqai,1.2,2018,Petrol,Crossover,NA,Hadsund,Manual,https://www.bilbasen.dk/brugt/bil/nissan/qashqai/12-dig-t-115-tekna-5d/6103623,6,22758,105000,85.0,Denmark
+Mini,Cooper,1.6 S,2017,Petrol,Convertible,Black,Varde,Automatic,https://www.guloggratis.dk/annonce/a5b67f21-e34b-4d23-aab9-a61db71f5e8b,6,44887,48000,143.0,Denmark
+Toyota,Auris,1.6 VVT-i,2013,Petrol,Hatchback,Gray,Aarup,Manual,https://www.bilbasen.dk/brugt/bil/toyota/auris/16-t2-5d/6025183,5,16070,91000,98.0,Denmark
+Opel,Crossland X,1.2 Turbo,2017,Petrol,Suv,Silver,Aarup,Manual,https://www.bilbasen.dk/brugt/bil/opel/crossland-x/12-t-110-innovation-5d/6020588,6,18080,51000,82.0,Denmark
+Toyota,Verso,2.0,2016,Diesel,Mpv,Gray,Vodskov,Manual,https://www.guloggratis.dk/annonce/f9eb22d7-b682-459e-ac38-40ed173a9e31,6,12987,211000,83.0,Denmark
+Peugeot,2008,1.2 vti,2021,Petrol,Crossover,White,Vodskov,Manual,https://www.autouncle.dk/en/d/4726187-used-peugeot-2008-1-2-puretech-allure-grand-130hk-5d,6,18750,117300,96.0,Denmark
+Ford,S-Max,2.0 TDCi,2014,Diesel,Mpv,White,Ringkøbing,Automatic,https://www.autouncle.dk/en/d/4722047-used-ford-s-max-tdci-163-titanium-aut-7prs,6,16713,173000,121.0,Denmark
+Citroen,C4 Cactus,1.6,2018,Diesel,Hatchback,White,Vodskov,Manual,https://www.guloggratis.dk/annonce/ce03d43f-415e-4dd2-9de1-381e661d7b2f,6,14730,110000,74.0,Denmark
+Seat,Leon,1.5 tsi,2019,Petrol,Hatchback,White,Varde,Automatic,https://www.guloggratis.dk/annonce/ed232440-ea96-4dc9-a302-24bb74c2b2c3,6,26122,103000,111.0,Denmark
+Fiat,500c,1.2,2013,Petrol,Convertible,Black,Bredebro,Manual,https://www.autouncle.dk/en/d/4787712-used-fiat-500c-lounge,5,9315,117000,51.0,Denmark
+Mitsubishi,Asx,1.6,2015,Petrol,Crossover,Red,Holsted,Manual,https://www.guloggratis.dk/annonce/32c27a3b-d9c2-4a46-8512-21d42006c797,6,12719,189000,87.0,Denmark
+Volkswagen,Up!,1.0,2017,Petrol,Mini,White,Brøndby,Manual,https://usedcars.leaseplan.com/da-dk/volkswagen-up/WVWZZZAAZJD147133.html,6,13389,41000,44.0,Denmark
+Nissan,Qashqai,1.6,2014,Diesel,Crossover,White,Ringkøbing,Automatic,https://www.bilbasen.dk/brugt/bil/nissan/qashqai/16-dci-130-tekna-x-tr-5d/6076957,6,15373,199000,96.0,Denmark
+Ford,C-Max,1.0,2019,Petrol,Mpv,White,Albertslund,Manual,https://www.bilbasen.dk/brugt/bil/ford/c-max/10-scti-125-titanium-5d/6112857,6,16070,95000,93.0,Denmark
+Renault,Captur,0.9 tce,2017,Petrol,Suv,White,Aarup,Manual,https://www.bilbasen.dk/brugt/bil/renault/captur/09-tce-90-zen-5d/6104648,6,15400,116000,67.0,Denmark
+Peugeot,205,1.4,1989,Petrol,Hatchback,Red,Vejen,Manual,https://www.bilbasen.dk/brugt/bil/peugeot/205/14-xr-3d/6109879,1,3149,240000,55.0,Denmark
+Bmw,4 Series,420d,2017,Diesel,Coupe,Gray,Aarup,Automatic,https://seek4cars.net/biler-til-salg/bmw/420d/gran-coup-2-0-d-steptronic-190hk-5d-8g-aut/8ca8d5e2-0e94-4506-a733-df87dba10279,6,29473,171000,141.0,Denmark
+Hyundai,I20,1.1,2015,Diesel,Hatchback,White,Hemmet,Manual,https://www.guloggratis.dk/annonce/5294a100-f56c-404a-bd1c-0b854c13dd36,6,4020,305000,55.0,Denmark
+Volkswagen,Polo,1.6 TDI,2018,Diesel,Hatchback,Gray,Brøndby,Manual,https://www.bilbasen.dk/brugt/bil/vw/polo/16-tdi-95-comfortline-5d/6053820,6,18750,98000,70.0,Denmark
+Opel,Mokka,1.4,2018,Petrol,Crossover,White,Hadsund,Manual,https://www.bilbasen.dk/brugt/bil/opel/mokka-x/14-t-140-enjoy-5d/6099673,6,18563,80000,104.0,Denmark
+Volkswagen,Up!,1.0,2013,Petrol,Mini,White,Hemmet,Manual,https://www.guloggratis.dk/annonce/cca211ef-4a0c-4933-851a-14196fcd5f7b,5,7760,133000,44.0,Denmark
+Renault,Kadjar,1.5 dCi,2016,Diesel,Suv,Gray,Hedehusene,Automatic,https://www.bilbasen.dk/brugt/bil/renault/kadjar/15-dci-110-zen-edc-5d/6098536,6,19622,137000,82.0,Denmark
+Volkswagen,Up!,1.0,2014,Petrol,Mini,White,Hemmet,Manual,https://www.guloggratis.dk/annonce/79a52dac-ef7b-42f5-8e8b-e28fda86ed02,6,7894,184000,44.0,Denmark
+Hyundai,Ioniq,1.6,2019,Hybrid,Sedan,Black,Vejle,Automatic,https://www.bilbasen.dk/brugt/bil/hyundai/ioniq/16-phev-trend-dct-5d/6023023,6,20761,42000,105.0,Denmark
+Kia,Picanto,1.0,2013,Petrol,Mini,White,Hemmet,Manual,https://www.guloggratis.dk/annonce/c1743312-a170-4b91-929b-c17cd8a5baf9,5,4945,164000,51.0,Denmark
+Nissan,Qashqai,1.6,2012,Petrol,Crossover,Black,Lystrup,Manual,https://www.bilbasen.dk/brugt/bil/nissan/qashqai2/16-tekna-7prs-5d/6110262,5,10521,193000,87.0,Denmark
+Kia,Picanto,1.0 mpi,2019,Petrol,Mini,Beige,Køge,Manual,https://www.bilbasen.dk/brugt/bil/kia/picanto/10-mpi-advance-5d/6101004,6,13912,76000,49.0,Denmark
+Audi,Q2,1.6 TDI,2017,Diesel,Crossover,Black,Ballerup,Manual,https://seek4cars.net/biler-til-salg/audi/q2/1-6-tdi-sport-116hk-5d-6g/ed38c405-4bbb-492c-aa4e-197d24877406,6,30813,45000,86.0,Denmark
+Peugeot,2008,1.2 puretech,2022,Petrol,Crossover,Black,Brovst,Manual,https://seek4cars.net/biler-til-salg/peugeot/2008-/1-2-puretech-platin-sport-130hk-5d/7ad3e641-3a3e-4743-8a83-42a5ceee0188,6,36175,500,96.0,Denmark
+Suzuki,Jimny,1.5 DDiS,2020,Diesel,Crossover,Gray,Sorø,Manual,https://www.guloggratis.dk/annonce/26ed310b-88ae-4a66-a030-b3f96d11f399,6,36831,49000,76.0,Denmark
+Citroen,C3,1.2 puretech,2017,Petrol,Hatchback,Gray,Lynge,Manual,https://www.bilbasen.dk/brugt/bil/citron/c3/12-puretech-82-funky-5d/6102166,6,10709,86000,61.0,Denmark
+Audi,A1,1.4 TFSI,2011,Petrol,Mini,Black,Gadstrup,Automatic,https://www.bilbasen.dk/brugt/bil/audi/a1/14-tfsi-122-attraction-s-tr-3d/5808513,5,18094,77000,90.0,Denmark
+Seat,Leon,2.0 TSI,2020,Diesel,Hatchback,Black,Randers,Automatic,https://www.guloggratis.dk/annonce/4ea71ee5-aac7-498f-afeb-ab27b9faf1ec,6,23415,117000,111.0,Denmark
+Nissan,Qashqai,1.5 dCi,2019,Diesel,Crossover,White,Ry,Automatic,https://www.guloggratis.dk/annonce/0bbbbb00-b802-4d85-a44c-86704f581e72,6,26739,127000,85.0,Denmark
+Mazda,3,2.0 SKYACTIV,2015,Petrol,Hatchback,White,Odense,Manual,https://www.bilbasen.dk/brugt/bil/mazda/3/20-skyactiv-g-120-vision-4d/6088568,6,16351,115000,89.0,Denmark
+Audi,A1,1.2 TFSI,2014,Petrol,Mini,Black,Tørring,Manual,https://www.bilbasen.dk/brugt/bil/audi/a1/12-tfsi-86-ambition-sportback-5d/6093598,6,17410,132000,64.0,Denmark
+Peugeot,2008,1.5 bluehdi,2019,Diesel,Crossover,Black,København,Automatic,https://www.bilbasen.dk/brugt/bil/peugeot/2008/15-bluehdi-120-gt-line-sky-eat6-5d/5847601,6,21431,41000,89.0,Denmark
+Bmw,X3,xDrive30d,2016,Diesel,Suv,Black,Vallensbæk,Automatic,https://www.bilbasen.dk/brugt/bil/bmw/x3/30-xdrive30d-m-sport-aut-5d/6094595,6,20091,179000,192.0,Denmark
+Renault,Twingo,1.0,2015,Petrol,Mini,White,Køge,Manual,https://www.guloggratis.dk/annonce/de9a5d32-779b-444d-a5f0-535923b39b18,6,6634,123000,52.0,Denmark
+Dacia,Sandero Stepway,1.0 tce,2022,Petrol,Crossover,White,Birkerød,Manual,https://www.bilbasen.dk/brugt/bil/dacia/sandero-stepway/10-tce-90-comfort-5d/5862582,6,23442,4000,67.0,Denmark
+Volkswagen,Up!,1.0,2020,Petrol,Mini,Blue,Odense,Manual,https://www.bilbasen.dk/brugt/bil/vw/up/10-mpi-60-5d/6086369,6,14730,74000,44.0,Denmark
+Porsche,911 Turbo,3.6,2015,Petrol,Coupe,Black,Hadsund,Automatic,https://www.guloggratis.dk/annonce/e879ee84-6504-4598-bd18-fb9a4ba629b4,6,113792,82000,298.0,Denmark
+Toyota,Aygo,1.0,2016,Petrol,Mini,White,Tørring,Manual,https://www.bilbasen.dk/brugt/bil/toyota/aygo/10-vvt-i-x-wave-sky-5d/6113346,6,10709,133000,51.0,Denmark
+Volkswagen,Polo,1.2 TSI,2015,Petrol,Hatchback,Brown,Esbjerg,Manual,https://www.bilbasen.dk/brugt/bil/vw/polo/12-tsi-110-highline-bmt-5d/6107473,6,14475,141000,82.0,Denmark
+Citroen,C1,1.0,2017,Petrol,Mini,Red,Søborg,Manual,https://www.bilbasen.dk/brugt/bil/citron/c1/10-vti-68-extravaganza-5d/6098816,6,9368,75000,50.0,Denmark
+Citroen,C3,1.2 puretech,2023,Petrol,Hatchback,White,Roskilde,Manual,https://www.bilbasen.dk/brugt/bil/citron/c3/12-puretech-83-carr-5d/6070985,6,18750,11824,61.0,Denmark
+Opel,Karl,1.0,2016,Petrol,Hatchback,Black,Lystrup,Manual,https://www.bilbasen.dk/brugt/bil/opel/karl/10-innovation-5d/6115539,6,7840,148000,55.0,Denmark
+Hyundai,I10,1.0,2015,Petrol,Mini,White,Hemmet,Manual,https://www.guloggratis.dk/annonce/7f98e197-86c3-4bbd-b799-106c189c9131,6,6688,155000,49.0,Denmark
+Volkswagen,Polo,1.0 tsi,2017,Petrol,Hatchback,Gray,Hedehusene,Manual,https://www.bilbasen.dk/brugt/bil/vw/polo/10-tsi-95-bluemotion-5d/6116409,6,14528,125000,70.0,Denmark
+Audi,A3,1.6 TDI,2017,Diesel,Sedan,Black,Hjørring,Manual,https://www.bilbasen.dk/brugt/bil/audi/a3/16-tdi-116-4d/6079690,6,19434,142500,86.0,Denmark
+Ford,C-Max,1.0,2016,Petrol,Mpv,Black,Hemmet,Manual,https://www.guloggratis.dk/annonce/c07bd7e1-9977-4470-91c8-30446e10160b,6,11379,198000,74.0,Denmark
+Peugeot,Expert,2.0,2019,Diesel,Van,Gray,Aalborg,Automatic,https://seek4cars.net/biler-til-salg/peugeot/expert/l3-2-0-bluehdi-ultimate-eat8-177hk-van-8g-aut/f8150aa8-efb2-45e0-ad25-e6aec0564395,6,31483,58000,131.0,Denmark
+Kia,Picanto,1.2 mpi,2016,Petrol,Mini,Black,Hemmet,Manual,https://www.guloggratis.dk/annonce/57d47596-0170-4385-a401-320d6ea65997,6,8698,99000,64.0,Denmark
+Mercedes Benz,R-Class,320 CDI,2006,Diesel,Mpv,NA,Stenløse,Automatic,https://bilhandel.dk/mercedes-r320-30-cdi-aut-4matic/id-1576900,4,16056,363000,224.0,Denmark
+Peugeot,3008,1.5 bluehdi,2017,Diesel,Crossover,White,Give,Automatic,https://www.guloggratis.dk/annonce/0524b5e4-ddb5-4fad-a835-fbbf82dae93a,6,25331,125000,89.0,Denmark
+Volvo,Xc40,1.5 T5 Recharge,2021,Hybrid,Crossover,Gray,Tørring,Automatic,https://www.autouncle.dk/en/d/4425575-used-volvo-xc40-1-5-t5-twin-engine-plugin-hybrid-r-design-262hk-5d-7g-aut,6,47567,65000,195.0,Denmark
+Toyota,Auris,1.8 Hybrid,2015,Petrol,Hatchback,Brown,Vodskov,Manual,https://www.bilbasen.dk/brugt/bil/toyota/auris/12-t-t2-comfort-5d/6098096,6,13389,137000,86.0,Denmark
+Škoda,Citigo,electro,2020,Electric,Mini,White,Fredericia,Automatic,https://www.guloggratis.dk/annonce/06e94990-2a61-4a18-8f49-a31ee076a11f,6,16753,36000,61.0,Denmark
+Citroen,C3,1.2 puretech,2017,Petrol,Hatchback,Gray,Broby,Manual,https://www.bilbasen.dk/brugt/bil/citron/c3/12-puretech-110-sport-5d/6100112,6,11379,117194,82.0,Denmark
+Citroen,C3,1.6 VTi,2018,Diesel,Hatchback,White,Hadsund,Manual,https://www.bilbasen.dk/brugt/bil/citron/c3/16-bluehdi-75-iconic-5d/6090331,6,10695,131000,55.0,Denmark
+Ford,Kuga,2.0 TDCi,2015,Diesel,Suv,White,Vodskov,Manual,https://www.autouncle.dk/en/d/4636132-used-ford-kuga-2-0-tdci-titanium-attack-150hk-5d-6g,6,15400,221000,111.0,Denmark
+Nissan,Qashqai,1.3 DIG-T,2019,Petrol,Crossover,Gray,Varde,Automatic,https://www.guloggratis.dk/annonce/2d36e23f-337e-40c4-94a6-283f57a06202,6,36175,80000,119.0,Denmark
+Citroen,C4 Cactus,1.2,2018,Petrol,Hatchback,White,Brovst,Manual,https://www.bilpriser.dk/car.do?carid=2550226,6,17410,103000,82.0,Denmark
+Suzuki,S-Cross,1.6,2018,Petrol,Crossover,Silver,Vodskov,Manual,https://www.guloggratis.dk/annonce/8f44cf10-77bb-49de-ae7f-4f2ddb9d3143,6,16740,143000,83.0,Denmark
+Peugeot,5008,2.0 HDi,2012,Diesel,Mpv,Beige,Bogense,Manual,https://www.bilbasen.dk/brugt/bil/peugeot/5008/20-hdi-150-premium-7prs-5d/6109925,5,7894,229000,111.0,Denmark
+Kia,Xceed,1.6,2020,Hybrid,Crossover,Black,Vodskov,Automatic,https://seek4cars.net/biler-til-salg/kia/xceed/phev-upgrade-dct/76501a97-9f61-4123-bee9-f2a7853023d3,6,26779,60000,105.0,Denmark
+Dacia,Sandero,1.0 tce,2022,Petrol,Hatchback,Red,Broby,Automatic,https://www.autouncle.dk/en/d/4052239-used-dacia-sandero-1-0-tce-comfort-cvt-90hk-5d-aut-1-0-tce-comfort-cvt-90hk-5d-aut,6,22771,18565,67.0,Denmark
+Ford,Grand C-Max,1.0,2013,Petrol,Mpv,White,Vodskov,Manual,https://www.guloggratis.dk/annonce/e1176775-07f7-4f75-a4f0-cf3ce3598b97,5,13255,118000,135.0,Denmark
+Bmw,X1,sDrive20d,2016,Diesel,Suv,Red,Vodskov,Automatic,https://www.guloggratis.dk/annonce/9d41b58d-fd95-4d25-b1f7-0acfb45b7cb1,6,28133,121000,167.0,Denmark
+Mercedes Benz,Cls-Class,320 CDI,2006,Diesel,Sedan,NA,Bramming,Automatic,https://www.bilbasen.dk/brugt/bil/mercedes/cls320/30-cdi-coup-aut-4d/6078643,4,11097,324000,167.0,Denmark
+Hyundai,I20,1.0,2016,Petrol,Hatchback,White,Hedehusene,Manual,https://www.bilbasen.dk/brugt/bil/hyundai/i20/10-t-gdi-go-5d/6109023,6,13362,77000,74.0,Denmark
+Ford,Kuga,1.5 EcoBoost,2018,Diesel,Suv,White,Varde,Automatic,https://www.guloggratis.dk/annonce/842a1f4a-fdea-44d4-9a1a-edf570e90866,6,25452,100000,89.0,Denmark
+Toyota,Aygo,1.0,2016,Petrol,Mini,White,Ringsted,Manual,https://seek4cars.net/biler-til-salg/toyota/aygo/1-0-vvt-i-x-sky-69hk-5d/65ebe67c-4078-4dbf-bd62-30b6e3a257e4,6,10709,82500,51.0,Denmark
+Volkswagen,Touran,1.6 TDI,2017,Diesel,Mpv,Black,Fredericia,Automatic,https://www.guloggratis.dk/annonce/bc73edb1-7637-409c-98e8-5ec34e71fe81,6,25465,177000,85.0,Denmark
+Opel,Vivaro,2.0,2021,Diesel,Van,White,Aalborg,Automatic,https://seek4cars.net/biler-til-salg/opel/vivaro/l3v2-2-0-d-innovation-at8-122hk-van-8g-aut/7a82e504-0661-4f89-bda1-6d51c87a03cf,6,28133,32000,90.0,Denmark
+Renault,Grand Scenic,1.5 dCi,2018,Diesel,Mpv,Blue,Frederiksberg,Manual,https://seek4cars.net/biler-til-salg/renault/grand-scnic/1-5-energy-dci-zen-110hk-6g/3cb0d798-0d78-41c7-bcb4-8a25fe371e91,6,23978,105000,82.0,Denmark
+Volkswagen,Tiguan,2.0 TSI,2017,Diesel,Crossover,White,Vodskov,Automatic,https://www.guloggratis.dk/annonce/9384423b-8a1e-43fb-9af9-67a772feaee1,6,37515,112000,111.0,Denmark
+Volkswagen,Up!,1.0,2020,Petrol,Mini,White,Tørring,Manual,https://www.bilbasen.dk/brugt/bil/vw/up/10-mpi-60-move-up-5d/6115949,6,14730,132000,44.0,Denmark
+Citroen,C5 Aircross,1.6 puretech,2022,Petrol,Suv,White,Fredericia,Automatic,https://www.guloggratis.dk/annonce/15fe2fd6-9956-414e-b0a0-f4e263d1561f,6,36188,65000,167.0,Denmark
+Peugeot,Expert,2.0,2020,Diesel,Van,Gray,Aalborg,Automatic,https://seek4cars.net/biler-til-salg/peugeot/expert/l3-2-0-bluehdi-premium-eat8-122hk-van-8g-aut/82ed1b78-f91b-4272-9a87-22aff463a4f8,6,24112,61000,90.0,Denmark
+Citroen,C3,1.6 VTR,2019,Diesel,Hatchback,White,Roskilde,Manual,https://www.bilbasen.dk/brugt/bil/citron/c3/15-bluehdi-100-vtr-sport-5d/6070996,6,14059,99129,74.0,Denmark
+Citroen,C4 Picasso,1.2 puretech,2018,Diesel,Mpv,Black,Randers,Manual,https://www.guloggratis.dk/annonce/5822349d-726a-4800-8782-3f3e5de6e8e8,6,22771,132000,89.0,Denmark
+Kia,Venga,1.4,2014,Diesel,Mini,Silver,Vodskov,Manual,https://www.guloggratis.dk/annonce/b5c36842-dc80-4cf3-a9f0-730f8de7afac,6,8028,285000,85.0,Denmark
+Volkswagen,Polo,1.0 tsi,2018,Diesel,Hatchback,Black,Vodskov,Manual,https://www.guloggratis.dk/annonce/642601e5-b6db-465e-a796-245900a16f96,6,17410,145000,70.0,Denmark
+Citroen,C3,1.6,2018,Diesel,Hatchback,Black,Tjæreborg,Manual,https://www.bilbasen.dk/brugt/bil/citron/c3/16-bluehdi-75-iconic-5d/6094120,6,12464,87000,55.0,Denmark
+Volkswagen,Polo,2.0,2018,Petrol,Hatchback,White,Gadstrup,Automatic,https://www.guloggratis.dk/annonce/3731fe64-ded7-419d-8f99-4cf8cd2c2e23,6,33507,103000,149.0,Denmark
+Hyundai,Kona,1.0 T-GDi,2019,Petrol,Crossover,Silver,Frederikssund,Manual,https://seek4cars.net/biler-til-salg/hyundai/kona/1-0-t-gdi-trend-120hk-5d-6g/0e02d01a-0e6e-40df-8084-dcfc33cb8e77,6,24109,45000,89.0,Denmark
+Citroen,C5 Aircross,1.5 HDI,2019,Diesel,Suv,Black,Vodskov,Automatic,https://www.guloggratis.dk/annonce/0b0b2ef9-60b1-4b73-b26e-f7523fdb8563,6,23442,141000,96.0,Denmark
+Volkswagen,Cc,1.4 TSI,2014,Petrol,Sedan,Black,Grindsted,Automatic,https://www.bilbasen.dk/brugt/bil/vw/cc/14-tsi-160-dsg-4d/6101650,6,18630,139000,119.0,Denmark
+Bmw,X1,18d,2020,Diesel,Suv,White,Vodskov,Automatic,https://www.guloggratis.dk/annonce/751d604b-6000-44f1-a484-dc2d8d15f5fc,6,47567,173000,197.0,Denmark
+Mercedes Benz,C-Class,220 BlueTEC,2015,Diesel,Hatchback,NA,Taastrup,Automatic,https://www.bilbasen.dk/brugt/bil/mercedes/c220/22-bluetec-avantgarde-stc-aut-5d/6003428,6,22115,236000,126.0,Denmark
+Peugeot,Partner,1.5 bluehdi,2020,Diesel,Pickup,Gray,Aalborg,Automatic,https://seek4cars.net/biler-til-salg/peugeot/partner/l1-v1-1-5-bluehdi-plus-pro-eat8-130hk-van-8g-aut/e0044a63-cba1-4728-88f2-7297e714c6a7,6,21431,39000,96.0,Denmark
+Mercedes Benz,C-Class,220 D,2015,Diesel,Hatchback,NA,Hadsund,Automatic,https://www.bilbasen.dk/brugt/bil/mercedes/c220-d/22-amg-line-aut-4d/6022556,6,22758,199900,126.0,Denmark
+Peugeot,Boxer,2.0,2017,Diesel,Van,White,Rødovre,Manual,https://www.bilbasen.dk/brugt/bil/peugeot/boxer-330/20-bluehdi-110-kombi/6108981,6,22383,220000,82.0,Denmark
+Peugeot,407,1.8,2005,Petrol,Sedan,Black,Lystrup,Manual,https://www.bilbasen.dk/brugt/bil/peugeot/407/18-sr-4d/6064234,4,4490,128000,86.0,Denmark
+Citroen,C3,1.2 puretech,2020,Petrol,Hatchback,White,Herlev,Manual,https://www.bilbasen.dk/brugt/bil/citron/c3/12-puretech-82-limited-5d/6035769,6,15922,22748,61.0,Denmark
+Audi,Q5,3.0 TDI Quattro,2011,Diesel,Suv,Black,Gadstrup,Automatic,https://www.guloggratis.dk/annonce/643951f1-0f9f-4a02-ab09-0cf69e2a8287,5,26806,178000,178.0,Denmark
+Ford,C-Max,1.5,2015,Diesel,Mpv,White,Gadstrup,Automatic,https://www.guloggratis.dk/annonce/5f84180a-33e0-4fe2-96a5-0154e391294e,6,26136,80000,111.0,Denmark
+Kia,Rio,1.1,2016,Diesel,Wagon,Black,Hemmet,Manual,https://www.guloggratis.dk/annonce/a2f55c81-ca46-4f2e-87a0-686f6da6afce,6,8028,235000,55.0,Denmark
+Hyundai,Kona,1.0 T-GDi,2022,Petrol,Crossover,White,Fredericia,Automatic,https://www.guloggratis.dk/annonce/5b521bde-dcfa-44db-987c-a438aae1764c,6,34847,36000,89.0,Denmark
+Peugeot,Expert,2.0,2018,Diesel,Van,Gray,Aalborg,Automatic,https://seek4cars.net/biler-til-salg/peugeot/expert/l2-2-0-bluehdi-ultimate-eat6-180hk-van-6g-aut/66da7be8-9dd1-4778-80fb-77ebaa5a752a,6,24112,70000,134.0,Denmark
+Hyundai,Tucson,1.6 CRDi,2020,Diesel,Suv,White,Tørring,Automatic,https://www.guloggratis.dk/annonce/7e538faa-ef09-4335-86db-cb08676489ff,6,33494,103000,101.0,Denmark
+Seat,Toledo,1.4 TSI,2015,Petrol,Sedan,Gray,Hedehusene,Automatic,https://www.bilbasen.dk/brugt/bil/seat/toledo/14-tsi-122-style-dsg-5d/6079846,6,16727,98000,90.0,Denmark
+Audi,Q5,2.0 40 TDI,2017,Diesel,Suv,White,Varde,Automatic,https://www.autouncle.dk/en/d/4729451-used-audi-q5-2-0-tdi-190-sport-quattro-s-tr,6,44216,196000,141.0,Denmark
+Fiat,500,1.2,2016,Petrol,Mini,Red,Holsted,Manual,https://www.bilbasen.dk/brugt/bil/fiat/500/12-pop-3d/6045133,6,8698,184000,51.0,Denmark
+Renault,Captur,1.5 dCi,2017,Diesel,Suv,Blue,Aalborg,Manual,https://www.guloggratis.dk/annonce/f9f345c3-6e1a-4706-8743-e24b1d6b73d8,6,17410,24000,67.0,Denmark
+Peugeot,2008,1.2 puretech,2021,Diesel,Crossover,Orange,Give,Automatic,https://www.guloggratis.dk/annonce/96e7186b-ece5-4cac-8b14-a22ab3c522de,6,29473,57000,96.0,Denmark
+Citroen,C4 Spacetourer,1.6 BlueHDI,2018,Diesel,Mpv,Gray,Vodskov,Automatic,https://www.bilbasen.dk/brugt/bil/citron/grand-c4-spacetourer/16-bluehdi-120-intensive-eat6-7prs-5d/6061518,6,24098,157000,89.0,Denmark
+Audi,Q2,1.6 TDI,2017,Diesel,Crossover,Black,Lunderskov,Automatic,https://seek4cars.net/biler-til-salg/audi/q2/tdi-116-sport-s-tr/cf58c3bf-2268-47b0-8d98-31010d42b004,6,25452,136000,86.0,Denmark
+Hyundai,I20,1.0,2018,Petrol,Hatchback,White,Holsted,Manual,https://www.autouncle.dk/en/d/4800044-used-hyundai-i20-1-0-t-gdi-man,6,11379,172000,74.0,Denmark
+Audi,A1,1.6 TDI,2015,Diesel,Mini,Black,Gadstrup,Manual,https://www.guloggratis.dk/annonce/83f0a6ec-9332-445a-8291-6538269461f7,6,16070,107000,67.0,Denmark
+Hyundai,I10,1.0,2020,Petrol,Mini,Blue,Vodskov,Manual,https://seek4cars.net/biler-til-salg/hyundai/i10/mpi-advanced/eeaa699c-86b3-4320-aed8-74a22ce776d1,6,14716,45000,49.0,Denmark
+Citroen,C5 Aircross,1.6,2021,Hybrid,Suv,White,Vodskov,Automatic,https://www.autouncle.dk/en/d/4803471-used-citroen-c5-aircross-1-6-hybrid-shine-eat8,6,31470,56000,167.0,Denmark
+Kia,Carens,1.6,2016,Petrol,Mpv,NA,Hadsund,Manual,https://www.guloggratis.dk/annonce/aa294b7b-6a0b-4c0c-97cd-f766468acb64,6,16056,134000,100.0,Denmark
+Mini,Cooper,1.6,2014,Petrol,Convertible,NA,Bredebro,Manual,https://www.autouncle.dk/en/d/4695260-used-mini-cooper-cabriolet,6,22718,136000,90.0,Denmark
+Audi,Q2,1.4 TFSI,2018,Petrol,Crossover,White,Tørring,Manual,https://www.autouncle.dk/en/d/4768551-used-audi-q2-1-4-tfsi-sport-150hk-5d-6g,6,28133,78000,111.0,Denmark
+Audi,Q2,1.0 TFSI,2018,Petrol,Crossover,White,Fredericia,Manual,https://www.guloggratis.dk/annonce/bb82cfc1-8af9-47ce-84f1-1e2405b3904f,6,24125,62000,86.0,Denmark
+Peugeot,2008,1.5 bluehdi,2019,Diesel,Crossover,Gray,Aalborg,Manual,https://seek4cars.net/biler-til-salg/peugeot/2008-/1-5-bluehdi-prestige-100hk-5d/9a168f46-e0de-48b7-ad11-1141039ccdd3,6,20761,56000,74.0,Denmark
+Tesla,Model S,electro,2020,Electric,Sedan,Black,Varde,Automatic,https://www.autouncle.dk/en/d/4797319-used-tesla-model-s-long-range-awd,6,60300,85000,141.0,Denmark
+Peugeot,5008,1.5 bluehdi,2018,Diesel,Mpv,Gray,Aalborg,Manual,https://www.bilpriser.dk/car.do?carid=2591754,6,30143,84000,96.0,Denmark
+Opel,Meriva,1.4,2015,Petrol,Mpv,Beige,Holsted,Manual,https://www.bilbasen.dk/brugt/bil/opel/meriva/14-limited-5d/6088131,6,10709,164000,74.0,Denmark
+Renault,Captur,0.9 tce,2013,Petrol,Mini,Black,Horsens,Manual,https://www.guloggratis.dk/annonce/b53eb275-8c69-47bd-b9fd-65217fddfa17,5,11379,136000,67.0,Denmark
+Toyota,Aygo,1.0,2018,Petrol,Mini,Red,Aalborg,Manual,https://www.bilpriser.dk/car.do?carid=2600885,6,11647,68000,51.0,Denmark
+Peugeot,2008,1.2 puretech,2021,Petrol,Crossover,Red,Aalborg,Automatic,https://seek4cars.net/biler-til-salg/peugeot/2008-/1-2-puretech-allure-pack-eat8-130hk-5d-8g-aut/89a3a4a0-4ff3-4c24-a823-8adc2fd5f9f5,6,31483,43000,96.0,Denmark
+Volvo,V50,1.6 D,2008,Diesel,Wagon,NA,Køge,Manual,https://www.bilbasen.dk/brugt/bil/volvo/v50/16-d-kinetic-5d/6098754,4,3605,372000,81.0,Denmark
+Hyundai,I20,1.4,2016,Petrol,Hatchback,NA,Ishøj,Automatic,https://www.bilbasen.dk/brugt/bil/hyundai/i20/14-trend-aut-5d/6022188,6,14596,98000,74.0,Denmark
+Audi,A6,2.7 TDI,2009,Diesel,Sedan,NA,Solrød Strand,Automatic,https://www.bilbasen.dk/brugt/bil/audi/a6/27-tdi-190-avant-multitr-5d/6035364,5,11392,360000,141.0,Denmark
+Ford,Kuga,2.5 turbo,2023,Petrol,Suv,White,Hundested,Automatic,https://seek4cars.net/biler-til-salg/ford/kuga/phev-st-line-x-cvt/eeaf1b89-4ce7-47e9-8462-21e3c29f480b,6,44203,16000,167.0,Denmark
+Volkswagen,Touran,1.2 TSI,2017,Petrol,Mpv,NA,Kolding,Manual,https://www.bilbasen.dk/brugt/bil/vw/touran/12-tsi-110-trendline-7prs-5d/6116193,6,22771,141000,82.0,Denmark
+Ford,Kuga,2.5 turbo,2023,Petrol,Suv,Red,Hundested,Automatic,https://seek4cars.net/biler-til-salg/ford/kuga/phev-st-line-x-cvt/2ec6131f-80bb-4a7b-8130-f1fd515c1075,6,44203,11000,167.0,Denmark
+Volvo,Xc90,2.0 T8 Twin-Engine,2019,Diesel,Suv,Gray,Tørring,Automatic,https://www.guloggratis.dk/annonce/0d4eaeb4-5658-4a13-a5f5-a81bd59595e8,6,81745,144000,175.0,Denmark
+Hyundai,I10,1.0,2016,Petrol,Mini,NA,Ishøj,Manual,https://www.bilbasen.dk/brugt/bil/hyundai/i10/10-go-air-5d/6017298,6,9100,92000,49.0,Denmark
+Volkswagen,Touran,1.5 tsi,2020,Petrol,Mpv,Black,Bredsten,Automatic,https://seek4cars.net/biler-til-salg/vw/touran/tsi-150-comfortline-dsg-7prs/e821da73-1865-4c7f-adf0-ccb84217170f,6,37528,71000,111.0,Denmark
+Peugeot,Expert,2.0,2020,Diesel,Van,Gray,Aalborg,Automatic,https://seek4cars.net/biler-til-salg/peugeot/expert/l3-2-0-bluehdi-premium-eat8-122hk-van-8g-aut/2bce30b4-361e-4a69-8873-ddde2a56f56e,6,24112,58000,90.0,Denmark
+Peugeot,Expert,2.0,2020,Diesel,Van,Gray,Aalborg,Automatic,https://seek4cars.net/biler-til-salg/peugeot/expert/l2-2-0-bluehdi-premium-pro-eat8-122hk-van-8g-aut/9c3dcb7e-926a-40a6-b75c-78b8f6e8f5e0,6,29473,21000,90.0,Denmark
+Citroen,C3,1.2 puretech,2019,Diesel,Hatchback,Green,Give,Manual,https://www.autouncle.dk/en/d/4547087-used-citroen-c3-1-5-blue-hdi-vtr-sport-start-stop-100hk-5d,6,15949,68000,74.0,Denmark
+Mercedes Benz,E-Class,250,2022,Diesel,Coupe,White,Fredericia,Manual,https://www.guloggratis.dk/annonce/33aa32c8-2a20-417a-a712-c000226dc046,6,49591,61000,111.0,Denmark
+Fiat,Ducato,2.3 JTD,2015,Diesel,Van,White,Horsens,Manual,https://www.autouncle.dk/en/d/3076519-used-fiat-ducato-35-kolebil-lift-2-3-mjt-150hk-ladv-chas-2015,6,20091,238000,111.0,Denmark
+Alfa Romeo,Mito,1.3,2011,Diesel,Hatchback,Yellow,Kastrup,Manual,https://www.bilbasen.dk/brugt/bil/alfa-romeo/mito/13-jtdm-85-distinctive-3d/6099394,5,5361,200000,63.0,Denmark
+Volkswagen,Polo,2.0,2018,Petrol,Hatchback,Red,Gadstrup,Automatic,https://www.guloggratis.dk/annonce/ae39e96e-5132-49f2-81ee-9ddad9e19016,6,32837,111000,149.0,Denmark
+Opel,Grandland X,1.5,2022,Diesel,Suv,Black,Aalborg,Automatic,https://seek4cars.net/biler-til-salg/opel/grandland/1-5-bluehdi-elegance-eat8-130hk-5d-8g-aut/f05afc5f-2f26-407a-ac67-cabcf55618b1,6,40195,91000,96.0,Denmark
+Bmw,3 Series,330xi,2006,Petrol,Sedan,NA,Næstved,Automatic,https://www.bilbasen.dk/brugt/bil/bmw/330xi/30-steptr-4d/6097118,4,16941,256000,192.0,Denmark
+Bmw,3 Series,325Ci,2004,Petrol,Convertible,NA,Ringkøbing,Automatic,https://www.bilbasen.dk/brugt/bil/bmw/325ci/25-cabriolet-aut-2d/6061393,3,20768,198000,143.0,Denmark
+Citroen,C4 Cactus,1.2,2018,Petrol,Hatchback,NA,Kolding,Manual,https://www.bilbasen.dk/brugt/bil/citron/c4-cactus/12-puretech-130-iconic-5d/6086868,6,16740,91000,96.0,Denmark
+Nissan,Leaf,Tekna,2020,Electric,Hatchback,NA,Kolding,Automatic,https://www.bilbasen.dk/brugt/bil/nissan/leaf/40-tekna-5d/6104071,6,20761,18000,111.0,Denmark
+Opel,Grandland X,1.2,2018,Petrol,Suv,NA,Kolding,Automatic,https://www.bilbasen.dk/brugt/bil/opel/grandland-x/12-t-130-innovation-aut-5d/6112997,6,23710,101000,96.0,Denmark
+Mercedes Benz,E-Class,250,2017,Petrol,Coupe,White,Fredericia,Automatic,https://www.guloggratis.dk/annonce/9d2f69a9-c30c-4b2d-a3e4-d05cbfe8e2d2,6,49591,102000,137.0,Denmark
+Toyota,Auris,1.6 VVT-i,2017,Petrol,Hatchback,NA,Hadsund,Manual,https://www.bilbasen.dk/brugt/bil/toyota/auris/16-d-4d-t4-touring-sports-5d/5974981,6,14716,184000,83.0,Denmark
+Ford,C-Max,1.0,2018,Petrol,Mpv,NA,Bagsværd,Manual,https://www.bilbasen.dk/brugt/bil/ford/c-max/10-scti-125-titanium-5d/6067205,6,15948,134000,93.0,Denmark
+Opel,Mokka,1.2,2022,Petrol,Crossover,White,Aalborg,Manual,https://seek4cars.net/biler-til-salg/opel/mokka/1-2-puretech-edition-100hk-5d-6g/72e281c6-473f-4daf-a319-877385a6d479,6,26792,10000,74.0,Denmark
+Mazda,3,2.0 SKYACTIV,2013,Petrol,Hatchback,Black,Holsted,Manual,https://www.autouncle.dk/en/d/4800109-used-mazda-3-2-0-skyactiv-g-man,5,12719,143000,89.0,Denmark
+Fiat,500,0.9 TwinAir,2016,Petrol,Mini,Gray,Odense,Manual,https://www.guloggratis.dk/annonce/37fd1297-6a06-495b-8bcd-9c3a3a7bd13a,6,10052,85000,59.0,Denmark
+Tesla,Model 3,0.0 long performance range standard,2020,Electric,Sedan,White,Sulsted,Automatic,https://usedcars.leaseplan.com/da-dk/tesla-model-3/2115218-dk-tesla-model3.html,6,32154,91000,366.0,Denmark
+Mercedes Benz,C-Class,200 D,2017,Petrol,Coupe,White,Fredericia,Automatic,https://www.guloggratis.dk/annonce/37dc55a8-2b92-4f4e-8255-79bf50f10c56,6,44230,125000,182.0,Denmark
+Hyundai,Bayon,1.2 mpi,2023,Petrol,Suv,Black,Frederikssund,Manual,https://seek4cars.net/biler-til-salg/hyundai/bayon/1-2-mpi-essential-komfort-84hk-5d/b4e945e5-92c0-4e8f-84ce-3e48f6075990,6,28130,3000,62.0,Denmark
+Volkswagen,Touran,2.0 TSI,2018,Diesel,Mpv,White,Fredericia,Automatic,https://www.guloggratis.dk/annonce/0ddc12bf-7fe1-4af7-b9a9-7ecb4b982727,6,29486,176000,111.0,Denmark
+Hyundai,I10,1.0,2015,Petrol,Mini,NA,Ishøj,Manual,https://www.bilbasen.dk/brugt/bil/hyundai/i10/10-go-air-5d/6073547,6,7626,150000,49.0,Denmark
+Volkswagen,Touran,1.6 TDI,2017,Diesel,Mpv,White,Varde,Manual,https://www.guloggratis.dk/annonce/504878c8-67bb-421d-8387-955813517751,6,29473,81000,85.0,Denmark
+Volkswagen,Polo,1.6 TDI,2019,Diesel,Hatchback,NA,Hasselager,Manual,https://www.bilbasen.dk/brugt/bil/vw/polo/16-tdi-95-highline-5d/6099621,6,21431,126000,70.0,Denmark
+Suzuki,Splash,1.2,2011,Petrol,Hatchback,Blue,Vodskov,Automatic,https://www.guloggratis.dk/annonce/3d67b02f-98e0-4686-b0f9-07f1b291b39f,5,8698,55000,70.0,Denmark
+Renault,Arkana,1.3,2022,Petrol,Crossover,White,Aalborg,Automatic,https://www.guloggratis.dk/annonce/0ff3c4f6-569c-4e38-a7f6-052f71e370e8,6,36175,13070,104.0,Denmark
+Nissan,Qashqai,1.6,2016,Diesel,Crossover,NA,Ishøj,Automatic,https://www.bilbasen.dk/brugt/bil/nissan/qashqai/16-dci-130-tekna-x-tr-5d/6116414,6,18750,167000,96.0,Denmark
+Opel,Grandland X,1.2,2019,Petrol,Suv,NA,Kolding,Manual,https://www.bilbasen.dk/brugt/bil/opel/grandland-x/12-t-130-impress-5d/6103213,6,24782,67000,96.0,Denmark
+Peugeot,3008,1.6 puretech,2018,Diesel,Crossover,Black,Give,Automatic,https://www.guloggratis.dk/annonce/76e10217-f1fc-4021-adb4-0b06ae8afc41,6,33373,59000,96.0,Denmark
+Nissan,Leaf,N-Connecta,2018,Electric,Hatchback,Black,Ballerup,Automatic,https://seek4cars.net/biler-til-salg/nissan/leaf/el-n-connecta-40-kwh-150hk-5d-aut/2822c785-180e-4461-ac85-6faf3112c48c,6,18080,95000,111.0,Denmark
+Peugeot,2008,1.2 puretech,2022,Petrol,Crossover,Gray,Give,Manual,https://www.guloggratis.dk/annonce/57d4bd23-3b33-4c7b-958e-484eb21bfdb7,6,33494,18000,96.0,Denmark
+Suzuki,S-Cross,1.6,2014,Petrol,Crossover,Black,Holsted,Manual,https://www.guloggratis.dk/annonce/f71580b2-1e67-4e3a-b3b6-ec35fb6b6340,6,11781,185000,89.0,Denmark
+Suzuki,S-Cross,1.6,2014,Petrol,Crossover,Brown,Holsted,Manual,https://www.bilbasen.dk/brugt/bil/suzuki/s-cross/16-gl-5d/6062946,6,12049,164000,89.0,Denmark
+Audi,A3,1.4 TFSI,2013,Petrol,Convertible,NA,Holmegaard,Automatic,https://www.guloggratis.dk/annonce/7da976b6-d34d-400e-bc31-69f5a41c4e0f,5,21431,43000,93.0,Denmark
+Opel,Mokka,1.4,2017,Petrol,Crossover,NA,Birkerød,Automatic,https://www.bilbasen.dk/brugt/bil/opel/mokka-x/14-t-140-enjoy-aut-5d/5836788,6,22771,58000,104.0,Denmark
+Ford,S-Max,2.0 TDCi,2014,Diesel,Mpv,Black,Vodskov,Automatic,https://www.guloggratis.dk/annonce/52e77142-e065-41fe-bd0c-c761c15755b9,6,14730,200000,104.0,Denmark
+Nissan,Leaf,Tekna,2018,Electric,Hatchback,NA,Hammel,Automatic,https://www.guloggratis.dk/annonce/36612609-4da7-42dc-a832-e7450db7b7c3,6,16016,116000,111.0,Denmark
+Peugeot,2008,1.2 puretech,2023,Petrol,Crossover,Black,Give,Automatic,https://www.guloggratis.dk/annonce/16c26908-cf0f-4113-8aa0-6b00d1f7e250,6,34834,7000,96.0,Denmark
+Mercedes Benz,C-Class,220 CDI,2011,Diesel,Coupe,NA,Bredebro,Automatic,https://www.bilbasen.dk/brugt/bil/mercedes/c220/22-cdi-elegance-stc-aut-be-5d/6112382,5,13336,487000,126.0,Denmark
+Audi,A4,2.4,2002,Petrol,Convertible,NA,Varde,Manual,https://bilhandel.dk/audi-a4-24-v6-cabriolet/id-1556081,3,13389,164000,170.0,Denmark
+Peugeot,3008,1.5 bluehdi,2022,Hybrid,Crossover,Gray,Give,Automatic,https://www.guloggratis.dk/annonce/219fd7a7-d1f8-4c05-8b0c-7c8d227cae64,6,38185,18000,167.0,Denmark
+Honda,Cr-V,1.6 i-dtec,2015,Diesel,Suv,NA,Bramming,Manual,https://www.bilbasen.dk/brugt/bil/honda/cr-v/16-i-dtec-elegance-5d/6061209,6,20077,179000,89.0,Denmark
+Fiat,500c,1.2,2014,Petrol,Convertible,NA,Bramming,Automatic,https://www.bilbasen.dk/brugt/bil/fiat/500c/12-lounge-mta-2d/6114030,6,11365,75000,51.0,Denmark
+Dacia,Logan,1.5 dCi,2017,Diesel,Sedan,NA,Hadsund,Manual,https://www.guloggratis.dk/annonce/52539df2-4e70-47ae-bad9-48df337a6bbc,6,10695,182000,67.0,Denmark
+Mercedes Benz,Eqb,250,2022,Electric,Suv,Gray,Lunderskov,Automatic,https://www.autouncle.dk/en/d/4774464-used-mercedes-eqb250-progressive,6,44887,13000,141.0,Denmark
+Peugeot,5008,2.0 HDi,2010,Diesel,Mpv,Silver,Køge,Automatic,https://seek4cars.net/biler-til-salg/peugeot/5008-/hdi-163-premium-aut/d4e9735a-3fdd-4c41-9774-a05f5064aabf,5,8711,235000,121.0,Denmark
+Bmw,3 Series,325d,2008,Diesel,Sedan,Black,Vejen,Automatic,https://www.bilbasen.dk/brugt/bil/bmw/325d/30-steptr-4d/5960042,4,12022,286000,146.0,Denmark
+Ford,C-Max,1.6 TDCi,2012,Diesel,Mpv,Black,Holsted,Manual,https://www.guloggratis.dk/annonce/63b0e795-50e2-4c57-bf65-a444556b01af,5,8028,268000,70.0,Denmark
+Opel,Crossland X,1.2,2018,Petrol,Suv,White,Aalborg,Automatic,https://www.bilpriser.dk/car.do?carid=2593762,6,24782,7000,82.0,Denmark
+Volkswagen,Tiguan,2.0 TSI 4Motion,2018,Petrol,Crossover,Gray,Vodskov,Automatic,https://www.bilpriser.dk/car.do?carid=2605672,6,37501,131000,134.0,Denmark
+Volkswagen,Tiguan,1.5 tsi,2018,Petrol,Crossover,Red,Vojens,Automatic,https://seek4cars.net/biler-til-salg/vw/tiguan/1-4-tsi-act-comfortline-dsg-150hk-5d-6g-aut/a1f9cd8c-41d7-4002-9665-54ef3527ba94,6,38855,128000,111.0,Denmark
+Dacia,Lodgy,1.5 dCi,2016,Diesel,Mpv,NA,Hadsund,Manual,https://www.bilbasen.dk/brugt/bil/dacia/lodgy/15-dci-90-family-edition-7prs-5d/6103626,6,9355,197000,67.0,Denmark
+Ford,S-Max,2.0 EcoBlue,2020,Diesel,Mpv,Black,Varde,Automatic,https://www.guloggratis.dk/annonce/ee18ebf2-7d92-44e6-a032-e041ed7f6e40,6,38987,150000,141.0,Denmark
+Nissan,Micra,1.2,2015,Petrol,Mini,White,Holsted,Manual,https://www.guloggratis.dk/annonce/f142bf1e-cbbe-480c-9fac-d7b0978902ff,6,6018,187000,59.0,Denmark
+Citroen,C4 Picasso,1.6 e-HDi,2013,Diesel,Mpv,Silver,Vodskov,Manual,https://www.guloggratis.dk/annonce/3ed97ef1-1087-4c1b-b9d8-11d7b1a46a3c,5,7358,250000,85.0,Denmark
+Nissan,Qashqai,1.6,2016,Diesel,Crossover,NA,Bredebro,Automatic,https://www.autouncle.dk/en/d/4707267-used-nissan-qashqai-dci-130-tekna-x-tr,6,21377,128000,96.0,Denmark
+Peugeot,2008,1.5 bluehdi,2020,Diesel,Crossover,Black,Aalborg,Automatic,https://seek4cars.net/biler-til-salg/peugeot/2008-/1-5-bluehdi-allure-pack-eat8-130hk-5d-8g-aut/e0f3933c-8024-4e95-962d-10b39a070717,6,28133,88000,96.0,Denmark
+Peugeot,2008,1.5 bluehdi,2020,Diesel,Crossover,White,Aalborg,Automatic,https://seek4cars.net/biler-til-salg/peugeot/2008-/1-5-bluehdi-edition-210-eat8-130hk-5d-8g-aut/efc70c55-f5fc-49cf-84e5-dff3beff88a1,6,29473,78000,96.0,Denmark
+Renault,Captur,0.9 tce,2016,Diesel,Suv,Gray,Vodskov,Automatic,https://www.bilbasen.dk/brugt/bil/renault/captur/15-dci-90-dynamique-edc-5d/6047381,6,13389,117000,67.0,Denmark
+Renault,Captur,0.9 tce,2017,Petrol,Suv,White,Vodskov,Manual,https://www.bilbasen.dk/brugt/bil/renault/captur/09-tce-90-intens-5d/6061921,6,16472,51000,67.0,Denmark
+Volkswagen,Polo,1.2 TSI,2014,Petrol,Hatchback,NA,Toftlund,Manual,https://www.bilbasen.dk/brugt/bil/vw/polo/12-tsi-90-comfortline-5d/6116356,6,11647,167000,67.0,Denmark
+Hyundai,I40,1.7 CRDi,2017,Diesel,Wagon,NA,Køge,Manual,https://www.bilbasen.dk/brugt/bil/hyundai/i40/17-crdi-115-life-4d/5847368,6,16083,142000,85.0,Denmark
+Volkswagen,Polo,1.4 TDI,2015,Diesel,Hatchback,NA,Toftlund,Manual,https://www.bilbasen.dk/brugt/bil/vw/polo/14-tdi-75-bluemotion-5d/6073188,6,11647,179000,55.0,Denmark
+Fiat,500c,1.2,2020,Petrol,Convertible,White,Broby,Manual,https://www.guloggratis.dk/annonce/3cb6de4f-0002-4093-8bf3-51e99aea9344,6,18750,40700,51.0,Denmark
+Hyundai,I10,1.0,2017,Petrol,Mini,NA,Ishøj,Manual,https://www.bilbasen.dk/brugt/bil/hyundai/i10/10-touch-5d/6073796,6,11365,67000,49.0,Denmark
+Nissan,Juke,1.0 DIG-T,2019,Petrol,Crossover,NA,Skanderborg,Manual,https://www.bilbasen.dk/brugt/bil/nissan/juke/10-dig-t-117-n-connecta-5d/6037009,6,22088,28000,87.0,Denmark
+Volkswagen,Up!,1.0,2013,Petrol,Mini,Silver,Vodskov,Manual,https://www.guloggratis.dk/annonce/a19dd078-f553-4d71-b6dc-79372a66f86c,5,7090,191000,44.0,Denmark
+Toyota,Auris,1.6 VVT-i,2013,Diesel,Hatchback,Silver,Vodskov,Manual,https://www.bilbasen.dk/brugt/bil/toyota/auris/20-d-4d-t2-touring-sports-5d/6042659,5,12049,157000,92.0,Denmark
+Seat,Arona,1.0 tsi,2019,Petrol,Crossover,NA,Kolding,Manual,https://www.bilbasen.dk/brugt/bil/seat/arona/10-tsi-115-fr-5d/6098389,6,22771,51000,85.0,Denmark
+Citroen,C3,1.2 puretech,2013,Diesel,Hatchback,Black,Vejen,Automatic,https://www.guloggratis.dk/annonce/667970ad-08d7-43d3-911c-b6b7b5576ce8,5,8671,116000,52.0,Denmark
+Volvo,Xc40,1.5 T5 Twin Engine,2022,Hybrid,Crossover,Black,Aalborg,Automatic,https://www.guloggratis.dk/annonce/febcf0ff-e707-441d-a0ed-ab1846fb183d,6,58290,17092,304.0,Denmark
+Audi,A6,4.0 TFSI Quattro,2016,Diesel,Sedan,NA,Hasselager,Automatic,https://www.guloggratis.dk/annonce/8974abcf-b9ee-4685-ad8a-8f4687f78adf,6,80351,125000,243.0,Denmark
+Citroen,C4 Picasso,1.6 BlueHDI,2016,Diesel,Mpv,NA,Køge,Automatic,https://www.bilbasen.dk/brugt/bil/citron/c4-picasso/16-bluehdi-120-seduction-eat6-5d/6103201,6,14596,157000,89.0,Denmark
+Audi,Q5,2.0 hybrid,2021,Hybrid,Suv,Black,Brøndby,Automatic,https://usedcars.leaseplan.com/da-dk/audi-q5/2196762-dk-audi-q5.html,6,62981,89000,220.0,Denmark
+Renault,Captur,1.2 TCe,2015,Petrol,Suv,Orange,Vodskov,Manual,https://www.guloggratis.dk/annonce/fab980d3-0aa4-4755-bff9-d610f750bc0c,6,12049,77000,67.0,Denmark
+Opel,Crossland X,1.2,2018,Petrol,Suv,Black,Løgumkloster,Automatic,https://www.autouncle.dk/en/d/4783131-used-opel-crossland-x-crossland-x-1-2-t-innovation-start-stop-110hk-5d-6g-aut-1-2-t-innovation-start-stop-110hk-5d-6g-aut,6,21431,60000,82.0,Denmark
+Mitsubishi,Space Star,1.2,2015,Petrol,Mpv,Black,Holsted,Manual,https://www.autouncle.dk/en/d/4800063-used-mitsubishi-space-star-1-2-man,6,6018,178000,59.0,Denmark
+Mitsubishi,Space Star,1.2,2015,Petrol,Mpv,NA,Køge,Automatic,https://www.bilbasen.dk/brugt/bil/mitsubishi/space-star/12-intense-cvt-5d/6113004,6,10038,134000,59.0,Denmark
+Volkswagen,Sharan,2.0 TDI,2012,Diesel,Van,NA,Skibby,Automatic,https://www.bilbasen.dk/brugt/bil/vw/sharan/20-tdi-170-highline-dsg-bmt-5d/6026886,5,23589,212000,126.0,Denmark
+Citroen,C3,1.2 puretech,2018,Petrol,Hatchback,NA,Ishøj,Manual,https://www.bilbasen.dk/brugt/bil/citron/c3/12-puretech-82-iconic-ltd-5d/5969662,6,13389,68000,61.0,Denmark
+Volvo,V60,2.0 t6,2023,Hybrid,Wagon,NA,Aalborg,Automatic,https://www.guloggratis.dk/annonce/8bcd1910-13c6-46b9-9bbc-febc3202035b,6,65661,26641,260.0,Denmark
+Ford,S-Max,2.0 TDCi,2016,Petrol,Mpv,Black,Vodskov,Automatic,https://www.bilpriser.dk/car.do?carid=2602586,6,25452,167000,178.0,Denmark
+Volvo,Xc60,2.0,2019,Petrol,Crossover,White,Brøndby,Automatic,https://usedcars.leaseplan.com/da-dk/volvo-xc60/1894496-dk-volvo-xc60.html,6,64321,92000,228.0,Denmark
+Hyundai,I10,1.0,2024,Petrol,Mini,NA,Søborg,Automatic,https://www.bilbasen.dk/brugt/bil/hyundai/i10/10-mpi-advanced-amt-5d/6097214,6,23442,4000,49.0,Denmark
+Hyundai,I10,1.0,2024,Petrol,Mini,NA,Søborg,Manual,https://www.bilbasen.dk/brugt/bil/hyundai/i10/10-mpi-advanced-5d/6083535,6,21444,3000,49.0,Denmark
+Hyundai,I10,1.0,2024,Petrol,Mini,NA,Søborg,Manual,https://www.bilbasen.dk/brugt/bil/hyundai/i10/10-mpi-advanced-5d/6108951,6,21176,3000,49.0,Denmark
+Peugeot,3008,1.5 bluehdi,2023,Diesel,Crossover,White,Aalborg,Automatic,https://seek4cars.net/biler-til-salg/peugeot/3008-/1-5-bluehdi-allure-pack-eat8-130hk-5d-8g-aut/6937beb6-b155-4bc9-ac31-b6a611673f0a,6,46897,22000,96.0,Denmark
+Nissan,Qashqai,1.2,2017,Petrol,Crossover,NA,Frederikssund,Automatic,https://www.bilbasen.dk/brugt/bil/nissan/qashqai/12-dig-t-115-tekna-x-tr-5d/6054453,6,24098,107000,85.0,Denmark
+Opel,Movano,2.3,2018,Diesel,Van,White,Horsens,Manual,https://www.autouncle.dk/en/d/4334201-used-opel-movano-l2h2-2-3-biturbo-cdti-start-stop-145hk-van-6g-2018,6,26779,81000,108.0,Denmark
+Nissan,Leaf,Tekna,2022,Electric,Hatchback,NA,Taastrup,Automatic,https://www.bilbasen.dk/brugt/bil/nissan/leaf/40-tekna-5d/6108920,6,20103,20000,109.0,Denmark
+Bmw,5 Series,525d,2006,Petrol,Sedan,Black,Vodskov,Manual,https://www.guloggratis.dk/annonce/ea5e46fe-9cca-4154-b8e2-21364036cdb6,4,7358,310000,131.0,Denmark
+Mini,Cooper,1.5,2021,Petrol,Convertible,Beige,Brøndby,Automatic,https://usedcars.leaseplan.com/da-dk/mini-cooper/2182738-dk-mini-minicooper.html,6,44887,32000,100.0,Denmark
+Volkswagen,Passat,1.4 TSI,2008,Petrol,Sedan,NA,Køge,Manual,https://www.bilbasen.dk/brugt/bil/vw/passat/14-tsi-122-sportline-4d/6096746,4,6554,201000,90.0,Denmark
+Peugeot,2008,1.2 vti,2016,Petrol,Crossover,NA,Bagsværd,Manual,https://www.bilbasen.dk/brugt/bil/peugeot/2008/12-vti-82-style-5d/6109228,6,10989,137000,61.0,Denmark
+Peugeot,208,1.2 puretech,2019,Petrol,Wagon,NA,Kolding,Manual,https://www.bilbasen.dk/brugt/bil/peugeot/208/12-puretech-82-envy-5d/6107794,6,14059,72000,61.0,Denmark
+Audi,Q3,1.4,2022,Petrol,Crossover,Black,Brøndby,Automatic,https://usedcars.leaseplan.com/da-dk/audi-q3/2402427-dk-audi-q3.html,6,42206,31000,180.0,Denmark
