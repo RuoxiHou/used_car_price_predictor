@@ -1,0 +1,145 @@
+Make,Model,Trim,Year,Fuel type,Body type,Color,City,Transmission,Contact,Emission standard,Price(EUR),Mileage(km),kW,Country
+Alfa Romeo,Giulietta,1.6 JTDm,2012,Diesel,Hatchback,Black,Maia,Manual,https://www.motores24h.pt/alfa-romeo-giulietta-1.6-jtdm-progression-carro-65b7cfd71126f40d7ed547c7/,5,9850,184394,78.0,Portugal
+Seat,Leon,1.6 TDI,2019,Diesel,Hatchback,Black,Viseu,Manual,https://www.motores24h.pt/seat-leon-st-1.6-tdi-style-s-s-carro-655f66201126f4e164ff67b1/,6,15480,137000,86.0,Portugal
+Renault,Megane,1.5 dCi,2017,Diesel,Coupe,Gray,Maia,Manual,https://www.motores24h.pt/renault-megane-1.5-dci-intens-carro-6595469e1126f4b664196e79/,6,14900,117635,82.0,Portugal
+Nissan,Leaf,Tekna,2017,Electric,Hatchback,White,Viseu,Automatic,https://www.motores24h.pt/nissan-leaf-tekna-30-kwh-carro-647b142e1126f45e1fc93e13/,6,12450,38000,81.0,Portugal
+Bmw,1 Series,116d,2011,Diesel,Coupe,Black,Viseu,Manual,https://www.motores24h.pt/bmw-serie-1-116-d-carro-65c265f11126f4f77b0b49ac/,5,11750,165000,86.0,Portugal
+Bmw,1 Series,118d,2012,Diesel,Coupe,Black,Maia,Manual,https://www.motores24h.pt/bmw-serie-1-118-d-pack-m-carro-659541a01126f4bf54196e7b/,5,14800,155267,106.0,Portugal
+Porsche,Macan,2.0,2018,Petrol,Suv,Gray,Viseu,Manual,https://www.motores24h.pt/porsche-macan-carro-64524f5f1126f43c18e869f4/,6,49499,105000,187.0,Portugal
+Peugeot,508,2.0 HDi,2012,Diesel,Sedan,Black,Leiria,Automatic,https://www.motores24h.pt/peugeot-508-sw-2.0-hdi-allure-am6-carro-6596afa51126f48b47bc866a/,5,10200,264000,121.0,Portugal
+Volvo,V40,1.6,2014,Diesel,Wagon,White,Setúbal,Manual,https://www.motores24h.pt/volvo-v40-1.6-d2-kinetic-carro-65bce9bc1126f4a64d211749/,6,12650,201023,85.0,Portugal
+Renault,Zoe,ZE 50,2020,Electric,Mini,White,Sintra,Automatic,https://www.motores24h.pt/renault-zoe-limited-ze-50-r110-carro-65a81c681126f497462f4616/,6,19950,30000,81.0,Portugal
+Alfa Romeo,Mito,1.2 JTD,2012,Diesel,Hatchback,Gray,Porto,Manual,https://www.motores24h.pt/alfa-romeo-mito-1.3-jtd-progression-5kq-carro-65b041f61126f46f03db571a/,5,6850,212000,70.0,Portugal
+Mercedes Benz,Slk-Class,200,1999,Petrol,Convertible,Blue,Vila Nova De Gaia,Manual,https://www.motores24h.pt/mercedes-classe-slk-200-carro-65d5d5401126f46a67b6f10f/,2,8650,125000,101.0,Portugal
+Ford,Maverick,2.8,1994,Petrol,Suv,Gray,Tomar,Manual,https://www.motores24h.pt/ford-maverick-2.7-td-glx-carro-4f2a6aa973143a036a9f0100/,1,3990,260000,74.0,Portugal
+Renault,Twingo,1.2,2012,Petrol,Mini,White,Sintra,Manual,https://www.motores24h.pt/renault-twingo-1.2-16v-city-carro-5d52cd971126f4636f6cae34/,5,6000,70000,55.0,Portugal
+Fiat,Bravo,1.2,1999,Petrol,Hatchback,Green,Tomar,Manual,https://www.motores24h.pt/fiat-bravo-1.2-16v-80cv-carro-4f32a82673143a86132e0000/,2,2290,84000,59.0,Portugal
+Nissan,Qashqai,1.3 DIG-T,2019,Petrol,Crossover,Black,Porto,Manual,https://www.motores24h.pt/nissan-qashqai-1.3-dig-t-n-connecta-j18-carro-65cfabe01126f4b148cf06a4/,6,22750,44000,104.0,Portugal
+Citroen,C3,1.2 puretech,2020,Petrol,Hatchback,Gray,Porto,Manual,https://auto.sapo.pt/carro-usado/65c25385084648a402ceca08/citroen-c3,6,13950,61000,61.0,Portugal
+Toyota,Proace,1.5,2021,Diesel,Van,White,Queluz,Manual,https://www.abmotor.pt/carros/Toyota/Proace%20verso/478142/,6,38900,126078,89.0,Portugal
+Volkswagen,Polo,1.4,2016,Diesel,Hatchback,White,Lisboa,Manual,https://www.abmotor.pt/carros/Vw/Polo/485335/,6,10990,118534,55.0,Portugal
+Renault,Talisman,1.6 dci,2018,Diesel,Sedan,Gray,Lisboa,Automatic,https://auto.sapo.pt/carro-usado/6557f7b2db0578f6482675dd/renault-talisman,6,22990,116059,119.0,Portugal
+Bmw,X3,D,2015,Diesel,Suv,Black,Lisboa,Automatic,https://www.abmotor.pt/carros/Bmw/X3/477632/,6,26750,210000,141.0,Portugal
+Citroen,C4 Cactus,1.6,2015,Diesel,Hatchback,Blue,Sintra,Automatic,https://auto.sapo.pt/carro-usado/654fa1264b6c32f3a9d590bb/citroen-c4-cactus-16-e-hdi-shine-etg6,6,13900,139138,68.0,Portugal
+Mazda,Cx-3,1.8 SKYACTIV-D,2019,Diesel,Crossover,Red,Sintra,Manual,https://www.abmotor.pt/carros/Mazda/CX-3/481802/,6,19900,62825,85.0,Portugal
+Seat,Leon,1.0,2020,Petrol,Hatchback,Blue,Braga,Manual,https://www.abmotor.pt/carros/Seat/Leon/485427/,6,17990,33000,85.0,Portugal
+Nissan,Qashqai,1.5 dCi,2020,Diesel,Crossover,Gray,Braga,Automatic,https://www.abmotor.pt/carros/Nissan/Qashqai/481716/,6,24990,58000,85.0,Portugal
+Nissan,Qashqai,1.5 dCi,2020,Diesel,Crossover,White,Lisboa,Manual,https://www.abmotor.pt/carros/Nissan/Qashqai/484831/,6,24890,35609,85.0,Portugal
+Opel,Grandland X,1.5,2022,Diesel,Suv,Gray,Braga,Automatic,https://auto.sapo.pt/carro-usado/65bbb6752f51324778a4840a/opel-grandland,6,27990,29000,96.0,Portugal
+Opel,Grandland X,1.5,2022,Diesel,Suv,Gray,Braga,Automatic,https://www.abmotor.pt/carros/Opel/Grandland/484159/,6,27990,22000,96.0,Portugal
+Nissan,Micra,1.0,2020,Petrol,Mini,Black,Braga,Manual,https://auto.sapo.pt/carro-usado/65b91192a42675c2dee27fe0/nissan-micra,6,15990,41000,74.0,Portugal
+Citroen,C4 Cactus,1.6,2018,Diesel,Hatchback,Blue,Lisboa,Automatic,https://auto.sapo.pt/carro-usado/658eaa8ac72abef2805fac3c/citroen-c4-cactus,6,19990,118810,89.0,Portugal
+Citroen,C4 Cactus,1.6,2020,Diesel,Hatchback,White,Fafe,Manual,https://www.abmotor.pt/carros/Citro%C3%ABn/C4%20Cactus/485127/,6,16900,71880,76.0,Portugal
+Kia,Stonic,1.0 T-GDi,2022,Petrol,Crossover,White,Braga,Manual,https://auto.sapo.pt/carro-usado/655dc425345c389231b3c807/kia-stonic,6,18990,57000,74.0,Portugal
+Citroen,C4 Cactus,1.6,2019,Diesel,Hatchback,Black,Rio Tinto,Manual,https://www.abmotor.pt/carros/Citro%C3%ABn/C4%20Cactus/482230/,6,14490,153000,76.0,Portugal
+Volkswagen,Polo,1.0 tsi,2022,Petrol,Hatchback,Gray,Braga,Manual,https://www.abmotor.pt/carros/Vw/Polo/485860/,6,18990,30000,70.0,Portugal
+Fiat,500c,1.0,2021,Petrol,Convertible,White,Porto,Manual,https://www.abmotor.pt/carros/Fiat/500C/485841/,6,16950,27000,52.0,Portugal
+Citroen,C3,1.6,2019,Diesel,Hatchback,Gray,Lisboa,Manual,https://auto.sapo.pt/carro-usado/65993fd33d67a3a07ab01f2b/citroen-c3,6,14890,117074,76.0,Portugal
+Volkswagen,Transporter,2.0,2019,Diesel,Van,White,Lisboa,Manual,https://www.abmotor.pt/carros/Vw/Transporter/484004/,6,24990,59559,85.0,Portugal
+Citroen,C5 Aircross,1.5 HDI,2019,Diesel,Suv,Gray,Pontinha,Manual,https://auto.sapo.pt/carro-usado/65243752d512ba5d334c0b8e/citroen-c5-aircross-15-bluehdi-130-ss-cvm6-feel,6,20990,48000,96.0,Portugal
+Volvo,Xc40,2.0 D3,2019,Diesel,Crossover,Black,Braga,Automatic,https://www.abmotor.pt/carros/Volvo/Xc%2040/483209/,6,32990,49000,111.0,Portugal
+Jeep,Compass,1.6,2022,Diesel,Crossover,Gray,Porto,Manual,https://auto.sapo.pt/carro-usado/65e737a2cb4cc96dad2d73c6/jeep-compass-16-m-jet-limited,6,29850,12000,96.0,Portugal
+Tesla,Model 3,0.0 performance,2019,Electric,Sedan,Red,Braga,Automatic,https://www.abmotor.pt/carros/Tesla/Model%203/479737/,6,39990,61000,382.0,Portugal
+Nissan,Juke,1.5 dCi,2018,Diesel,Crossover,Black,Lisboa,Manual,https://www.abmotor.pt/carros/Nissan/Juke/482572/,6,15990,130161,82.0,Portugal
+Fiat,Tipo,1.6,2019,Diesel,Hatchback,Gray,Sintra,Manual,https://auto.sapo.pt/carro-usado/65155bf92f36f2a26d020270/fiat-tipo-16-m-jet-lounge-tech-j17,6,18900,60600,89.0,Portugal
+Seat,Leon,1.0 tsi,2019,Petrol,Hatchback,Gray,Lisboa,Manual,https://www.abmotor.pt/carros/Seat/Leon/483121/,6,16490,75443,85.0,Portugal
+Nissan,Qashqai,1.5 dCi,2019,Diesel,Crossover,White,Fafe,Manual,https://www.abmotor.pt/carros/Nissan/Qashqai/475646/,6,23750,51275,85.0,Portugal
+Peugeot,508,1.6 HDi,2014,Diesel,Sedan,White,Lisboa,Automatic,https://auto.sapo.pt/carro-usado/6570b4cd88660b04f04d7b7a/peugeot-508-sw-16-bluehdi-active,6,11500,214850,85.0,Portugal
+Peugeot,508,1.6 HDi,2011,Diesel,Sedan,Gray,Gondomar,Automatic,https://www.abmotor.pt/carros/Peugeot/508%20SW/483583/,5,8990,265000,83.0,Portugal
+Citroen,C4 Spacetourer,1.6 BlueHDI,2019,Diesel,Mpv,Gray,Lisboa,Manual,https://www.abmotor.pt/carros/Citro%C3%ABn/Grand%20C4%20Spacetourer/480938/,6,23490,68319,96.0,Portugal
+Nissan,Qashqai,1.5 dCi,2020,Diesel,Crossover,Black,Lisboa,Manual,https://auto.sapo.pt/carro-usado/65d13a0b5a787f77a2f24957/nissan-qashqai,6,21890,115887,85.0,Portugal
+Nissan,Micra,1.0,2019,Petrol,Mini,Red,Lisboa,Automatic,https://auto.sapo.pt/carro-usado/65df8ae815151c763e07f6b3/nissan-micra,6,16590,72796,74.0,Portugal
+Volkswagen,Caddy,2.0,2018,Diesel,Pickup,White,Vila Franca De Xira,Manual,https://www.abmotor.pt/carros/Vw/Caddy/475815/,6,18490,207627,76.0,Portugal
+Volkswagen,Sharan,2.0 TDI,2015,Diesel,Van,Blue,Queluz,Manual,https://auto.sapo.pt/carro-usado/65a7fc2e2a3192f15e7eb2d7/volkswagen-sharan-20-tdi-confortline,6,21900,128597,104.0,Portugal
+Peugeot,508,1.6,2016,Diesel,Sedan,White,Belas,Manual,https://auto.sapo.pt/carro-usado/65323ecc7e36263029a00eee/peugeot-508,6,12980,215000,89.0,Portugal
+Citroen,C4 Cactus,1.6,2019,Diesel,Hatchback,White,Queluz,Manual,https://auto.sapo.pt/carro-usado/65c668b871407e4b5cc1ccea/citroen-c4-cactus-15-bluehdi-feel,6,15500,89521,76.0,Portugal
+Citroen,C4 Cactus,1.6,2019,Diesel,Hatchback,White,Fafe,Manual,https://auto.sapo.pt/carro-usado/65e1e66d7c1b958679a5ab0b/citroen-c4-cactus-15-bluehdi-feel,6,14900,86625,76.0,Portugal
+Jeep,Renegade,1.0 Limited,2019,Petrol,Crossover,Gray,Braga,Manual,https://auto.sapo.pt/carro-usado/652a4db6c811cf9831bf2f8c/jeep-renegade-10-t-limited,6,18990,45000,89.0,Portugal
+Volkswagen,Caddy,2.0,2019,Diesel,Pickup,Blue,Lisboa,Manual,https://auto.sapo.pt/carro-usado/6554edfb044a5eea1c77e5fa/volkswagen-caddy,6,19990,149482,76.0,Portugal
+Citroen,Jumpy,1.6,2020,Diesel,Van,White,Queluz,Manual,https://www.abmotor.pt/carros/Citro%C3%ABn/Jumpy%201.5%20bluehdi%20van%20/484018/,6,18620,90392,89.0,Portugal
+Peugeot,508,1.6,2018,Diesel,Sedan,Black,Lisboa,Manual,https://www.abmotor.pt/carros/Peugeot/508%20SW/485323/,6,16490,110882,89.0,Portugal
+Volkswagen,Sharan,2.0 TDI,2018,Diesel,Van,Black,Lisboa,Manual,https://www.abmotor.pt/carros/Vw/Sharan/480205/,6,27490,101449,111.0,Portugal
+Volkswagen,Polo,1.6 TDI,2020,Diesel,Hatchback,Black,Fafe,Manual,https://auto.sapo.pt/carro-usado/65e9e4b36f0ebfad197db837/volkswagen-polo-16-tdi-confortline,6,16900,67881,70.0,Portugal
+Seat,Leon,1.0,2018,Petrol,Hatchback,Black,Braga,Manual,https://auto.sapo.pt/carro-usado/654214af6116f0345bb7e4cc/seat-leon,6,17990,49000,85.0,Portugal
+Nissan,Qashqai,1.5 dCi,2018,Diesel,Crossover,Black,Lisboa,Manual,https://auto.sapo.pt/carro-usado/65d674857d78558e89527529/nissan-qashqai,6,19890,87995,85.0,Portugal
+Alfa Romeo,Mito,1.3,2018,Diesel,Hatchback,Black,Lisboa,Manual,https://auto.sapo.pt/carro-usado/65b50ca678646859ab18eae1/alfa-romeo-mito,6,13490,113954,70.0,Portugal
+Citroen,C1,1.0 Shine,2017,Petrol,Mini,Black,Lisboa,Manual,https://auto.sapo.pt/carro-usado/65490824e831b5b6f21ca056/citroen-c1-10-vti-shine,6,8700,100000,50.0,Portugal
+Peugeot,5008,1.6,2018,Diesel,Mpv,Silver,Gondomar,Manual,https://www.abmotor.pt/carros/Peugeot/5008/474045/,6,22990,164000,89.0,Portugal
+Porsche,Cayenne,4.8 Turbo,2010,Petrol,Suv,Black,Lisboa,Automatic,https://auto.sapo.pt/carro-usado/65b16d2ffb680231f4ddc00d/porsche-cayenne-cayenne-turbo,5,49500,90000,372.0,Portugal
+Mini,One,1.6 D,2013,Diesel,Mini,Orange,Leiria,Manual,https://www.abmotor.pt/carros/Mini/One/481898/,5,13750,153056,67.0,Portugal
+Bmw,X1,xDrive18d,2016,Diesel,Suv,Gray,Caldas Da Rainha,Manual,https://www.abmotor.pt/carros/Bmw/X1/485509/,6,19950,118514,111.0,Portugal
+Seat,Leon,1.6 TDI,2012,Diesel,Hatchback,Black,Lisboa,Automatic,https://auto.sapo.pt/carro-usado/659939ad1e6f077267d851b0/seat-leon,5,10990,185451,78.0,Portugal
+Mini,One,1.6 D,2015,Diesel,Mini,Beige,Fafe,Manual,https://www.abmotor.pt/carros/Mini/One/483115/,6,13750,138866,70.0,Portugal
+Peugeot,5008,2.0 bluehdi,2019,Diesel,Mpv,Gray,Braga,Automatic,https://www.abmotor.pt/carros/Peugeot/5008/479162/,6,34990,88000,131.0,Portugal
+Fiat,Tipo,1.1,2024,Petrol,Hatchback,Gray,Queluz,Manual,https://www.abmotor.pt/carros/Fiat/Tipo%20cross/484745/,6,21900,100,75.0,Portugal
+Bmw,X6,40d,2010,Diesel,Suv,Black,Gondomar,Automatic,https://auto.sapo.pt/carro-usado/65377d684a42a62f58ddb9a3/bmw-x6,5,34990,252000,228.0,Portugal
+Nissan,Leaf,Acenta,2021,Electric,Hatchback,Black,Braga,Automatic,https://auto.sapo.pt/carro-usado/652a4d92c811cf9831bf2f1a/nissan-leaf-acenta,6,22990,40000,111.0,Portugal
+Renault,Kangoo,1.5 dCi,2021,Diesel,Pickup,White,Queluz,Manual,https://auto.sapo.pt/carro-usado/65ba8029be0f644fae88b9ce/renault-kangoo-15-dci-maxi-confort-ss,6,13740,98336,70.0,Portugal
+Renault,Kangoo,1.5 dCi,2021,Diesel,Pickup,Blue,Braga,Manual,https://auto.sapo.pt/carro-usado/65ba0f0ab666554aedc00030/renault-kangoo,6,19990,15000,70.0,Portugal
+Peugeot,Partner,1.5 HDI,2020,Diesel,Pickup,White,Fafe,Manual,https://www.abmotor.pt/carros/Peugeot/Partner/484971/,6,15900,96988,76.0,Portugal
+Fiat,Tipo,1.6,2016,Diesel,Hatchback,Gray,Sintra,Manual,https://www.abmotor.pt/carros/Fiat/Tipo%20Station%20Wagon/472067/,6,14900,69659,89.0,Portugal
+Peugeot,508,1.5 bluehdi,2019,Diesel,Sedan,Blue,Fafe,Manual,https://auto.sapo.pt/carro-usado/652fa6f8663be8413fd29047/peugeot-508-sw-16-bluehdi-active,6,26250,40591,96.0,Portugal
+Seat,Leon,1.6 TDI,2019,Diesel,Hatchback,Black,Lisboa,Manual,https://auto.sapo.pt/carro-usado/65e301267c1b958679a600af/seat-leon,6,14490,198832,85.0,Portugal
+Seat,Leon,1.6 TDI,2019,Diesel,Hatchback,Black,Lisboa,Automatic,https://www.abmotor.pt/carros/Seat/Leon/484651/,6,15990,171421,85.0,Portugal
+Seat,Leon,1.6 TDI,2019,Diesel,Hatchback,White,Lisboa,Manual,https://auto.sapo.pt/carro-usado/65bd44abec0b899c42f6fd48/seat-leon,6,17390,117951,85.0,Portugal
+Seat,Leon,1.6 TDI,2019,Diesel,Hatchback,White,Lisboa,Automatic,https://auto.sapo.pt/carro-usado/6554e4af044a5eea1c77dfc9/seat-leon,6,18990,107288,85.0,Portugal
+Peugeot,3008,1.6 HDi,2013,Diesel,Crossover,Blue,Fafe,Automatic,https://auto.sapo.pt/carro-usado/657988756726ccc9a9c036f9/peugeot-3008-16-e-hdi-active-2-tronic,5,9250,240054,85.0,Portugal
+Toyota,Rav4,2.0 D-4D,2014,Diesel,Suv,Black,Caldas Da Rainha,Manual,https://auto.sapo.pt/carro-usado/6526b9c89301362944e7edce/toyota-rav4-20-d-4d-comfort,6,17500,247655,92.0,Portugal
+Bmw,X3,D,2007,Diesel,Suv,Black,Caldas Da Rainha,Manual,https://www.abmotor.pt/carros/Bmw/X3/485022/,4,11950,212184,111.0,Portugal
+Volkswagen,Tiguan,1.6 TDI,2017,Diesel,Crossover,Black,Braga,Manual,https://www.abmotor.pt/carros/Vw/Tiguan/479335/,6,22990,108000,85.0,Portugal
+Dacia,Sandero,1.0 tce,2022,Petrol,Hatchback,Black,Lisboa,Manual,https://auto.sapo.pt/carro-usado/65cbcc76dc0a9b8a88c02d67/dacia-sandero-10-tce-comfort,6,16990,27358,67.0,Portugal
+Nissan,Leaf,Acenta,2020,Electric,Hatchback,White,Braga,Automatic,https://www.abmotor.pt/carros/Nissan/Leaf/479404/,6,20990,65000,111.0,Portugal
+Nissan,Leaf,Acenta,2020,Electric,Hatchback,Black,Braga,Automatic,https://www.abmotor.pt/carros/Nissan/Leaf/483303/,6,20990,52000,111.0,Portugal
+Volkswagen,Tiguan,2.0 TDI 4Motion,2018,Diesel,Crossover,Red,Lisboa,Automatic,https://www.abmotor.pt/carros/Vw/Tiguan/481544/,6,25990,199901,111.0,Portugal
+Citroen,C3,1.6,2021,Diesel,Hatchback,Gray,Braga,Manual,https://www.abmotor.pt/carros/Citro%C3%ABn/C3/485493/,6,16990,40000,76.0,Portugal
+Volkswagen,T-Cross,1.0 tsi,2021,Petrol,Crossover,Gray,Porto,Manual,https://auto.sapo.pt/carro-usado/652a54edc811cf9831bf3d80/volkswagen-t-cross-10-tsi-life,6,18690,66000,70.0,Portugal
+Seat,Arona,1.0 tsi,2019,Petrol,Crossover,Gray,Braga,Manual,https://auto.sapo.pt/carro-usado/652a4da8c811cf9831bf2f5b/seat-arona-10-tsi-style,6,17490,42000,70.0,Portugal
+Fiat,500 X,1.3,2019,Diesel,Crossover,White,Caldas Da Rainha,Manual,https://auto.sapo.pt/carro-usado/65e9dec2cd6ac416f863d1ef/fiat-500x,6,15450,64461,70.0,Portugal
+Citroen,C4 Spacetourer,1.6 BlueHDI,2021,Diesel,Mpv,Blue,Gondomar,Automatic,https://www.abmotor.pt/carros/Citro%C3%ABn/C4%20Spacetourer/484684/,6,24990,136000,96.0,Portugal
+Fiat,Panda,1.2,2020,Petrol,Mini,White,Braga,Manual,https://www.abmotor.pt/carros/Fiat/Panda/483305/,6,12990,12000,51.0,Portugal
+Citroen,C4 Cactus,1.2,2015,Petrol,Hatchback,White,Caldas Da Rainha,Manual,https://www.abmotor.pt/carros/Citro%C3%ABn/C4%20cactus/485563/,6,10950,94087,61.0,Portugal
+Peugeot,3008,1.5 bluehdi,2022,Diesel,Crossover,Gray,Braga,Manual,https://www.abmotor.pt/carros/Peugeot/3008/483669/,6,29990,31000,96.0,Portugal
+Citroen,C3,1.1,2010,Petrol,Hatchback,Gray,Caldas Da Rainha,Manual,https://auto.sapo.pt/carro-usado/65b283f7eb0dc09639ae7db5/citroen-c3-11-airdream-seduction,5,6750,171835,44.0,Portugal
+Volkswagen,Caddy,2.0,2020,Diesel,Pickup,White,Vila Franca De Xira,Manual,https://www.abmotor.pt/carros/Vw/Caddy/478326/,6,16990,211050,76.0,Portugal
+Seat,Ateca,1.0 tsi,2020,Petrol,Suv,Black,Braga,Manual,https://www.abmotor.pt/carros/Seat/Ateca/485803/,6,19990,51000,85.0,Portugal
+Volkswagen,T-Cross,1.0,2020,Petrol,Crossover,Gray,Caldas Da Rainha,Automatic,https://www.abmotor.pt/carros/Vw/T-cross/485566/,6,19950,41667,85.0,Portugal
+Nissan,Leaf,Acenta,2019,Electric,Hatchback,White,Braga,Automatic,https://auto.sapo.pt/carro-usado/652a4d6dc811cf9831bf2ea9/nissan-leaf-acenta,6,20990,31000,111.0,Portugal
+Ford,Puma,1.0 EcoBoost,2021,Petrol,Crossover,White,Braga,Manual,https://www.abmotor.pt/carros/Ford/Puma/479738/,6,22990,29000,93.0,Portugal
+Volkswagen,Touran,1.6 TDI,2019,Diesel,Mpv,Silver,Lisboa,Manual,https://www.abmotor.pt/carros/Vw/Touran/479090/,6,26950,94739,85.0,Portugal
+Audi,Q3,2.0,2018,Diesel,Crossover,Silver,Lisboa,Manual,https://www.abmotor.pt/carros/Audi/Q3/464342/,6,28950,72555,111.0,Portugal
+Land Rover,Discovery Sport,2.0,2016,Diesel,Suv,Gray,Gondomar,Automatic,https://auto.sapo.pt/carro-usado/65283e25ab1f052ad9bbee8f/land-rover-discovery-sport,6,26990,141000,111.0,Portugal
+Fiat,500,1.2,2020,Petrol,Mini,White,Lisboa,Automatic,https://www.abmotor.pt/carros/Fiat/500/484615/,6,15850,47937,51.0,Portugal
+Fiat,500,1.0,2020,Hybrid,Mini,Black,Braga,Manual,https://www.abmotor.pt/carros/Fiat/500/480690/,6,14990,27000,52.0,Portugal
+Fiat,500,1.0,2020,Hybrid,Mini,Gray,Braga,Manual,https://www.abmotor.pt/carros/Fiat/500/480689/,6,14990,20000,52.0,Portugal
+Nissan,Micra,1.0,2022,Petrol,Mini,Black,Braga,Manual,https://www.abmotor.pt/carros/Nissan/Micra/483917/,6,18990,6000,68.0,Portugal
+Renault,Talisman,1.7 dci,2019,Diesel,Sedan,Blue,Lisboa,Manual,https://www.abmotor.pt/carros/Renault/Talisman%20Sedan/475396/,6,20490,97035,89.0,Portugal
+Nissan,Leaf,Acenta,2018,Electric,Hatchback,White,Braga,Automatic,https://auto.sapo.pt/carro-usado/65296b96d95b0831ab52d01e/nissan-leaf-acenta,6,16990,73000,111.0,Portugal
+Nissan,Leaf,Acenta,2018,Electric,Hatchback,Gray,Braga,Automatic,https://www.abmotor.pt/carros/Nissan/Leaf/478642/,6,18990,65000,111.0,Portugal
+Nissan,Leaf,Acenta,2018,Electric,Hatchback,White,Braga,Automatic,https://auto.sapo.pt/carro-usado/654214b76116f0345bb7e4e5/nissan-leaf-acenta,6,19990,24000,111.0,Portugal
+Renault,Kangoo,1.5 dCi,2018,Diesel,Pickup,White,Lisboa,Manual,https://www.abmotor.pt/carros/Renault/Kangoo/476110/,6,14630,98000,67.0,Portugal
+Renault,Kangoo,1.5 dCi,2018,Diesel,Pickup,White,Queluz,Automatic,https://auto.sapo.pt/carro-usado/65b7cd95da7752fa3e5b53d5/renault-kangoo-15-dci-maxi-business-edc-3l,6,9675,223090,82.0,Portugal
+Peugeot,Partner,1.2 puretech,2017,Petrol,Pickup,White,Lisboa,Manual,https://www.abmotor.pt/carros/Peugeot/Partner/479225/,6,19990,94000,82.0,Portugal
+Dacia,Logan Mcv,1.0,2020,Petrol,Wagon,Red,Lisboa,Manual,https://www.abmotor.pt/carros/Dacia/Logan%20MCV/485098/,6,14990,66499,67.0,Portugal
+Dacia,Logan Mcv,1.5 dCi,2020,Diesel,Wagon,Blue,Lisboa,Manual,https://auto.sapo.pt/carro-usado/6589ff5506007590ed558302/dacia-logan-mcv,6,18490,53219,70.0,Portugal
+Citroen,C3,1.6,2019,Diesel,Hatchback,White,Fafe,Manual,https://www.abmotor.pt/carros/Citro%C3%ABn/C3/485484/,6,14500,90862,76.0,Portugal
+Nissan,Qashqai,1.5 dCi,2019,Diesel,Crossover,White,Queluz,Manual,https://auto.sapo.pt/carro-usado/65c65c2b71407e4b5cc1cb93/nissan-qashqai-15-dci-n-connecta-18,6,19500,136078,85.0,Portugal
+Smart,Forfour,0.9,2016,Petrol,Hatchback,Blue,Fafe,Automatic,https://www.abmotor.pt/carros/Smart/ForFour/484463/,6,12500,85221,67.0,Portugal
+Volvo,V40,2.0,2018,Diesel,Wagon,Black,Queluz,Manual,https://auto.sapo.pt/carro-usado/657059daf5192cadcb1494d3/volvo-v40-20-d2-kinetic,6,17900,123561,89.0,Portugal
+Nissan,Qashqai,1.3 DIG-T,2022,Petrol,Crossover,Gray,Braga,Manual,https://www.abmotor.pt/carros/Nissan/Qashqai/485181/,6,26490,41000,104.0,Portugal
+Toyota,Auris,1.4 D-4D,2018,Diesel,Hatchback,White,Lisboa,Manual,https://www.abmotor.pt/carros/Toyota/Auris/479140/,6,16990,105105,67.0,Portugal
+Porsche,Macan,3.0 s,2018,Diesel,Suv,Black,Fafe,Automatic,https://auto.sapo.pt/carro-usado/652f9aaa663be8413fd2852d/porsche-macan-macan-s,6,77500,45818,192.0,Portugal
+Volkswagen,Polo,1.2,2010,Petrol,Hatchback,Gray,Caldas Da Rainha,Manual,https://auto.sapo.pt/carro-usado/65cddf82fa7067d9e1cbcf97/volkswagen-polo,5,9950,91104,52.0,Portugal
+Jeep,Renegade,1.6,2022,Diesel,Crossover,Gray,Braga,Manual,https://auto.sapo.pt/carro-usado/656f3ddc5a003932635819de/jeep-renegade-16-mjd-longitude,6,24990,17000,96.0,Portugal
+Ford,Puma,1.0 EcoBoost,2023,Petrol,Crossover,Black,Braga,Manual,https://www.abmotor.pt/carros/Ford/Puma/484844/,6,24990,35,93.0,Portugal
+Bmw,1 Series,2.0,2012,Diesel,Convertible,NA,Santa Maria Da Feira,Manual,https://www.standnet.pt/anuncio/Bmw-120-Cabrio-Pack-M-Diesel-Usado-iid=46000,5,18980,161396,131.0,Portugal
+Citroen,C3,1.6,2018,Diesel,Hatchback,Gray,Braga,Manual,https://www.abmotor.pt/carros/Citro%C3%ABn/C3/484974/,6,14990,51000,55.0,Portugal
+Ford,S-Max,2.0 TDCi,2016,Diesel,Mpv,Gray,Leiria,Automatic,https://www.abmotor.pt/carros/Ford/S-max/478261/,6,19750,205987,111.0,Portugal
+Tesla,Model S,electro,2018,Electric,Sedan,White,Leiria,Automatic,https://www.abmotor.pt/carros/Tesla/Model%20s/484315/,6,46900,104000,391.0,Portugal
+Fiat,Panda,1.0,2024,Hybrid,Mini,Red,Queluz,Manual,https://auto.sapo.pt/carro-usado/65dcb6bf8c53ce9583c25890/fiat-panda-10-hybrid,6,14900,50,52.0,Portugal
+Fiat,500,1.2,2019,Petrol,Mini,Blue,Braga,Manual,https://www.abmotor.pt/carros/Fiat/500/478199/,6,14990,20000,51.0,Portugal
+Fiat,500,1.2,2019,Petrol,Mini,White,Braga,Manual,https://auto.sapo.pt/carro-usado/652e409771434df31384400b/fiat-500,6,14990,17000,51.0,Portugal
+Peugeot,3008,1.5 bluehdi,2019,Diesel,Crossover,Black,Braga,Automatic,https://www.abmotor.pt/carros/Peugeot/3008/482324/,6,27990,68000,96.0,Portugal
+Renault,Master,2.3,2019,Diesel,Van,White,Lisboa,Manual,https://auto.sapo.pt/carro-usado/65d0ef3c6b27270696b5e89e/renault-master,6,23990,185440,96.0,Portugal
+Peugeot,Partner,1.6,2016,Petrol,Pickup,White,Lisboa,Manual,https://auto.sapo.pt/carro-usado/650d7b88e61b5862fb286eab/peugeot-partner-16-bluehdi-l2-premium,6,13815,148000,74.0,Portugal
+Mercedes Benz,Cls-Class,300,2018,Diesel,Sedan,Black,Gondomar,Automatic,https://www.abmotor.pt/carros/Mercedes-Benz/CLS%20320/483087/,6,49990,149000,182.0,Portugal
+Volvo,V60 Cross Country,2.0,2020,Diesel,Wagon,Gray,Lisboa,Automatic,https://www.abmotor.pt/carros/Volvo/V60%20cross%20country/482362/,6,41900,113300,141.0,Portugal

@@ -1,0 +1,151 @@
+Make,Model,Year,Fuel type,Body type,Color,City,Transmission,Contact,Trim,Emission standard,Price(EUR),Mileage(km),kW,Country
+Bmw,2 Series,2020,Petrol,Convertible,Black,NA,Automatic,https://www.azw.ch/de/angebot/284/bmw-220i-cabriolet-m-sport-steptr-automat?&page_number=1,220i,6,31033,25500,137.0,Switzerland
+Škoda,Enyaq,2024,Electric,Suv,Blue,NA,Automatic,https://www.azw.ch/de/angebot/624/skoda-enyaq-iv-60-automat-netto-netto?&page_number=6,electro,6,40405,10,134.0,Switzerland
+Seat,Ateca,2023,Petrol,Suv,Black,NA,Automatic,https://www.azw.ch/de/angebot/982/seat-ateca-1-5-tsi-evo-xperience-dsg-autom?&page_number=6,1.5 tsi,6,29992,12500,111.0,Switzerland
+Tesla,Model Y,2023,Electric,Suv,Black,NA,Automatic,https://www.azw.ch/de/angebot/989/tesla-model-y-long-range-awd-514ps?&page_number=7,0.0 long range,6,43530,22200,383.0,Switzerland
+Alfa Romeo,Tonale,2024,Hybrid,Crossover,Gray,NA,Automatic,https://www.azw.ch/de/angebot/1033/alfa-romeo-tonale-1-3-plug-in-hybrid-q4-veloce-pack-premium-automat-33?&page_number=1,1.3,6,49778,6,208.0,Switzerland
+Bmw,3 Series,2023,Petrol,Sedan,Black,NA,Automatic,https://www.azw.ch/de/angebot/873/bmw-330e-m-sport-plug-in-hybrid-steptronic-automat?&page_number=2,330e,6,39364,7400,217.0,Switzerland
+Cupra,Formentor,2021,Petrol,Crossover,Red,NA,Automatic,https://www.azw.ch/de/angebot/67/cupra-formentor-2-0-tsi-vz-4drive-dsg-automat?&page_number=2,2.0 tsi vz,6,33845,29100,231.0,Switzerland
+Seat,Leon,2021,Petrol,Hatchback,Black,NA,Automatic,https://www.azw.ch/de/angebot/344/seat-leon-1-4-ehybrid-plug-in-hybrid-fr-dsg-automat?&page_number=6,1.2 TSI,6,22389,20900,152.0,Switzerland
+Renault,Clio,2023,Petrol,Sedan,Black,NA,Automatic,https://www.azw.ch/de/angebot/745/renault-clio-1-0-techno-cvt-automat?&page_number=5,1.0,6,17495,39500,67.0,Switzerland
+Alfa Romeo,Tonale,2024,Hybrid,Crossover,Blue,NA,Automatic,https://www.azw.ch/de/angebot/1030/alfa-romeo-tonale-1-3-plug-in-hybrid-q4-veloce-automat-30?&page_number=1,1.3,6,48424,58,208.0,Switzerland
+Volkswagen,Passat,2021,Diesel,Wagon,Silver,NA,Automatic,https://www.azw.ch/de/angebot/995/vw-passat-variant-2-0-tdi-bmt-business-dsg-automat?&page_number=8,2.0 TDI,6,23743,31500,111.0,Switzerland
+Seat,Alhambra,2022,Petrol,Mpv,Black,NA,Automatic,https://www.azw.ch/de/angebot/919/seat-alhambra-1-4-tsi-fr-line-7-plaetzer-dsg-automat?&page_number=5,1.4 TSI,6,36761,39100,111.0,Switzerland
+Seat,Ateca,2024,Petrol,Suv,White,NA,Automatic,https://www.azw.ch/de/angebot/1113/seat-ateca-1-5-tsi-evo-style-dsg-auto-30?&page_number=6,1.5 tsi,6,27909,18,111.0,Switzerland
+Seat,Ateca,2024,Petrol,Suv,Gray,NA,Automatic,https://www.azw.ch/de/angebot/806/seat-ateca-1-5-tsi-evo-style-dsg-auto-31?&page_number=6,1.5 tsi,6,28638,13,111.0,Switzerland
+Tesla,Model Y,2024,Electric,Suv,Gray,NA,Automatic,https://www.azw.ch/de/angebot/930/tesla-model-y-long-range-awd-514ps-netto-netto?&page_number=7,0.0 long range,6,52902,2,383.0,Switzerland
+Mazda,Cx-5,2023,Petrol,Crossover,Black,NA,Automatic,https://www.azw.ch/de/angebot/963/mazda-cx-5-e-skyactiv-g-165-homura-fwd-automat?&page_number=4,2.0,6,31033,10200,123.0,Switzerland
+Mazda,Cx-5,2023,Petrol,Crossover,Black,NA,Automatic,https://www.azw.ch/de/angebot/927/mazda-cx-5-e-skyactiv-g-165-homura-fwd-automat?&page_number=4,2.0,6,31033,9200,123.0,Switzerland
+Volkswagen,T-Cross,2024,Petrol,Crossover,Black,NA,Automatic,https://www.azw.ch/de/angebot/1032/vw-t-cross-1-5-tsi-evo-r-line-dsg-automat-31?&page_number=8,1.5 tsi,6,30721,12,111.0,Switzerland
+Mazda,Cx-5,2023,Petrol,Crossover,Gray,NA,Automatic,https://www.azw.ch/de/angebot/962/mazda-cx-5-e-skyactiv-g-165-homura-fwd-automat?&page_number=4,2.0,6,31033,10600,123.0,Switzerland
+Bmw,X4,2019,Petrol,Suv,Black,NA,Automatic,https://www.azw.ch/de/angebot/693/bmw-x4-xdrive-20i-m-sport-x-steptronic-automat?&page_number=2,20i xDrive,6,41134,26100,137.0,Switzerland
+Bmw,X1,2023,Petrol,Suv,Black,NA,Automatic,https://www.azw.ch/de/angebot/791/bmw-x1-sdrive-18i-m-sport-neues-modell-steptr-automat?&page_number=2,18i sDrive,6,43530,9100,101.0,Switzerland
+Ds Automobiles,Ds 3 Crossback,2023,Petrol,Crossover,Black,NA,Automatic,https://www.azw.ch/de/angebot/78/ds-automobiles-ds-3-crossback-1-2-pt-performance-line-eat-automat?&page_number=3,1.2,6,22702,11400,96.0,Switzerland
+Bmw,3 Series,2023,Petrol,Wagon,Black,NA,Automatic,https://www.azw.ch/de/angebot/875/bmw-330i-touring-m-sport-steptronic-automat?&page_number=2,330i,6,41447,26300,182.0,Switzerland
+Bmw,3 Series,2023,Petrol,Sedan,Black,NA,Automatic,https://www.azw.ch/de/angebot/876/bmw-330i-xdrive-m-sport-steptronic-automat?&page_number=2,330i,6,47695,22100,182.0,Switzerland
+Land Rover,Range Rover Sport,2014,Petrol,Suv,NA,NA,Automatic,https://www.azw.ch/de/angebot/95/land-rover-range-rover-sport-5-0-v8-sc-510ps-autobiography-dynamica?&page_number=4,5.0,6,49466,112600,380.0,Switzerland
+Opel,Mokka,2022,Petrol,Crossover,NA,NA,Automatic,https://www.azw.ch/de/angebot/1027/opel-mokka-1-2-direct-injection-turbo-gs-line-automat?&page_number=5,1.2,6,23431,16300,96.0,Switzerland
+Tesla,Model 3,2023,Electric,Sedan,NA,NA,Automatic,https://www.azw.ch/de/angebot/898/tesla-model-3-long-range-dual-motor-awd-498ps-automat?&page_number=6,0.0 long range,6,40093,22800,371.0,Switzerland
+Tesla,Model 3,2023,Electric,Sedan,NA,NA,Automatic,https://www.azw.ch/de/angebot/895/tesla-model-3-performance-dual-motor-awd-534ps-automat?&page_number=7,0.0 performance,6,39364,18200,398.0,Switzerland
+Tesla,Model 3,2023,Electric,Sedan,NA,NA,Automatic,https://www.azw.ch/de/angebot/894/tesla-model-3-performance-dual-motor-awd-534ps-automat?&page_number=7,0.0 performance,6,39364,17700,398.0,Switzerland
+Tesla,Model 3,2023,Electric,Sedan,NA,NA,Automatic,https://www.azw.ch/de/angebot/1078/tesla-model-3-performance-dual-motor-awd-534ps-automat?&page_number=7,0.0 performance,6,41447,13500,398.0,Switzerland
+Tesla,Model Y,2023,Electric,Suv,NA,NA,Automatic,https://www.azw.ch/de/angebot/879/tesla-model-y-long-range-awd-514ps?&page_number=7,0.0 long range,6,43530,26900,383.0,Switzerland
+Tesla,Model Y,2023,Electric,Suv,NA,NA,Automatic,https://www.azw.ch/de/angebot/896/tesla-model-y-performance-awd-534ps-autom?&page_number=7,0.0 performance,6,45717,18900,398.0,Switzerland
+Tesla,Model Y,2022,Electric,Suv,NA,NA,Automatic,https://www.azw.ch/de/angebot/841/tesla-model-y-performance-awd-534ps-autom?&page_number=7,0.0 performance,6,45717,18600,398.0,Switzerland
+Tesla,Model Y,2022,Electric,Suv,NA,NA,Automatic,https://www.azw.ch/de/angebot/840/tesla-model-y-performance-awd-534ps-autom?&page_number=7,0.0 performance,6,46758,15900,398.0,Switzerland
+Tesla,Model Y,2022,Electric,Suv,NA,NA,Automatic,https://www.azw.ch/de/angebot/777/tesla-model-y-performance-awd-534ps-autom?&page_number=7,0.0 performance,6,47175,12500,398.0,Switzerland
+Peugeot,2008,2022,Petrol,Crossover,NA,NA,Automatic,https://www.azw.ch/de/angebot/148/peugeot-2008-1-2-puretech-gt-eat-automat?&page_number=5,1.2 puretech,6,22702,30100,96.0,Switzerland
+Volkswagen,Passat,2021,Petrol,Wagon,NA,NA,Automatic,https://www.azw.ch/de/angebot/993/vw-passat-variant-2-0-tdi-bmt-business-dsg-automat?&page_number=8,3.6,6,22702,49800,111.0,Switzerland
+Seat,Ateca,2023,Petrol,Suv,NA,NA,Automatic,https://www.azw.ch/de/angebot/981/seat-ateca-1-5-tsi-evo-xperience-dsg-autom?&page_number=6,1.5 tsi,6,29992,13100,111.0,Switzerland
+Seat,Tarraco,2021,Diesel,Suv,NA,NA,Automatic,https://www.azw.ch/de/angebot/825/seat-tarraco-2-0tsi-xcellence-4drive-dsg-aut?&page_number=6,2.0 TSi 4Drive,6,32803,34300,141.0,Switzerland
+Audi,Q2,2022,Petrol,Crossover,NA,NA,Automatic,https://www.azw.ch/de/angebot/1087/audi-q2-35-tfsi-s-line-s-tronic-automat?&page_number=1,1.5 35 TFSI,6,26867,41900,111.0,Switzerland
+Hyundai,Kona,2023,Petrol,Crossover,NA,NA,Automatic,https://www.azw.ch/de/angebot/916/hyundai-kona-1-6-t-gdi-n-line-2wd-dct-automat?&page_number=3,1.6 T-GDi,6,31137,1900,147.0,Switzerland
+Mazda,Cx-5,2023,Petrol,Crossover,NA,NA,Automatic,https://www.azw.ch/de/angebot/925/mazda-cx-5-e-skyactiv-g-165-homura-fwd-automat?&page_number=4,2.0,6,31033,9300,123.0,Switzerland
+Mazda,Cx-5,2023,Petrol,Crossover,NA,NA,Automatic,https://www.azw.ch/de/angebot/924/mazda-cx-5-e-skyactiv-g-165-homura-fwd-automat?&page_number=4,2.0,6,31033,8800,123.0,Switzerland
+Tesla,Model 3,2023,Electric,Sedan,NA,NA,Automatic,https://www.azw.ch/de/angebot/899/tesla-model-3-long-range-dual-motor-awd-498ps-automat?&page_number=7,0.0 long range,6,38010,19800,371.0,Switzerland
+Peugeot,3008,2023,Diesel,Crossover,NA,NA,Automatic,https://www.azw.ch/de/angebot/938/peugeot-3008-1-5-bluehdi-allure-pack-eat-autom?&page_number=5,1.5 bluehdi,6,26867,39400,96.0,Switzerland
+Peugeot,3008,2023,Diesel,Crossover,NA,NA,Automatic,https://www.azw.ch/de/angebot/936/peugeot-3008-1-5-bluehdi-allure-pack-eat-autom?&page_number=5,1.5 bluehdi,6,27909,16100,96.0,Switzerland
+Mazda,Cx-5,2023,Petrol,Crossover,NA,NA,Automatic,https://www.azw.ch/de/angebot/1088/mazda-cx-5-e-skyactiv-g-165-homura-fwd-automat?&page_number=4,2.0,6,31033,9900,123.0,Switzerland
+Mazda,Cx-5,2023,Petrol,Crossover,NA,NA,Automatic,https://www.azw.ch/de/angebot/1089/mazda-cx-5-e-skyactiv-g-165-homura-fwd-automat?&page_number=4,2.0,6,31033,8600,123.0,Switzerland
+Volkswagen,Passat Alltrack,2021,Diesel,Wagon,NA,NA,Automatic,https://www.azw.ch/de/angebot/253/vw-passat-alltrack-2-0-tdi-4motion-dsg-aut?&page_number=8,2.0 TDI,6,31033,36500,141.0,Switzerland
+Mercedes Benz,A-Class,2023,Diesel,Sedan,NA,NA,Automatic,https://www.azw.ch/de/angebot/972/mercedes-a-200-d-amg-line-dct-automat?&page_number=4,200,6,34886,9900,111.0,Switzerland
+Audi,Sq2,2024,Petrol,Crossover,NA,NA,Automatic,https://www.azw.ch/de/angebot/398/audi-sq2-tfsi-quattro-301ps-s-tronic-automat-33?&page_number=1,2.0 TFSI S Tronic,6,50507,7,224.0,Switzerland
+Mercedes Benz,Eqc,2023,Electric,Suv,NA,NA,Automatic,https://www.azw.ch/de/angebot/116/mercedes-eqc-400-amg-line-4matic-408ps-automat?&page_number=4,400,6,51548,20900,304.0,Switzerland
+Tesla,Model 3,2023,Electric,Sedan,NA,NA,Automatic,https://www.azw.ch/de/angebot/1114/tesla-model-3-performance-dual-motor-awd-534ps-automat?&page_number=7,0.0 performance,6,41447,8800,398.0,Switzerland
+Volkswagen,Tiguan,2022,Petrol,Crossover,Black,St Gallen,Automatic,https://www.autolina.ch/auto/vw-tiguan/4064407,2.0 TSI,6,52048,22200,238.0,Switzerland
+Volkswagen,Tiguan,2022,Petrol,Crossover,Black,St Gallen,Automatic,https://www.autolina.ch/auto/vw-tiguan/4070945,2.0 TSI,6,52881,19700,238.0,Switzerland
+Volkswagen,Tiguan,2022,Petrol,Crossover,Black,St Gallen,Automatic,https://www.autolina.ch/auto/vw-tiguan/4055639,2.0 TSI,6,53090,18700,238.0,Switzerland
+Ford,Focus,2020,Petrol,Sedan,Black,Stäfa,Automatic,https://www.carforyou.ch/de/auto/saloon/ford/focus/10-scti-st-line-automatic-4659096,1.0,6,23743,46500,93.0,Switzerland
+Peugeot,5008,2012,Diesel,Mpv,White,Basel,Automatic,https://www.autolina.ch/auto/peugeot-5008/4087534,1.6 HDi,5,6977,195000,83.0,Switzerland
+Bmw,5 Series,2013,Petrol,Sedan,White,Basel,Automatic,https://www.autolina.ch/auto/bmw-550/4111511,550i xDrive,5,20817,93000,304.0,Switzerland
+Bmw,X5,2012,Diesel,Suv,Gray,Basel,Automatic,https://www.autolina.ch/auto/bmw-x5/4101528,40d,5,16651,166000,228.0,Switzerland
+Land Rover,Range Rover Sport,2017,Petrol,Suv,Black,St Gallen,Automatic,https://www.autolina.ch/auto/land-rover-range-rover-sport/4105874,5.0,6,60286,89950,380.0,Switzerland
+Volvo,V40,2012,Petrol,Wagon,Blue,Basel,Automatic,https://www.autolina.ch/auto/volvo-v40/4070291,1.6,5,12288,120000,134.0,Switzerland
+Peugeot,508,2019,Diesel,Sedan,Blue,Wohlen,Automatic,https://www.autolina.ch/auto/peugeot-508/4081626,2.0,6,24981,84010,134.0,Switzerland
+Volkswagen,Golf,2015,Petrol,Sedan,Black,Zurich,Automatic,https://www.autolina.ch/auto/vw-golf/4107959,2.0 R,6,28690,64550,224.0,Switzerland
+Bmw,4 Series,2017,Petrol,Sedan,Silver,Stäfa,Automatic,https://www.autolina.ch/auto/bmw-440/4083852,440i,6,44571,115300,268.0,Switzerland
+Porsche,911,2002,Petrol,Coupe,Blue,Zurich,Automatic,https://www.autolina.ch/auto/porsche-911/4106118,3.6,3,41551,173500,238.0,Switzerland
+Seat,Ateca,2019,Petrol,Suv,White,St Gallen,Automatic,https://www.autolina.ch/auto/seat-ateca/4109060,2.0 TSI,6,33209,78800,223.0,Switzerland
+Bmw,3 Series,2013,Petrol,Wagon,Blue,Stäfa,Automatic,https://www.autolina.ch/auto/bmw-335/4094009,335i,5,25826,142200,228.0,Switzerland
+Porsche,Macan,2019,Petrol,Suv,Gray,Stäfa,Automatic,https://www.autolina.ch/auto/porsche-macan/4111519,3.0 s,6,62264,77400,263.0,Switzerland
+Peugeot,508,2018,Petrol,Sedan,Blue,Stäfa,Automatic,https://www.autolina.ch/auto/peugeot-508/4043180,1.6 puretech,6,34782,41800,167.0,Switzerland
+Land Rover,Evoque,2019,Petrol,Suv,Black,Stäfa,Automatic,https://www.autolina.ch/auto/land-rover-range-rover-evoque/4064939,2.0,6,41551,41500,216.0,Switzerland
+Volkswagen,Scirocco,2009,Petrol,Coupe,Black,Stäfa,Automatic,https://www.carforyou.ch/de/auto/coupe/vw/scirocco/20-tsi-dsg-4555876,2.0 TSI,5,13329,99990,149.0,Switzerland
+Bmw,X3,2005,Diesel,Suv,Gray,Basel,Automatic,https://www.autolina.ch/auto/bmw-x3/4103548,D,4,4998,199000,152.0,Switzerland
+Jeep,Grand Cherokee,2020,Petrol,Suv,White,Zurich,Automatic,https://www.autolina.ch/auto/jeep-grand-cherokee/4114018,6.4 SRT8,6,57266,81350,348.0,Switzerland
+Peugeot,207 Cc,2011,Petrol,Convertible,Gray,Altstätten,Manual,https://www.autolina.ch/auto/peugeot-207/4107673,1.6,5,8226,77000,116.0,Switzerland
+Audi,Sq5,2019,Diesel,Suv,Green,Zurich,Automatic,https://www.autolina.ch/auto/audi-sq5/4035223,3.0 TDI,6,51017,53000,258.0,Switzerland
+Volvo,S60,2015,Diesel,Sedan,Gray,Basel,Automatic,https://www.autolina.ch/auto/volvo-s60/4099162,2.0 D4,6,18734,87000,141.0,Switzerland
+Jeep,Compass,2021,Petrol,Crossover,Black,Winterthur,Automatic,https://www.autolina.ch/auto/jeep-compass/4068292,1.3,6,30085,47420,112.0,Switzerland
+Volkswagen,Golf,2023,Petrol,Sedan,Silver,Zurich,Automatic,https://www.autolina.ch/auto/vw-golf/4107961,2.0 R,6,39104,11150,142.0,Switzerland
+Seat,Ibiza,2011,Petrol,Wagon,White,Wetzikon,Manual,https://www.autolina.ch/auto/seat-ibiza/4094292,1.2 TSI,5,8122,90000,78.0,Switzerland
+Cupra,Formentor,2023,Petrol,Crossover,White,Winterthur,Automatic,https://www.autolina.ch/auto/cupra-formentor/4121423,2.0 TSI,6,33105,25917,142.0,Switzerland
+Cupra,Formentor,2023,Petrol,Crossover,Black,Winterthur,Automatic,https://www.autolina.ch/auto/cupra-formentor/4121422,2.0 TSI,6,32168,15273,142.0,Switzerland
+Porsche,Cayman,2013,Petrol,Coupe,White,St Gallen,Automatic,https://www.autolina.ch/auto/porsche-cayman/4055702,2.7,5,51954,67900,205.0,Switzerland
+Opel,Mokka,2014,Petrol,Crossover,Blue,Stans,Manual,https://www.autolina.ch/auto/opel-mokka/4067233,1.4,6,10205,144000,104.0,Switzerland
+Mercedes Benz,Glc-Class,2022,Petrol,Suv,Black,Zurich,Automatic,https://www.autolina.ch/auto/mercedes-benz-glc-63-amg/4111385,63 AMG,6,83207,21900,354.0,Switzerland
+Jeep,Compass,2020,Petrol,Crossover,Silver,Winterthur,Automatic,https://www.autolina.ch/auto/jeep-compass/4121408,1.4,6,26951,32140,126.0,Switzerland
+Cupra,Formentor,2023,Petrol,Crossover,White,Winterthur,Automatic,https://www.autolina.ch/auto/cupra-formentor/4094947,2.0 tsi vz,6,38312,7000,231.0,Switzerland
+Maserati,Quattroporte,2015,Petrol,Sedan,Blue,Zurich,Automatic,https://www.autolina.ch/auto/maserati-quattroporte/4067848,3.0 S Q4,6,36438,88200,306.0,Switzerland
+Bmw,Z4,2019,Petrol,Convertible,Red,Zug,Automatic,https://www.autolina.ch/auto/bmw-z4/4096357,30i sDrive,6,43530,51500,192.0,Switzerland
+Opel,Insignia,2010,Petrol,Wagon,Blue,Basel,Manual,https://www.autolina.ch/auto/opel-insignia/4076268,2.8 Turbo,5,8320,192000,242.0,Switzerland
+Hyundai,Tucson,2018,Petrol,Suv,White,Stans,Automatic,https://www.autolina.ch/auto/hyundai-tucson/4104600,1.6 GDi,6,25930,63000,131.0,Switzerland
+Volkswagen,Golf,2019,Diesel,Wagon,Red,Zurich,Automatic,https://www.autolina.ch/auto/vw-golf-variant/4117502,2.0 TDI,6,14347,151077,111.0,Switzerland
+Peugeot,5008,2019,Diesel,Mpv,Gray,Basel,Automatic,https://www.autolina.ch/auto/peugeot-5008/4038160,2.0 bluehdi,6,28950,91000,134.0,Switzerland
+Renault,Koleos,2013,Diesel,Suv,Black,Bern,Automatic,https://www.autolina.ch/auto/renault-koleos/4106157,2.0 dCi,5,10309,159457,111.0,Switzerland
+Subaru,Justy,2004,Petrol,Hatchback,Gray,Stans,Manual,https://www.autolina.ch/auto/subaru-justy/4112961,1.5,3,6144,71000,73.0,Switzerland
+Maserati,Ghibli,2015,Petrol,Coupe,Black,Zurich,Automatic,https://www.autolina.ch/auto/maserati-ghibli/4114020,4.9,6,28013,127200,205.0,Switzerland
+Volvo,Xc90,2020,Petrol,Suv,Silver,Thalwil,Automatic,https://www.autolina.ch/auto/volvo-xc90/4031651,2.0 T8,6,61129,90000,225.0,Switzerland
+Ford,Galaxy,2021,Diesel,Mpv,Blue,Wohlen,Automatic,https://www.autolina.ch/auto/ford-galaxy/4093176,2.0 TDCi,6,40602,28132,141.0,Switzerland
+Volvo,Xc40,2019,Diesel,Crossover,Black,Wohlen,Automatic,https://www.autolina.ch/auto/volvo-xc40/4110760,2.0 D4 AWD,6,32616,87800,142.0,Switzerland
+Ford,Transit,2024,Petrol,Van,White,Wohlen,Automatic,https://www.autolina.ch/auto/ford-transit-connect/4094618,1.6,6,40874,10,75.0,Switzerland
+Ford,Transit,2023,Petrol,Van,White,Wohlen,Automatic,https://www.autolina.ch/auto/ford-transit-connect/3947177,1.6,6,39385,10,75.0,Switzerland
+Tesla,Model S,2016,Electric,Sedan,White,St Gallen,Automatic,https://www.autolina.ch/auto/tesla-model-s/4111078,electro,6,31127,129900,391.0,Switzerland
+Toyota,Yaris,2007,Petrol,Sedan,Silver,Wil,Manual,https://www.autolina.ch/auto/toyota-yaris/4068562,1.3 vvt-i,4,6144,137500,64.0,Switzerland
+Ford,Kuga,2019,Diesel,Suv,Gray,Zug,Automatic,https://www.autolina.ch/auto/ford-kuga/4092132,2.0 TDCi,6,25930,66500,134.0,Switzerland
+Ford,Kuga,2019,Diesel,Suv,White,Wohlen,Automatic,https://www.autolina.ch/auto/ford-kuga/4076966,2.0 TDCi,6,26399,38100,111.0,Switzerland
+Cupra,Formentor,2021,Petrol,Crossover,Black,St Gallen,Automatic,https://www.autolina.ch/auto/cupra-formentor/4111073,2.0 tsi vz,6,38000,68500,231.0,Switzerland
+Cupra,Formentor,2021,Petrol,Crossover,White,St Gallen,Automatic,https://www.autolina.ch/auto/cupra-formentor/4055613,2.0 tsi vz,6,39458,58500,231.0,Switzerland
+Cupra,Formentor,2021,Petrol,Crossover,Gray,Zug,Automatic,https://www.autolina.ch/auto/cupra-formentor/4064757,2.0 tsi vz,6,36438,26500,231.0,Switzerland
+Tesla,Model S,2017,Electric,Sedan,Blue,St Gallen,Automatic,https://www.autolina.ch/auto/tesla-model-s/4093368,electro,6,46331,103700,575.0,Switzerland
+Land Rover,Evoque,2012,Diesel,Suv,White,Basel,Manual,https://www.autolina.ch/auto/land-rover-range-rover-evoque/4063872,2.2,5,14569,148000,111.0,Switzerland
+Ford,Kuga,2012,Diesel,Suv,White,Basel,Automatic,https://www.autolina.ch/auto/ford-kuga/4113481,2.0 TDCi,5,14267,107000,121.0,Switzerland
+Nissan,Qashqai,2021,Petrol,Crossover,Blue,St Gallen,Automatic,https://www.autolina.ch/auto/nissan-qashqai/4117344,1.3 DIG-T,6,30085,23700,117.0,Switzerland
+Land Rover,Evoque,2014,Diesel,Suv,White,Zurich,Automatic,https://www.autolina.ch/auto/land-rover-range-rover-evoque/4096255,2.2,6,19682,145000,141.0,Switzerland
+Mitsubishi,Asx,2019,Petrol,Crossover,Gray,Stans,Automatic,https://www.autolina.ch/auto/mitsubishi-asx/4104608,2.0,6,20619,98000,111.0,Switzerland
+Tesla,Model X,2020,Electric,Suv,Red,St Gallen,Automatic,https://www.autolina.ch/auto/tesla-model-x/4055584,electro,6,67471,61800,593.0,Switzerland
+Volvo,Xc40,2018,Petrol,Crossover,Black,Stäfa,Manual,https://www.autolina.ch/auto/volvo-xc40/4114141,1.5 T3,6,26763,47200,116.0,Switzerland
+Volkswagen,Sharan,2012,Diesel,Van,Brown,Basel,Automatic,https://www.autolina.ch/auto/vw-sharan/4105662,2.0 TDI,5,16558,156000,126.0,Switzerland
+Mini,Clubman,2010,Petrol,Mpv,Beige,Basel,Automatic,https://www.autolina.ch/auto/mini-clubman/4049688,1.6 Cooper S,5,9268,131000,137.0,Switzerland
+Porsche,Cayenne,2017,Petrol,Suv,Black,Basel,Automatic,https://www.autolina.ch/auto/porsche-cayenne/4087511,3.6 gts,6,51965,88000,328.0,Switzerland
+Volvo,Xc90,2019,Petrol,Suv,White,Basel,Automatic,https://www.autolina.ch/auto/volvo-xc90/4083960,2.0 T5 AWD,6,44769,77000,186.0,Switzerland
+Jaguar,Xf,2018,Diesel,Wagon,White,Wohlen,Automatic,https://www.autolina.ch/auto/jaguar-xf/4074504,2.0,6,31230,52000,179.0,Switzerland
+Mercedes Benz,C-Class,2012,Petrol,Sedan,Blue,Basel,Manual,https://www.autolina.ch/auto/mercedes-benz-c-200/4103526,200,5,16349,89000,137.0,Switzerland
+Volkswagen,Taigo,2024,Petrol,Crossover,Silver,Wetzikon,Automatic,https://www.autolina.ch/auto/vw-taigo/3957584,1.0 tsi,6,39364,11,82.0,Switzerland
+Nissan,Juke,2014,Petrol,Crossover,White,Zurich,Automatic,https://www.autolina.ch/auto/nissan-juke/4092035,1.6 Nismo,6,18734,44700,149.0,Switzerland
+Land Rover,Velar,2019,Petrol,Suv,White,Stäfa,Automatic,https://www.autolina.ch/auto/land-rover-range-rover-velar/4099153,2.0,6,50819,72000,186.0,Switzerland
+Volvo,Xc90,2018,Petrol,Suv,Gray,Zurich,Automatic,https://www.autolina.ch/auto/volvo-xc90/4087936,2.0 T5 AWD,6,47893,53450,186.0,Switzerland
+Jeep,Grand Cherokee,2016,Diesel,Suv,Black,St Gallen,Automatic,https://www.autolina.ch/auto/jeep-grand-cherokee/4106163,6.4 SRT8,6,28002,106600,186.0,Switzerland
+Peugeot,107,2011,Petrol,Mini,Gray,Basel,Manual,https://www.autolina.ch/auto/peugeot-107/4113486,1.0,5,4009,149000,50.0,Switzerland
+Kia,Sportage,2018,Petrol,Crossover,Gray,St Gallen,Automatic,https://www.autolina.ch/auto/kia-sportage/4111055,1.6 T-GDi,6,25503,86300,131.0,Switzerland
+Jeep,Grand Cherokee,2017,Petrol,Suv,Gray,Altstätten,Automatic,https://www.autolina.ch/auto/jeep-grand-cherokee/4088614,6.4 SRT8,6,31137,114000,186.0,Switzerland
+Honda,Jazz,2019,Petrol,Hatchback,Gray,Stans,Automatic,https://www.autolina.ch/auto/honda-jazz/4112962,1.3 i-VTEC,6,17599,63000,76.0,Switzerland
+Jeep,Grand Cherokee,2018,Diesel,Suv,Black,Kriens,Automatic,https://www.autolina.ch/auto/jeep-grand-cherokee/4102624,3.0 crd,6,31137,111500,186.0,Switzerland
+Seat,Leon,2016,Petrol,Hatchback,Red,Wetzikon,Automatic,https://www.autolina.ch/auto/seat-leon/4010734,2.0 TSI Cupra,6,18536,138000,216.0,Switzerland
+Bmw,X1,2014,Diesel,Suv,Gray,Basel,Automatic,https://www.autolina.ch/auto/bmw-x1/4105663,20d,6,16651,139000,137.0,Switzerland
+Ford,Fiesta,2019,Petrol,Sedan,Blue,Sursee,Manual,https://www.autolina.ch/auto/ford-fiesta/4111884,1.0 EcoBoost,6,17589,76400,93.0,Switzerland
+Seat,Leon,2018,Petrol,Hatchback,Gray,Stäfa,Automatic,https://www.autolina.ch/auto/seat-leon/4080115,2.0 TSI Cupra,6,28638,115100,223.0,Switzerland
+Tesla,Model S,2016,Electric,Sedan,Black,Stäfa,Automatic,https://www.autolina.ch/auto/tesla-model-s/4063420,electro,6,47695,92900,575.0,Switzerland
+Seat,Leon,2019,Petrol,Hatchback,Blue,St Gallen,Manual,https://www.autolina.ch/auto/seat-leon/4062292,1.5 tsi,6,19671,79500,111.0,Switzerland
+Volvo,Xc60,2018,Diesel,Crossover,White,St Gallen,Automatic,https://www.autolina.ch/auto/volvo-xc60/4105898,2.0 D4 AWD,6,30710,107100,141.0,Switzerland
+Audi,A3,2019,Petrol,Sedan,Black,Zurich,Manual,https://www.autolina.ch/auto/audi-a3/4107926,1.5 35 TFSI,6,20202,89500,111.0,Switzerland
+Volkswagen,Transporter,2016,Diesel,Van,White,Basel,Automatic,https://www.autolina.ch/auto/vw-t6-california/4076257,2.0 TDI,6,50924,137000,152.0,Switzerland
+Jaguar,F-Pace,2022,Petrol,Crossover,Gray,Zurich,Automatic,https://www.autolina.ch/auto/jaguar-f-pace/4089309,2.0 P250,6,59348,17400,186.0,Switzerland
+Volkswagen,Touran,2019,Petrol,Mpv,Gray,Basel,Automatic,https://www.autolina.ch/auto/vw-touran/4045936,1.5 tsi,6,31137,63000,111.0,Switzerland
+Volkswagen,Touran,2018,Petrol,Mpv,White,Basel,Automatic,https://www.autolina.ch/auto/vw-touran/4093947,1.4 TSI,6,24889,116000,111.0,Switzerland
+Seat,Alhambra,2011,Petrol,Mpv,Red,Basel,Automatic,https://www.autolina.ch/auto/seat-alhambra/4096718,1.4 TSI,5,7914,186000,111.0,Switzerland
+Suzuki,Jimny,2020,Diesel,Crossover,White,Stans,Manual,https://www.autolina.ch/auto/suzuki-jimny/4067249,1.5 DDiS,6,31033,34000,76.0,Switzerland
+Nissan,Qashqai,2018,Diesel,Crossover,White,Zug,Automatic,https://www.autolina.ch/auto/nissan-qashqai/4073787,1.6,6,26867,10000,97.0,Switzerland
+Seat,Leon,2018,Petrol,Hatchback,Gray,St Gallen,Automatic,https://www.autolina.ch/auto/seat-leon/4099181,2.0 TSI Cupra,6,31127,52900,223.0,Switzerland
+Volkswagen,Tiguan,2018,Diesel,Crossover,Blue,Basel,Automatic,https://www.autolina.ch/auto/vw-tiguan/4091651,2.0 TDI 4Motion,6,28013,108000,141.0,Switzerland
+Mercedes Benz,G-Class,2017,Petrol,Suv,Black,Stans,Automatic,https://www.autolina.ch/auto/mercedes-benz-g-63-amg/4084508,63 AMG,6,98932,86500,425.0,Switzerland

@@ -1,0 +1,223 @@
+Make,Model,Trim,Year,Fuel type,Body type,Color,City,Transmission,Contact,Emission standard,Price(EUR),Mileage(km),kW,Country
+Bmw,X6,xDrive30d,2015,Diesel,Suv,Gray,Uddevalla,Automatic,https://www.bytbil.com/vastra-gotalands-lan/personbil-x6-xdrive30d-steptronic-m-sport-360-h-k-high-spec-8987-17578872,6,32230.0,176250,190.0,Sweden
+Mercedes Benz,Cls-Class,55 AMG,2006,Petrol,Sedan,Silver,Stockholm,Automatic,https://www.bytbil.com/stockholms-lan/personbil-cls-350-v6-7g-tronic-amg-utrustning-taklucka-100487-17419507,4,7155.0,240010,200.0,Sweden
+Bmw,5 Series,530e,2024,Hybrid,Sedan,Black,Svarta,Automatic,https://www.bytbil.com/stockholms-lan/personbil-530e-iperformance-m-sport-panorama-h-k-backkamera-252hk-11518-17444254,6,34347.6,37990,135.0,Sweden
+Bmw,X6,xDrive30d,2015,Diesel,Suv,Black,Eskilstuna,Automatic,https://www.bytbil.com/sodermanlands-lan/personbil-x6-xdrive30d-m-sport-drag-varmare-h-k-360-pano-258hk-102427-17535358,6,33941.0,100000,190.0,Sweden
+Audi,A7,4.0 TFSI,2015,Petrol,Sedan,White,Landvetter,Automatic,https://www.bytbil.com/vastra-gotalands-lan/personbil-a7-rs7-4-0-tfsi-v8-quattro-taklucka-bo-hud-se-spec-7869-17518150,6,49581.299999999996,110000,412.0,Sweden
+Volvo,V70,2.5 D5,2012,Diesel,Wagon,Silver,Karlstad,Automatic,https://www.bytbil.com/varmlands-lan/personbil-v70-d5-geartronic-momentum-ocean-race-euro5-215hk-voc-9930-17492344,5,9842.0,276000,160.0,Sweden
+Lexus,Rx,450h,2017,Hybrid,Suv,Black,Stockholm,Automatic,https://www.bilia.se/bilar/sok-bil/lexus/rx/yow897/,6,35284.0,98490,233.0,Sweden
+Bmw,5 Series,530i,2019,Petrol,Sedan,White,Falun,Automatic,https://bilweb.se/dalarnas-lan/bmw-530-i-xdrive-sedan-m-sport-drag-navi-kamera-varm-lagmil-2019-sedan-10610179,6,33941.0,53000,187.0,Sweden
+Volvo,Xc90,2.0 D5 AWD,2019,Diesel,Suv,Black,Stockholm,Automatic,https://bilweb.se/stockholms-lan/volvo-xc90-d5-awd-inscription-b-w-helskinn-7-sits-voc-2019-suv-10761512,6,43792.0,86000,175.0,Sweden
+Land Rover,Range Rover Velar,3.0 P380,2017,Petrol,Suv,Silver,Uppsala,Automatic,https://www.bytbil.com/uppsala-lan/personbil-range-rover-velar-p380-awd-r-dynamic-panorama-102397-17558602,6,46893.0,73600,280.0,Sweden
+Volvo,Xc60,2.0 T8 AWD,2024,Hybrid,Crossover,White,Karlstad,Automatic,https://www.bytbil.com/varmlands-lan/personbil-xc60-t8-twen-awd-r-design-bw-360k-pano-drag-hud-22-9574-17560481,6,32616.3,230,235.0,Sweden
+Bmw,5 Series,530e,2023,Hybrid,Sedan,White,Uppsala,Automatic,https://www.bytbil.com/uppsala-lan/personbil-530e-iperformance-steptronic-m-sport-252hk-navi-se-spec-7032-16721453,6,32181.3,74890,135.0,Sweden
+Bmw,X6,xDrive40d,2013,Diesel,Suv,Black,Svarta,Automatic,https://www.bytbil.com/stockholms-lan/personbil-x6-xdrive40d-steptronic-taklucka-bluetooth-gps-m-sport-10823-17297593,5,18349.0,213660,225.0,Sweden
+Hyundai,Kona,1.6 hybrid,2023,Hybrid,Crossover,Black,Ljungby,Automatic,https://www.bytbil.com/kronobergs-lan/personbil-kona-hybrid-1-6-dct-n-line-techpaket-bose-2112-17570930,6,34021.0,6800,77.0,Sweden
+Audi,Q7,3.0 50 TDI quattro,2022,Diesel,Suv,Black,Sollentuna,Automatic,https://www.bytbil.com/stockholms-lan/personbil-q7-quattro-50-tdi-286hk-black-apperance-plus-competition-plus-s-3427-17242896,6,62598.0,23990,210.0,Sweden
+Volkswagen,Up!,1.0 tsi,2018,Petrol,Mini,Black,Stockholm,Manual,https://www.bytbil.com/stockholms-lan/personbil-up-gti-5-dorrars-1-0-tsi-116hk-2-brukare-8428-17581685,6,15215.0,37000,85.0,Sweden
+Audi,Q7,3.0 tfsi,2023,Hybrid,Suv,Black,Are,Automatic,https://www.bytbil.com/stockholms-lan/personbil-q7-55-tfsi-e-q-navi-cockpit-lader-drag-luftfjadr-matrix-11518-17394640,6,54801.299999999996,34900,250.0,Sweden
+Volvo,S40,2.0,2011,Diesel,Sedan,White,Stockholm,Automatic,https://www.bytbil.com/stockholms-lan/personbil-s40-d3-automat-150hk-classic-980kr-man-taklucka-10447-17571429,5,7603.0,228500,110.0,Sweden
+Volkswagen,Touareg,3.0 TDI V6,2011,Diesel,Suv,Black,Halmstad,Automatic,https://www.bytbil.com/hallands-lan/personbil-touareg-3-0-v6-tdi-4motion-premium-panorama-1892-17502219,5,12976.0,240000,180.0,Sweden
+Volvo,Xc60,2.0 Recharge T6,2024,Hybrid,Crossover,White,Stockholm,Automatic,https://www.bytbil.com/stockholms-lan/personbil-xc60-recharge-t6-awd-r-design-pano-drag-navi-hk-voc-100311-17467851,6,47841.299999999996,62000,186.0,Sweden
+Volkswagen,Polo,1.1,2024,Petrol,Hatchback,White,Uppsala,Manual,https://www.bytbil.com/uppsala-lan/personbil-polo-5-dorrar-1-4-comfortline-euro-5-8925-17504353,6,6179.0,180010,63.0,Sweden
+Bmw,M5,4.4,2019,Petrol,Sedan,Gold,Sigtuna,Automatic,https://www.bytbil.com/stockholms-lan/personbil-m5-svensksald-x-drive-800hk-unik-2019-7926-17300155,6,63857.99999999999,68350,441.0,Sweden
+Audi,Q8,3.0 50 TDI,2019,Diesel,Suv,Black,Are,Automatic,https://www.bytbil.com/stockholms-lan/personbil-q8-50-tdi-286hk-q-s-line-moms-pano-bo-360-soft-8553-17467109,6,60812.99999999999,121500,210.0,Sweden
+Audi,A5,3.0 TDI,2011,Diesel,Coupe,Black,Stockholm,Automatic,https://www.bytbil.com/stockholms-lan/personbil-a5-coupe-3-0-tdi-quattro-s-line-pano-frihemlev-navi-9543-17582406,5,18797.0,185750,180.0,Sweden
+Volvo,Xc90,2.0,2024,Diesel,Suv,White,Helsingborg,Automatic,https://www.bytbil.com/skane-lan/personbil-xc90-b5-awd-r-design-7saten-hk-pano-massage-5000kr-man-6884-16548752,6,48350.0,129890,173.0,Sweden
+Land Rover,Range Rover Sport,2.0,2021,Hybrid,Suv,Black,Vallentuna,Automatic,https://www.blocket.se/annons/1001049369,6,80509.0,26000,223.0,Sweden
+Renault,Trafic,2.1 d,2020,Diesel,Van,White,Stockholm,Automatic,https://www.bytbil.com/stockholms-lan/personbil-trafic-kombi-lang-170hk-varmare-b-kamera-9sits-moms-9370-17502047,6,34908.0,50020,126.0,Sweden
+Toyota,Rav4,2.5,2023,Hybrid,Suv,White,Eskilstuna,Automatic,https://www.bilia.se/bilar/sok-bil/toyota/rav4/uhc08j/,6,49245.0,10,228.0,Sweden
+Mclaren,570s,3.8,2016,Petrol,Coupe,Yellow,Falkenberg,Automatic,https://www.blocket.se/annons/1000960987,6,205966.0,21000,419.0,Sweden
+Land Rover,Range Rover Sport,3.0 SDV6,2015,Diesel,Suv,Black,Kalmar,Automatic,https://www.blocket.se/annons/1001115431,6,38418.0,155300,225.0,Sweden
+Mitsubishi,Outlander,2.0,2018,Hybrid,Suv,White,Bromma,Automatic,https://bilweb.se/stockholms-lan/mitsubishi-outlander-p-hev-2-0-hyb-4wd-cvt-euro6-m-varmare-2018-suv-10687556,6,18349.0,163740,90.0,Sweden
+Jeep,Grand Cherokee,3.0 crd,2015,Diesel,Suv,Black,Kungsbacka,Automatic,https://www.blocket.se/annons/1001116264,6,22379.0,121180,184.0,Sweden
+Mazda,Cx-5,2.2 D,2016,Diesel,Crossover,Black,Jönköping,Automatic,https://www.blocket.se/annons/1000728274,6,12922.0,173460,110.0,Sweden
+Mercedes Benz,E-Class,220 D,2020,Diesel,Sedan,Black,Vimmerby,Automatic,https://www.bytbil.com/kalmar-lan/personbil-e-220-d-4matic-9g-tronic-194hk-svensk-sald-6694-17419276,6,35365.0,123000,144.0,Sweden
+Volkswagen,Transporter,1.9,2016,Diesel,Van,White,Stockholm,Automatic,https://bilweb.se/stockholms-lan/volkswagen-multivan-highline-4m-dsg-varmare-drag-el-dorrar-2016-minibuss-10748167,6,34908.0,138670,152.0,Sweden
+Audi,A7,3.0 45 TDI quattro,2019,Diesel,Sedan,Black,Kristianstad,Automatic,https://www.bytbil.com/skane-lan/personbil-a7-sportback-45-tdi-quattro-s-line-1-ars-garanti-6069-17492308,6,47374.0,82000,172.0,Sweden
+Volkswagen,Touran,1.6 TDI,2024,Diesel,Mpv,Silver,Trelleborg,Automatic,https://www.bytbil.com/skane-lan/personbil-touran-1-6-tdi-navi-7-sits-drag-100014-17448634,6,7155.0,224680,77.0,Sweden
+Porsche,Macan,3.0 s,2019,Petrol,Suv,Silver,Sollentuna,Automatic,https://www.bytbil.com/stockholms-lan/personbil-macan-s-pdk-354hk-pano-varmare-drag-s-plus-vhjul-3427-17492596,6,52631.0,74010,260.0,Sweden
+Audi,Rs7,4.0 TFSI V8,2023,Petrol,Sedan,Black,Eskilstuna,Automatic,https://www.bytbil.com/sodermanlands-lan/personbil-rs7-4-0tfsi-v8-q-keramiska-bo-taklucka-hud-560hk-11277-17406319,6,46559.0,108460,412.0,Sweden
+Bmw,X7,30d xDrive,2024,Diesel,Suv,Black,Knivsta,Automatic,https://www.bytbil.com/uppsala-lan/personbil-x7-xdrive-30d-m-sport-7-sits-pano-luftfjadring-se-spec-9181-17564886,6,77007.0,42350,195.0,Sweden
+Bmw,M3,3.0 DCT,2015,Petrol,Sedan,Black,Falkenberg,Automatic,https://www.bytbil.com/hallands-lan/personbil-m3-f80-dct-m-performance-carbon-580-plus-hk-8959-17308475,6,46101.299999999996,119000,317.0,Sweden
+Škoda,Yeti,2.0 TDI,2009,Diesel,Crossover,Brown,Eskilstuna,Manual,https://www.bytbil.com/sodermanlands-lan/personbil-yeti-2-0-tdi-4x4-nybes-nyservad-park-assist-170hk-102427-17556334,5,7155.0,160000,125.0,Sweden
+Volvo,V70,2.0,2012,Diesel,Wagon,Black,Uppsala,Automatic,https://www.bytbil.com/uppsala-lan/personbil-v70-reserverad-d3-aut-momentum-r-design-taklucka-nav-7634-17439267,5,11185.0,231750,100.0,Sweden
+Mercedes Benz,Gls-Class,350,2018,Diesel,Suv,Black,Bromma,Automatic,https://www.bytbil.com/stockholms-lan/personbil-gls-350-d-4matic-9g-tronic-euro-6-amg-8788-17523373,6,50598.0,122510,190.0,Sweden
+Volvo,V60,2.0 T6 AWD,2021,Hybrid,Wagon,Black,Uppsala,Automatic,https://www.bytbil.com/uppsala-lan/personbil-v60-t6-recharge-awd-r-design-navi-kamera-blis-skinn-voc-8327-17569344,6,32181.3,54180,186.0,Sweden
+Bmw,X6,M50d,2024,Diesel,Suv,Black,Boo,Automatic,https://www.bytbil.com/stockholms-lan/personbil-x6-m50d-381hk-m-sport-d-varmare-pano-h-k-kamera-head-up-8389-17580113,6,44759.0,51950,280.0,Sweden
+Volvo,Xc60,2.0 RECHARGE T8,2024,Hybrid,Crossover,Black,Are,Automatic,https://www.bytbil.com/stockholms-lan/personbil-xc60-recharge-t8-awd-r-design-pano-drag-voc-navi-moms-11518-17554456,6,33834.299999999996,138300,223.0,Sweden
+Volkswagen,Touareg,3.0 TDI V6,2018,Diesel,Suv,Black,Stockholm,Automatic,https://www.bytbil.com/stockholms-lan/personbil-touareg-3-0-v6-tdi-4motion-r-line-euro-6-cockpit-9543-17425345,6,47841.299999999996,113820,210.0,Sweden
+Volvo,V60,2.0 T8 AWD,2024,Hybrid,Wagon,Black,Kungsbacka,Automatic,https://www.bytbil.com/hallands-lan/personbil-v60-recharge-t8-awd-405hk-polestar-engineered-8210-17484704,6,47763.0,33740,233.0,Sweden
+Bmw,M3,3.0,2021,Petrol,Sedan,Black,Kungsbacka,Automatic,https://www.bytbil.com/hallands-lan/personbil-m3-competition-xdrive-510hk-kolfiber-laser-sv-sald-8210-17475613,6,82563.0,34550,375.0,Sweden
+Volvo,V60,2.0 T8,2024,Hybrid,Wagon,Black,Kungsbacka,Automatic,https://www.bytbil.com/hallands-lan/personbil-v60-recharge-t8-polestar-engineered-bw-20-8210-17529300,6,47763.0,180,233.0,Sweden
+Audi,A8,4.0 TFSI V8,2014,Petrol,Sedan,Silver,Vallentuna,Automatic,https://www.bytbil.com/stockholms-lan/personbil-a8-4-0-tfsi-v8-q-435hk-massage-taklucka-360-kam-lagmil-5597-17567832,6,33941.0,105500,320.0,Sweden
+Kia,Ceed,1.6 GDi,2023,Petrol,Hatchback,Black,Uppsala,Automatic,https://www.bytbil.com/uppsala-lan/personbil-ceed-ceed-sw-1-6-gdi-dct-135hk-drag-1-agare-100078-17539668,6,12606.3,114810,99.0,Sweden
+Volvo,V50,2.0 D,2010,Diesel,Wagon,White,Uddevalla,Manual,https://www.bytbil.com/vastra-gotalands-lan/personbil-v50-2-0-d-momentum-drag-ny-bes-690kr-man-keyless-sv-vack-8677-17564600,5,4468.0,218990,100.0,Sweden
+Peugeot,508,2.2 HDi,2023,Diesel,Sedan,Black,Tumba,Automatic,https://www.bytbil.com/stockholms-lan/personbil-508-gt-panorama-heads-up-display-navi-kamrem-bytt-11536-17183042,6,7155.0,220420,150.0,Sweden
+Volkswagen,Touran,1.6 TDI,2011,Diesel,Mpv,White,Helsingborg,Automatic,https://www.bytbil.com/skane-lan/personbil-touran-1-6-tdi-7-sits-kamrembytt-navi-105hk-102446-17582422,5,8946.0,184630,77.0,Sweden
+Audi,Q8,3.0 50 TDI,2020,Diesel,Suv,Black,Svarta,Automatic,https://www.bytbil.com/stockholms-lan/personbil-q8-50-tdi-q-moms-panorama-4x4-styrning-blackline-8553-17399868,6,62552.99999999999,104950,210.0,Sweden
+Nissan,Murano,3.5 V6,2005,Petrol,Suv,Silver,Kristianstad,Automatic,https://www.bytbil.com/skane-lan/personbil-murano-3-5v6-4wd-xtronic-cvt-234hk-drag-obslagmilare-100124-17105353,4,6259.0,112610,172.0,Sweden
+Mercedes Benz,E-Class,55 AMG,2023,Petrol,Sedan,White,Boo,Manual,https://www.bytbil.com/stockholms-lan/personbil-e-200-cdi-136hk-classic-navigation-0-47l-mil-8389-17571611,6,12080.0,112330,100.0,Sweden
+Lexus,Rx,450h,2019,Petrol,Suv,Brown,Stockholm,Automatic,https://www.bytbil.com/stockholms-lan/personbil-rx-450h-awd-luxury-bensinvarmare-select-garanti-4821-17238057,6,45153.0,91010,193.0,Sweden
+Ford,Kuga,2.0 TDCi,2013,Diesel,Suv,Black,Sala,Automatic,https://www.bytbil.com/vastmanlands-lan/personbil-kuga-2-0-tdci-awd-aut-drag-pano-nykambes-d-plus-var-7300mil-8362-17472295,5,12886.0,73000,103.0,Sweden
+Ford,Tourneo Custom,2.0,2021,Diesel,Van,White,Stockholm,Manual,https://www.bytbil.com/stockholms-lan/personbil-tourneo-custom-l2-b-kamera-9-sits-sync-3-d-varmare-moms-9370-17309800,6,34281.0,68450,96.0,Sweden
+Volvo,S60,2.0 t5,2022,Petrol,Sedan,Brown,Sigtuna,Automatic,https://www.bytbil.com/stockholms-lan/personbil-s60-t5-r-design-250hk-360-p-varm-hud-b-kam-kampanj-7926-17567305,6,31311.3,36000,184.0,Sweden
+Audi,A3,1.4,2013,Petrol,Sedan,White,Jönköping,Automatic,https://www.bytbil.com/jonkopings-lan/personbil-a3-1-4-s-line-keyless-skinn-pdc-varmare-se-spec-122hk-7486-17521706,5,13863.0,92270,90.0,Sweden
+Volkswagen,Passat Alltrack,2.0 TDI,2024,Diesel,Wagon,White,Uppsala,Automatic,https://www.bytbil.com/uppsala-lan/personbil-passat-alltrack-2-0-tdi-scr-bluemotion-4motion-executive-euro-6-8925-17502299,6,14006.999999999998,197000,140.0,Sweden
+Mercedes Benz,S-Class,500 4MATIC,2015,Petrol,Sedan,White,Sollentuna,Automatic,https://www.bytbil.com/stockholms-lan/personbil-s-500-amg-4matic-digital-tv-panorama-obs-se-spec-3427-17506792,6,52810.0,66980,335.0,Sweden
+Kia,Niro,1.6,2024,Hybrid,Suv,White,Uddevalla,Automatic,https://www.bytbil.com/vastra-gotalands-lan/personbil-niro-p-hev-dct-ex-euro-6-advanced-plus-2-drag-nav-lader-7825-17551688,6,16558.0,95800,77.0,Sweden
+Volvo,V60,2.0 T8,2020,Hybrid,Wagon,Black,Växjö,Automatic,https://www.bytbil.com/kronobergs-lan/personbil-v60-t8-recharge-t8-r-design-awd-6-99-geartronic-390hk-7784-17543150,6,31746.3,109020,223.0,Sweden
+Nissan,Juke,1.6,2024,Petrol,Crossover,White,Uppsala,Automatic,https://www.bytbil.com/uppsala-lan/personbil-juke-1-6-xtronic-cvt-euro-6-8925-17401160,6,10431.3,109000,86.0,Sweden
+Lexus,Nx,2.5,2022,Hybrid,Suv,Black,Uppsala,Automatic,https://www.bytbil.com/uppsala-lan/personbil-nx-450h-plus-awd-executive-teknikpaket-plug-in-10564-17078348,6,53723.0,14050,136.0,Sweden
+Volvo,Xc60,2.0 T5 AWD,2018,Petrol,Crossover,Brown,Karlskrona,Automatic,https://www.bytbil.com/blekinge-lan/personbil-xc60-t5-awd-automat-inscription-euro-6-full-serv-7129-17467146,6,27831.3,135000,184.0,Sweden
+Hyundai,I20,1.1,2012,Diesel,Hatchback,Black,Helsingborg,Automatic,https://www.bytbil.com/skane-lan/personbil-i20-5-dorrar-1-4-euro-5-11242-17581521,5,8946.0,106000,73.0,Sweden
+Audi,Q8,3.0 50 TDI,2019,Diesel,Suv,Black,Svarta,Automatic,https://www.bytbil.com/stockholms-lan/personbil-q8-50-tdi-286hk-q-moms-pano-head-bo-soft-360-black-8553-17275955,6,60812.99999999999,97000,210.0,Sweden
+Audi,Q8,3.0 50 TDI,2019,Diesel,Suv,Black,Are,Automatic,https://www.bytbil.com/stockholms-lan/personbil-q8-50tdi-q-moms-rs-diamond-pano-matrix-s-line-286hk-8553-17181724,6,60812.99999999999,72980,210.0,Sweden
+Subaru,Outback,2.0 D,2013,Diesel,Crossover,Brown,Stockholm,Automatic,https://www.bytbil.com/stockholms-lan/personbil-outback-2-0d-4wd-aut-navi-drag-taklucka-842kr-man-10447-17429222,5,6259.0,339000,110.0,Sweden
+Porsche,Panamera,4.8 S,2016,Petrol,Sedan,White,Svarta,Automatic,https://www.bytbil.com/vastra-gotalands-lan/personbil-panamera-turbo-s-v8-sv-sald-nyservad-se-spec-570hk-10405-17564308,6,60807.0,95000,419.0,Sweden
+Bmw,5 Series,520d,2018,Diesel,Sedan,Black,Uppsala,Automatic,https://www.bytbil.com/uppsala-lan/personbil-520-d-m-sport-innovation-h-k-360-pano-6-99-ranta-7169-17526483,6,33108.0,98000,140.0,Sweden
+Mercedes Benz,Cls-Class,350d 4MATIC,2018,Diesel,Sedan,Gold,Kalmar,Automatic,https://www.bytbil.com/kalmar-lan/personbil-cls-350d-amg-4matic-euro-6-286hk-edition-1-8570-16675541,6,49245.0,79000,210.0,Sweden
+Lexus,Rx,450h,2023,Hybrid,Suv,Black,Uppsala,Automatic,https://www.bytbil.com/uppsala-lan/personbil-rx-450h-plus-executive-teknikpaket-drag-plug-in-hybrid-10564-17409661,6,78798.0,6100,136.0,Sweden
+Subaru,Legacy,2.0,2024,Diesel,Wagon,Silver,Karlstad,Manual,https://www.bytbil.com/varmlands-lan/personbil-legacy-sport-2-0-4wd-euro-5-dragkrok-9574-17469963,6,7155.0,225000,110.0,Sweden
+Kia,Stinger,3.3 T-GDi,2017,Petrol,Sedan,White,Eskilstuna,Automatic,https://www.bytbil.com/sodermanlands-lan/personbil-stinger-gt-3-3-v6-t-gdi-awd-370-hk-facelift-3641-17371918,6,31311.3,69300,272.0,Sweden
+Seat,Leon,1.4 TSI,2013,Petrol,Hatchback,White,Kalmar,Manual,https://www.bytbil.com/kalmar-lan/personbil-leon-fr-1-4-tsi-140-hk-navi-pdc-valservad-102352-17333732,5,9842.0,163000,103.0,Sweden
+Lexus,Rx,450h,2022,Hybrid,Suv,Silver,Uppsala,Automatic,https://www.bytbil.com/uppsala-lan/personbil-rx-450h-plus-executive-plug-in-10564-17425756,6,75207.0,3050,136.0,Sweden
+Volvo,Xc90,2.0 T8,2024,Hybrid,Suv,Black,Uppsala,Automatic,https://www.bytbil.com/uppsala-lan/personbil-xc90-t8-twen-awd-r-design-pano-bw-varmare-102182-17554829,6,32607.6,183390,235.0,Sweden
+Volvo,Xc90,2.0 T8,2019,Hybrid,Suv,White,Helsingborg,Automatic,https://www.bytbil.com/skane-lan/personbil-xc90-recharge-t8-awd-i-r-design-i-panorama-i-se-spec-102522-17536615,6,48633.0,102740,223.0,Sweden
+Volvo,Xc90,2.0 D5 AWD,2024,Diesel,Suv,Blue,Knivsta,Automatic,https://www.bytbil.com/stockholms-lan/personbil-xc90-d5-polestar-awd-superdeal-6-95-r-design-se-spec-6759-17296098,6,52191.299999999996,124250,177.0,Sweden
+Volkswagen,Passat,2.1,2024,Petrol,Sedan,White,Helsingborg,Manual,https://www.bytbil.com/skane-lan/personbil-passat-2-0-tdi-bluemotion-4motion-euro6-150hk-gps-8587-17007192,6,14767.0,109000,110.0,Sweden
+Volvo,V70,2.5 T5,2010,Petrol,Wagon,Black,Halmstad,Automatic,https://www.bytbil.com/hallands-lan/personbil-v70-2-5t-flexifuel-geartronic-momentum-r-design-10004-17482563,5,6886.0,280000,170.0,Sweden
+Land Rover,Velar,3.0,2017,Petrol,Suv,Silver,Svarta,Automatic,https://www.bytbil.com/kronobergs-lan/personbil-range-rover-velar-se-p380-r-dyn-moms-1242-16796359,6,51037.0,49950,280.0,Sweden
+Bmw,6 Series,640i,1944,Petrol,Coupe,Black,Stockholm,Automatic,https://www.bytbil.com/stockholms-lan/personbil-640-i-gran-coupe-m-sport-frihemlev-garanti-cockpit-9543-17058093,1,34021.0,114490,235.0,Sweden
+Toyota,Corolla,1.8,2024,Hybrid,Hatchback,White,Lund,Automatic,https://www.bytbil.com/skane-lan/personbil-corolla-touring-sports-hybrid-gr-sport-carplay-b-kam-2501-17564175,6,33126.0,3000,104.0,Sweden
+Land Rover,Range Rover Sport,3.0 SDV6,2014,Diesel,Suv,Black,Sollentuna,Automatic,https://www.blocket.se/annons/1000670415,6,32230.0,137190,215.0,Sweden
+Land Rover,Range Rover Sport,3.0,2018,Diesel,Suv,Black,Kristianstad,Automatic,https://www.bytbil.com/skane-lan/personbil-range-rover-sport-hsemeridiantv-skarmcockpit-9872-17561795,6,51037.0,119600,190.0,Sweden
+Volvo,Xc90,2.0 D4 AWD,2018,Diesel,Suv,White,Halmstad,Automatic,https://www.bytbil.com/hallands-lan/personbil-xc90-d4-awd-inscription-6-99-polestar-opt-pano-bw-hud-b-kamera-9541-17511578,6,34003.0,159230,141.0,Sweden
+Nissan,Leaf,Tekna,2017,Electric,Hatchback,Brown,Uppsala,Automatic,https://www.bytbil.com/uppsala-lan/personbil-leaf-30-kwh-ranta-6-99-tekna-360-kam-skinn-109hk-7169-17498645,6,12976.0,117000,81.0,Sweden
+Fiat,500,1.4,2011,Petrol,Mini,Black,Halmstad,Manual,https://www.bytbil.com/hallands-lan/personbil-500-1-4-100hk-blackjack-drag-13900mil-1892-17553351,5,7074.0,138990,73.0,Sweden
+Volkswagen,Touareg,3.0,2021,Hybrid,Suv,Silver,Stockholm,Automatic,https://bilweb.se/stockholms-lan/volkswagen-touareg-hybrid-r-line-panorama-22-alu-2021-suv-10737517,6,66180.0,61000,253.0,Sweden
+Mercedes Benz,Gla-Class,200,2020,Diesel,Crossover,White,Kristianstad,Automatic,https://www.bytbil.com/skane-lan/personbil-gla-200-d-8g-dct-amg-euro-6-2191-17510309,6,34836.0,12300,111.0,Sweden
+Mercedes Benz,E-Class,53 AMG 4Matic,2019,Diesel,Convertible,Silver,Kungsbacka,Automatic,https://bilweb.se/hallands-lan/mercedes-benz-amg-e-53-4matic-cab-se-spec-2019-cab-10685490,6,67076.0,40580,324.0,Sweden
+Chevrolet,Orlando,2.0,2012,Diesel,Mpv,Black,Eskilstuna,Automatic,https://www.bytbil.com/sodermanlands-lan/personbil-orlando-2-0-td-automat-ny-besiktigad-ny-servad-7221-17578590,5,6797.0,183230,120.0,Sweden
+Subaru,Impreza,1.6,2020,Petrol,Sedan,Silver,Kalmar,Automatic,https://www.bytbil.com/kalmar-lan/personbil-impreza-1-6-4wd-6-99-b-kam-ledramp-114hk-100173-17412013,6,8400.0,180000,85.0,Sweden
+Mitsubishi,Asx,1.8,2011,Diesel,Crossover,White,Lerum,Manual,https://www.bytbil.com/vastra-gotalands-lan/personbil-asx-1-8-di-d-plus-sov-dack-full-serv-historik-besiktad-9572-17568011,5,6698.0,179000,110.0,Sweden
+Porsche,Cayenne,3.0 E-Hybrid,2021,Hybrid,Suv,Black,Kalmar,Automatic,https://www.blocket.se/annons/109552083,6,89106.0,32500,250.0,Sweden
+Subaru,Outback,2.0,2015,Diesel,Crossover,Black,Örebro,Automatic,https://www.blocket.se/annons/1000650966,6,9300.3,279990,110.0,Sweden
+Lexus,Rx,450h,2022,Petrol,Suv,Blue,Uppsala,Automatic,https://www.bytbil.com/uppsala-lan/personbil-rx-450h-awd-sport-edition-10564-17500214,6,52828.0,12050,195.0,Sweden
+Tesla,Model S,electro,2015,Electric,Sedan,Black,Sollentuna,Automatic,https://www.bytbil.com/stockholms-lan/personbil-model-s-85d-fri-supercharger-autopilot-pano-kold-423hk-11518-16718562,6,31335.0,98820,290.0,Sweden
+Nissan,X-Trail,1.6,2016,Diesel,Suv,White,Stockholm,Automatic,https://www.blocket.se/annons/1001006200,6,12080.0,201740,97.0,Sweden
+Mercedes Benz,G-Class,500,2018,Petrol,Suv,Black,Svarta,Automatic,https://bilweb.se/stockholms-lan/mercedes-benz-g-500-50-year-edition-varmare-drag-2018-suv-10694827,6,80590.0,70990,313.0,Sweden
+Peugeot,308 Cc,1.6 THP,2012,Petrol,Convertible,White,Halmstad,Manual,https://www.blocket.se/annons/1001082045,5,7155.0,166000,115.0,Sweden
+Kia,Carens,1.7,2023,Diesel,Mpv,Black,Sigtuna,Automatic,https://www.bytbil.com/stockholms-lan/personbil-carens-2-0-crdi-gls-euro-4-7-sits-nyservad-kampanj-7926-17539979,6,6707.0,161700,103.0,Sweden
+Land Rover,Range Rover Sport,2.0,2024,Hybrid,Suv,White,Knivsta,Automatic,https://www.bytbil.com/uppsala-lan/personbil-range-rover-sport-p400e-plug-in-pano-400hk-moms-9181-17557523,6,71634.0,47980,221.0,Sweden
+Škoda,Yeti,2.0 TDI,2015,Diesel,Crossover,Silver,Sigtuna,Automatic,https://www.bytbil.com/stockholms-lan/personbil-yeti-2-0tdi-awd-drag-pdc-m-varmare-k-rem-bytt-kampanj-7926-17339314,6,9561.3,233300,110.0,Sweden
+Mercedes Benz,C-Class,220D,2018,Diesel,Hatchback,White,Uppsala,Automatic,https://www.bytbil.com/uppsala-lan/personbil-c-220d-t-4m-amg-pano-drag-burmester-194hk-10552-17047246,6,33042.6,69000,143.0,Sweden
+Mercedes Benz,Gls-Class,350,2023,Diesel,Suv,Black,Kungsbacka,Automatic,https://www.bytbil.com/hallands-lan/personbil-gls-350-d-4matic-258hk-amg-night-varmare-distronic-8210-17120958,6,32150.0,279500,190.0,Sweden
+Bmw,X1,xDrive23d,2024,Diesel,Suv,Black,Karlstad,Automatic,https://www.bytbil.com/varmlands-lan/personbil-x1-xdrive23d-panorama-drag-valservad-p-sensor-navi-sov-100204-17461143,6,11185.0,179990,150.0,Sweden
+Volkswagen,Sharan,1.9 TDI,2013,Diesel,Van,White,Eskilstuna,Automatic,https://www.bytbil.com/sodermanlands-lan/personbil-sharan-2-0-tdi-premium-7221-17359115,5,13880.0,173080,103.0,Sweden
+Bmw,X4,xDrive30d,2019,Diesel,Suv,Silver,Svarta,Automatic,https://www.bytbil.com/orebro-lan/personbil-x4-xdrive30d-m-sport-aut-drag-gps-hud-pano-se-spec-265hk-8024-17361671,6,45231.299999999996,67000,195.0,Sweden
+Toyota,Auris,1.8 Hybrid,2013,Hybrid,Hatchback,White,Hallstahammar,Automatic,https://www.bytbil.com/vastmanlands-lan/personbil-auris-automat-panorama-hybrid-e-cvt-euro-5-11005-17516605,5,11185.0,193500,73.0,Sweden
+Renault,Clio,0.9 tce,2024,Petrol,Sedan,White,Boo,Manual,https://www.bytbil.com/stockholms-lan/personbil-clio-0-9-tce-90hk-dynamique-m-varm-taklucka-b-kamera-8389-17582512,6,8946.0,71210,66.0,Sweden
+Peugeot,307 Cc,2.0,2024,Petrol,Convertible,Blue,Knivsta,Automatic,https://www.bytbil.com/stockholms-lan/personbil-307-cc-2-0-automat-superdeal-6-95-cab-140hk-6759-17238107,6,6259.0,113050,103.0,Sweden
+Volvo,V70,2.0 D,2012,Diesel,Wagon,Black,Kalmar,Manual,https://www.bytbil.com/kalmar-lan/personbil-v70-d4-momentum-drag-d-varm-valservad-voc-kampanj-102352-17350591,5,9752.0,242500,120.0,Sweden
+Volkswagen,Tiguan,1.4 TSI,2013,Petrol,Crossover,Silver,Kristianstad,Manual,https://www.bytbil.com/skane-lan/personbil-tiguan-1-4-tsi-4motion-premium-r-linepanoramab-kamera-100330-17564928,5,10289.0,223000,118.0,Sweden
+Ford,S-Max,2.0 TDCi,2024,Diesel,Mpv,Black,Karlstad,Automatic,https://www.bytbil.com/varmlands-lan/personbil-s-max-2-0-tdci-powershift-euro5-140hk-7-sits-gps-9930-17551868,6,7603.0,212000,103.0,Sweden
+Audi,Q7,4.0,2017,Petrol,Suv,Black,Staffanstorp,Automatic,https://www.bytbil.com/skane-lan/personbil-q7-s-4-0-tdi-v8-quattro-tiptronic-euro-6-100360-17520406,6,46101.299999999996,156000,320.0,Sweden
+Bmw,5 Series,520d,2024,Diesel,Sedan,Black,Eskilstuna,Automatic,https://www.bytbil.com/sodermanlands-lan/personbil-520-d-sedan-steptronic-m-sport-184hk-drag-bluetooth-nyservad-6595-17521268,6,15663.0,167000,135.0,Sweden
+Volvo,V60,2.0 T6 AWD,2024,Hybrid,Wagon,Black,Kungsbacka,Automatic,https://www.bytbil.com/hallands-lan/personbil-v60-recharge-t6-awd-341hk-r-design-forarstod-teknikpaket-8210-17410006,6,32973.0,90900,186.0,Sweden
+Volvo,V60 Cross Country,2.4,2016,Diesel,Wagon,Black,Helsingborg,Automatic,https://www.bytbil.com/skane-lan/personbil-v60-cross-country-d4-awd-geartronic-summum-euro-6-11242-17464860,6,15999.3,143970,140.0,Sweden
+Hyundai,I20,1.1,2024,Diesel,Hatchback,Silver,Ronneby,Manual,https://www.bytbil.com/blekinge-lan/personbil-i20-5-dorrar-1-1-crdi-blue-euro-5-11322-17549720,6,6259.0,118530,55.0,Sweden
+Volvo,Xc90,2.0 T8,2016,Hybrid,Suv,Black,Kista,Automatic,https://www.bytbil.com/stockholms-lan/personbil-xc90-t8-awd-te-inscription-voc-7-sits-pano-5238-17573849,6,33582.0,155650,235.0,Sweden
+Mazda,Mx-5 Miata,2.0,2022,Petrol,Convertible,Black,Kungsbacka,Manual,https://www.bytbil.com/hallands-lan/personbil-mx-5-2-0-skyactiv-g-navi-skinn-kolfiber-17-160hk-100044-16975558,6,19693.0,59050,118.0,Sweden
+Škoda,Yeti,2.0 TDI,2024,Diesel,Crossover,Blue,Knivsta,Automatic,https://www.bytbil.com/stockholms-lan/personbil-yeti-2-0-tdi-4x4-superdeal6-95-automat-bluetooth-pdc-100537-17216499,6,9842.0,104710,103.0,Sweden
+Bmw,X3,xDrive30d,2011,Diesel,Suv,Black,Uddevalla,Automatic,https://www.bytbil.com/vastra-gotalands-lan/personbil-x3-xdrive30d-258-hk-svensksald-nav-lader-kamera-nybes-7825-17549712,5,12080.0,257300,190.0,Sweden
+Subaru,Forester,1.8,2024,Petrol,Suv,White,Arboga,Manual,https://www.bytbil.com/vastmanlands-lan/personbil-forester-2-0-4wd-147-hk-m-varmare-drag-4449-17551556,6,11104.0,206980,108.0,Sweden
+Volvo,V70,1.6,2014,Diesel,Wagon,Black,Stockholm,Automatic,https://www.bytbil.com/stockholms-lan/personbil-v70-d2-aut-kinetic-edition-varmare-2-ars-garanti-7216-15577637,6,12080.0,139000,84.0,Sweden
+Volvo,Xc90,2.0 T5 AWD,2023,Petrol,Suv,White,Kista,Automatic,https://www.bytbil.com/stockholms-lan/personbil-xc90-t5-awd-geartronic-r-design-pano-drag-7-sits-moms-4938-17534755,6,47374.0,65440,184.0,Sweden
+Volkswagen,Caddy,1.6 TDI,2024,Diesel,Pickup,White,Karlstad,Manual,https://www.bytbil.com/varmlands-lan/personbil-caddy-maxi-kombi-1-6-tdi-d-varmare-dragkrok-5sits-9574-17580195,6,10289.0,157000,75.0,Sweden
+Chevrolet,Cruze,2.0 D,2023,Diesel,Sedan,Black,Sigtuna,Automatic,https://www.bytbil.com/stockholms-lan/personbil-cruze-automat-ac-kampanj-7926-17450338,6,5812.0,241740,110.0,Sweden
+Nissan,Qashqai,1.6,2024,Diesel,Crossover,Black,Boo,Automatic,https://www.bytbil.com/stockholms-lan/personbil-qashqai-1-6-dci-130hk-tekna-pano-skinn-360-navi-8389-17582056,6,14230.0,135550,96.0,Sweden
+Volkswagen,Polo,1.1,2024,Petrol,Hatchback,White,Boo,Manual,https://www.bytbil.com/stockholms-lan/personbil-polo-1-4-86hk-comfortline-pano-1-bruk-nyservad-8389-17581465,6,7961.0,102720,63.0,Sweden
+Karma,Revero,2.0,2019,Hybrid,Sedan,Black,Svarta,Automatic,https://www.bytbil.com/stockholms-lan/personbil-revero-el-hybrid-sport-frihemlev-nybilgaranti-solcell-9543-17044012,6,60891.299999999996,9700,156.0,Sweden
+Volkswagen,Transporter,1.9 D,2020,Diesel,Van,Silver,Stockholm,Automatic,https://www.bytbil.com/stockholms-lan/personbil-multivan-2-0-d-varmare-drag-7-sits-b-kamera-moms-9370-17368095,6,49165.0,104520,110.0,Sweden
+Porsche,Cayenne,3.0 S E-Hybrid,2018,Hybrid,Suv,Black,Stockholm,Automatic,https://www.bytbil.com/stockholms-lan/personbil-cayenne-e-hybrid-tiptronic-s-1-agare-bil-21-alu-7672-17532447,6,54722.99999999999,145000,250.0,Sweden
+Volkswagen,Touareg,3.0,2020,Hybrid,Suv,Black,Svarta,Automatic,https://www.bytbil.com/stockholms-lan/personbil-touareg-r-ehybrid-driverassist-innovation-drag-10823-17468988,6,69591.29999999999,42160,250.0,Sweden
+Bmw,X4,30d xDrive,2018,Diesel,Suv,White,Stockholm,Automatic,https://www.bytbil.com/stockholms-lan/personbil-x4-xdrive-30d-m-sport-pano-gps-drag-hk-bor-ses-100110-17455626,6,34356.299999999996,160000,195.0,Sweden
+Dodge,Charger,5.7 V8,2023,Petrol,Sedan,White,Ronneby,Automatic,https://www.bytbil.com/blekinge-lan/personbil-charger-5-7-v8-hemi-torqueflite-375hk-srt-widebody-kit-8535-16467764,6,34021.0,104170,272.0,Sweden
+Volkswagen,Passat Alltrack,2.0 TDI,2024,Diesel,Wagon,Silver,Uppsala,Automatic,https://www.bytbil.com/uppsala-lan/personbil-passat-alltrack-2-0-tdi-190hk-4m-d-varm-drag-skinn-11576-17573267,6,14328.9,202090,140.0,Sweden
+Mercedes Benz,Glc-Class,250d 4Matic,2016,Diesel,Suv,Black,Karlskoga,Automatic,https://www.bytbil.com/orebro-lan/personbil-glc-250d-4matic-9g-luftfjadring-burmester-navi-8563-17354550,6,31311.3,39460,150.0,Sweden
+Dacia,Sandero,0.9 tce,2024,Petrol,Hatchback,Blue,Knivsta,Manual,https://www.bytbil.com/stockholms-lan/personbil-sandero-0-9-tce-superdeal-6-95-kamkedja-bluetooth-100537-17566576,6,5364.0,106150,66.0,Sweden
+Volvo,V70,1.6,2024,Diesel,Wagon,Black,Eskilstuna,Manual,https://www.bytbil.com/sodermanlands-lan/personbil-v70-1-6-drive-momentum-115hk-drag-bluetooth-nyservad-6595-17558364,6,7603.0,222000,84.0,Sweden
+Land Rover,Range Rover Sport,2.0,2019,Hybrid,Suv,Black,Helsingborg,Automatic,https://www.bytbil.com/skane-lan/personbil-range-rover-sport-rover-sport-p400e-automat-hse-400hk-momsbil-1597-17251304,6,62598.0,96000,221.0,Sweden
+Volvo,V70,1.6,2009,Diesel,Wagon,White,Kristianstad,Manual,https://www.bytbil.com/skane-lan/personbil-v70-1-6d-drive-summumny-kamrem-100330-17525596,5,8498.0,180110,80.0,Sweden
+Volkswagen,Tiguan,2.0,2019,Diesel,Crossover,White,Stockholm,Automatic,https://www.bytbil.com/stockholms-lan/personbil-tiguan-allspace-r-line-4m-pano-d-varm-7-sits-moms-9370-17379281,6,34908.0,74440,140.0,Sweden
+Škoda,Kodiaq,2.0 4x4 dsg tsi,2022,Petrol,Suv,White,Stockholm,Automatic,https://www.bytbil.com/stockholms-lan/personbil-kodiaq-style-2-0-tsi-190hk-dsg-4x4-8240-17581557,6,36531.299999999996,30810,140.0,Sweden
+Volvo,S80,2.4 D5,2010,Diesel,Sedan,Black,Varberg,Automatic,https://www.bytbil.com/hallands-lan/personbil-s80-d5-geartronic-summum-euro-4-9697-17553259,5,8050.0,160020,136.0,Sweden
+Volvo,V70,1.6,2011,Diesel,Wagon,Black,Stockholm,Manual,https://www.bytbil.com/stockholms-lan/personbil-v70-1-6-drive-summum-fri-hemlev-garanti-drag-led-ramp-9543-17569400,5,9842.0,254150,84.0,Sweden
+Subaru,Forester,2.0 e-Boxer,2024,Petrol,Suv,White,Arlanda,Automatic,https://www.bytbil.com/stockholms-lan/personbil-forester-e-boxer-lineartronic-euro-6-active-demobil-5272-17419153,6,33921.299999999996,100,110.0,Sweden
+Audi,Q7,3.0 TDI,2016,Diesel,Suv,Black,Are,Automatic,https://www.bytbil.com/stockholms-lan/personbil-q7-3-0-tdi-272hk-quattro-s-line-panorama-matrix-bose-8553-17575347,6,31232.999999999996,173000,200.0,Sweden
+Volvo,Xc60,2.4 D5 AWD,2023,Diesel,Crossover,White,Uppsala,Automatic,https://www.bytbil.com/uppsala-lan/personbil-xc60-d5-awd-215hk-summum-d-varm-voc-navi-b-kam-pano-11576-17541452,6,15654.0,209210,158.0,Sweden
+Volvo,V40,1.8,2014,Petrol,Wagon,Black,Svarta,Automatic,https://www.bytbil.com/kalmar-lan/personbil-v40-t5-geartronic-momentum-r-design-euro-5-nybesiktad-9421-17581377,6,15215.0,152000,187.0,Sweden
+Volkswagen,Touran,1.4 TSI,2012,Petrol,Mpv,White,Sigtuna,Automatic,https://www.bytbil.com/stockholms-lan/personbil-touran-1-4tsi-drag-gps-m-varmare-b-kamera-kampanj-7926-17359885,5,10110.0,163700,103.0,Sweden
+Subaru,Impreza,1.6,2024,Petrol,Sedan,White,Sala,Automatic,https://www.bytbil.com/vastmanlands-lan/personbil-impreza-1-6-4wd-auto-kamkedja-b-kamera-m-plus-varm-9700mil-8362-17581479,6,11185.0,97000,84.0,Sweden
+Volvo,V60 Cross Country,2.0,2015,Diesel,Wagon,Black,Falkenberg,Automatic,https://www.bytbil.com/hallands-lan/personbil-v60-cross-country-d3-summum-varmare-skinn-en-agare-8959-17328739,6,14346.3,184000,110.0,Sweden
+Volvo,Xc70,2.4 D5,2023,Diesel,Crossover,Black,Sigtuna,Automatic,https://www.bytbil.com/stockholms-lan/personbil-xc70-d5-awd-aut-momentum-nyservad-d-varm-drag-kampanj-7926-17576782,6,7871.0,313000,136.0,Sweden
+Land Rover,Range Rover Sport,2.0,2024,Hybrid,Suv,White,Are,Automatic,https://www.bytbil.com/stockholms-lan/personbil-range-rover-sport-p400e-hse-pano-luftfj-leasbar-11518-17226057,6,55514.0,137000,221.0,Sweden
+Kia,Rio,1.2,2024,Petrol,Sedan,Blue,Knivsta,Manual,https://www.bytbil.com/stockholms-lan/personbil-rio-1-2-superdeal-6-95-navi-rattvarme-b-kamera-kamkedja-100537-17566904,6,9996.3,45470,62.0,Sweden
+Kia,Rio,1.2,2024,Petrol,Sedan,Black,Kungsbacka,Manual,https://www.bytbil.com/hallands-lan/personbil-rio-5-dorrar-1-2-84hk-gls-en-agare-360kr-skatt-8210-17579290,6,9483.0,30940,62.0,Sweden
+Bmw,3 Series,330i,2012,Petrol,Convertible,Black,Are,Automatic,https://www.bytbil.com/uppsala-lan/personbil-330-i-convertible-m-sporthi-finavigationle-mans-blue-100286-17581507,5,22379.0,100410,200.0,Sweden
+Volvo,V60,2.4 D5,2024,Diesel,Wagon,White,Karlstad,Manual,https://www.bytbil.com/varmlands-lan/personbil-v60-d5-momentum-euro5-215hk-varmare-taklucka-gps-9930-17581426,6,12528.0,173970,158.0,Sweden
+Bmw,X5,xDrive40d,2023,Diesel,Suv,White,Eskilstuna,Automatic,https://www.bytbil.com/sodermanlands-lan/personbil-x5-xdrive40d-steptronic-m-sport-euro-6-11422-17421651,6,33126.0,162000,230.0,Sweden
+Bmw,5 Series,530e,2019,Hybrid,Sedan,Black,Kristianstad,Automatic,https://www.bytbil.com/skane-lan/personbil-530e-iperformance-steptronic-sport-lineen-agare-100330-17141822,6,33051.299999999996,53000,135.0,Sweden
+Bmw,3 Series,320d,2014,Diesel,Sedan,White,Lund,Automatic,https://www.bytbil.com/skane-lan/personbil-320-d-gran-turismo-steptronicm-sports-plus-vnavidrag-100194-17578062,6,15663.0,163790,135.0,Sweden
+Volkswagen,Eos,2.0 FSI,2024,Petrol,Convertible,Gray,Halmstad,Manual,https://www.bytbil.com/hallands-lan/personbil-eos-cab-2-0-fsi-exclusive-lader-ny-kamrem-100313-17458247,6,7603.0,127400,110.0,Sweden
+Porsche,Macan,3.6,2024,Petrol,Suv,Black,Are,Automatic,https://www.bytbil.com/stockholms-lan/personbil-macan-turbo-pdk-sport-chrono-drag-lader-spec-400hk-11518-17061971,6,33051.299999999996,181640,294.0,Sweden
+Kia,Ceed,1.6 CRDi,2010,Diesel,Hatchback,Silver,Helsingborg,Manual,https://www.bytbil.com/skane-lan/personbil-ceed-ceed-sw-1-6-crdi-nyservad-pdc-auxreserverad-102365-17555465,5,5185.0,146440,85.0,Sweden
+Volvo,V50,2.5 T5,2005,Petrol,Wagon,Silver,Sigtuna,Automatic,https://www.bytbil.com/stockholms-lan/personbil-v50-t5-awd-kinetic-pdc-drag-kampanj-7926-17506022,4,7603.0,192000,162.0,Sweden
+Ford,Mustang,5.0 GT,2023,Petrol,Convertible,Black,Motala,Manual,https://www.bytbil.com/ostergotlands-lan/personbil-mustang-gt-5-0-v8-convertible-450hk-euro-6-9404-17252428,6,48350.0,15590,331.0,Sweden
+Audi,Rsq3,2.5 TFSI,2020,Petrol,Crossover,Black,Falkenberg,Automatic,https://www.bytbil.com/hallands-lan/personbil-rsq3-sportback-s-matrix-bo-cockpit-carbon-400hk-21-8959-17265804,6,62204.99999999999,24000,294.0,Sweden
+Audi,Sq7,4.0 TDI,2018,Diesel,Suv,Black,Svarta,Automatic,https://www.bytbil.com/vastra-gotalands-lan/personbil-sq7-4-0-tdi-v8-quattro-black-edition-se-spec-435hk-10405-17483477,6,47763.0,166530,320.0,Sweden
+Land Rover,Discovery,3.0 TDV6,2023,Diesel,Suv,White,Knivsta,Automatic,https://www.bytbil.com/uppsala-lan/personbil-discovery-3-0-tdv6-4wd-hse-7-sits-se-utr-7884-17438886,6,31311.3,162050,190.0,Sweden
+Audi,A7,3.0 TDI,2017,Diesel,Sedan,White,Sollentuna,Automatic,https://www.bytbil.com/stockholms-lan/personbil-a7-sportback-3-0-tdi-v6-clean-diesel-quattro-s-tronic-euro-6-218-8520-16667604,6,33573.0,55930,160.0,Sweden
+Volvo,V50,2.4,2024,Diesel,Wagon,Silver,Uppsala,Automatic,https://www.bytbil.com/uppsala-lan/personbil-v50-2-4-momentum-170hk-kamrem-bytt-100078-17566685,6,7155.0,189480,125.0,Sweden
+Bmw,3 Series,320d,2019,Diesel,Sedan,Black,Norrköping,Automatic,https://www.bytbil.com/ostergotlands-lan/personbil-320-d-xdrive-sedan-steptronic-m-sport-euro-6-10725-17339349,6,31311.3,81750,140.0,Sweden
+Volkswagen,Scirocco,1.1,2014,Petrol,Coupe,Black,Falun,Manual,https://bilweb.se/dalarnas-lan/volkswagen-scirocco-1-4-tsi-premium-160h-m-varm-nybesiktigad-2014-sportkupe-10750121,6,9842.0,147000,119.0,Sweden
+Volkswagen,Touareg,3.0 TDI,2019,Diesel,Suv,White,Skellefteå,Automatic,https://www.bytbil.com/vasterbottens-lan/personbil-touareg-3-0-v6-4m-r-line-286hk-navi-d-varm-kamera-100222-17122311,6,46469.0,88940,213.0,Sweden
+Kia,Ceed,1.6 CRDi,2016,Diesel,Hatchback,Black,Eskilstuna,Manual,https://www.bytbil.com/sodermanlands-lan/personbil-ceed-ceed-sw-1-6-crdi-gt-line-euro-6-drag-navi-bakkamera-6595-17444387,6,10289.0,156000,101.0,Sweden
+Volvo,Xc60,2.0 RECHARGE T8,2019,Hybrid,Crossover,White,Goteborg,Automatic,https://bilweb.se/vastra-gotalands-lan/volvo-xc60-recharge-t8-awd-inscription-se-utr-2019-suv-10752957,6,33941.0,128000,225.0,Sweden
+Škoda,Fabia,1.6,2010,Petrol,Sedan,Brown,Uppsala,Automatic,https://www.bytbil.com/uppsala-lan/personbil-fabia-1-6-automatny-besiktigadny-servad2brukare-100286-17538404,5,5812.0,201900,77.0,Sweden
+Land Rover,Discovery,3.0 TDV6,2018,Diesel,Suv,Black,Stockholm,Automatic,https://www.blocket.se/annons/1001116533,6,40290.0,97000,190.0,Sweden
+Volvo,Xc90,2.0 T8,2021,Hybrid,Suv,Black,Svarta,Semi Automatic,https://www.bytbil.com/sodermanlands-lan/personbil-xc90-recharge-t8-r-des-pro-edt-7-saten-1932-17561156,6,53643.0,95300,290.0,Sweden
+Land Rover,Range Rover,3.0,2013,Diesel,Suv,Black,Knivsta,Automatic,https://www.bytbil.com/uppsala-lan/personbil-range-rover-vogue-autobiography-258hk-ranta-6-95-11092-17239869,5,34451.0,167720,183.0,Sweden
+Peugeot,5008,1.6 HDi,2010,Diesel,Mpv,Black,Helsingborg,Automatic,https://www.blocket.se/annons/1000959532,5,5211.299999999999,240000,80.0,Sweden
+Nissan,Qashqai,1.5 dCi,2019,Diesel,Crossover,White,Goteborg,Automatic,https://www.blocket.se/annons/1000868440,6,16531.0,124560,86.0,Sweden
+Volvo,Xc60,2.0 Recharge T6,2021,Hybrid,Crossover,Black,Stockholm,Automatic,https://bilweb.se/stockholms-lan/volvo-xc60-t6-awd-recharge-r-design-h-k-pano-2021-suv-10762942,6,41186.0,49320,188.0,Sweden
+Kia,Niro,1.6,2018,Electric,Suv,White,Ljungby,Automatic,https://bilweb.se/kronobergs-lan/kia-niro-phev-advance-plus-2-dct-2018-2018-suv-10761126,6,18295.0,103000,78.0,Sweden
+Mazda,Cx-60,3.3,2023,Hybrid,Suv,Black,Linköping,Automatic,https://www.blocket.se/annons/1000251181,6,47284.0,19000,187.0,Sweden
+Nissan,Qashqai,1.6,2014,Diesel,Crossover,White,Stockholm,Automatic,https://www.bytbil.com/stockholms-lan/personbil-qashqai-1-6-dci-tekna-panorama-360-hellader-100538-17427147,6,13871.0,135000,96.0,Sweden
+Bmw,5 Series,540i,2018,Diesel,Sedan,Brown,Örebro,Automatic,https://bilweb.se/orebro-lan/bmw-540-d-xdrive-m-sport-innovation-varmare-drag-2018-sedan-10751046,6,34012.0,104310,238.0,Sweden
+Volkswagen,Tiguan Allspace,2.0 TDI,2020,Diesel,Crossover,White,Falun,Automatic,https://bilweb.se/dalarnas-lan/volkswagen-tiguan-allspace-2-0-tdi-190-4m-dsg-r-line-7-sits-2020-suv-10543032,6,33941.0,58630,141.0,Sweden
+Renault,Clio,1.0 tce,2018,Petrol,Sedan,Black,Östersund,Manual,https://www.bytbil.com/jamtlands-lan/personbil-clio-0-9-tce-euro-6-sov-m-varm-pdc-bluetooth-9008-17562097,6,9761.0,76580,67.0,Sweden
+Renault,Clio,0.9 tce,2019,Petrol,Sedan,White,Nyköping,Manual,https://bilweb.se/sodermanlands-lan/renault-clio-tce-navi-carplay-bluetooth-sensorer-2019-halvkombi-10756196,6,11185.0,30260,56.0,Sweden
+Mazda,3,1.8,2018,Diesel,Hatchback,White,Halmstad,Automatic,https://www.blocket.se/annons/1000875526,6,13871.0,122700,111.0,Sweden
+Lincoln,Navigator,5.6,2016,Petrol,Suv,Black,Helsingborg,Automatic,https://www.blocket.se/annons/1000332002,6,33126.0,160600,279.0,Sweden
+Peugeot,508,2.0 HDi,2011,Diesel,Sedan,Black,Falun,Automatic,https://bilweb.se/dalarnas-lan/peugeot-508-sw-2-0-hdi-varm-panorama-automat-nybesik-2011-kombi-10624221,5,7155.0,236000,121.0,Sweden
+Peugeot,508,1.6 HDi,2011,Diesel,Sedan,Black,Falun,Automatic,https://www.bytbil.com/dalarnas-lan/personbil-508-1-6-e-hdi-sedandragkrokmotorvarmareautomat-9908-17566354,5,8050.0,137000,82.0,Sweden
+Peugeot,Partner,1.6,2015,Diesel,Pickup,White,Stockholm,Manual,https://www.blocket.se/annons/1000910802,6,7146.0,193970,85.0,Sweden
+Volkswagen,Golf,1.1,2017,Petrol,Sedan,Black,Uppsala,Automatic,https://bilweb.se/uppsala-lan/volkswagen-golf-gte-1-4-tsi-drag-b-kamera-ink-sov-2017-halvkombi-10732141,6,16397.0,118890,111.0,Sweden
+Volvo,Xc60,2.0 T5 AWD,2018,Petrol,Crossover,Black,Vallentuna,Automatic,https://www.bytbil.com/stockholms-lan/personbil-xc60-t5-awd-r-design-panorama-backkamera-navi-6147-17377777,6,32230.0,57830,189.0,Sweden
+Peugeot,308,1.6 THP,2009,Petrol,Hatchback,White,Kristianstad,Manual,https://www.bytbil.com/skane-lan/personbil-308-sw-1-6-thp-euro-4-serv-bes-100124-17469060,5,3906.2999999999997,192320,110.0,Sweden
+Ford,Focus,1.5 TDCi,2016,Diesel,Hatchback,White,Helsingborg,Manual,https://www.bytbil.com/skane-lan/personbil-focus-kombi-1-5-tdci-euro-6-7624-17482238,6,9394.0,109000,70.0,Sweden
+Volkswagen,Touran,1.6 TDI,2024,Diesel,Mpv,Blue,Knivsta,Manual,https://www.bytbil.com/stockholms-lan/personbil-touran-1-6-tdi-superdeal-6-95-105hk-100537-17574164,6,8050.0,128640,77.0,Sweden
+Volkswagen,Golf,1.1,2024,Petrol,Sedan,Blue,Knivsta,Manual,https://www.bytbil.com/stockholms-lan/personbil-golf-superdeal-6-95-full-r-line-highline-plus-100537-17492493,6,11185.0,169850,103.0,Sweden
+Volkswagen,Tiguan,1.4,2021,Hybrid,Crossover,White,Stockholm,Automatic,https://www.bytbil.com/stockholms-lan/personbil-tiguan-ehybrid-plug-in-drag-iq-light-b-kamera-102537-17581680,6,32094.3,51080,110.0,Sweden
+Volkswagen,Golf,1.1,2024,Petrol,Sedan,Black,Boo,Automatic,https://www.bytbil.com/stockholms-lan/personbil-golf-1-4-tsi-150hk-full-r-line-panorama-carplay-8389-17558279,6,17445.0,104830,110.0,Sweden
+Audi,Rs3,TFSI,2018,Petrol,Hatchback,Black,Lund,Automatic,https://www.bytbil.com/skane-lan/personbil-rs3-sportback-2-5-tfsi-quattro-400hk-pano-10509-17299976,6,47454.0,77000,294.0,Sweden
+Volkswagen,Passat Alltrack,2.0 TDI,2024,Diesel,Wagon,Silver,Varberg,Automatic,https://www.bytbil.com/hallands-lan/personbil-passat-alltrack-2-0-tdi-bluemotion-4motion-premium-9697-17367869,6,8498.0,264000,130.0,Sweden
+Volkswagen,Golf,1.1,2016,Petrol,Sedan,White,Stockholm,Automatic,https://www.bytbil.com/stockholms-lan/personbil-golf-sportsvan-1-4-tsi-aut-r-line-highline-plus-2-ars-garanti-7216-16948740,6,16086.3,74950,110.0,Sweden
+Škoda,Fabia,1.2 TSI,2011,Petrol,Sedan,Brown,Sigtuna,Manual,https://www.bytbil.com/stockholms-lan/personbil-fabia-1-2-tsi-farth-ny-bes-kampanj-7926-17405722,5,8498.0,46920,63.0,Sweden
+Kia,Rio,1.1,2024,Diesel,Sedan,Blue,Knivsta,Automatic,https://www.bytbil.com/stockholms-lan/personbil-rio-5-dorrar-1-4-cvvt-superdeal-6-95-kamkedja-automat-100537-17485659,6,9561.3,166690,80.0,Sweden
+Volvo,V60,2.4 D5,2021,Diesel,Wagon,Black,Uppsala,Manual,https://www.bytbil.com/uppsala-lan/personbil-v60-d5-polestar-summum-skinn-varmare-drag-215hk-102491-17582239,6,11185.0,232870,158.0,Sweden
+Renault,Clio,1.2,2023,Petrol,Hatchback,Silver,Kristianstad,Manual,https://www.bytbil.com/skane-lan/personbil-clio-5-dorrs-h-kombi-1-2-manuell-75hk-obslagmilare-100124-17300114,6,4289.0,142950,55.0,Sweden
+Mercedes Benz,C-Class,43 AMG,2024,Petrol,Hatchback,White,Boo,Manual,https://www.bytbil.com/stockholms-lan/personbil-c-220-t-bluetec-170hk-d-varm-m-varm-navi-drag-8389-17538648,6,13871.0,193160,125.0,Sweden
+Audi,Q8,3.0 50 TDI quattro,2020,Diesel,Suv,Black,Svarta,Automatic,https://www.bytbil.com/ostergotlands-lan/personbil-q8-50tdi-quattro-s-line-night-vision-pano-se-spec-286hk-7832-17543222,6,72201.29999999999,49720,210.0,Sweden
