@@ -1,0 +1,93 @@
+
+/* Set background color */
+body {
+    background-image: url('background-image.jpg'); 
+    background-size: cover;/* Cover the entire screen */
+    background-position: center; /* Center the background image */
+}
+
+/* Set text color */
+body, h1, p, a, li {
+    color: #ffffff; /* White text color */
+}
+
+form {
+    background-color: transparent; /* Make form background transparent */
+}
+
+/* Center h1 and select tags */
+h1, select, p, h2, form, select {
+    text-align: center; /* Center the text horizontally */
+}
+
+/* Style for the wrapper */
+.shortcut-wrapper {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 10vh; /* Make the wrapper's height of the viewport */
+    width: 50%; /* Set width to half of the viewport */
+    padding-left: 50px; /* Add some padding for spacing */
+}
+
+/* Style for the shortcut list */
+.shortcut-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 100%;
+}
+
+.shortcut-list li {
+    margin-right: 20px; /* Add margin between list items */
+}
+
+.shortcut-list a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+/* Style for the form */
+#predictionForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Style for each form element */
+#predictionForm > * {
+    margin-bottom: 10px; /* Add some margin between form elements */
+}
+
+/* Style for dropdown labels */
+#predictionForm label {
+    width: 150px; /* Set a fixed width for labels */
+    text-align: center; /* Align labels to the right */
+    margin-right: 10px; /* Add some margin between label and select/input */
+}
+
+/* Style for dropdown selects */
+#predictionForm select {
+    width: 150px; /* Set a fixed width for selects */
+}
+
+/* Style for input fields */
+#predictionForm input {
+    width: 150px; /* Set a fixed width for inputs */
+}
+
+/* Style for the submit button */
+#predictionForm button {
+    margin-top: 20px; /* Add some margin above the button */
+}
+
+/* Hide the share, pagination, and full-screen icons within the embedded Power BI dashboard */
+.dashboard-iframe {
+    display: block;
+    margin: 0 auto; /* Center the iframe horizontally */
+}
+

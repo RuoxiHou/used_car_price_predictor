@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Selection</title>
+    <!-- Wrapper for shortcuts -->
+    <div class="shortcut-wrapper">
+        <!-- Shortcuts -->
+        <ul class="shortcut-list">
+            <li><a href="/">Home Page</a></li>
+            <li><a href="/market_overview">Market Overview</a></li>
+            <li><a href="/pipeline_xgb_reg">Algorithm Pipeline</a></li>
+        </ul>
+    </div>
+    <link rel="stylesheet" href="/static/styles.css"> 
+
+</head>
+<body style="background-color: #f0f0f0; color: #ffffff;">
+    <h1>Car Prediction </h1>
+    <form action="{{ url_for('predict') }}" method="post" id="predictionForm" >
+        <label for="selected_make">Select Make:</label>
+        <select name="selected_make" id="selected_make">
+            {% for make in car_data.keys() %}
+                <option value="{{ make }}">{{ make }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="selected_model">Select Model:</label>
+        <select name="selected_model" id="selected_model">
+            {% for model in models %}
+                <option value="{{ model }}">{{ model }}</option>
+            {% endfor %}
+        </select>
+        
+        <label for="selected_trim">Select Trim:</label>
+        <select name="selected_trim" id="selected_trim">
+            {% for trim in trims %}
+                <option value="{{ trim }}">{{ trim }}</option>
+            {% endfor %}
+        </select>
+
+
+        <label for="selected_fuel_type">Select Fuel Type:</label>
+        <select name="selected_fuel_type" id="selected_fuel_type">
+            <option value="Petrol">Petrol</option>
+            <option value="Diesel">Diesel</option>
+            <option value="Hybrid">Hybrid</option>
+            <option value="Electric">Electric</option>
+            <option value="LPG">LPG</option>
+            <option value="CNG">CNG</option>
+        </select>
+        <label for="selected_body_type">Select Body Type:</label>
+        <select name="selected_body_type" id="selected_body_type">
+            <option value="Suv">SUV</option>
+            <option value="Crossover">Crossover</option>
+            <option value="Sedan">Sedan</option>
+            <option value="Hatchback">Hatchback</option>
+            <option value="Wagon">Wagon</option>
+            <option value="Mpv">MPV</option>
+            <option value="Mini">Mini</option>
+            <option value="Coupe">Coupe</option>
+            <option value="Convertible">Convertible</option>
+            <option value="Van">Van</option>
+            <option value="Pickup">Pickup</option>
+        </select>
+        <label for="selected_transmission">Select Transmission:</label>
+        <select name="selected_transmission" id="selected_transmission">
+            <option value="Automatic">Automatic</option>
+            <option value="Manual">Manual</option>
+            <option value="Semi Automatic">Semi Automatic</option>
+        </select>
+        <label for="selected_euro_norm">Select Euro Norm:</label>
+        <select name="selected_euro_norm" id="selected_euro_norm">
+            <option value=1>1</option>
+            <option value=2>2</option>
+            <option value=3>3</option>
+            <option value=4>4</option>
+            <option value=5>5</option>
+            <option value=6>6</option>
+        </select>
+        <label for="selected_country">Select Country:</label>
+        <select name="selected_country" id="selected_country">
+            <option value="Italy">Italy</option>
+            <option value="Netherlands">Netherlands</option>
+            <option value="Spain">Spain</option>
+            <option value="Austria">Austria</option>
+            <option value="Germany">Germany</option>
+            <option value="Poland">Poland</option>
+            <option value="Sweden">Sweden</option>
+            <option value="Denmark">Denmark</option>
+            <option value="Norway">Norway</option>
+            <option value="Belgium">Belgium</option>
+            <option value="France">France</option>
+            <option value="Czech Republic">Czech Republic</option>
+            <option value="Portugal">Portugal</option>
+            <option value="Romania">Romania</option>
+            <option value="Switzerland">Switzerland</option>
+            <option value="Hungary">Hungary</option>
+        </select>
+        <label for="selected_color">Select Color:</label>
+        <select name="selected_color" id="selected_color">
+            <option value="Black">Black</option>
+            <option value="Gray">Gray</option>
+            <option value="White">White</option>
+            <option value="Blue">Blue</option>
+            <option value="Silver">Silver</option>
+            <option value="Red">Red</option>
+            <option value="Green">Green</option>
+            <option value="Brown">Brown</option>
+            <option value="Beige">Beige</option>
+            <option value="Orange">Orange</option>
+            <option value="Bronse">Bronse</option>
+            <option value="Yellow">Yellow</option>
+            <option value="Gold">Gold</option>
+            <option value="Purple">Purple</option>
+            <option value="Violet">Violet</option>
+            <option value="Cyan">Cyan</option>
+            <option value="Pink">Pink</option>
+        </select>
+
+        <!-- Input field for Year -->
+        <input type="number" name="year" id="year" placeholder="Year" min="1900" max="2024" required>
+
+        <!-- Input field for kW power -->
+        <input type="number" name="power_kw" id="power_kw" placeholder="kW" min="1" max="999" required>
+
+        <!-- Input field for Mileage (km) -->
+        <input type="number" name="mileage_km" id="mileage_km" placeholder="Mileage (km)" min="0" required>
+
+        <button type="submit">Predict</button>
+    </form>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+    <script>
+        function clearForm() {
+            document.getElementById("predictionForm").reset();
+        }
+        </script>
+    <form action="{{ url_for('predict') }}" method="post" id="predictionForm" onsubmit="clearForm()">
+
+</body>
+</html>

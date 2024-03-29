@@ -1,0 +1,44 @@
+<!-- prediction.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+    <!-- Wrapper for shortcuts -->
+    <div class="shortcut-wrapper">
+        <!-- Shortcuts -->
+        <ul class="shortcut-list">
+            <li><a href="/">Home Page</a></li>
+            <li><a href="/market_overview">Market Overview</a></li>
+            <li><a href="/pipeline_xgb_reg">Algorithm Pipeline</a></li>
+        </ul>
+    </div>
+    <link rel="stylesheet" href="/static/styles.css"> 
+</head>
+<body>
+    <h1>Prediction Result</h1>
+    <p>The predicted price is: {{ prediction }} euro</p>
+    <!-- Display input values -->
+    <h2>Input Values</h2>
+    <p>Selected Make: {{ request.form['selected_make'] }}</p>
+    <p>Selected Model: {{ request.form['selected_model'] }}</p>
+    <p>Selected Trim: {{ request.form['selected_trim'] }}</p>
+    <p>Selected Fuel Type: {{ request.form['selected_fuel_type'] }}</p>
+    <p>Selected Body Type: {{ request.form['selected_body_type'] }}</p>
+    <p>Selected Transmission: {{ request.form['selected_transmission'] }}</p>
+    <p>Selected Euro Norm: {{ request.form['selected_euro_norm'] }}</p>
+    <p>Selected Country: {{ request.form['selected_country'] }}</p>
+    <p>Selected Color: {{ request.form['selected_color'] }}</p>
+    <p>Registration Year: {{ request.form['year'] }}</p>
+    <p>Power(kW): {{ request.form['power_kw'] }}</p>
+    <p>Mileage(km): {{ request.form['mileage_km']}}</p>
+
+    <form action="/" method="get">
+        <button type="submit">Back to Input</button>
+    </form>
+    <!-- Placeholder for the Power BI report -->
+    <div id="reportContainer"></div>
+    
+</body>
+</html>
